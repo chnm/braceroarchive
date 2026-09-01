@@ -229,16 +229,15 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
     caddy = site_root / "redirects.caddy"
     if caddy.exists():
         text = caddy.read_text(encoding="utf-8")
+        # No identity rules (from == to): /es/items/ -> /es/items/ would loop.
         es_rules = (
             "  # Spanish mirror (added by bracero_build)\n"
             "  ~^/es/items/show/([0-9]+)(?:\\.html)?/?$  /es/items/${1}/\n"
             "  /es  /es/\n"
             "  /es/items  /es/items/\n"
-            "  /es/items/  /es/items/\n"
             "  /es/items/browse  /es/items/\n"
             "  /es/items/browse/  /es/items/\n"
             "  /es/tags  /es/tags/\n"
-            "  /es/tags/  /es/tags/\n"
             "  /es/tags/browse  /es/tags/\n"
         )
         if "/es/items/browse" not in text:

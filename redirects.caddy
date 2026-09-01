@@ -18,26 +18,21 @@ map {path} {redirect_target} {
   ~^/items/show/([0-9]+)(?:\.html)?/?$  /items/${1}/
   ~^/collections/show/([0-9]+)(?:\.html)?/?$  /collections/${1}/
   /collections  /collections/
-  /collections/  /collections/
   /collections/browse  /collections/
   /collections/browse/  /collections/
   /items  /items/
-  /items/  /items/
   /items/browse  /items/
   /items/browse/  /items/
   /tags  /tags/
-  /tags/  /tags/
   /tags/browse  /tags/
   /tags/browse/  /tags/
   # Spanish mirror (added by bracero_build)
   ~^/es/items/show/([0-9]+)(?:\.html)?/?$  /es/items/${1}/
   /es  /es/
   /es/items  /es/items/
-  /es/items/  /es/items/
   /es/items/browse  /es/items/
   /es/items/browse/  /es/items/
   /es/tags  /es/tags/
-  /es/tags/  /es/tags/
   /es/tags/browse  /es/tags/
 }
 @hasRedirect expression `{redirect_target} != ""`

@@ -14,13 +14,16 @@
 		</div>
 
 		<div id="primary-nav" role="navigation">
-			<ul class="navigation">
-				<li{{ if hasPrefix $url (printf "%s" ("items" | relLangURL)) }} class="current"{{ end }}><a href="{{ "items/" | relLangURL }}">{{ i18n "nav_archive" }}</a></li>
-				<li{{ if hasPrefix $url ("teaching/" | relLangURL) }} class="current"{{ end }}><a href="{{ "teaching/" | relLangURL }}">{{ i18n "nav_teaching" }}</a></li>
-				<li{{ if hasPrefix $url ("history/" | relLangURL) }} class="current"{{ end }}><a href="{{ "history/" | relLangURL }}">{{ i18n "nav_history" }}</a></li>
-				<li{{ if hasPrefix $url ("resources/" | relLangURL) }} class="current"{{ end }}><a href="{{ "resources/" | relLangURL }}">{{ i18n "nav_resources" }}</a></li>
-				<li{{ if hasPrefix $url ("about/" | relLangURL) }} class="current"{{ end }}><a href="{{ "about/" | relLangURL }}">{{ i18n "nav_about" }}</a></li>
-				<li{{ if hasPrefix $url ("partners/" | relLangURL) }} class="current"{{ end }}><a href="{{ "partners/" | relLangURL }}">{{ i18n "nav_partners" }}</a></li>
+			{{- /* The bracero-1.0 theme renders the primary nav as a horizontal bar
+			       via the `.nav-menu` / `.nav-item` classes its santa-fe.js normally
+			       injects; we emit them directly so the bar styles without the JS. */ -}}
+			<ul class="navigation nav-menu">
+				<li class="nav-item{{ if hasPrefix $url ("items" | relLangURL) }} current{{ end }}"><a href="{{ "items/" | relLangURL }}">{{ i18n "nav_archive" }}</a></li>
+				<li class="nav-item{{ if hasPrefix $url ("teaching/" | relLangURL) }} current{{ end }}"><a href="{{ "teaching/" | relLangURL }}">{{ i18n "nav_teaching" }}</a></li>
+				<li class="nav-item{{ if hasPrefix $url ("history/" | relLangURL) }} current{{ end }}"><a href="{{ "history/" | relLangURL }}">{{ i18n "nav_history" }}</a></li>
+				<li class="nav-item{{ if hasPrefix $url ("resources/" | relLangURL) }} current{{ end }}"><a href="{{ "resources/" | relLangURL }}">{{ i18n "nav_resources" }}</a></li>
+				<li class="nav-item{{ if hasPrefix $url ("about/" | relLangURL) }} current{{ end }}"><a href="{{ "about/" | relLangURL }}">{{ i18n "nav_about" }}</a></li>
+				<li class="nav-item{{ if hasPrefix $url ("partners/" | relLangURL) }} current{{ end }}"><a href="{{ "partners/" | relLangURL }}">{{ i18n "nav_partners" }}</a></li>
 			</ul>
 		</div><!-- end primary-nav -->
 	</div>
