@@ -1,7 +1,7 @@
 ---
 aliases:
-  - /es/items/show/1900
-  - /es/items/show/1900.html
+  - /items/show/1900
+  - /items/show/1900.html
 collections: []
 date: ''
 draft: false

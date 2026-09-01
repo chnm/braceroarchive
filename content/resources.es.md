@@ -4,8 +4,8 @@ type: "page"
 layout: "simple"
 slug: "resources"
 aliases:
-  - "/es/resources"
-  - "/es/resources.html"
+  - "/resources"
+  - "/resources.html"
 ---
 
 {{< raw >}}

@@ -4,8 +4,8 @@ type: "page"
 layout: "simple"
 slug: "history"
 aliases:
-  - "/es/history"
-  - "/es/history.html"
+  - "/history"
+  - "/history.html"
 ---
 
 {{< raw >}}

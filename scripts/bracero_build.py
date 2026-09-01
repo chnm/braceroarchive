@@ -193,6 +193,9 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
         if esp.exists():
             html = esp.read_text(encoding="utf-8", errors="replace")
             es_stem = Path(es_file).name  # e.g. sobre.html
+            # Aliases are declared WITHOUT the /es/ prefix: Hugo prepends the
+            # language code for a non-default language, so "/sobre" is emitted at
+            # /es/sobre (the legacy URL). Prefixing here would double it (/es/es/…).
             write_md(
                 content / f"{slug}.es.md",
                 {
@@ -200,7 +203,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
                     "type": "page",
                     "layout": "simple",
                     "slug": slug,
-                    "aliases": [f"/es/{es_stem[:-5]}", f"/es/{es_stem}"],
+                    "aliases": [f"/{es_stem[:-5]}", f"/{es_stem}"],
                 },
                 extract_body(html, "es"),
             )
@@ -217,10 +220,10 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
     if items_dir.is_dir():
         for en_md in items_dir.glob("*/index.md"):
             es_md = en_md.with_name("index.es.md")
-            text = en_md.read_text(encoding="utf-8")
-            # Spanish page lives under /es/; point its legacy aliases there too.
-            text = text.replace("\n  - /items/show/", "\n  - /es/items/show/")
-            es_md.write_text(text, encoding="utf-8")
+            # Copy verbatim. The legacy aliases (/items/show/<id>) are kept
+            # unprefixed: Hugo prepends the language code for the es page, so they
+            # resolve at /es/items/show/<id> (prefixing here would double it).
+            es_md.write_text(en_md.read_text(encoding="utf-8"), encoding="utf-8")
             n_es += 1
 
     # --- Spanish-mirror redirects ----------------------------------------

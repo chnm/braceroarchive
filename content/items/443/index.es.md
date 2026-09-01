@@ -1,7 +1,7 @@
 ---
 aliases:
-  - /es/items/show/443
-  - /es/items/show/443.html
+  - /items/show/443
+  - /items/show/443.html
 collections: []
 date: ''
 draft: false

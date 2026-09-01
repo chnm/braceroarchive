@@ -4,8 +4,8 @@ type: "page"
 layout: "simple"
 slug: "partners"
 aliases:
-  - "/es/partners"
-  - "/es/partners.html"
+  - "/partners"
+  - "/partners.html"
 ---
 
 {{< raw >}}

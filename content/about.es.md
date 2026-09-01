@@ -4,8 +4,8 @@ type: "page"
 layout: "simple"
 slug: "about"
 aliases:
-  - "/es/sobre"
-  - "/es/sobre.html"
+  - "/sobre"
+  - "/sobre.html"
 ---
 
 {{< raw >}}

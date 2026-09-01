@@ -4,8 +4,8 @@ type: "page"
 layout: "simple"
 slug: "teaching"
 aliases:
-  - "/es/ensenanza"
-  - "/es/ensenanza.html"
+  - "/ensenanza"
+  - "/ensenanza.html"
 ---
 
 {{< raw >}}
