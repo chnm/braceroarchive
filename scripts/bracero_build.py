@@ -28,6 +28,17 @@ from bs4 import BeautifulSoup
 
 LOGO = "7861c90bdef1da981a7b5ef7876f9d2f.gif"
 
+# Institutional logos appended to the About page after the Staff section.
+ABOUT_LOGOS = (
+    '<div class="about-logos">\n'
+    '  <a href="https://rrchnm.org" rel="external">'
+    '<img src="/assets/rrchnm_logo.png" alt="Roy Rosenzweig Center for History and New Media"></a>\n'
+    '  <a href="https://historyarthistory.gmu.edu/" rel="external">'
+    '<img src="/assets/logos/history-art-history.png" '
+    'alt="George Mason University Department of History and Art History"></a>\n'
+    '</div>'
+)
+
 # slug -> (English title, Spanish title). Order defines nav weight.
 PAGES = [
     ("about", "About", "Sobre", "about.html", "es/sobre.html"),
@@ -178,6 +189,9 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
         enp = mirror_root / en_file
         if enp.exists():
             html = enp.read_text(encoding="utf-8", errors="replace")
+            body = extract_body(html, "en")
+            if slug == "about":
+                body += "\n" + ABOUT_LOGOS
             write_md(
                 content / f"{slug}.md",
                 {
@@ -187,7 +201,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
                     "slug": slug,
                     "aliases": [f"/{Path(en_file).stem}", f"/{Path(en_file).stem}.html"],
                 },
-                extract_body(html, "en"),
+                body,
             )
         esp = mirror_root / es_file
         if esp.exists():
