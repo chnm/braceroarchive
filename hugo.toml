@@ -1,0 +1,46 @@
+baseURL = ""
+title = "Bracero History Archive"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disableKinds = ["RSS"]
+
+[params]
+  origin = "https://braceroarchive.org"
+  site_name = "bracero"
+  defaultLang = "en"
+  logo = "7861c90bdef1da981a7b5ef7876f9d2f.gif"
+  matomo_url = "https://stats.rrchnm.org/"
+  matomo_site_id = "37"
+
+[taxonomies]
+  tag = "tags"
+
+[pagination]
+  pagerSize = 50
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[languages]
+  [languages.en]
+    label = "English"
+    weight = 1
+  [languages.es]
+    label = "Español"
+    weight = 2
+
+# Per-item Dublin Core (DCMES) RDF/XML endpoint at /items/<id>/index.dcmesxml.xml,
+# preserving the machine-readable metadata Omeka exposed. Items opt in via the
+# front-matter `outputs` key (written by the converter's item emitter).
+[mediaTypes]
+  [mediaTypes."application/rdf+xml"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.dcmesxml]
+    mediaType = "application/rdf+xml"
+    baseName = "index.dcmesxml"
+    isHTML = false
+    isPlainText = false
+    rel = "alternate"
+    noUgly = true

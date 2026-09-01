@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div id="primary">
+	<p id="breadcrumbs"><a href="{{ "" | relLangURL }}">{{ i18n "home" }}</a> <span class="separator" aria-hidden="true">&gt;</span> {{ .Title }}</p>
+	<h1>{{ .Title }}</h1>
+	{{ .Content }}
+</div>
+{{ end }}

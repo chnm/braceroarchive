@@ -1,0 +1,13 @@
+{{- /* Render one Omeka element's value list.
+       Input (.): a slice of maps, each { text: string, html: bool }.
+       HTML values pass through verbatim; plain values are escaped and their
+       newlines become <br>, matching the original theme's element-text. */ -}}
+{{- range . -}}
+	<div class="element-text">
+	{{- if .html -}}
+		{{ .text | safeHTML }}
+	{{- else -}}
+		{{ .text | htmlEscape | replaceRE `\r?\n` "<br>\n" | safeHTML }}
+	{{- end -}}
+	</div>
+{{- end -}}

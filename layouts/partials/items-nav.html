@@ -1,0 +1,7 @@
+{{- /* Browse sub-navigation. Context (.) is the active key: "all" | "tags". */ -}}
+<nav class="items-nav navigation secondary-nav">
+	<ul class="navigation">
+		<li{{ if eq . "all" }} class="current"{{ end }}><a href="{{ "items/" | relLangURL }}">{{ i18n "browse_all_items" }}</a></li>
+		<li{{ if eq . "tags" }} class="current"{{ end }}><a href="{{ "tags/" | relLangURL }}">{{ i18n "browse_tags" }}</a></li>
+	</ul>
+</nav>

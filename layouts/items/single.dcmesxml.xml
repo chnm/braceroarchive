@@ -1,0 +1,11 @@
+{{- /* Dublin Core (DCMES) RDF/XML endpoint, mirroring Omeka's dcmes-xml output. */ -}}
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="{{ site.Params.origin }}/items/show/{{ .Params.id }}">
+  {{- range $field, $vals := .Params.dublin_core }}
+    {{- range $vals }}
+    <dc:{{ lower $field }}>{{ .text | plainify | htmlEscape }}</dc:{{ lower $field }}>
+    {{- end }}
+  {{- end }}
+  </rdf:Description>
+</rdf:RDF>

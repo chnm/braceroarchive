@@ -1,0 +1,65 @@
+{{- /* Render an item's metadata as stacked Omeka element-sets:
+       Dublin Core (canonical order) → Item Type Metadata → plugin sets.
+
+       Note: Hugo lowercases nested .Params map keys, so dublin_core /
+       item_type_metadata arrive with folded keys (e.g. "creator"). We map those
+       back to display labels via $labels; plugin_metadata is a list, so its
+       field names keep their original case. */ -}}
+{{- $labels := dict
+	"title" "Title" "subject" "Subject" "description" "Description" "creator" "Creator"
+	"source" "Source" "publisher" "Publisher" "date" "Date" "contributor" "Contributor"
+	"rights" "Rights" "relation" "Relation" "format" "Format" "language" "Language"
+	"type" "Type" "identifier" "Identifier" "coverage" "Coverage"
+	"interviewer" "Interviewer" "interviewee" "Interviewee" "location" "Location"
+	"transcription" "Transcription" "original format" "Original Format" "duration" "Duration"
+	"bit rate/frequency" "Bit Rate/Frequency" "file name identifier" "File Name Identifier"
+	"resolution" "Resolution" "electronic dimensions" "Electronic Dimensions"
+	"physical dimensions" "Physical Dimensions" "objectives" "Objectives" "standards" "Standards"
+	"materials" "Materials" "lesson plan text" "Lesson Plan Text" "text" "Text"
+	"time summary" "Time Summary"
+-}}
+{{- $dcOrder := slice "title" "subject" "description" "creator" "source" "publisher" "date" "contributor" "rights" "relation" "format" "language" "type" "identifier" "coverage" -}}
+
+{{- $dc := .Params.dublin_core -}}
+{{- with $dc }}
+<div class="element-set">
+	{{- range $dcOrder -}}
+		{{- $k := . -}}{{- with index $dc $k }}
+	<div id="dublin-core-{{ $k | urlize }}" class="element">
+		<h3>{{ index $labels $k | default (humanize $k) }}</h3>
+		{{ partial "element-text.html" . }}
+	</div>
+		{{- end -}}
+	{{- end -}}
+	{{- range $k, $vals := $dc -}}
+		{{- if not (in $dcOrder $k) }}
+	<div id="dublin-core-{{ $k | urlize }}" class="element">
+		<h3>{{ index $labels $k | default (humanize $k) }}</h3>
+		{{ partial "element-text.html" $vals }}
+	</div>
+		{{- end -}}
+	{{- end -}}
+</div>
+{{- end -}}
+
+{{- with .Params.item_type_metadata }}
+<div class="element-set">
+	{{- range $k, $vals := . }}
+	<div class="element">
+		<h3>{{ index $labels $k | default (humanize $k) }}</h3>
+		{{ partial "element-text.html" $vals }}
+	</div>
+	{{- end }}
+</div>
+{{- end -}}
+
+{{- with .Params.plugin_metadata }}
+<div class="element-set">
+	{{- range . }}
+	<div class="element">
+		<h3>{{ .field }}</h3>
+		{{ partial "element-text.html" .values }}
+	</div>
+	{{- end }}
+</div>
+{{- end -}}

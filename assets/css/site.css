@@ -1,0 +1,90 @@
+/* Bracero History Archive — Hugo override sheet.
+   Loaded AFTER the vendored bracero-1.0 theme; only the deltas the static
+   rebuild needs live here (archive banner, language switcher, browse grid,
+   search, and small fixes). */
+
+/* --- archived-copy banner ------------------------------------------------ */
+.bha-archive-banner {
+  background: #4a3b2a;
+  color: #f4ece0;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.bha-archive-banner__inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 6px 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.bha-archive-banner__text a { color: #ffd79a; }
+
+/* --- language switcher ---------------------------------------------------- */
+#search-container .lang-switch {
+  margin-top: 6px;
+  font-size: 13px;
+  text-align: right;
+}
+.lang-switch .lang { margin-left: 8px; }
+.lang-switch .lang.current { font-weight: 700; text-decoration: none; }
+
+/* --- skip link ------------------------------------------------------------ */
+#skipnav {
+  position: absolute;
+  left: -9999px;
+}
+#skipnav:focus {
+  left: 8px;
+  top: 8px;
+  background: #fff;
+  padding: 6px 10px;
+  z-index: 1000;
+}
+
+/* --- browse grid (image + text results) ---------------------------------- */
+#items-primary.browse {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+#items-primary.browse .item.record {
+  width: 160px;
+  vertical-align: top;
+}
+#items-primary.browse .item-img img {
+  max-width: 150px;
+  height: auto;
+  display: block;
+}
+#items-primary.browse .item.record h2 {
+  font-size: 15px;
+  margin: 6px 0 0;
+  line-height: 1.3;
+}
+
+/* --- item detail ---------------------------------------------------------- */
+.item-files img.full { max-width: 100%; height: auto; }
+.item-file { margin-bottom: 16px; }
+#primary .element { margin-bottom: 12px; }
+#primary .element h3 { margin-bottom: 2px; }
+.item-pagination.navigation ul { list-style: none; display: flex; gap: 20px; padding: 0; }
+
+/* --- tag cloud ------------------------------------------------------------ */
+.tag-cloud { list-style: none; padding: 0; line-height: 2; }
+.tag-cloud li { display: inline; margin-right: 10px; }
+.tag-cloud .v-popular { font-size: 0.9em; }
+.tag-cloud .vvv-popular { font-size: 1.1em; }
+.tag-cloud .vvvvv-popular { font-size: 1.3em; }
+.tag-cloud .vvvvvvv-popular { font-size: 1.6em; }
+.tag-cloud .vvvvvvvvv-popular { font-size: 2em; }
+.tag-cloud .count { color: #888; font-size: 0.75em; }
+
+/* --- pagination ----------------------------------------------------------- */
+.pagination { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; }
+.pagination li { display: inline-block; }
+.pagination_current { font-weight: 700; }
+
+/* --- search --------------------------------------------------------------- */
+#search-page-form { margin-bottom: 16px; }
+#search-more button { margin-top: 16px; }

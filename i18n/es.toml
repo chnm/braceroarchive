@@ -1,0 +1,38 @@
+skip_to_content = "Saltar al contenido principal"
+archive_banner = "Esta es una copia archivada del <em>Archivo de Historia del Bracero</em>, proporcionada por el <a href=\"https://rrchnm.org\" target=\"_blank\" rel=\"noopener\">Roy Rosenzweig Center for History and New Media</a>."
+footer_project = "El Archivo de Historia del Bracero es un proyecto del <a href=\"https://rrchnm.org\">Roy Rosenzweig Center for History and New Media</a>, la <a href=\"http://www.gmu.edu\">Universidad George Mason</a>, el <a href=\"http://americanhistory.si.edu\">Museo Nacional de Historia Americana del Smithsonian</a>, la <a href=\"http://brown.edu\">Universidad Brown</a>, y el <a href=\"https://www.utep.edu/\">Instituto de Historia Oral</a> de la Universidad de Texas en El Paso. Financiamiento proporcionado por el National Endowment for the Humanities."
+
+nav_archive = "Archivo"
+nav_teaching = "Enseñanza"
+nav_history = "Historia"
+nav_resources = "Recursos"
+nav_about = "Sobre"
+nav_partners = "Socios"
+
+home = "Inicio"
+
+search_placeholder = "Buscar"
+search_button = "Buscar"
+search_title = "Buscar"
+search_searching = "Buscando…"
+search_results = "resultados"
+search_noresults = "Sin resultados"
+search_showmore = "Mostrar más"
+search_unavailable = "La búsqueda no está disponible en esta versión."
+
+browse_items = "Hojear artículos"
+browse_all_items = "Todos los artículos"
+browse_tags = "Etiquetas"
+browse_by_tag = "Hojear artículos por etiqueta"
+items_tagged = "Artículos etiquetados"
+total = "en total"
+
+prev_item = "Artículo anterior"
+next_item = "Artículo siguiente"
+prev_page = "Página anterior"
+next_page = "Página siguiente"
+
+tags_label = "Etiquetas"
+citation_label = "Cita"
+citation_accessed = "consultado el"
+collection_label = "Colección"

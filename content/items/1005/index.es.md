@@ -1,0 +1,89 @@
+---
+aliases:
+  - /es/items/show/1005
+  - /es/items/show/1005.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: David Villarreal
+  Creator:
+    - html: false
+      text: Eugenio Renteria-Mojica
+    - html: false
+      text: Department of Justice
+  Description:
+    - html: false
+      text: Bracero ID Card (frontside) of Eugenio Renteria-Mojica.
+  Language:
+    - html: false
+      text: eng
+  Publisher:
+    - html: false
+      text: UTEP
+  Rights:
+    - html: false
+      text: UTEP
+  Source:
+    - html: false
+      text: San Bernadino
+  Subject:
+    - html: false
+      text: Bracero ID Card (front)
+  Title:
+    - html: false
+      text: Bracero ID Card
+featured: false
+files:
+  - fullsize: /files/fullsize/renteria-rosario---(eugenio)-mica2_1b52efc426.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: Renteria Rosario - (eugenio) mica2.jpg
+    thumb: /files/thumbnails/renteria-rosario---(eugenio)-mica2_1b52efc426.jpg
+    url: /files/original/renteria-rosario---(eugenio)-mica2_1b52efc426.jpg
+geo:
+id: 1005
+item_type: Document
+item_type_metadata:
+  Original Format:
+    - html: false
+      text: Paper
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Calexico, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Eugenio Renteria-Mojica
+  - field: Temporal Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: '1961-06-21'
+related_items: []
+slug: '1005'
+sortdate: '9999-99-99'
+tags:
+  - ID
+  - MICA
+  - bracero
+  - calexico
+  - card
+title: Bracero ID Card
+type: items
+---
+
+{{< raw >}}
+Bracero ID Card (frontside) of Eugenio Renteria-Mojica.
+{{< /raw >}}

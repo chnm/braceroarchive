@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{- $items := sort .Pages "Params.id" -}}
+{{- $paginator := .Paginate $items -}}
+<div id="primary">
+	<h1>{{ i18n "items_tagged" }} &#8220;{{ .Title }}&#8221; ({{ len .Pages }} {{ i18n "total" }})</h1>
+	{{ partial "items-nav.html" "tags" }}
+	{{ partial "pager.html" $paginator }}
+	<div id="items-primary" class="browse">
+		{{- range $paginator.Pages }}
+			{{ partial "item-card.html" . }}
+		{{- end }}
+	</div>
+	{{ partial "pager.html" $paginator }}
+</div>
+{{ end }}

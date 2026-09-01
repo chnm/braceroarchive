@@ -1,0 +1,27 @@
+{{- $url := .RelPermalink -}}
+<div id="header" role="banner">
+	<div class="center-div">
+		<div id="site-title">
+			<a href="{{ "" | relLangURL }}"><img src="{{ (printf "uploads/%s" site.Params.logo) | relURL }}" alt="{{ site.Title }}"></a>
+		</div>
+
+		<div id="search-container" role="search">
+			<form id="search-form" name="search-form" action="{{ "search/" | relLangURL }}" method="get">
+				<input type="text" name="q" id="query" title="{{ i18n "search_placeholder" }}" placeholder="{{ i18n "search_placeholder" }}" value="">
+				<button name="submit_search" id="submit_search" type="submit">{{ i18n "search_button" }}</button>
+			</form>
+			{{ partial "lang-switch.html" . }}
+		</div>
+
+		<div id="primary-nav" role="navigation">
+			<ul class="navigation">
+				<li{{ if hasPrefix $url (printf "%s" ("items" | relLangURL)) }} class="current"{{ end }}><a href="{{ "items/" | relLangURL }}">{{ i18n "nav_archive" }}</a></li>
+				<li{{ if hasPrefix $url ("teaching/" | relLangURL) }} class="current"{{ end }}><a href="{{ "teaching/" | relLangURL }}">{{ i18n "nav_teaching" }}</a></li>
+				<li{{ if hasPrefix $url ("history/" | relLangURL) }} class="current"{{ end }}><a href="{{ "history/" | relLangURL }}">{{ i18n "nav_history" }}</a></li>
+				<li{{ if hasPrefix $url ("resources/" | relLangURL) }} class="current"{{ end }}><a href="{{ "resources/" | relLangURL }}">{{ i18n "nav_resources" }}</a></li>
+				<li{{ if hasPrefix $url ("about/" | relLangURL) }} class="current"{{ end }}><a href="{{ "about/" | relLangURL }}">{{ i18n "nav_about" }}</a></li>
+				<li{{ if hasPrefix $url ("partners/" | relLangURL) }} class="current"{{ end }}><a href="{{ "partners/" | relLangURL }}">{{ i18n "nav_partners" }}</a></li>
+			</ul>
+		</div><!-- end primary-nav -->
+	</div>
+</div><!-- end header -->

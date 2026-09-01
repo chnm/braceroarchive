@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{- /* Only this block feeds pagefind (data-pagefind-body); alias stubs and
+       browse pages are excluded. Title/image/type surface as result metadata. */ -}}
+{{- $img := false -}}
+{{- range .Params.files -}}{{- if and (not $img) .mime (hasPrefix .mime "image/") -}}{{- $img = . -}}{{- end -}}{{- end -}}
+<div id="primary" data-pagefind-body data-pagefind-filter="type:{{ .Params.item_type }}">
+	<h1 data-pagefind-meta="title">{{ .Title }}</h1>
+	{{- if $img }}<span hidden data-pagefind-meta="image:{{ replace (or $img.thumb $img.fullsize $img.url) "/thumbnails/" "/square_thumbnails/" }}"></span>{{ end }}
+
+	{{- with .Params.files }}
+	<div class="item-files">
+		{{- range . }}
+			{{- $sub := "" }}{{ with .mime }}{{ $sub = replace . "/" "-" }}{{ end }}
+			{{- if and .mime (hasPrefix .mime "image/") }}
+		<div class="item-file {{ $sub }}"><a class="download-file" href="{{ .url }}"><img class="full" src="{{ or .fullsize .url }}" alt="{{ .original_filename }}" title="{{ .original_filename }}"></a></div>
+			{{- else if and .mime (hasPrefix .mime "audio/") }}
+		<div class="item-file {{ $sub }}"><audio class="omeka-media" src="{{ .url }}" controls><a href="{{ .url }}">{{ or .original_filename .url }}</a></audio></div>
+			{{- else if and .mime (hasPrefix .mime "video/") }}
+		<div class="item-file {{ $sub }}"><video class="omeka-media" src="{{ .url }}" controls width="480"><a href="{{ .url }}">{{ or .original_filename .url }}</a></video></div>
+			{{- else }}
+		<div class="item-file {{ $sub }}"><a class="download-file" href="{{ .url }}">{{ or .original_filename .url }}</a></div>
+			{{- end }}
+		{{- end }}
+	</div>
+	{{- end }}
+
+	{{ partial "metadata.html" . }}
+
+	{{- with .Params.tags }}
+	<div id="item-tags" class="element">
+		<h3>{{ i18n "tags_label" }}</h3>
+		<div class="element-text">{{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ (printf "tags/%s/" ($t | urlize)) | relLangURL }}" rel="tag">{{ $t }}</a>{{ end }}</div>
+	</div>
+	{{- end }}
+
+	{{- $creator := "" }}{{ with .Params.dublin_core.Creator }}{{ $creator = (index . 0).text }}{{ end }}
+	<div id="item-citation" class="element" data-pagefind-ignore>
+		<h3>{{ i18n "citation_label" }}</h3>
+		<div class="element-text">{{ with $creator }}{{ . }}, {{ end }}&#8220;{{ .Title }},&#8221; <em>{{ site.Title }}</em>, {{ i18n "citation_accessed" }} {{ now.Format "January 2, 2006" }}, <span class="citation-url">{{ site.Params.origin }}/items/show/{{ .Params.id }}</span>.</div>
+	</div>
+
+	<nav class="item-pagination navigation" data-pagefind-ignore>
+		<ul class="item-pagination navigation">
+			{{- with .PrevInSection }}<li id="previous-item" class="previous"><a href="{{ .RelPermalink }}">&larr; {{ i18n "prev_item" }}</a></li>{{ end }}
+			{{- with .NextInSection }}<li id="next-item" class="next"><a href="{{ .RelPermalink }}">{{ i18n "next_item" }} &rarr;</a></li>{{ end }}
+		</ul>
+	</nav>
+</div>
+{{ end }}

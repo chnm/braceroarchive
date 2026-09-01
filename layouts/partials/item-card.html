@@ -1,0 +1,13 @@
+{{- /* One browse result. Image items show a square thumbnail; all show a
+       title permalink — matching the original bracero browse .item.record. */ -}}
+{{- $img := false -}}
+{{- range .Params.files -}}{{- if and (not $img) .mime (hasPrefix .mime "image/") -}}{{- $img = . -}}{{- end -}}{{- end -}}
+<div class="item record hentry">
+	{{- if $img }}
+	{{- $sq := replace (or $img.thumb $img.fullsize $img.url) "/thumbnails/" "/square_thumbnails/" }}
+	<div class="item-img">
+		<a href="{{ .RelPermalink }}"><img src="{{ $sq }}" alt="{{ $img.original_filename }}" loading="lazy"></a>
+	</div>
+	{{- end }}
+	<h2><a href="{{ .RelPermalink }}" class="permalink">{{ .Title }}</a></h2>
+</div>
