@@ -8,6 +8,7 @@
 		<li{{ if eq . "images" }} class="active"{{ end }}><a href="{{ "items/image/" | relLangURL }}">{{ i18n "browse_images" }}</a></li>
 		<li{{ if eq . "documents" }} class="active"{{ end }}><a href="{{ "items/document/" | relLangURL }}">{{ i18n "browse_documents" }}</a></li>
 		<li{{ if eq . "oral-histories" }} class="active"{{ end }}><a href="{{ "items/oral-history/" | relLangURL }}">{{ i18n "browse_oral_histories" }}</a></li>
+		<li{{ if eq . "contributed" }} class="active"{{ end }}><a href="{{ "items/contributed/" | relLangURL }}">{{ i18n "browse_contributed" }}</a></li>
 		<li{{ if eq . "tags" }} class="active"{{ end }}><a href="{{ "tags/" | relLangURL }}">{{ i18n "browse_tags" }}</a></li>
 	</ul>
 </nav>

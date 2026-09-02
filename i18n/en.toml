@@ -26,6 +26,7 @@ browse_all = "Browse All"
 browse_images = "Images"
 browse_documents = "Documents"
 browse_oral_histories = "Oral Histories"
+browse_contributed = "Contributed Items"
 browse_tags = "Tags"
 
 sort_by = "Sort by"

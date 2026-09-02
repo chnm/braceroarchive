@@ -1,7 +1,14 @@
 {{ define "main" }}
-{{- /* Per-type browse (Images / Documents / Oral Histories). The item type and
-       facet key come from the section's _index.md front matter. */ -}}
-{{- $items := sort (where site.RegularPages "Params.item_type" .Params.filter_type) "Params.id" "desc" -}}
+{{- /* Facet browse. Per-type (Images / Documents / Oral Histories) filters by
+       item_type; "Contributed Items" filters by the ids in data/contributed.json.
+       The facet key + mode come from the section's _index.md front matter. */ -}}
+{{- $items := slice -}}
+{{- if .Params.contributed -}}
+	{{- $items = where site.RegularPages "Params.slug" "in" site.Data.contributed -}}
+{{- else -}}
+	{{- $items = where site.RegularPages "Params.item_type" .Params.filter_type -}}
+{{- end -}}
+{{- $items = sort $items "Params.id" "desc" -}}
 {{- $paginator := .Paginate $items -}}
 <div id="primary">
 	<h1>{{ .Title }} ({{ len $items }} {{ i18n "total" }})</h1>

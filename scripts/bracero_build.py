@@ -19,12 +19,33 @@ from __future__ import annotations
 
 import argparse
 import html as _html
+import json
 import re
 import shutil
 from pathlib import Path
 from urllib.parse import unquote
 
 from bs4 import BeautifulSoup
+
+_CONTRIB_RE = re.compile(
+    r'id="contribution-form-online-submission".*?<div class="element-text">\s*([^<]*)',
+    re.S,
+)
+
+
+def contributed_ids(mirror_root: Path) -> list[str]:
+    """Item ids whose Contribution Form 'Online Submission' is Yes — the closest
+    signal in the crawl for the original 'Contributed Items' collection."""
+    ids: list[str] = []
+    d = mirror_root / "items" / "show"
+    for p in d.glob("*.html"):
+        if not p.stem.isdigit():
+            continue
+        m = _CONTRIB_RE.search(p.read_text(encoding="utf-8", errors="replace"))
+        if m and m.group(1).strip().lower().startswith("y"):
+            ids.append(p.stem)
+    return sorted(ids, key=int)
+
 
 LOGO = "7861c90bdef1da981a7b5ef7876f9d2f.gif"
 
@@ -249,6 +270,20 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
         base = {"type": "itembrowse", "filter_type": ftype, "browse_key": key}
         write_md(content / "items" / tslug / "_index.md", {"title": en_t, **base}, "")
         write_md(content / "items" / tslug / "_index.es.md", {"title": es_t, **base}, "")
+
+    # Contributed Items facet (best-effort proxy for Omeka collection 3, which
+    # isn't in the crawl): items flagged "Online Submission: Yes". Filtered by a
+    # Hugo data file so no item front matter is rewritten.
+    cbase = {"type": "itembrowse", "contributed": True, "browse_key": "contributed"}
+    write_md(content / "items" / "contributed" / "_index.md",
+             {"title": "Contributed Items", **cbase}, "")
+    write_md(content / "items" / "contributed" / "_index.es.md",
+             {"title": "Artículos contribuidos", **cbase}, "")
+    data_dir = site_root / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    (data_dir / "contributed.json").write_text(
+        json.dumps(contributed_ids(mirror_root)), encoding="utf-8"
+    )
 
     # --- Spanish item siblings -------------------------------------------
     items_dir = content / "items"

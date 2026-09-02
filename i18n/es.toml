@@ -26,6 +26,7 @@ browse_all = "Ver todo"
 browse_images = "Imágenes"
 browse_documents = "Documentos"
 browse_oral_histories = "Historias orales"
+browse_contributed = "Artículos contribuidos"
 browse_tags = "Etiquetas"
 
 sort_by = "Ordenar por"
