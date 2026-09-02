@@ -139,6 +139,14 @@
 #custom-footer-text { color: #ffffff; }
 #footer a { color: #ffffff; text-decoration: underline; }
 
+/* 1.4.3 Contrast — search-page buttons were white on the theme olive #868D4A
+   (3.55:1); darken the background to #63682F (5.9:1). */
+#search-page button,
+#show-more {
+  background-color: #63682f;
+  color: #ffffff;
+}
+
 /* 2.5.8 Target Size (Minimum) — pagination controls at least 24×24 CSS px. */
 .pagination a,
 .pagination li.pagination_current {
