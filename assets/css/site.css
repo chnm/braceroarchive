@@ -42,26 +42,30 @@
   z-index: 1000;
 }
 
-/* --- browse grid (image + text results) ---------------------------------- */
-#items-primary.browse {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
+/* --- browse list (single column of title rows, like the original) -------- */
+#items-primary.browse { display: block; }
 #items-primary.browse .item.record {
-  width: 160px;
-  vertical-align: top;
-}
-#items-primary.browse .item-img img {
-  max-width: 150px;
-  height: auto;
-  display: block;
+  padding: 14px 0;
+  border-bottom: 1px solid #ddd;
 }
 #items-primary.browse .item.record h2 {
-  font-size: 15px;
-  margin: 6px 0 0;
+  font-size: 18px;
+  margin: 0;
   line-height: 1.3;
 }
+
+/* Sort-by row (right-aligned, above the list). */
+#sort-links { float: right; font-size: 12px; margin: 6px 0; }
+#sort-links .sort-label { color: #555; }
+#sort-links-list { list-style: none; display: inline; padding: 0; margin: 0; }
+#sort-links-list li { display: inline; margin-left: 10px; }
+#sort-links-list li.sorting a { font-weight: 700; }
+#items-heading, .items-nav { clear: both; }
+
+/* Page-input pager. */
+.pagination .page-input { display: inline-block; }
+.pagination .page-input form { display: inline; }
+.pagination .page-input input { width: 3em; text-align: center; }
 
 /* --- item detail ---------------------------------------------------------- */
 .item-files img.full { max-width: 100%; height: auto; }

@@ -1,7 +1,13 @@
-{{- /* Browse sub-navigation. Context (.) is the active key: "all" | "tags". */ -}}
+{{- /* Browse facet bar, matching the original bracero-1.0 browse. Context (.)
+       is the active key: "all" | "images" | "documents" | "oral-histories"
+       | "tags" (tags is not a facet the original had, but keeps tag pages
+       consistent). */ -}}
 <nav class="items-nav navigation secondary-nav">
 	<ul class="navigation">
-		<li{{ if eq . "all" }} class="current"{{ end }}><a href="{{ "items/" | relLangURL }}">{{ i18n "browse_all_items" }}</a></li>
-		<li{{ if eq . "tags" }} class="current"{{ end }}><a href="{{ "tags/" | relLangURL }}">{{ i18n "browse_tags" }}</a></li>
+		<li{{ if eq . "all" }} class="active"{{ end }}><a href="{{ "items/" | relLangURL }}">{{ i18n "browse_all" }}</a></li>
+		<li{{ if eq . "images" }} class="active"{{ end }}><a href="{{ "items/image/" | relLangURL }}">{{ i18n "browse_images" }}</a></li>
+		<li{{ if eq . "documents" }} class="active"{{ end }}><a href="{{ "items/document/" | relLangURL }}">{{ i18n "browse_documents" }}</a></li>
+		<li{{ if eq . "oral-histories" }} class="active"{{ end }}><a href="{{ "items/oral-history/" | relLangURL }}">{{ i18n "browse_oral_histories" }}</a></li>
+		<li{{ if eq . "tags" }} class="active"{{ end }}><a href="{{ "tags/" | relLangURL }}">{{ i18n "browse_tags" }}</a></li>
 	</ul>
 </nav>

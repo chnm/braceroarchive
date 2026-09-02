@@ -238,6 +238,18 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
     write_md(content / "search.es.md",
              {"title": "Buscar", "type": "search", "layout": "single"}, "")
 
+    # --- per-type browse sections (Images / Documents / Oral Histories) ---
+    # Facet pages the original browse subnav links to. Filtered by item_type.
+    type_sections = [
+        ("image", "Images", "Imágenes", "Still Image", "images"),
+        ("document", "Documents", "Documentos", "Document", "documents"),
+        ("oral-history", "Oral Histories", "Historias orales", "Oral History", "oral-histories"),
+    ]
+    for tslug, en_t, es_t, ftype, key in type_sections:
+        base = {"type": "itembrowse", "filter_type": ftype, "browse_key": key}
+        write_md(content / "items" / tslug / "_index.md", {"title": en_t, **base}, "")
+        write_md(content / "items" / tslug / "_index.es.md", {"title": es_t, **base}, "")
+
     # --- Spanish item siblings -------------------------------------------
     items_dir = content / "items"
     n_es = 0

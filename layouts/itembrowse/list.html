@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{- /* Per-type browse (Images / Documents / Oral Histories). The item type and
+       facet key come from the section's _index.md front matter. */ -}}
+{{- $items := sort (where site.RegularPages "Params.item_type" .Params.filter_type) "Params.id" "desc" -}}
+{{- $paginator := .Paginate $items -}}
+<div id="primary">
+	<h1>{{ .Title }} ({{ len $items }} {{ i18n "total" }})</h1>
+	{{ partial "items-nav.html" .Params.browse_key }}
+	{{ partial "sort-links.html" . }}
+	{{ partial "browse-pager.html" $paginator }}
+	<div id="items-primary" class="browse">
+		{{- range $paginator.Pages }}{{ partial "item-card.html" . }}{{ end }}
+	</div>
+	{{ partial "browse-pager.html" $paginator }}
+</div>
+{{ with resources.Get "js/browse.js" }}<script src="{{ .RelPermalink }}" defer></script>{{ end }}
+{{ end }}

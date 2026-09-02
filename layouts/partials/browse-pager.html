@@ -1,0 +1,17 @@
+{{- /* Page-input pager matching the original bracero-1.0 browse ("[n] of N" +
+       Prev/Next). Context (.) is a *Pager (.Paginator). The input jump is wired
+       to Hugo's pagination URLs by browse.js. */ -}}
+{{- $p := . -}}
+{{- if gt $p.TotalPages 1 -}}
+<nav class="pagination-nav" aria-label="Pagination">
+	<ul class="pagination">
+		{{- if $p.HasPrev }}<li class="pagination_previous"><a rel="prev" href="{{ $p.Prev.URL }}">{{ i18n "prev_page" }}</a></li>{{ end }}
+		<li class="page-input">
+			<form class="page-jump" data-base="{{ (index $p.Pagers 0).URL }}" action="" method="get" accept-charset="utf-8">
+				<input type="text" name="page" title="{{ i18n "current_page" }}" value="{{ $p.PageNumber }}"> {{ i18n "of" }} {{ $p.TotalPages }}
+			</form>
+		</li>
+		{{- if $p.HasNext }}<li class="pagination_next"><a rel="next" href="{{ $p.Next.URL }}">{{ i18n "next_page" }}</a></li>{{ end }}
+	</ul>
+</nav>
+{{- end -}}

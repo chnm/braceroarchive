@@ -1,13 +1,8 @@
-{{- /* One browse result. Image items show a square thumbnail; all show a
-       title permalink — matching the original bracero browse .item.record. */ -}}
-{{- $img := false -}}
-{{- range .Params.files -}}{{- if and (not $img) .mime (hasPrefix .mime "image/") -}}{{- $img = . -}}{{- end -}}{{- end -}}
-<div class="item record hentry">
-	{{- if $img }}
-	{{- $sq := replace (or $img.thumb $img.fullsize $img.url) "/thumbnails/" "/square_thumbnails/" }}
-	<div class="item-img">
-		<a href="{{ .RelPermalink }}"><img src="{{ $sq }}" alt="{{ $img.original_filename }}" loading="lazy"></a>
-	</div>
-	{{- end }}
+{{- /* One browse result: a title row, matching the original bracero-1.0
+       .item.record (the browse list is titles only, no thumbnail). data-*
+       attributes feed the client-side sort in browse.js. */ -}}
+{{- $creator := "" -}}
+{{- with index .Params.dublin_core "creator" }}{{ $creator = (index . 0).text }}{{ end -}}
+<div class="item record hentry" data-id="{{ .Params.id }}" data-title="{{ .Title }}" data-creator="{{ $creator }}">
 	<h2><a href="{{ .RelPermalink }}" class="permalink">{{ .Title }}</a></h2>
 </div>

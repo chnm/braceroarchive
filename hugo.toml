@@ -16,7 +16,7 @@ disableKinds = ["RSS"]
   tag = "tags"
 
 [pagination]
-  pagerSize = 50
+  pagerSize = 25
 
 [markup.goldmark.renderer]
   unsafe = true

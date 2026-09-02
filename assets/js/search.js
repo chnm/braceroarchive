@@ -41,16 +41,13 @@ function escapeHtml(s) {
 }
 
 function cardHTML(d) {
+  // Title-only row, matching the browse list (the original search results are a
+  // title list too; no thumbnails — which also avoids broken /files/ images).
   const url = d.url || '#';
   const title = (d.meta && d.meta.title) || d.url || 'Untitled';
-  const img = d.meta && d.meta.image;
-  const thumb = img
-    // alt = title so the thumbnail link has an accessible name (WCAG 2.4.4 / 4.1.2).
-    ? '<div class="item-img"><a href="' + escapeHtml(url) + '"><img src="' + escapeHtml(img) + '" alt="' + escapeHtml(title) + '" loading="lazy"></a></div>'
-    : '';
   return (
-    '<div class="item record hentry">' + thumb +
-    '<h2><a href="' + escapeHtml(url) + '" class="permalink">' + escapeHtml(title) + '</a></h2></div>'
+    '<div class="item record hentry"><h2><a href="' +
+    escapeHtml(url) + '" class="permalink">' + escapeHtml(title) + '</a></h2></div>'
   );
 }
 

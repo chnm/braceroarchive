@@ -1,15 +1,17 @@
 {{ define "main" }}
-{{- $items := sort .RegularPages "Params.id" -}}
+{{- /* All-items browse: single-column title list, newest first (id desc),
+       matching the original /items/browse. */ -}}
+{{- $items := sort .RegularPages "Params.id" "desc" -}}
 {{- $paginator := .Paginate $items -}}
 <div id="primary">
 	<h1>{{ i18n "browse_items" }} ({{ len $items }} {{ i18n "total" }})</h1>
 	{{ partial "items-nav.html" "all" }}
-	{{ partial "pager.html" $paginator }}
+	{{ partial "sort-links.html" . }}
+	{{ partial "browse-pager.html" $paginator }}
 	<div id="items-primary" class="browse">
-		{{- range $paginator.Pages }}
-			{{ partial "item-card.html" . }}
-		{{- end }}
+		{{- range $paginator.Pages }}{{ partial "item-card.html" . }}{{ end }}
 	</div>
-	{{ partial "pager.html" $paginator }}
+	{{ partial "browse-pager.html" $paginator }}
 </div>
+{{ with resources.Get "js/browse.js" }}<script src="{{ .RelPermalink }}" defer></script>{{ end }}
 {{ end }}

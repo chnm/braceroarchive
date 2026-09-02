@@ -1,0 +1,11 @@
+{{- /* Sort-by controls, matching the original browse. On this static site the
+       links re-order the current page client-side (browse.js); the default
+       server order is newest-first (Date Added, desc). */ -}}
+<div id="sort-links">
+	<span class="sort-label">{{ i18n "sort_by" }}: </span>
+	<ul id="sort-links-list">
+		<li><a href="#" data-sort="title">{{ i18n "sort_title" }}</a></li>
+		<li><a href="#" data-sort="creator">{{ i18n "sort_creator" }}</a></li>
+		<li class="sorting desc"><a href="#" data-sort="date">{{ i18n "sort_date_added" }}</a></li>
+	</ul>
+</div>
