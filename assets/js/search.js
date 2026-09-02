@@ -45,7 +45,8 @@ function cardHTML(d) {
   const title = (d.meta && d.meta.title) || d.url || 'Untitled';
   const img = d.meta && d.meta.image;
   const thumb = img
-    ? '<div class="item-img"><a href="' + escapeHtml(url) + '"><img src="' + escapeHtml(img) + '" alt="" loading="lazy"></a></div>'
+    // alt = title so the thumbnail link has an accessible name (WCAG 2.4.4 / 4.1.2).
+    ? '<div class="item-img"><a href="' + escapeHtml(url) + '"><img src="' + escapeHtml(img) + '" alt="' + escapeHtml(title) + '" loading="lazy"></a></div>'
     : '';
   return (
     '<div class="item record hentry">' + thumb +

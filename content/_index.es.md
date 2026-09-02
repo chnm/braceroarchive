@@ -13,5 +13,5 @@ type: "home"
 <!-- <li><a href="/es/es">Espa&ntilde;ol</a></li> --></ul>
 </div>
 </div>
-<div style="background:#333;width:50%;height:100%;float:right;"><a href="/"></a></div>
+<div style="background:#333;width:50%;height:100%;float:right;"></div>
 {{< /raw >}}

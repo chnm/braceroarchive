@@ -106,6 +106,16 @@ def extract_body(html: str, lang: str) -> str:
     node = soup.find(id="primary") or soup.find(id="content")
     if node is None:
         return ""
+    # Drop empty anchors (no text, no image, no aria-label): they have no
+    # accessible name (WCAG 2.4.4) and no function. The original ES home wraps
+    # such an <a> around a decorative panel.
+    for a in node.find_all("a"):
+        if (
+            not a.get_text(strip=True)
+            and not a.find(["img", "svg", "picture"])
+            and not a.get("aria-label")
+        ):
+            a.decompose()
     for a in node.find_all("a", href=True):
         a["href"] = rewrite_href(a["href"], lang)
     for tag in node.find_all(["img", "source", "audio", "video"], src=True):

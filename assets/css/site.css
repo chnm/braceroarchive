@@ -89,6 +89,68 @@
 #search-page-form { margin-bottom: 16px; }
 #search-more button { margin-top: 16px; }
 
+/* ===========================================================================
+   Accessibility (WCAG 2.2 AA) overrides. Loaded after the vendored theme, so
+   these win. They deliberately depart from the original bracero-1.0 palette
+   (darker links, light footer/lang text, underlines) to meet AA.
+   =========================================================================== */
+
+/* 1.4.3 Contrast — darken the theme's orange link (#CC6600 = 3.84:1 on white)
+   to #B34700 (5.5:1) everywhere links sit on a light background. */
+#content a,
+#primary a,
+.download-file,
+#breadcrumbs a,
+.item.record a,
+.item.record .permalink,
+.tag-cloud a,
+#item-tags a,
+#item-citation a,
+.element-text a {
+  color: #b34700;
+}
+
+/* 1.4.1 Use of Color — underline in-text links so color isn't the only cue. */
+#content p a,
+#content li a,
+.element-text a,
+#breadcrumbs a,
+.bha-archive-banner__text a,
+#footer a {
+  text-decoration: underline;
+}
+
+/* Links on the dark home panels / header need a light color (a dark link there
+   fails harder). #FFD79A gives 9–11:1 on the #333/#292929 panels. */
+#primary.home a,
+.home a {
+  color: #ffd79a;
+  text-decoration: underline;
+}
+
+/* Language switcher sat dark-on-dark on the header (~1.25:1). */
+.lang-switch .lang { color: #f4ece0; }
+.lang-switch a.lang { color: #ffd79a; text-decoration: underline; }
+.lang-switch .lang.current { color: #f4ece0; font-weight: 700; text-decoration: none; }
+
+/* Footer text/links on the olive bar were #222 (2.89:1); go white (5.5:1). */
+#footer,
+#footer p,
+#custom-footer-text { color: #ffffff; }
+#footer a { color: #ffffff; text-decoration: underline; }
+
+/* 2.5.8 Target Size (Minimum) — pagination controls at least 24×24 CSS px. */
+.pagination a,
+.pagination li.pagination_current {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  min-height: 24px;
+  padding: 2px 8px;
+  box-sizing: border-box;
+}
+
 /* --- about page institutional logos (after the Staff section) ------------- */
 .about-logos {
   display: flex;
