@@ -4,7 +4,7 @@
 
 const PAGE_SIZE = 50;
 
-const scriptEl = document.currentScript;
+const scriptEl = document.querySelector('script[data-strings]'); // currentScript is null in module scripts
 let STR = {
   searching: 'Searching…',
   results: 'results',
