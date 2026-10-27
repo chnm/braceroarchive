@@ -14,11 +14,10 @@ build layer**.
 
 | Path | What it is |
 |---|---|
-| `hugo.toml` | Site config. Multilingual: English at `/`, Spanish at `/es/`. |
-| `content/items/<id>/` | One page bundle per archive item — `index.md` (EN) + `index.es.md` (ES). 3,209 items. |
-| `content/{about,history,resources,teaching,partners}.md` | Simple pages, each with an `.es.md` translation. |
-| `content/_index.md` / `_index.es.md` | Bilingual home page. |
-| `content/search.md` / `search.es.md` | Pagefind-backed search page. |
+| `hugo.toml` | Site config. Multilingual: English at `/`, Spanish at `/es/`. Module mounts put `content/items` into both languages. |
+| `content/items/<id>/index.md` | One page bundle per archive item, 3,209 items. Each `index.md` builds at both `/items/<id>/` and `/es/items/<id>/`: the original site's Spanish item pages carried the same English records. |
+| `content/items/<type>/_index.md` / `_index.es.md` | Browse sections (images, documents, oral histories, contributed), titled per language. |
+| `content/en/`, `content/es/` | The translated pages: home (`_index.md`), simple pages (about, history, resources, teaching, partners) and the Pagefind-backed search page. |
 | `layouts/` | Templates emitting the original `bracero-1.0` theme DOM, plus i18n chrome and a language switcher. |
 | `i18n/{en,es}.toml` | Translated UI strings. |
 | `static/themes/bracero-1.0/` | The original Omeka theme stylesheet + images, vendored verbatim. |

@@ -6,10 +6,9 @@ bundles. Adds everything the (monolingual) converter does not:
 
   * a multilingual ``hugo.toml`` (English at ``/``, Spanish at ``/es/``),
   * ``i18n/{en,es}.toml`` chrome strings,
-  * the home page (``_index.md`` from index.html, ``_index.es.md`` from es.html),
-  * simple pages EN + ES (about/history/resources/teaching/partners),
-  * Spanish ``index.es.md`` siblings for every item bundle (identical metadata,
-    ``/es/`` chrome + aliases), and
+  * the home page (``content/en/_index.md`` from index.html, ``content/es/_index.md`` from es.html),
+  * simple pages EN + ES in ``content/en`` and ``content/es`` (about/history/resources/teaching/partners),
+  * no Spanish item copies: ``hugo.toml`` mounts ``content/items`` into both languages, and
   * the site logo copied into ``static/uploads/``.
 
 Deterministic: same mirror + same converter output -> byte-identical result.
@@ -184,15 +183,48 @@ def _yaml_scalar(v: object) -> str:
     return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
+MOUNTS = """
+# One item file serves both languages: content/items is mounted into English and
+# Spanish, so each item is built at /items/<id>/ and /es/items/<id>/. The original
+# site's Spanish item pages carried the same English records. Translated pages live
+# in content/en and content/es.
+[module]
+  [[module.mounts]]
+    source = "content/en"
+    target = "content"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/es"
+    target = "content"
+    lang = "es"
+  [[module.mounts]]
+    source = "content/items"
+    target = "content/items"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/items"
+    target = "content/items"
+    lang = "es"
+"""
+
+
 def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) -> None:
     content = site_root / "content"
-    content.mkdir(parents=True, exist_ok=True)
+    # Translated pages live per language (content/en, content/es); item bundles in
+    # content/items are mounted into both languages by hugo.toml.
+    en_dir, es_dir = content / "en", content / "es"
+    for d in (en_dir, es_dir):
+        d.mkdir(parents=True, exist_ok=True)
 
     # --- hugo.toml + i18n (site-root files the converter doesn't copy) -----
     if template_dir is not None:
         cfg = template_dir / "hugo.toml"
         if cfg.exists():
             shutil.copy2(cfg, site_root / "hugo.toml")
+            # The template predates the per-language layout; keep its mounts.
+            if "[module]" not in cfg.read_text(encoding="utf-8"):
+                with (site_root / "hugo.toml").open("a", encoding="utf-8") as f:
+                    f.write(MOUNTS)
         i18n_src = template_dir / "i18n"
         if i18n_src.is_dir():
             shutil.copytree(i18n_src, site_root / "i18n", dirs_exist_ok=True)
@@ -202,7 +234,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
     if idx.exists():
         html = idx.read_text(encoding="utf-8", errors="replace")
         write_md(
-            content / "_index.md",
+            en_dir / "_index.md",
             {"title": "Bracero History Archive", "type": "home"},
             extract_body(html, "en"),
         )
@@ -210,7 +242,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
     if es_idx.exists():
         html = es_idx.read_text(encoding="utf-8", errors="replace")
         write_md(
-            content / "_index.es.md",
+            es_dir / "_index.md",
             {"title": "Archivo de Historia del Bracero", "type": "home"},
             extract_body(html, "es"),
         )
@@ -224,7 +256,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
             if slug == "about":
                 body += "\n" + ABOUT_LOGOS
             write_md(
-                content / f"{slug}.md",
+                en_dir / f"{slug}.md",
                 {
                     "title": en_title,
                     "type": "page",
@@ -242,7 +274,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
             # language code for a non-default language, so "/sobre" is emitted at
             # /es/sobre (the legacy URL). Prefixing here would double it (/es/es/…).
             write_md(
-                content / f"{slug}.es.md",
+                es_dir / f"{slug}.md",
                 {
                     "title": es_title,
                     "type": "page",
@@ -254,9 +286,9 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
             )
 
     # --- search pages (en + es) ------------------------------------------
-    write_md(content / "search.md",
+    write_md(en_dir / "search.md",
              {"title": "Search", "type": "search", "layout": "single"}, "")
-    write_md(content / "search.es.md",
+    write_md(es_dir / "search.md",
              {"title": "Buscar", "type": "search", "layout": "single"}, "")
 
     # --- per-type browse sections (Images / Documents / Oral Histories) ---
@@ -285,17 +317,12 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
         json.dumps(contributed_ids(mirror_root)), encoding="utf-8"
     )
 
-    # --- Spanish item siblings -------------------------------------------
-    items_dir = content / "items"
-    n_es = 0
-    if items_dir.is_dir():
-        for en_md in items_dir.glob("*/index.md"):
-            es_md = en_md.with_name("index.es.md")
-            # Copy verbatim. The legacy aliases (/items/show/<id>) are kept
-            # unprefixed: Hugo prepends the language code for the es page, so they
-            # resolve at /es/items/show/<id> (prefixing here would double it).
-            es_md.write_text(en_md.read_text(encoding="utf-8"), encoding="utf-8")
-            n_es += 1
+    # --- Spanish item pages ----------------------------------------------
+    # None are written: hugo.toml mounts content/items into both languages, so
+    # each item's one index.md builds at /items/<id>/ and /es/items/<id>/. The
+    # legacy aliases (/items/show/<id>) stay unprefixed; Hugo prepends /es for
+    # the Spanish build. The original site's Spanish item pages carried the same
+    # English records, so there was never separate Spanish item metadata.
 
     # --- Spanish-mirror redirects ----------------------------------------
     # Per-item / per-page ES legacy URLs are covered by the .es.md aliases;
@@ -327,7 +354,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
         dest.mkdir(parents=True, exist_ok=True)
         shutil.copy2(logo_src, dest / LOGO)
 
-    print(f"bracero_build: home+pages written, {n_es} Spanish item siblings")
+    print("bracero_build: home+pages written; items are shared by both languages")
 
 
 def main() -> None:
