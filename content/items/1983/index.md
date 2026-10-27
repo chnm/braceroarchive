@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382419.jpg
     alt:
       en: "Interior of a quonset-style dining hall with long wooden tables and benches; one man sits at a table near the entrance while a counter at the far end holds dishes, containers, and supplies."
+      es: "Interior de un comedor tipo quonset con largas mesas y bancas de madera; un hombre está sentado cerca de la entrada mientras al fondo un mostrador tiene platos, recipientes y suministros."
 geo:
 id: 1983
 item_type: Still Image

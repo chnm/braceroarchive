@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385104.jpg
     alt:
       en: "Rows of metal-framed beds with thin mattresses fill a bunkhouse, where several braceros rest or sit while clothing hangs from lines and hooks along the walls."
+      es: "Filas de camas metálicas con colchones delgados llenan un dormitorio, donde varios braceros descansan o se sientan mientras ropa cuelga de cuerdas y ganchos en las paredes."
 geo:
 id: 2846
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382921.jpg
     alt:
       en: "Black-and-white photo of men lining up along a sidewalk outside the \"Plaza\" theater in Salinas, California, with movie posters and a \"Todos Los\" marquee sign visible above the entrance."
+      es: "Fotografía en blanco y negro de hombres haciendo fila en la acera frente al cine \"Plaza\" en Salinas, California, con carteles de películas y un letrero de marquesina que dice \"Todos Los\" sobre la entrada."
 geo:
 id: 2141
 item_type: Still Image

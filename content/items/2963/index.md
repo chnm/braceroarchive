@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385602.jpg
     alt:
       en: "Braceros pause for lunch at the edge of a pepper field, one man drinking from a bottle while holding a plate of food, others seated nearby in the rows of crops."
+      es: "Braceros hacen una pausa para almorzar al borde de un campo de chiles, uno bebe de una botella mientras sostiene un plato de comida, otros sentados cerca entre los surcos de cultivo."
 geo:
 id: 2963
 item_type: Still Image

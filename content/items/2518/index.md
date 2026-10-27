@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384041.jpg
     alt:
       en: "Black-and-white photo of a man in a suit and tie seated at a desk covered with papers, with a cabinet, clock, and framed picture visible in the office behind him."
+      es: "Fotografía en blanco y negro de un hombre con traje y corbata sentado en un escritorio cubierto de papeles, con un gabinete, un reloj y un cuadro enmarcado visibles en la oficina detrás de él."
 geo:
 id: 2518
 item_type: Still Image

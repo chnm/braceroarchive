@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383822.jpg
     alt:
       en: "Black-and-white photo of braceros seated on cots in a dormitory, several playing cards together while another writes, with clothing hanging to dry near a window."
+      es: "Fotografía en blanco y negro de braceros sentados en catres dentro de un dormitorio, varios jugando cartas mientras otro escribe, con ropa colgada secándose cerca de una ventana."
 geo:
 id: 2466
 item_type: Still Image

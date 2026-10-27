@@ -48,6 +48,7 @@ files:
     url: /files/original/3of6-copy_3da7a18a6f.jpg
     alt:
       en: "Mexican military ID card titled \"Secretaria de la Defensa Nacional, Clases Anteriores,\" with handwritten personal details for Jose Gamez, a photo, fingerprint, official stamp, and signature dated July 7, 1960."
+      es: "Tarjeta de identificación militar mexicana titulada \"Secretaría de la Defensa Nacional, Clases Anteriores\", con datos personales manuscritos de José Gámez, una foto, huella digital, sello oficial y firma fechada el 7 de julio de 1960."
 geo:
 id: 542
 item_type: Document

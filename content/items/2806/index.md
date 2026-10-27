@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384927.jpg
     alt:
       en: "Black-and-white photo of several workers wearing wide-brimmed hats, kneeling in rows of a pepper field using short-handled hoes, with distant trees and hills in the background."
+      es: "Fotografía en blanco y negro de varios trabajadores con sombreros de ala ancha, arrodillados en hileras de un campo de pimientos usando azadones de mango corto, con árboles y colinas al fondo."
 geo:
 id: 2806
 item_type: Still Image

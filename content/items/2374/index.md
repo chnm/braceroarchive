@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381117.jpg
     alt:
       en: "Row of small roadside buildings with insurance office signage, including one reading \"Insurance,\" lined with parked cars under a wide open sky in Hidalgo, Texas."
+      es: "Hilera de pequeños edificios junto a la carretera con letreros de oficinas de seguros, incluyendo uno que dice \"Insurance\", con autos estacionados bajo un cielo despejado en Hidalgo, Texas."
 geo:
 id: 2374
 item_type: Still Image

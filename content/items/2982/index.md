@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385622.jpg
     alt:
       en: "Black-and-white photo of a person's legs and worn, hand-made sandals standing among leafy plants in a cultivated field row."
+      es: "Foto en blanco y negro de las piernas de una persona con sandalias desgastadas y hechas a mano, de pie entre plantas frondosas en un surco de un campo cultivado."
 geo:
 id: 2982
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381112.jpg
     alt:
       en: "Silhouetted figures, including a man wearing a wide-brimmed hat, are seen through a train window in dim, crepuscular light near the Monterrey Processing Center, Mexico."
+      es: "Figuras en silueta, incluido un hombre con sombrero de ala ancha, se ven a través de la ventana de un tren en luz crepuscular tenue cerca del Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1604
 item_type: Still Image

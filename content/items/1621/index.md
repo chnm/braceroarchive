@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381216.jpg
     alt:
       en: "Black-and-white photo of a crowd of braceros gathered beside a canal and under an open-sided shelter, with belongings laid on the ground, waiting to be processed at the Hidalgo Processing Center, Texas."
+      es: "Foto en blanco y negro de una multitud de braceros reunidos junto a un canal y bajo un cobertizo abierto, con pertenencias en el suelo, esperando ser procesados en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1621
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384101.jpg
     alt:
       en: "Black-and-white photo of braceros seated on a bed and chairs in a sparse camp room, playing cards, with a cloth hanging on the wall and patterned flooring, viewed through a doorway."
+      es: "Fotografía en blanco y negro de braceros sentados en una cama y sillas en un cuarto sencillo de un campamento, jugando cartas, con una tela colgada en la pared y piso con diseño, visto a través de una puerta."
 geo:
 id: 2549
 item_type: Still Image

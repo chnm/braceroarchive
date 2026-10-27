@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383112.jpg
     alt:
       en: "Five men bent over in stooped positions hoe rows of crops in a large open field, with farm buildings and tree-covered hills visible in the background."
+      es: "Cinco hombres inclinados azadonan hileras de cultivos en un campo abierto, con edificios de granja y colinas arboladas al fondo."
 geo:
 id: 2200
 item_type: Still Image

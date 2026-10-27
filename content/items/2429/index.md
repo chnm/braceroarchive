@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383729.jpg
     alt:
       en: "Aerial view of braceros wearing wide-brimmed hats, gathered in a circle on bare ground near a field, eating lunch from plates and shared containers in the Salinas Valley, California."
+      es: "Vista aérea de braceros con sombreros de ala ancha, reunidos en círculo sobre tierra descubierta cerca de un campo, almorzando de platos y recipientes compartidos en el Valle de Salinas, California."
 geo:
 id: 2429
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381629.jpg
     alt:
       en: "Black-and-white photo of a long line of men in straw hats seated and crouched along a wall inside a large hall, waiting to be processed at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con sombreros de paja sentados y agachados junto a una pared dentro de un gran salón, esperando ser procesados en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1736
 item_type: Still Image

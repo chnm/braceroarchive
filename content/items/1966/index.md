@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382402.jpg
     alt:
       en: "Office interior in Stockton, California, with a seated official on the phone, another man at a cluttered desk, and a group of braceros in hats waiting near the doorway."
+      es: "Interior de una oficina en Stockton, California, con un funcionario sentado hablando por teléfono, otro hombre en un escritorio lleno de papeles, y un grupo de braceros con sombreros esperando cerca de la puerta."
 geo:
 id: 1966
 item_type: Still Image

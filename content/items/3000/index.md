@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381214censored.jpg
     alt:
       en: "Group of shirtless men standing under an open-sided shelter at the Hidalgo Processing Center, Texas, with trees and power lines visible in the background."
+      es: "Grupo de hombres sin camisa de pie bajo un cobertizo abierto en el Centro de Procesamiento de Hidalgo, Texas, con árboles y líneas eléctricas visibles al fondo."
 geo:
 id: 3000
 item_type: Still Image

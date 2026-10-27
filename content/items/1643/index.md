@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381315.jpg
     alt:
       en: "A man in a wide-brimmed hat extends his hands across a table to an official checking for calluses, with other people and tables visible in a large hall behind them."
+      es: "Un hombre con sombrero de ala ancha extiende sus manos sobre una mesa a un oficial que revisa sus callos, con más personas y mesas visibles en un gran salón detrás de ellos."
 geo:
 id: 1643
 item_type: Still Image

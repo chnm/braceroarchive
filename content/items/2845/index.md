@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385103.jpg
     alt:
       en: "Rows of metal cots in a barracks-style room, with several men resting or sleeping while one man stands near the doorway; clothing hangs from overhead lines and hooks along the walls."
+      es: "Filas de catres metálicos en una habitación tipo barracón, con varios hombres descansando o durmiendo mientras uno permanece de pie junto a la puerta; ropa cuelga de cuerdas y ganchos en las paredes."
 geo:
 id: 2845
 item_type: Still Image

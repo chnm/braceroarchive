@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381005.jpg
     alt:
       en: "Silhouetted group of braceros, some standing in hats and others seated with bundles, gathered along railroad tracks near the Monterrey Processing Center against a hazy sky."
+      es: "Grupo de braceros en silueta, algunos de pie con sombreros y otros sentados con bultos, reunidos junto a las vías del tren cerca del Centro de Procesamiento de Monterrey bajo un cielo brumoso."
 geo:
 id: 1559
 item_type: Still Image

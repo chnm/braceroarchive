@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383222.jpg
     alt:
       en: "Black-and-white photo through a doorway of a man reclining on a bed in a sparse room, with a nightstand holding small items and clothing hanging on a wall hook."
+      es: "Fotografía en blanco y negro, vista a través de una puerta, de un hombre recostado en una cama en un cuarto sencillo, con una mesita de noche con pequeños objetos y ropa colgada en un gancho en la pared."
 geo:
 id: 2227
 item_type: Still Image

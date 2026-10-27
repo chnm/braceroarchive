@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-31_bcb5d8cf36.jpg
     alt:
       en: "Three \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank, Coachella, California, purchased by M. Gonzalez in 1948, 1949, and 1950, marked \"UNCASHED,\" payable to Francisca Rodriguez and Rosario Ramirez."
+      es: "Tres recibos de \"Purchaser's Receipt of Bank Money Order\" del First National Bank, Coachella, California, comprados por M. Gonzalez en 1948, 1949 y 1950, marcados \"UNCASHED\", pagaderos a Francisca Rodriguez y Rosario Ramirez."
 geo:
 id: 1190
 item_type: Document

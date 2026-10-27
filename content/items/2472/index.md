@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383828.jpg
     alt:
       en: "Black-and-white photo of a young man lying on a bed in a barracks-style room, head resting on his hand, gazing upward, with a blanket and luggage nearby."
+      es: "Fotografía en blanco y negro de un joven recostado en una cama en un cuarto tipo barracón, con la cabeza apoyada en su mano y la mirada hacia arriba, junto a una manta y equipaje cercano."
 geo:
 id: 2472
 item_type: Still Image

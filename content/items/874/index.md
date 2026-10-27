@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-marzo-sep-1956-california-(parte-superior-documento)_5adbe8689b.jpg
     alt:
       en: "Printed bilingual \"Continuation of Standard Work Contract\" form No. L1268797 for Heleodoro Martinez Solis, dated March 29, 1956, with handwritten entries, signatures, a red stamped seal, and an \"Employment Terminated\" stamp dated October 20, 1956."
+      es: "Formulario bilingüe impreso \"Continuación del Contrato de Trabajo Tipo\", No. L1268797, de Heleodoro Martínez Solís, fechado 29 de marzo de 1956, con anotaciones manuscritas, firmas, un sello rojo y un sello de \"Employment Terminated\" fechado 20 de octubre de 1956."
 geo:
 id: 874
 item_type: Document

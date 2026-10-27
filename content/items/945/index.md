@@ -46,6 +46,7 @@ files:
     url: /files/original/margarita-2_3a623eed7b.jpg
     alt:
       en: "Heavily creased black-and-white photo of a man standing outdoors in a light shirt, hand raised near his face, with a wooden chair and building visible behind him."
+      es: "Fotografía en blanco y negro muy agrietada de un hombre de pie al aire libre con camisa clara, mano levantada cerca del rostro, con una silla de madera y un edificio al fondo."
 geo:
 id: 945
 item_type: Still Image

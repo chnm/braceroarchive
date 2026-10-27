@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381706.jpg
     alt:
       en: "Black-and-white photo of a large hall with rows of men lined up before nurses in white uniforms administering vaccinations at tables, with fans and desks nearby."
+      es: "Foto en blanco y negro de un gran salón con filas de hombres formados frente a enfermeras de uniforme blanco que aplican vacunas en mesas, con ventiladores y escritorios cerca."
 geo:
 id: 1755
 item_type: Still Image

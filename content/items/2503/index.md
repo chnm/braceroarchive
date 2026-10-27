@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383925.jpg
     alt:
       en: "A man in glasses holding a cigarette writes on paper while distributing documents to a group of braceros, one wearing a wide-brimmed hat, gathered closely around him outdoors."
+      es: "Un hombre con anteojos y un cigarrillo escribe en un papel mientras entrega documentos a un grupo de braceros, uno con sombrero de ala ancha, reunidos a su alrededor al aire libre."
 geo:
 id: 2503
 item_type: Still Image

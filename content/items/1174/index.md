@@ -48,6 +48,7 @@ files:
     url: /files/original/roman-gaxiola,-manuel-de-jesus,-alianza-bracero-proa-id2_654c52465d.jpg
     alt:
       en: "Aged card back with two stamped signatures reading \"Ventura M. Gutierrez Mendez, Coordinador Binacional, Alianza Bracero ProA,\" along with an additional handwritten signature below the first stamp."
+      es: "Reverso de tarjeta envejecida con dos sellos de firma que dicen \"Ventura M. Gutiérrez Méndez, Coordinador Binacional, Alianza Bracero ProA,\" junto con una firma manuscrita adicional debajo del primer sello."
 geo:
 id: 1174
 item_type: Document

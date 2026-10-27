@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381624.jpg
     alt:
       en: "Crowd of men in wide-brimmed hats gathered in a large hall with tall windows, some lined up near a serving table while others sit at tables in the background, Monterrey Processing Center."
+      es: "Multitud de hombres con sombreros de ala ancha reunidos en un salón amplio con ventanales altos, algunos formados cerca de una mesa de servicio y otros sentados a mesas al fondo, Centro de Contratación de Monterrey."
 geo:
 id: 1743
 item_type: Still Image

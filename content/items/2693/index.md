@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384526.jpg
     alt:
       en: "Two braceros stand in a California field pouring crops from a can into a bag, with filled sacks and a metal bucket nearby; other workers are visible in the background rows."
+      es: "Dos braceros de pie en un campo de California vierten cosechas de una lata a un costal, con sacos llenos y un balde metálico cerca; otros trabajadores se ven al fondo entre los surcos."
 geo:
 id: 2693
 item_type: Still Image

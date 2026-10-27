@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384216.jpg
     alt:
       en: "Black-and-white street scene in Watsonville, California, showing a two-story wooden building with a balcony beside a stucco office building, a parked truck and car, and a pedestrian crossing the dirt road."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con un edificio de madera de dos pisos con balcón junto a una oficina de estuco, un camión y un auto estacionados, y un peatón cruzando el camino de tierra."
 geo:
 id: 2590
 item_type: Still Image

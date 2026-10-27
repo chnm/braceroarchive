@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381905.jpg
     alt:
       en: "A long line of men wearing hats stands along a tree-lined street in Stockton, California, waiting to board a bus as officials distribute documents nearby."
+      es: "Una larga fila de hombres con sombreros se extiende a lo largo de una calle arbolada en Stockton, California, esperando para abordar un autobús mientras oficiales distribuyen documentos cerca."
 geo:
 id: 1830
 item_type: Still Image

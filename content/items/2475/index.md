@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383831.jpg
     alt:
       en: "Black-and-white photo of braceros in wide-brimmed hats walking along a dirt path between rows of barracks at the Gondo Labor Camp, Watsonville, with a hose reel mounted on a nearby building."
+      es: "Foto en blanco y negro de braceros con sombreros de ala ancha caminando por un camino de tierra entre hileras de barracones en el Campo Gondo, Watsonville, con un carrete de manguera en un edificio cercano."
 geo:
 id: 2475
 item_type: Still Image

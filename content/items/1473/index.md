@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380713.jpg
     alt:
       en: "Aerial view of a long line of men in hats waiting outside a small wooden building at the Monterrey Processing Center, with crowds gathered in the open yard beyond."
+      es: "Vista aérea de una larga fila de hombres con sombrero esperando afuera de una pequeña construcción de madera en el Centro de Procesamiento de Monterrey, con multitudes reunidas en el patio al fondo."
 geo:
 id: 1473
 item_type: Still Image

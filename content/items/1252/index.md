@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio4_67a171680b.jpg
     alt:
       en: "Bilingual Mexican consular ID document certifying Asterio Leon Lopez's citizenship, dated October 27, 1972, with his photograph, physical description, signatures, and official stamps."
+      es: "Documento consular mexicano bilingüe que certifica la ciudadanía de Asterio León López, fechado el 27 de octubre de 1972, con su fotografía, descripción física, firmas y sellos oficiales."
 geo:
 id: 1252
 item_type: Document

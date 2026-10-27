@@ -46,6 +46,7 @@ files:
     url: /files/original/carta-del-mayordomo,-agosto-1969_866b2ac75a.jpg
     alt:
       en: "Handwritten Spanish-language letter on lined paper, dated Stockton, Calif., Agosto 31-69, addressed to Carlos P. Rosario and signed Antonio Tejil, with a P.O. Box address in Stockton, Calif."
+      es: "Carta manuscrita en español sobre papel rayado, fechada en Stockton, Calif., agosto 31-69, dirigida a Carlos P. Rosario y firmada por Antonio Tejil, con un apartado postal en Stockton, Calif."
 geo:
 id: 882
 item_type: Document

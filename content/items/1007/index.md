@@ -45,6 +45,7 @@ files:
     url: /files/original/renteria-rosario---dads-marriage-certificate2_9f381919c1.jpg
     alt:
       en: "Typed Spanish document listing marriage witnesses, dated Tepic, Nayarit, January 21, 1983, signed by Lic. Francisco Solís Cuevas with an official government seal stamped at the bottom left."
+      es: "Documento mecanografiado en español que enumera a los testigos de un matrimonio, fechado en Tepic, Nayarit, 21 de enero de 1983, firmado por el Lic. Francisco Solís Cuevas con un sello oficial de gobierno en la esquina inferior izquierda."
 geo:
 id: 1007
 item_type: Document

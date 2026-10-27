@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380340.jpg
     alt:
       en: "Aerial view of a long line of hat-wearing braceros stretching across a dirt lot at the Monterrey Processing Center, with a few men walking alongside the queue and buildings visible in the background."
+      es: "Vista aérea de una larga fila de braceros con sombrero que se extiende por un terreno de tierra en el Centro de Procesamiento de Monterrey, con algunos hombres caminando junto a la fila y edificios al fondo."
 geo:
 id: 1340
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/mica-calexico-ca-1956-(back)_42c840347f.jpg
     alt:
       en: "Back of a worn ID card reading \"CORRALES-Rojas, Gregorio,\" birth date 4/20/33, birthplace Xochimilco, Mex. D.F., home address in Xochimilco, issued in Calexico, Calif. on 4/30/56, numbered L-2081784, labeled MICA."
+      es: "Reverso de una tarjeta de identificación desgastada con el nombre \"CORRALES-Rojas, Gregorio\", fecha de nacimiento 20/4/33, lugar de nacimiento Xochimilco, Méx. D.F., domicilio en Xochimilco, expedida en Calexico, Calif. el 30/4/56, número L-2081784, con la etiqueta MICA."
 geo:
 id: 815
 item_type: Document

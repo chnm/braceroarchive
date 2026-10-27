@@ -46,6 +46,7 @@ files:
     url: /files/original/mr_618fb1c890.jpg
     alt:
       en: "Aged, creased black-and-white photo of a man in a wide-brimmed hat and work clothes standing beside a corrugated metal building, casting a long shadow on the wall behind him."
+      es: "Fotografía antigua y arrugada en blanco y negro de un hombre con sombrero de ala ancha y ropa de trabajo, de pie junto a un edificio de metal corrugado, proyectando una larga sombra sobre la pared detrás de él."
 geo:
 id: 551
 item_type: Still Image

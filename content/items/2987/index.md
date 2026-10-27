@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385627.jpg
     alt:
       en: "Black-and-white photo of a bracero in a wide-brimmed hat standing on a truck loaded with \"Cookie Brand Head Lettuce\" boxes, with workers visible in the lettuce field behind him."
+      es: "Foto en blanco y negro de un bracero con sombrero de ala ancha de pie sobre un camión cargado de cajas de \"Cookie Brand Head Lettuce\", con trabajadores visibles en el campo de lechuga detrás de él."
 geo:
 id: 2987
 item_type: Still Image

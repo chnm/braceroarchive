@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380524.jpg
     alt:
       en: "A blurred, low-light interior scene with rows of indistinct shapes under a paneled ceiling with a single illuminated light fixture."
+      es: "Escena interior borrosa y con poca luz, con filas de formas indistintas bajo un techo de paneles y un único punto de luz encendido."
 geo:
 id: 1405
 item_type: Still Image

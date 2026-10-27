@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381434.jpg
     alt:
       en: "Rows of seated typists at desks fill out documents for men wearing cowboy hats standing in line inside a large warehouse-like building at the Hidalgo Processing Center, Texas."
+      es: "Filas de mecanógrafas sentadas en escritorios llenan documentos para hombres con sombreros vaqueros que esperan en fila dentro de un gran edificio similar a un almacén en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1686
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380614.jpg
     alt:
       en: "Black-and-white photo of braceros walking along railroad tracks toward Monterrey, with mountains in the background and a white monument visible along the fence line to the right."
+      es: "Foto en blanco y negro de braceros caminando junto a las vías del ferrocarril hacia Monterrey, con montañas al fondo y un monumento blanco visible junto a la cerca a la derecha."
 geo:
 id: 1420
 item_type: Still Image

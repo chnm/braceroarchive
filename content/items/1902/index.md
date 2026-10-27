@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382202.jpg
     alt:
       en: "A bracero sits on a cot in a dim bunkhouse, operating a small appliance, with cots, hats, and papers pinned to the wall around him."
+      es: "Un bracero sentado en un catre en un dormitorio en penumbra, manipulando un pequeño aparato, rodeado de catres, sombreros y papeles clavados en la pared."
 geo:
 id: 1902
 item_type: Still Image

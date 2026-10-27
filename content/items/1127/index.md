@@ -48,6 +48,7 @@ files:
     url: /files/original/montes-robles,-manuel---carta-honorifica-2-copy_969e658c9c.jpg
     alt:
       en: "Worn, folded card printed with \"U.S. Department of Labor / Mención Honorífica,\" featuring a small worker emblem and the Department of Labor seal on a creased, aged paper background."
+      es: "Tarjeta doblada y desgastada impresa con \"U.S. Department of Labor / Mención Honorífica\", con un pequeño emblema de trabajador y el sello del Departamento de Labor sobre papel envejecido y arrugado."
 geo:
 id: 1127
 item_type: Document

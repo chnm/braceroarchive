@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384037.jpg
     alt:
       en: "A man in a suit sits at an office desk covered with papers, pen in hand, looking up at the camera, with a wooden cabinet and framed artwork on the wall behind him."
+      es: "Un hombre con traje está sentado en un escritorio de oficina cubierto de papeles, con un bolígrafo en la mano, mirando hacia la cámara, con un gabinete de madera y un cuadro enmarcado en la pared detrás de él."
 geo:
 id: 2548
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/gonzalezlorenzosantacruz_b75d24a0a2.jpg
     alt:
       en: "Black-and-white photo of a man in a hat and collared shirt sitting on a rustic wooden bridge railing, surrounded by trees and a gravel path."
+      es: "Fotografía en blanco y negro de un hombre con sombrero y camisa con cuello sentado sobre el barandal de un puente rústico de madera, rodeado de árboles y un camino de grava."
 geo:
 id: 986
 item_type: Still Image

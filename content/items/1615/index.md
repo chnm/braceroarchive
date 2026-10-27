@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381222.jpg
     alt:
       en: "Black-and-white photo of a long open-sided shed at the Hidalgo Processing Center, Texas, with a large crowd of braceros lined up beneath its roof on a dirt lot under a cloudy sky."
+      es: "Fotografía en blanco y negro de un largo cobertizo abierto en el Centro de Procesamiento de Hidalgo, Texas, con una gran multitud de braceros formados bajo el techo sobre un terreno de tierra bajo un cielo nublado."
 geo:
 id: 1615
 item_type: Still Image

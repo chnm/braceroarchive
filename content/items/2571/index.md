@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384123.jpg
     alt:
       en: "A bracero stands in a doorway of a wooden barracks while three others sit resting on the steps below, with a row of similar buildings and hills visible in the background."
+      es: "Un bracero de pie en la puerta de un barracón de madera mientras otros tres descansan sentados en los escalones, con una hilera de edificios similares y colinas al fondo."
 geo:
 id: 2571
 item_type: Still Image

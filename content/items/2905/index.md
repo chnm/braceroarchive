@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385314.jpg
     alt:
       en: "Black-and-white photo of braceros lining up along a serving counter in a dining hall, holding trays while workers in aprons dish out food from large bowls."
+      es: "Foto en blanco y negro de braceros formados junto a un mostrador en un comedor, sosteniendo bandejas mientras trabajadores con delantales sirven comida desde grandes tazones."
 geo:
 id: 2905
 item_type: Still Image

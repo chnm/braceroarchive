@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385505.jpg
     alt:
       en: "Black-and-white photo of a bracero in a straw hat and plaid jacket trimming a head of lettuce with a knife in a field, with other workers harvesting lettuce in the background."
+      es: "Foto en blanco y negro de un bracero con sombrero de paja y chaqueta a cuadros recortando una lechuga con un cuchillo en el campo, mientras otros trabajadores cosechan lechuga al fondo."
 geo:
 id: 2932
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/ayonmaria-backid_3ad95fb6ca.jpg
     alt:
       en: "Worn identification card for AYON-Luna, Vicente, listing birth date 4/22/29, birthplace Sn Martin de Los Bolanos, Jal. Mex., home address in Tijuana, issued in Calexico, Calif. on 4/5/56, number L-2074308, marked MICA."
+      es: "Tarjeta de identificación desgastada de AYON-Luna, Vicente, con fecha de nacimiento 4/22/29, lugar de nacimiento Sn Martín de Los Bolaños, Jal. Mex., domicilio en Tijuana, expedida en Calexico, Calif. el 4/5/56, número L-2074308, marcada MICA."
 geo:
 id: 709
 item_type: Document

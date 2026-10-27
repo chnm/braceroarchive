@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382429.jpg
     alt:
       en: "Interior of a wooden barn-like structure with a peaked, slatted roof, featuring a screened door and two wooden chairs placed against a plank wall."
+      es: "Interior de una estructura de madera tipo granero con techo inclinado de listones, una puerta con mosquitero y dos sillas de madera apoyadas contra una pared de tablones."
 geo:
 id: 1993
 item_type: Still Image

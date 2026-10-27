@@ -51,6 +51,7 @@ files:
     url: /files/original/flores04_baffc99fe6.jpg
     alt:
       en: "Worn Alien Laborer's Identification Card for Timoteo Flores Soto, showing typed personal details and number L-2289249 on one side, and a photo booth-style portrait with U.S. Department of Justice INS text on the reverse."
+      es: "Tarjeta de Identificación de Trabajador Extranjero desgastada para Timoteo Flores Soto, con datos personales escritos a máquina y el número L-2289249 en un lado, y un retrato tipo foto de cabina con texto del Departamento de Justicia de EE. UU., INS, al reverso."
 geo:
 id: 623
 item_type: Document

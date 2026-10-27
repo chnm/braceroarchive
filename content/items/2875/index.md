@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385209.jpg
     alt:
       en: "Black-and-white photo of farmworkers stooped over rows in a strawberry field, with one man in the foreground filling a wooden crate with picked berries; farm buildings and hills line the horizon."
+      es: "Foto en blanco y negro de trabajadores agrícolas inclinados sobre hileras de fresas, con un hombre en primer plano llenando una caja de madera con fresas recogidas; al fondo se ven edificios de granja y colinas."
 geo:
 id: 2875
 item_type: Still Image

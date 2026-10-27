@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p4-5_1ac8e8213b.jpg
     alt:
       en: "Open book pages 4-5 with aged, stained paper; page 5 contains printed Spanish text advising braceros to pack lightly, listing essential items like a towel, cleaning supplies, and a hidden wallet."
+      es: "Libro abierto en las páginas 4-5 con papel envejecido y manchado; la página 5 contiene texto impreso en español que aconseja a los braceros viajar ligeros, listando artículos esenciales como toalla, útiles de limpieza y una cartera oculta."
 geo:
 id: 586
 item_type: Still Image

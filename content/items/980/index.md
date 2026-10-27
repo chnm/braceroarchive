@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---passport111_a9b9d067dc.jpg
     alt:
       en: "Passport page with a round official stamp, handwritten \"VISADA\" text, and a signature reading Enrique Morales, dated San Juan... mayo 1960, beside a blank text box."
+      es: "Página de pasaporte con sello oficial redondo, texto manuscrito \"VISADA\" y firma de Enrique Morales, fechada en San Juan... mayo de 1960, junto a un recuadro de texto en blanco."
 geo:
 id: 980
 item_type: Document

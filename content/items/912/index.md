@@ -48,6 +48,7 @@ files:
     url: /files/original/mica-eagle-pass,-tx,-1956-(front-w-picture)_c5fd378613.jpg
     alt:
       en: "Worn identification card titled \"Alien Laborer's Identification Card\" with a man's photograph, issued by the U.S. Department of Justice, Immigration and Naturalization Service, Form I-100D (12-7-55)."
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\" con la fotografía de un hombre, emitida por el Departamento de Justicia de EE.UU., Servicio de Inmigración y Naturalización, Formulario I-100D (12-7-55)."
 geo:
 id: 912
 item_type: Document

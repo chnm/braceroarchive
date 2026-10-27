@@ -46,6 +46,7 @@ files:
     url: /files/original/diaz-gusman,-jesus,-1964,-front-of-house_82ddfe139e.jpg
     alt:
       en: "Weathered 1964 photo of three braceros standing on a dirt path in front of a white wooden building, including Jesus Diaz Gusman at left, \"El Donador\" in the middle, and Juan Martinez at right."
+      es: "Fotografía deteriorada de 1964 que muestra a tres braceros parados en un camino de tierra frente a un edificio blanco de madera: Jesús Díaz Guzmán a la izquierda, \"El Donador\" en el medio, y Juan Martínez a la derecha."
 geo:
 id: 1041
 item_type: Still Image

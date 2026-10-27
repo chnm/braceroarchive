@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382633.jpg
     alt:
       en: "Black-and-white photo of braceros wearing wide-brimmed hats, bent over rows in a pepper field, with hills visible in the background of the Salinas Valley."
+      es: "Foto en blanco y negro de braceros con sombreros de ala ancha, inclinados sobre hileras en un campo de chiles, con colinas visibles al fondo en el valle de Salinas."
 geo:
 id: 2056
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385116.jpg
     alt:
       en: "A doctor examines a seated man's throat in a clinic office, while a nurse stands by a medical cart with supplies in the background."
+      es: "Un médico examina la garganta de un hombre sentado en un consultorio, mientras una enfermera permanece junto a un carrito médico con suministros al fondo."
 geo:
 id: 2857
 item_type: Still Image

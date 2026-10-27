@@ -43,6 +43,7 @@ files:
     url: /files/original/gonzalezlorenzoimperial2_0992bb59b2.jpg
     alt:
       en: "Two men in hats stand in front of a large military tank, one wearing light-colored pants, in this worn black-and-white photograph."
+      es: "Dos hombres con sombrero posan frente a un gran tanque militar, uno de ellos con pantalones claros, en esta fotografía desgastada en blanco y negro."
 geo:
 id: 982
 item_type: Still Image

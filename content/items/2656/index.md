@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384424.jpg
     alt:
       en: "Black-and-white photo of a man getting a haircut on a second-story porch while another man waits nearby, a towel over his shoulder; a street with buildings visible below."
+      es: "Foto en blanco y negro de un hombre cortándose el cabello en un balcón del segundo piso, mientras otro hombre espera cerca con una toalla sobre el hombro; abajo se ve una calle con edificios."
 geo:
 id: 2656
 item_type: Still Image

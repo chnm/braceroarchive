@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383109.jpg
     alt:
       en: "A fan-shaped bundle of punched tally cards rests on bare soil, bound together at one point, with strawberry plants bordering the dirt field nearby."
+      es: "Un manojo de tarjetas perforadas en forma de abanico, atadas en un punto, descansa sobre tierra desnuda, rodeada de plantas de fresa en el borde del campo."
 geo:
 id: 2399
 item_type: Still Image

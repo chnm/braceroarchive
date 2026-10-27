@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384125.jpg
     alt:
       en: "Black-and-white photo of a man resting on a bed in a sparsely furnished wooden room, seen through an open doorway, with a towel hanging on the wall nearby."
+      es: "Fotografía en blanco y negro de un hombre descansando en una cama dentro de un cuarto de madera escasamente amueblado, visto a través de una puerta abierta, con una toalla colgada en la pared."
 geo:
 id: 2573
 item_type: Still Image

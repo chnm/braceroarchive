@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383801.jpg
     alt:
       en: "Three braceros gather on and around beds in a wooden barracks, two playing cards while a third writes a letter, with laundry hanging near a window in the background."
+      es: "Tres braceros se reúnen sobre y junto a camas en un barracón de madera, dos jugando cartas mientras un tercero escribe una carta, con ropa colgada cerca de una ventana al fondo."
 geo:
 id: 2445
 item_type: Still Image

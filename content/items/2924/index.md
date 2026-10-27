@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385409.jpg
     alt:
       en: "A group of braceros kneel outdoors beside a corrugated metal barracks, heads bowed, as a man stands before them during a religious blessing at a California labor camp."
+      es: "Un grupo de braceros se arrodilla al aire libre junto a un barracón de metal corrugado, con las cabezas inclinadas, mientras un hombre se para frente a ellos durante una bendición religiosa en un campamento laboral de California."
 geo:
 id: 2924
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/santacruz,-melitona,-1963,-passport3_b33ef3f932.jpg
     alt:
       en: "Mexican passport pages showing printed \"FILIACIONES\" physical description details and a man's photograph under \"FOTOGRAFIAS,\" with a fingerprint and handwritten signature below."
+      es: "Páginas de un pasaporte mexicano con el encabezado impreso \"FILIACIONES\" y datos físicos, junto a la fotografía de un hombre bajo \"FOTOGRAFIAS\", con una huella digital y una firma manuscrita debajo."
 geo:
 id: 1077
 item_type: Document

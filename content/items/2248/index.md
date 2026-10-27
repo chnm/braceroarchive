@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383308.jpg
     alt:
       en: "A man wearing a wide-brimmed hat crouches beside a large metal water canister, drinking from a tin cup, with a row of tall trees and workers in a field visible behind him."
+      es: "Un hombre con sombrero de ala ancha se agacha junto a un gran bidón metálico de agua, bebiendo de una taza de hojalata, con una hilera de árboles altos y trabajadores en un campo al fondo."
 geo:
 id: 2248
 item_type: Still Image

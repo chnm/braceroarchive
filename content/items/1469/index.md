@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380721.jpg
     alt:
       en: "Large crowd of men, many wearing straw hats, gathered closely together in the shade of a multi-story building during processing at the Monterrey Processing Center."
+      es: "Gran multitud de hombres, muchos con sombreros de paja, reunidos a la sombra de un edificio de varios pisos durante el proceso en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1469
 item_type: Still Image

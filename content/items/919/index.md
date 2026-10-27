@@ -48,6 +48,7 @@ files:
     url: /files/original/estrada-e,-luis,-id-card-of-father_f1a66c70a2.jpg
     alt:
       en: "Worn identification card labeled \"Credencial No. 3037\" from the Alliance of National Workers of Mexico, bearing a photo of Miguel Estrada Ortiz, a C.G.T. stamp, and a date of June 21, 1960."
+      es: "Credencial desgastada No. 3037 de la Alianza de Trabajadores Nacionales de México, con foto de Miguel Estrada Ortiz, un sello de la C.G.T. y fecha del 21 de junio de 1960."
 geo:
 id: 919
 item_type: Document

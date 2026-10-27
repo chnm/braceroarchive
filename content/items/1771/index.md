@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381722.jpg
     alt:
       en: "Long line of men wearing hats queues inside a large hall at the Monterrey Processing Center, while an official examines a seated man's hands as others look on nearby."
+      es: "Larga fila de hombres con sombrero espera dentro de un gran salón del Centro de Procesamiento de Monterrey, mientras un funcionario examina las manos de un hombre sentado y otros observan cerca."
 geo:
 id: 1771
 item_type: Still Image

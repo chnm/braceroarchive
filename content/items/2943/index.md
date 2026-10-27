@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385516.jpg
     alt:
       en: "Black-and-white photo of a lake near Watsonville, California, with a small boat on the water, a hazy sun low on the horizon, and grassy shoreline in the foreground."
+      es: "Fotografía en blanco y negro de un lago cerca de Watsonville, California, con una pequeña embarcación en el agua, un sol brumoso bajo en el horizonte y una orilla cubierta de pasto en primer plano."
 geo:
 id: 2943
 item_type: Still Image

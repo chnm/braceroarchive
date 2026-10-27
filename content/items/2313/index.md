@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383541.jpg
     alt:
       en: "Black-and-white photo of braceros working in a camp kitchen in the Salinas Valley, preparing food at metal tables with pans of ingredients, large pots, and shelving visible in the background."
+      es: "Fotografía en blanco y negro de braceros trabajando en la cocina de un campamento en el Valle de Salinas, preparando alimentos en mesas metálicas con bandejas de ingredientes, ollas grandes y estanterías al fondo."
 geo:
 id: 2313
 item_type: Still Image

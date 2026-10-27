@@ -48,6 +48,7 @@ files:
     url: /files/original/espino-6copy_10ca670c96.jpg
     alt:
       en: "Texas Department of Public Safety driver's license for Espino, Jose Ortiz, Class A, with a photo of a man wearing glasses, listing Texas address with ZIP 79907 and expiration in 1993."
+      es: "Licencia de conducir del Departamento de Seguridad Pública de Texas para Espino, Jose Ortiz, Clase A, con foto de un hombre con gafas, dirección en Texas con código postal 79907 y vencimiento en 1993."
 geo:
 id: 926
 item_type: Document

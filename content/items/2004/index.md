@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382505.jpg
     alt:
       en: "A man seated on a chair receives a medical examination from a doctor, while a nurse stands nearby in a small clinic room furnished with shelves, bottles, and a gooseneck lamp."
+      es: "Un hombre sentado en una silla recibe un examen médico de un doctor, mientras una enfermera permanece cerca en un pequeño consultorio con estantes, frascos y una lámpara de cuello flexible."
 geo:
 id: 2004
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio2a_c1b8f65887.jpg
     alt:
       en: "Mexican government ID card from Secretaría de Hacienda y Crédito Público, Registro Federal de Causantes, for Leon Lopez Asterio, registration number LELA-271028, dated January 18, 1963, with red signature."
+      es: "Tarjeta de identificación de la Secretaría de Hacienda y Crédito Público, Registro Federal de Causantes, de Leon Lopez Asterio, número de registro LELA-271028, fechada el 18 de enero de 1963, con firma en rojo."
 geo:
 id: 1247
 item_type: Document

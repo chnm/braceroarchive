@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380836.jpg
     alt:
       en: "Black-and-white photo of braceros, many wearing wide-brimmed hats, standing and lined up on a dirt courtyard near trees and large industrial buildings in Mexico City."
+      es: "Fotografía en blanco y negro de braceros, muchos con sombreros de ala ancha, de pie y formados en fila sobre un patio de tierra cerca de árboles y grandes edificios industriales en la Ciudad de México."
 geo:
 id: 1523
 item_type: Still Image

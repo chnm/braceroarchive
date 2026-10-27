@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383521.jpg
     alt:
       en: "Rows of wooden crates line a furrowed field in the Salinas Valley, with workers bent among onion rows and hills visible in the distance."
+      es: "Filas de cajas de madera se alinean en un campo surcado del Valle de Salinas, con trabajadores agachados entre las hileras de cebollas y colinas visibles al fondo."
 geo:
 id: 2329
 item_type: Still Image

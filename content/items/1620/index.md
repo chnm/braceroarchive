@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381227.jpg
     alt:
       en: "Interior view of an empty wooden flatbed truck with long bench-like seating down each side, photographed from the rear; other trucks and buildings are visible outside in the background."
+      es: "Vista interior de un camión de plataforma de madera vacío, con asientos tipo banca a lo largo de ambos lados, fotografiado desde la parte trasera; se ven otros camiones y edificios al fondo."
 geo:
 id: 1620
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381502.jpg
     alt:
       en: "A long line of men, many wearing wide-brimmed hats, stand and sit along a stone building's base on a sidewalk, waiting outside in Mexico City."
+      es: "Una larga fila de hombres, muchos con sombreros de ala ancha, están de pie y sentados junto a la base de un edificio de piedra en una acera, esperando en la Ciudad de México."
 geo:
 id: 1688
 item_type: Still Image

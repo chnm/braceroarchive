@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380144.jpg
     alt:
       en: "Multiple sets of empty railroad tracks stretch across a dirt lot in the foreground, with a large crowd of braceros gathered beyond them near buildings at the Monterrey Processing Center."
+      es: "Varias vías de ferrocarril vacías cruzan un terreno de tierra en primer plano, con una gran multitud de braceros reunidos más allá, cerca de edificios en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1275
 item_type: Still Image

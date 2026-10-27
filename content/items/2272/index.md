@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383435.jpg
     alt:
       en: "Black-and-white photo of braceros bent over rows of lettuce, harvesting and packing it into boxes in a Salinas Valley field, with hills visible in the background."
+      es: "Foto en blanco y negro de braceros agachados sobre hileras de lechuga, cosechándola y empacándola en cajas en un campo del Valle de Salinas, con colinas al fondo."
 geo:
 id: 2272
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383730.jpg
     alt:
       en: "Black-and-white aerial view of braceros taking a lunch break on a dirt path beside long rows of crops, with some workers seated eating while others stand nearby in the Salinas Valley, California."
+      es: "Vista aérea en blanco y negro de braceros durante su almuerzo en un camino de tierra junto a largas hileras de cultivos, algunos sentados comiendo y otros de pie, en el Valle de Salinas, California."
 geo:
 id: 2430
 item_type: Still Image

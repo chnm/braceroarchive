@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---passport2_c114cf60d2.jpg
     alt:
       en: "Two facing pages of a Mexican passport booklet; the upper page shows faint reversed text visible through the paper, while the lower page bears a green \"VISADA\" stamp with a March 28, 1959 date and official signature."
+      es: "Dos páginas enfrentadas de un pasaporte mexicano; la página superior muestra texto invertido tenue visible a través del papel, y la inferior tiene un sello verde \"VISADA\" con fecha 28 de marzo de 1959 y firma oficial."
 geo:
 id: 972
 item_type: Document

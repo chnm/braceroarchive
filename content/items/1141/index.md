@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-221_0f9136ae01.jpg
     alt:
       en: "Newspaper clipping headlined \"On the Record\" with the obituary of James T. Hiroto, 65, a 22-year farm worker from Santa Ana, detailing his services, background, survivors, and memorial donation information."
+      es: "Recorte de periódico titulado \"On the Record\" con el obituario de James T. Hiroto, de 65 años, trabajador agrícola por 22 años en Santa Ana, con detalles de sus servicios, familiares y donaciones conmemorativas."
 geo:
 id: 1141
 item_type: Document

@@ -48,6 +48,7 @@ files:
     url: /files/original/mica-egp,-julio-1964-(front-with-picture)_8f8356cea7.jpg
     alt:
       en: "An \"Alien Laborer's Identification Card\" issued by the U.S. Department of Justice, Immigration and Naturalization Service (Form 1-100D, Rev. 8-1-59), featuring a man's photograph."
+      es: "Tarjeta de identificación \"Alien Laborer's Identification Card\" del Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización (Formulario 1-100D, Rev. 8-1-59), con la fotografía de un hombre."
 geo:
 id: 863
 item_type: Document

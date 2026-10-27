@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382418.jpg
     alt:
       en: "Interior of a Quonset-style dining hall with a curved corrugated metal roof, long wooden tables and benches in the foreground, and two men working at a kitchen counter in the back."
+      es: "Interior de un comedor tipo Quonset con techo curvo de metal corrugado, largas mesas y bancas de madera en primer plano, y dos hombres trabajando en una barra de cocina al fondo."
 geo:
 id: 1982
 item_type: Still Image

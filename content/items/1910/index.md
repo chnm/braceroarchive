@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382210.jpg
     alt:
       en: "A man sits on a cot inside a dimly lit tent, surrounded by brick walls hung with magazine clippings, clothing, and a hat; other beds are visible nearby."
+      es: "Un hombre sentado en un catre dentro de una tienda poco iluminada, con paredes de ladrillo cubiertas de recortes de revistas, ropa colgada y un sombrero; otras camas visibles cerca."
 geo:
 id: 1910
 item_type: Still Image

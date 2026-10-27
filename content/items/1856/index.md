@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382022.jpg
     alt:
       en: "Black-and-white photo of workers bent over harvesting lettuce into a crate in a vast field, with many more laborers scattered across the rows in the background."
+      es: "Fotografía en blanco y negro de trabajadores agachados cosechando lechuga en una caja, en un extenso campo con muchos más jornaleros dispersos entre los surcos al fondo."
 geo:
 id: 1856
 item_type: Still Image

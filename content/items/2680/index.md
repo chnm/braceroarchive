@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384513.jpg
     alt:
       en: "Black-and-white photo of braceros seated on bare ground at a field's edge during lunch, surrounded by sacks, bundles, and a metal container, with a dirt road and figure in the background."
+      es: "Foto en blanco y negro de braceros sentados en el suelo al borde de un campo durante el almuerzo, rodeados de costales, bultos y un recipiente metálico, con un camino de tierra y una figura al fondo."
 geo:
 id: 2680
 item_type: Still Image

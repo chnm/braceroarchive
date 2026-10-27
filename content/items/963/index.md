@@ -48,6 +48,7 @@ files:
     url: /files/original/silva-marin,-roberto,-1961,-mica2_30fb302ad3.jpg
     alt:
       en: "Bracero ID card back for Roberto Silva Marin, listing Jalpa, Zac. as home address and birthplace, birth date 6/6/36, admission at Calexico, California on 9/13/61, with card number L3769897."
+      es: "Reverso de tarjeta de identificación de bracero de Roberto Silva Marin, con domicilio y lugar de nacimiento en Jalpa, Zac., fecha de nacimiento 6/6/36, admitido en Calexico, California el 9/13/61, número de tarjeta L3769897."
 geo:
 id: 963
 item_type: Document

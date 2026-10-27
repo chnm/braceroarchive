@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381723.jpg
     alt:
       en: "Black-and-white photo of a long line of men in straw hats inside a hall, as an official seated at a table examines one worker's hand for callouses during processing."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con sombreros de paja dentro de un salón, mientras un funcionario sentado en una mesa examina la mano de un trabajador en busca de callosidades."
 geo:
 id: 1772
 item_type: Still Image

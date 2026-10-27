@@ -46,6 +46,7 @@ files:
     url: /files/original/amarin002_9bac79950c.jpg
     alt:
       en: "Worn Mexican military service ID booklet with national emblem on the cover, open to reveal a printed yellow form filled with handwritten service details and official stamps."
+      es: "Cartilla de identidad militar mexicana desgastada con el escudo nacional en la portada, abierta para mostrar un formulario amarillo impreso con datos de servicio escritos a mano y sellos oficiales."
 geo:
 id: 610
 item_type: Document

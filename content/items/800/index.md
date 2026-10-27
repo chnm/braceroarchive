@@ -46,6 +46,7 @@ files:
     url: /files/original/jul28_07_f0435829d8.jpg
     alt:
       en: "Typed English and Spanish wage schedules for Monterey, Santa Cruz, San Benito, and Santa Clara counties, listing crop tasks and pay rates, with stamped seals and signatures at the bottom."
+      es: "Listas de salarios mecanografiadas en inglés y español para los condados de Monterey, Santa Cruz, San Benito y Santa Clara, detallando tareas agrícolas y tarifas de pago, con sellos y firmas estampados al final."
 geo:
 id: 800
 item_type: Still Image

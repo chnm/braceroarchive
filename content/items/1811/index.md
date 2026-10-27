@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381922.jpg
     alt:
       en: "Black-and-white photo of a man leaning against a wooden railing beside a building, with a sign reading \"5500 NORTHROP, CASA #1, STOCKTON CALIF.\" mounted on the wall."
+      es: "Foto en blanco y negro de un hombre apoyado en una barandilla de madera junto a un edificio, con un letrero que dice \"5500 NORTHROP, CASA #1, STOCKTON CALIF.\" montado en la pared."
 geo:
 id: 1811
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381107.jpg
     alt:
       en: "Aerial view of a large courtyard at a processing center, with groups of braceros standing in long lines and others seated on the ground, surrounded by low buildings and distant mountains."
+      es: "Vista aérea de un amplio patio en un centro de procesamiento, con grupos de braceros formados en largas filas y otros sentados en el suelo, rodeados de edificios bajos y montañas al fondo."
 geo:
 id: 1584
 item_type: Still Image

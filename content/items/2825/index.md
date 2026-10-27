@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385010.jpg
     alt:
       en: "Black-and-white street scene with a pickup truck carrying several men in its bed, driving past utility poles, trees, and low buildings, with another truck and car visible on the road."
+      es: "Escena callejera en blanco y negro con una camioneta pickup que lleva varios hombres en la caja, pasando junto a postes eléctricos, árboles y edificios bajos, con otro camión y un auto en la carretera."
 geo:
 id: 2825
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/montesroblesmanuelworkerscontract1_6156e75864.jpg
     alt:
       en: "Worn, creased standard work contract form for Manuel Montes Robles, listing California worksites and a July 22, 1960 start date, with \"BORN TO SUFFER\" handwritten boldly beneath the wage section."
+      es: "Formulario de contrato de trabajo estándar, gastado y arrugado, a nombre de Manuel Montes Robles, con sitios de trabajo en California y fecha de inicio el 22 de julio de 1960, y \"BORN TO SUFFER\" escrito en letras grandes bajo la sección de salarios."
 geo:
 id: 1121
 item_type: Document

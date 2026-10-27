@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382422.jpg
     alt:
       en: "Braceros stand in a Stockton office beside a chalkboard with handwritten notices, posters including \"El Aguila\" visible on the wall nearby."
+      es: "Braceros de pie en una oficina de Stockton junto a una pizarra con avisos escritos a mano, con carteles como \"El Águila\" visibles en la pared cercana."
 geo:
 id: 1986
 item_type: Still Image

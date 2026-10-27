@@ -48,6 +48,7 @@ files:
     url: /files/original/mar17_20_b97fbef2de.jpg
     alt:
       en: "A green New York Central System employee's trip pass numbered TW 6292, issued to Cartarino Cusillas, Track Laborer, for travel from Detroit, Mich. to Wauseon, O., dated Sept. 14, 1944, with handwritten signatures."
+      es: "Pase de viaje verde del New York Central System número TW 6292, emitido a Cartarino Cusillas, peón de vía, para viajar de Detroit, Mich. a Wauseon, O., fechado el 14 de septiembre de 1944, con firmas manuscritas."
 geo:
 id: 531
 item_type: Document

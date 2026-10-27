@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-california-septiembre-octubre-1960-(back)_f20c8d478e.jpg
     alt:
       en: "Typed bilingual wage schedule from the California Asparagus Growers Assn., Inc., listing crop tasks and pay rates for San Joaquin, Stanislaus, and Contra Costa counties, on stained, aged paper."
+      es: "Lista bilingüe mecanografiada de tareas agrícolas y tarifas salariales de California Asparagus Growers Assn., Inc., para los condados de San Joaquín, Stanislaus y Contra Costa, en papel envejecido y manchado."
 geo:
 id: 890
 item_type: Document

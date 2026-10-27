@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382127.jpg
     alt:
       en: "Black-and-white photo of a bracero seated on a concrete step being shaved by a standing man, while a third worker watches from the doorway of a wooden barracks building."
+      es: "Fotografía en blanco y negro de un bracero sentado en un escalón de concreto mientras otro hombre de pie lo afeita, y un tercer trabajador observa desde la puerta de una barraca de madera."
 geo:
 id: 1893
 item_type: Still Image

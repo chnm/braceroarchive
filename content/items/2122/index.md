@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382832.jpg
     alt:
       en: "Black-and-white photo of braceros gathered around a large pot of beans on a wooden table, serving food onto plates in a camp dining hall kitchen."
+      es: "Fotografía en blanco y negro de braceros reunidos alrededor de una gran olla de frijoles sobre una mesa de madera, sirviendo comida en platos en la cocina de un comedor del campamento."
 geo:
 id: 2122
 item_type: Still Image

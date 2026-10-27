@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384719.jpg
     alt:
       en: "Black-and-white photo of a dining hall where men line up with stacked plates near a serving counter and metal food tray, while others sit eating at long tables in the background."
+      es: "Foto en blanco y negro de un comedor donde hombres hacen fila con platos apilados junto a un mostrador y una bandeja metálica de comida, mientras otros comen sentados en mesas largas al fondo."
 geo:
 id: 2747
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380942.jpg
     alt:
       en: "Black-and-white photo of a group of men in straw hats and work clothes gathered around a covered cart, with buildings and trees in the background near the Monterrey Processing Center, Mexico."
+      es: "Foto en blanco y negro de un grupo de hombres con sombreros de paja y ropa de trabajo reunidos junto a una carreta cubierta, con edificios y árboles al fondo cerca del Centro de Proceso de Monterrey, México."
 geo:
 id: 1553
 item_type: Still Image

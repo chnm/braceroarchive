@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385604.jpg
     alt:
       en: "Group of braceros wearing straw hats, crouched and seated along the edge of a furrowed pepper field, sharing a lunch of bottled drinks and food on plates."
+      es: "Grupo de braceros con sombreros de paja, agachados y sentados al borde de un campo surcado de pimientos, compartiendo un almuerzo con bebidas embotelladas y comida en platos."
 geo:
 id: 2965
 item_type: Still Image

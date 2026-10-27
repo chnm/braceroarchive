@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385111.jpg
     alt:
       en: "Black-and-white photo of a bracero seated on a stool writing a letter, while another man reclines behind him reading a magazine, in a cluttered camp living quarters with clothes hanging above."
+      es: "Fotografía en blanco y negro de un bracero sentado en un taburete escribiendo una carta, mientras otro hombre recostado detrás lee una revista, en un dormitorio de campamento desordenado con ropa colgada arriba."
 geo:
 id: 2852
 item_type: Still Image

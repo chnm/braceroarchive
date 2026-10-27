@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382105.jpg
     alt:
       en: "Black-and-white photo of braceros sitting on beds in a camp dormitory, gathered around a radio, smoking and talking, with clothing and hats hanging on the walls."
+      es: "Fotografía en blanco y negro de braceros sentados en camas en un dormitorio del campamento, reunidos alrededor de una radio, fumando y conversando, con ropa y sombreros colgados en las paredes."
 geo:
 id: 1871
 item_type: Still Image

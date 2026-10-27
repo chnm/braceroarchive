@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384713.jpg
     alt:
       en: "Black-and-white photo of braceros seated at long tables in a crowded dining hall, with a stack of plates in the foreground and a mural visible on the far wall."
+      es: "Foto en blanco y negro de braceros sentados en mesas largas en un comedor lleno de gente, con una pila de platos en primer plano y un mural visible en la pared del fondo."
 geo:
 id: 2741
 item_type: Still Image

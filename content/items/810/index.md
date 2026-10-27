@@ -48,6 +48,7 @@ files:
     url: /files/original/recibos-de-pago-agosto-1961_91674c93f2.jpg
     alt:
       en: "Two Santa Barbara Labor Association pay stubs dated 8/19/61 and 8/5/61, listing hours worked, box counts, gross pay, deductions, and net pay of $52.25 and $46.54, with check numbers 14327 and 13597."
+      es: "Dos recibos de pago de Santa Barbara Labor Association fechados 8/19/61 y 8/5/61, con horas trabajadas, cajas, pago bruto, deducciones y pago neto de $52.25 y $46.54, cheques 14327 y 13597."
 geo:
 id: 810
 item_type: Document

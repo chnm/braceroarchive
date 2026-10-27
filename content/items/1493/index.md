@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380806.jpg
     alt:
       en: "Black-and-white photo of a dirt courtyard with a stone house, where several people stand near piles of corn stalks while pigs forage in the foreground."
+      es: "Foto en blanco y negro de un patio de tierra con una casa de piedra, donde varias personas están cerca de montones de tallos de maíz mientras cerdos buscan comida en primer plano."
 geo:
 id: 1493
 item_type: Still Image

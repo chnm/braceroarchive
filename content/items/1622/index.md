@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381217.jpg
     alt:
       en: "Bundles and sacks of belongings scattered across a dirt yard at the Hidalgo Processing Center, with groups of men standing near low buildings in the background."
+      es: "Bultos y costales de pertenencias esparcidos sobre un terreno de tierra en el Centro de Procesamiento de Hidalgo, con grupos de hombres de pie cerca de edificios bajos al fondo."
 geo:
 id: 1622
 item_type: Still Image

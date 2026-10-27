@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383220.jpg
     alt:
       en: "A man sits on a cot in a sparse bunkroom, writing a letter, with jackets hanging on wall hooks and a chair and another bed nearby."
+      es: "Un hombre sentado en un catre escribe una carta en un cuarto sencillo, con chaquetas colgadas en ganchos en la pared, una silla y otra cama cerca."
 geo:
 id: 2225
 item_type: Still Image

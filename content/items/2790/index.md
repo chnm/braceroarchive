@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384911.jpg
     alt:
       en: "Black-and-white photo of braceros bent over performing stoop labor across rows of a pepper field, with workers using hoes and tools scattered across the furrows under bright sunlight."
+      es: "Fotografía en blanco y negro de braceros agachados realizando trabajo agrícola en hileras de un campo de chile, con trabajadores usando azadones bajo el sol brillante."
 geo:
 id: 2790
 item_type: Still Image

@@ -46,6 +46,7 @@ files:
     url: /files/original/carrilo4_f8df0145c7.jpg
     alt:
       en: "State of New Mexico Bureau of Public Health birth certificate for Cenada Lucero, born June 4, 1924 in Raton, with parents' names and a certified copy stamp from Santa Fe dated 1980."
+      es: "Certificado de nacimiento del Estado de Nuevo México, Oficina de Salud Pública, para Cenada Lucero, nacida el 4 de junio de 1924 en Raton, con nombres de los padres y sello de copia certificada de Santa Fe fechado en 1980."
 geo:
 id: 631
 item_type: Still Image

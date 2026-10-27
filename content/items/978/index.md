@@ -48,6 +48,7 @@ files:
     url: /files/original/garcia-roberto---passport10_244716b2d8.jpg
     alt:
       en: "Mexican passport page with a round \"Consulado General de México, Los Angeles, CA\" stamp dated APR 29 1961, and printed text citing Matricula 1341980 and Jose Ramirez Ceballos."
+      es: "Página de pasaporte mexicano con un sello circular del \"Consulado General de México, Los Ángeles, CA\" fechado APR 29 1961, y texto impreso con Matrícula 1341980 y José Ramírez Ceballos."
 geo:
 id: 978
 item_type: Document

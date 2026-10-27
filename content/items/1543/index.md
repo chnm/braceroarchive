@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380912.jpg
     alt:
       en: "Men wearing hats and carrying bags gather in line outside a small wooden shed with a corrugated metal roof, presenting documents to officials at a processing window."
+      es: "Hombres con sombrero y bolsas hacen fila junto a una caseta de madera con techo de lámina corrugada, presentando documentos a funcionarios en una ventanilla de trámite."
 geo:
 id: 1543
 item_type: Still Image

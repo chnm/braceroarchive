@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383021.jpg
     alt:
       en: "Black-and-white view from a bracero camp rooftop, with corrugated barracks roofs and windows in the foreground and rows of cultivated farmland stretching to the horizon beyond."
+      es: "Vista en blanco y negro desde el techo de un campamento de braceros, con techos corrugados de barracas y ventanas en primer plano, y hileras de campos cultivados que se extienden hacia el horizonte."
 geo:
 id: 2395
 item_type: Still Image

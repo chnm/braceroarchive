@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385521.jpg
     alt:
       en: "Black-and-white street scene with a group of men walking along a sidewalk past storefronts advertising Palace Grill, Chesterfield, and Budweiser, with vintage cars parked along the road in Watsonville, California."
+      es: "Escena callejera en blanco y negro con un grupo de hombres caminando por una acera frente a tiendas con anuncios de Palace Grill, Chesterfield y Budweiser, y autos antiguos estacionados en la calle en Watsonville, California."
 geo:
 id: 2948
 item_type: Still Image

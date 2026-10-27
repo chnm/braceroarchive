@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-17_19428e4eda.jpg
     alt:
       en: "Typed letter dated July 19, 1948 from Coachella Valley Farmers Association to Clarence Porter regarding Nepomuceno Gonzalez-Sanchez, with handwritten notes and a signature stamp of Ocelio Vasques."
+      es: "Carta mecanografiada fechada el 19 de julio de 1948 de Coachella Valley Farmers Association a Clarence Porter sobre Nepomuceno Gonzalez-Sanchez, con notas manuscritas y un sello de firma de Ocelio Vasques."
 geo:
 id: 1107
 item_type: Document

@@ -46,6 +46,7 @@ files:
     url: /files/original/img_3145rotated_79bc8c5b4b.jpg
     alt:
       en: "Jesus Soberano Rodriguez, wearing a wide-brimmed straw hat and checked shirt, sits in a kitchen during his oral history interview, with shelves, jars, and a sunlit window in the background."
+      es: "Jesús Soberano Rodríguez, con sombrero de ala ancha y camisa a cuadros, está sentado en una cocina durante su entrevista oral, con estantes, frascos y una ventana iluminada al fondo."
 geo:
 id: 3028
 item_type: Still Image

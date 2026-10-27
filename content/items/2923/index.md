@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385408.jpg
     alt:
       en: "A man in a dark jacket places his hand on a kneeling worker's head in blessing, as a group of men in undershirts gather around in front of a corrugated metal building."
+      es: "Un hombre con chaqueta oscura coloca su mano sobre la cabeza de un trabajador arrodillado en señal de bendición, mientras un grupo de hombres en camiseta se reúne frente a un edificio de metal corrugado."
 geo:
 id: 2923
 item_type: Still Image

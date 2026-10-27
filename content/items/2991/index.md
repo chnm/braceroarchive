@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385631.jpg
     alt:
       en: "Black-and-white photo of workers bent over picking lettuce in long rows, with flatbed trucks marked \"23\" and \"5\" parked alongside the field and a house in the background."
+      es: "Fotografía en blanco y negro de trabajadores agachados cosechando lechuga en largas hileras, con camiones de plataforma marcados \"23\" y \"5\" estacionados junto al campo y una casa al fondo."
 geo:
 id: 2991
 item_type: Still Image

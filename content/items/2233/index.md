@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383228.jpg
     alt:
       en: "Black-and-white photo of braceros relaxing on bunk beds in a dormitory room, one smoking in the foreground, two others talking in the background, with hats and clothing hanging nearby."
+      es: "Foto en blanco y negro de braceros descansando en literas de un dormitorio, uno fumando en primer plano y dos conversando al fondo, con sombreros y ropa colgada cerca."
 geo:
 id: 2233
 item_type: Still Image

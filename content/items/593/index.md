@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p18-19_7fee14777f.jpg
     alt:
       en: "Two pages of printed Spanish text, numbered 18 and 19, explaining bracero contract guarantees on employment duration and pay rates for piecework versus hourly wages."
+      es: "Dos páginas de texto impreso en español, numeradas 18 y 19, que explican las garantías del contrato del bracero sobre la duración del empleo y las tarifas de pago por destajo frente al pago por hora."
 geo:
 id: 593
 item_type: Still Image

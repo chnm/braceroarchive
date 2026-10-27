@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382831.jpg
     alt:
       en: "A man leans against a concrete block wall, reading a letter in an alleyway lined with small houses and a wooden fence."
+      es: "Un hombre se apoya contra un muro de bloques de concreto, leyendo una carta en un callejón bordeado de casas pequeñas y una cerca de madera."
 geo:
 id: 2121
 item_type: Still Image

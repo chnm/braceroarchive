@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381735.jpg
     alt:
       en: "Rows of seated typists process paperwork for braceros at desks inside a large hall, while a long line of men in hats waits beneath a \"Gate Time\" sign at the Monterrey Processing Center."
+      es: "Filas de mecanógrafas sentadas procesan documentos de braceros en escritorios dentro de un gran salón, mientras una larga fila de hombres con sombrero espera bajo un letrero \"Gate Time\" en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1784
 item_type: Still Image

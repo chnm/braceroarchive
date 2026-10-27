@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383323.jpg
     alt:
       en: "Black-and-white photo of braceros bent over in long rows of a pepper field, with hazy hills rising in the background."
+      es: "Foto en blanco y negro de braceros agachados en largas hileras de un campo de pimientos, con colinas brumosas al fondo."
 geo:
 id: 2263
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382116.jpg
     alt:
       en: "Black-and-white photo of braceros seated on beds and crates in a bunkhouse, gathered around a radio, with clothing and hats hanging on the walls above them."
+      es: "Fotografía en blanco y negro de braceros sentados en camas y cajones en un dormitorio, reunidos alrededor de una radio, con ropa y sombreros colgados en las paredes sobre ellos."
 geo:
 id: 1882
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381618.jpg
     alt:
       en: "Rows of seated typists record information dictated by shirtless braceros standing at desks in a large hall, with a \"DATE TIME\" sign visible in the background at the Monterrey Processing Center."
+      es: "Filas de mecanógrafas sentadas registran información dictada por braceros sin camisa de pie frente a los escritorios en un gran salón, con un letrero \"DATE TIME\" visible al fondo en el Centro de Contratación de Monterrey."
 geo:
 id: 1749
 item_type: Still Image

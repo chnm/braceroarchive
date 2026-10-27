@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383911.jpg
     alt:
       en: "Black-and-white photo of a vendor selling goods from the open back of a van to a crowd of men in straw hats, with shirts and jackets hanging for sale, at a bus stop in Stockton, California."
+      es: "Fotografía en blanco y negro de un vendedor ofreciendo mercancía desde la parte trasera abierta de una camioneta a un grupo de hombres con sombreros de paja, con camisas y chaquetas colgadas para la venta, en una parada de autobús en Stockton, California."
 geo:
 id: 2489
 item_type: Still Image

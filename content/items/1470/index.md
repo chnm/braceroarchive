@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380710.jpg
     alt:
       en: "Large crowd of men in straw hats gathered outdoors near a railroad track and fenced path, with makeshift stalls and a mountain visible in the background at the Monterrey Processing Center."
+      es: "Gran multitud de hombres con sombreros de paja reunidos al aire libre cerca de una vía férrea y un camino cercado, con puestos improvisados y una montaña al fondo en el Centro de Contratación de Monterrey."
 geo:
 id: 1470
 item_type: Still Image

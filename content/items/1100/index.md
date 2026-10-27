@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-2_eba5b96129.jpg
     alt:
       en: "Filled-out \"Filiacion\" form for Salvador Velasco Patiño listing birth date, height, and occupation, with two large smudged fingerprints and a signature stamped on the aged, creased paper."
+      es: "Formulario \"Filiación\" completado a nombre de Salvador Velasco Patiño, con fecha de nacimiento, estatura y ocupación, dos huellas dactilares grandes y borrosas, y una firma sellada sobre papel envejecido y arrugado."
 geo:
 id: 1100
 item_type: Document

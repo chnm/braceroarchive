@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384135.jpg
     alt:
       en: "A bracero reclines on a cot, pen and paper in hand, beneath hanging laundry, with a wooden \"Butler's Best Apples\" crate on the floor nearby."
+      es: "Un bracero reclinado en un catre, con pluma y papel en mano, bajo ropa colgada para secar, con una caja de madera \"Butler's Best Apples\" cerca en el suelo."
 geo:
 id: 2583
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380106.jpg
     alt:
       en: "An official seated at a wooden counter reviews documents while braceros in hats gather around under a thatched shed roof, with more men waiting in line outside at the Monterrey Processing Center."
+      es: "Un funcionario sentado en un mostrador de madera revisa documentos mientras braceros con sombreros se reúnen bajo un techo de palma, con más hombres esperando en fila afuera en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1270
 item_type: Still Image

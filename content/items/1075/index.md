@@ -48,6 +48,7 @@ files:
     url: /files/original/santacruz,-melitona,-1963,-passport1_d7e9583e9b.jpg
     alt:
       en: "Mexican passport interior spread with the national emblem, \"PASAPORTE Numero F-1271\" and No. 5403, issued to Jose Guadalupe Santacruz Rangel, alongside blank fields for titular address and emergency contact information."
+      es: "Interior de pasaporte mexicano con el escudo nacional, \"PASAPORTE Numero F-1271\" y No. 5403, expedido a Jose Guadalupe Santacruz Rangel, junto a campos en blanco para domicilio del titular y contacto de emergencia."
 geo:
 id: 1075
 item_type: Document

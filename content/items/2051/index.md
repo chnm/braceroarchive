@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382628.jpg
     alt:
       en: "A smiling man in a wide-brimmed straw hat and jacket stands in the foreground of a large pepper field, with other workers scattered across the rows behind him."
+      es: "Un hombre sonriente con sombrero de paja de ala ancha y chaqueta se encuentra en primer plano de un gran campo de pimientos, con otros trabajadores dispersos entre los surcos al fondo."
 geo:
 id: 2051
 item_type: Still Image

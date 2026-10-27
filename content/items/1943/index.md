@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382314.jpg
     alt:
       en: "Rows of metal-frame beds line a long dormitory room in a bracero camp, with men resting or sitting on the cots and jackets hanging on wall hooks along the far wall."
+      es: "Filas de camas con estructura metálica en un dormitorio alargado de un campamento de braceros, con hombres descansando o sentados en los catres y chaquetas colgadas en ganchos a lo largo de la pared del fondo."
 geo:
 id: 1943
 item_type: Still Image

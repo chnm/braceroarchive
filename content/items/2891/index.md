@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385101.jpg
     alt:
       en: "Two braceros rest on metal-frame beds in a camp dormitory, clothing hanging on the wall above shelves of canned goods, with shoes and boots scattered on the floor nearby."
+      es: "Dos braceros descansan en camas de estructura metálica en un dormitorio del campamento, con ropa colgada en la pared sobre estantes de latas y zapatos esparcidos en el suelo."
 geo:
 id: 2891
 item_type: Still Image

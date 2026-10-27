@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-191_e9750971dd.jpg
     alt:
       en: "Statement from Lopes Hardware Co. in Coochella, California, dated 7-2-58, billed to N. Gonzalez, listing a General Electric Radio Model 671 for $41.00, marked \"Paid.\""
+      es: "Estado de cuenta de Lopes Hardware Co. en Coochella, California, fechado 7-2-58, facturado a N. Gonzalez, por un Radio General Electric Modelo 671 de $41.00, marcado como \"Pagado\"."
 geo:
 id: 1135
 item_type: Document

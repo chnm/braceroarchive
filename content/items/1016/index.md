@@ -48,6 +48,7 @@ files:
     url: /files/original/voting-card-3-back_4e1048df6f.jpg
     alt:
       en: "Back of a cream-colored card stamped twice with the same signature and text \"VENTURA GUTIERREZ MENDEZ, Coordinador Nacional, Alianza Braceroproa,\" with an additional blue ink signature between the stamps."
+      es: "Reverso de una tarjeta color crema sellada dos veces con la misma firma y texto \"VENTURA GUTIERREZ MENDEZ, Coordinador Nacional, Alianza Braceroproa\", con una firma adicional en tinta azul entre los sellos."
 geo:
 id: 1016
 item_type: Document

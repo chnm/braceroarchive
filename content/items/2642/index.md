@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384409.jpg
     alt:
       en: "Black-and-white photo of a line of men in work clothes waiting outside a building with a \"Los...itos Cafe\" sign, as a man at a table distributes paychecks."
+      es: "Foto en blanco y negro de una fila de hombres con ropa de trabajo esperando frente a un edificio con un letrero \"Los...itos Cafe\", mientras un hombre en una mesa reparte cheques de pago."
 geo:
 id: 2642
 item_type: Still Image

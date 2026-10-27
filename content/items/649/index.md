@@ -49,6 +49,7 @@ files:
     url: /files/original/jul27_22_54c6491566.jpg
     alt:
       en: "Handwritten letter in Spanish on lined paper, paired with a mailing envelope addressed to Moreno Roberto Carrillo in Florence, Colorado, bearing a canceled 3-cent purple postage stamp."
+      es: "Carta manuscrita en español sobre papel rayado, junto a un sobre postal dirigido a Moreno Roberto Carrillo en Florence, Colorado, con un sello postal morado de 3 centavos cancelado."
 geo:
 id: 649
 item_type: Document

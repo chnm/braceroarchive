@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380424.jpg
     alt:
       en: "A long line of braceros, many wearing wide-brimmed hats and carrying bags, queue beside a bus at the Monterrey Processing Center, with low buildings and hazy mountains in the background."
+      es: "Una larga fila de braceros, muchos con sombreros de ala ancha y cargando bolsas, esperan junto a un autobús en el Centro de Procesamiento de Monterrey, con edificios bajos y montañas difusas al fondo."
 geo:
 id: 1354
 item_type: Still Image

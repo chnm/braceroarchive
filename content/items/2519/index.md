@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384008.jpg
     alt:
       en: "Black-and-white photo of a flatbed truck stacked with crates in a Salinas Valley lettuce field, with workers in the rows and hills visible in the distance."
+      es: "Foto en blanco y negro de un camión de plataforma cargado con cajas en un campo de lechuga del Valle de Salinas, con trabajadores entre los surcos y colinas al fondo."
 geo:
 id: 2519
 item_type: Still Image

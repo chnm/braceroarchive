@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381220.jpg
     alt:
       en: "Braceros form a long line beside open-sided buildings at the Hidalgo Processing Center, Texas, with groups of men gathered and seated nearby under a cloudy sky."
+      es: "Braceros forman una larga fila junto a edificios abiertos en el Centro de Procesamiento de Hidalgo, Texas, con grupos de hombres reunidos y sentados cerca bajo un cielo nublado."
 geo:
 id: 1625
 item_type: Still Image

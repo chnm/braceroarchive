@@ -48,6 +48,7 @@ files:
     url: /files/original/jul28_01_c834333066.jpg
     alt:
       en: "Worn green card from the Ventura County Citrus Growers Committee, Santa Paula, Calif., certifying Jose Hernandez-Romero completed contract No. L-2865713 on 4-17-59 with S.P. Cit. & Briggs Lemon."
+      es: "Tarjeta verde y desgastada del Ventura County Citrus Growers Committee, Santa Paula, Calif., que certifica que Jose Hernandez-Romero completó el contrato No. L-2865713 el 4-17-59 con S.P. Cit. & Briggs Lemon."
 geo:
 id: 650
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384420.jpg
     alt:
       en: "Black-and-white photo of two braceros resting on simple cots in a sparse camp bedroom, one lying flat with arm raised, the other reclining with hands behind his head."
+      es: "Foto en blanco y negro de dos braceros descansando en catres sencillos en un dormitorio austero del campamento, uno acostado con un brazo levantado y el otro reclinado con las manos detrás de la cabeza."
 geo:
 id: 2652
 item_type: Still Image

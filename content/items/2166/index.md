@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383015.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat walks along a dirt path between rows of wooden barracks, with puddles of water in the foreground and a long shadow cast beside him."
+      es: "Un bracero con sombrero de ala ancha camina por un camino de tierra entre hileras de barracas de madera, con charcos de agua al frente y una larga sombra a su lado."
 geo:
 id: 2166
 item_type: Still Image

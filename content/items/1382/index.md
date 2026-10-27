@@ -46,6 +46,7 @@ files:
     url: /files/original/NAD-200401380501.jpg
     alt:
       en: "Men gather at a wooden table eating and talking in a long barracks lined with bunk beds and hanging clothes, sunlight streaming through windows near McAllen, Texas."
+      es: "Hombres se reúnen en una mesa de madera comiendo y conversando en un barracón largo con literas y ropa colgada, con luz solar entrando por las ventanas cerca de McAllen, Texas."
 geo:
 id: 1382
 item_type: Still Image

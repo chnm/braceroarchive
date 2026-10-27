@@ -46,6 +46,7 @@ files:
     url: /files/original/NAD-200401380615.jpg
     alt:
       en: "Group of men wearing hats and carrying bags walk alongside railroad tracks beside a tall wire fence, with mountains visible in the hazy distance."
+      es: "Grupo de hombres con sombreros y cargando bolsas camina junto a las vías del ferrocarril al lado de una alta cerca de alambre, con montañas visibles al fondo entre la neblina."
 geo:
 id: 1421
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382828.jpg
     alt:
       en: "A line of men stand at a serving counter in a dining hall, with one reaching for food on plates as another waits behind the counter, under a single overhead light."
+      es: "Una fila de hombres espera junto a un mostrador en un comedor, mientras uno de ellos toma comida de unos platos y otra persona aguarda detrás del mostrador, bajo una sola luz colgante."
 geo:
 id: 2118
 item_type: Still Image

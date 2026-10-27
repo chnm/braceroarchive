@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381904.jpg
     alt:
       en: "A long line of men wearing wide-brimmed hats and carrying suitcases stretches down a tree-lined street toward a parked bus in Stockton, California."
+      es: "Una larga fila de hombres con sombreros de ala ancha y maletas se extiende por una calle arbolada hacia un autobús estacionado en Stockton, California."
 geo:
 id: 1829
 item_type: Still Image

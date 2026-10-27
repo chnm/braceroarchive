@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381720.jpg
     alt:
       en: "Long line of men in hats waiting in a large hall while seated officials at tables review documents at the Monterrey Processing Center, Mexico."
+      es: "Larga fila de hombres con sombrero esperando en un amplio salón mientras funcionarios sentados en mesas revisan documentos en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1769
 item_type: Still Image

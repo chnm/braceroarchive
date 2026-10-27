@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384929.jpg
     alt:
       en: "A bracero bends over with a short-handled hoe in rows of pepper plants, while other workers and distant hills are visible in the background field."
+      es: "Un bracero se inclina con un azadón de mango corto entre hileras de plantas de chile, mientras otros trabajadores y colinas distantes se ven al fondo del campo."
 geo:
 id: 2808
 item_type: Still Image

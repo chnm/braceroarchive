@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382512.jpg
     alt:
       en: "A man lies on an examination table beneath an adjustable lamp in a clinic room, while another man is examined on a table in an adjoining room visible through the doorway."
+      es: "Un hombre yace en una mesa de examinación bajo una lámpara ajustable en una sala clínica, mientras otro hombre es examinado en una mesa en una habitación contigua visible por la puerta."
 geo:
 id: 2011
 item_type: Still Image

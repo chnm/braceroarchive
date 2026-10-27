@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericowifebirthcertificate1_f5a8b48f51.jpg
     alt:
       en: "Official birth certificate from Gobierno del Estado de Guanajuato, No. 74860, recording the birth of M. Esther Rivera, with handwritten Spanish text, stamped seals, and signature."
+      es: "Certificado oficial de nacimiento del Gobierno del Estado de Guanajuato, No. 74860, que registra el nacimiento de M. Esther Rivera, con texto manuscrito en español, sellos estampados y firma."
 geo:
 id: 1131
 item_type: Document

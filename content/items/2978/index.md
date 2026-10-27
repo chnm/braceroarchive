@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385618.jpg
     alt:
       en: "Black-and-white photo of braceros wearing hats, bent over picking lettuce in a large field and packing it into \"Cookie\" brand lettuce boxes, with a loaded flatbed truck in the background."
+      es: "Fotografía en blanco y negro de braceros con sombreros, agachados cosechando lechuga en un amplio campo y empacándola en cajas de la marca \"Cookie\", con un camión de plataforma cargado al fondo."
 geo:
 id: 2978
 item_type: Still Image

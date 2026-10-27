@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382432.jpg
     alt:
       en: "Black-and-white photo of a group of men standing around an open car trunk displaying small items for sale, with a peddler demonstrating a product to the gathered braceros."
+      es: "Fotografía en blanco y negro de un grupo de hombres reunidos alrededor del maletero abierto de un auto con artículos pequeños a la venta, mientras un vendedor ambulante muestra un producto a los braceros."
 geo:
 id: 1996
 item_type: Still Image

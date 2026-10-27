@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383420.jpg
     alt:
       en: "Rows of harvested lettuce and stacked Toro lettuce boxes stretch across a large field, with workers and vehicles visible in the distance and hills on the horizon."
+      es: "Hileras de lechuga cosechada y cajas apiladas de la marca Toro se extienden por un amplio campo, con trabajadores y vehículos a lo lejos y colinas en el horizonte."
 geo:
 id: 2293
 item_type: Still Image

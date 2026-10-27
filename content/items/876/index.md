@@ -46,6 +46,7 @@ files:
     url: /files/original/foto-en-plaza-de-la-ciudadela,-2-junio-2002-(2)_e00e4838c2.jpg
     alt:
       en: "Older man in a light gray suit smiling while seated outdoors in a park, with manicured hedges, trees, and a stone fountain visible in the background."
+      es: "Hombre mayor con traje gris claro, sonriendo mientras está sentado al aire libre en un parque, con setos cuidados, árboles y una fuente de piedra visibles al fondo."
 geo:
 id: 876
 item_type: Still Image

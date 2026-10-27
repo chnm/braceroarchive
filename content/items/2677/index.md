@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384510.jpg
     alt:
       en: "Several men wearing hats rest and lie down at the edge of a cultivated field, while another worker continues laboring among the crop rows in the background."
+      es: "Varios hombres con sombrero descansan recostados al borde de un campo cultivado, mientras otro trabajador sigue laborando entre los surcos al fondo."
 geo:
 id: 2677
 item_type: Still Image

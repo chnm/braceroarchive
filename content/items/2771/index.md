@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384813.jpg
     alt:
       en: "A man lies on a narrow bunk in a small wooden sleeping quarters, cap on and arms raised behind his head, with a box of FAB detergent nearby and a calendar reading \"Hoffman\" pinned to the wall above."
+      es: "Un hombre descansa en una litera estrecha dentro de un pequeño cuarto de madera, con gorra puesta y brazos detrás de la cabeza, una caja de detergente FAB cerca y un calendario con la palabra \"Hoffman\" en la pared."
 geo:
 id: 2771
 item_type: Still Image

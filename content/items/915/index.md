@@ -48,6 +48,7 @@ files:
     url: /files/original/contreras,-juan---id-card_d0f77e05fc.jpg
     alt:
       en: "Mexican government identification card for Juan Contreras Martinez, titled \"Secretaria de Gobernacion,\" with a black-and-white photo, physical description fields, and official stamps and signatures."
+      es: "Tarjeta de identificación del gobierno mexicano para Juan Contreras Martínez, titulada \"Secretaría de Gobernación\", con fotografía en blanco y negro, datos de filiación física, sellos y firmas oficiales."
 geo:
 id: 915
 item_type: Document

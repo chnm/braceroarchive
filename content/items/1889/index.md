@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382123.jpg
     alt:
       en: "A bracero reclines on a bunk in a wooden barracks, reaching to adjust a small radio, with hats hanging above a shelf and a towel on a line nearby, a \"TORO\" mat and box of Fab detergent on the floor."
+      es: "Un bracero recostado en una litera dentro de un barracón de madera, estirando la mano para ajustar un pequeño radio; arriba hay sombreros colgados y una toalla en un tendedero, y en el piso se ven un tapete \"TORO\" y una caja de detergente Fab."
 geo:
 id: 1889
 item_type: Still Image

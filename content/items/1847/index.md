@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382037.jpg
     alt:
       en: "Black-and-white photo of farmworkers in rows of lettuce handing empty boxes from a flatbed truck marked \"19,\" with a license plate reading \"H55 994,\" in a Salinas Valley field."
+      es: "Foto en blanco y negro de trabajadores agrícolas entre surcos de lechuga pasando cajas vacías desde un camión de plataforma marcado \"19\", con placa \"H55 994\", en un campo del Valle de Salinas."
 geo:
 id: 1847
 item_type: Still Image

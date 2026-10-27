@@ -43,6 +43,7 @@ files:
     url: /files/original/lorenzogonzalezspreckels_e5ba44f10f.jpg
     alt:
       en: "Aged, damaged sepia photo of a man standing behind tall shrubbery in front of a long stalled building with a peaked roof, trees visible in the background."
+      es: "Fotografía sepia envejecida y dañada de un hombre de pie detrás de arbustos altos frente a un edificio largo con compartimentos y techo a dos aguas, con árboles visibles al fondo."
 geo:
 id: 991
 item_type: Still Image

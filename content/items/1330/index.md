@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380342.jpg
     alt:
       en: "Aerial view of hundreds of hatted men in long lines at the Monterrey Processing Center, with vendor stalls and a small lavatory hut visible amid dusty open ground."
+      es: "Vista aérea de cientos de hombres con sombrero formados en largas filas en el Centro de Procesamiento de Monterrey, con puestos de vendedores y una pequeña letrina visible en terreno polvoriento."
 geo:
 id: 1330
 item_type: Still Image

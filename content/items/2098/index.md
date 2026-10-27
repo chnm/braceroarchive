@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382808.jpg
     alt:
       en: "Black-and-white photo of two men sitting in a doorway along a row of wooden barracks, with a child standing in the dirt path and hills visible in the distance."
+      es: "Fotografía en blanco y negro de dos hombres sentados en el umbral de una fila de barracas de madera, con un niño parado en el camino de tierra y colinas visibles al fondo."
 geo:
 id: 2098
 item_type: Still Image

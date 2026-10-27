@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382410.jpg
     alt:
       en: "Large crowd of braceros, many wearing wide-brimmed hats, gathered outside a single-story building; vintage cars are parked in the gravel foreground and a bus sits in the background."
+      es: "Gran multitud de braceros, muchos con sombreros de ala ancha, reunidos junto a un edificio de un piso; autos antiguos estacionados en primer plano sobre grava y un autobús al fondo."
 geo:
 id: 1974
 item_type: Still Image

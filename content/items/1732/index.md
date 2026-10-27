@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381625.jpg
     alt:
       en: "Black-and-white photo of a crowded hall at the Monterrey Processing Center, men in cowboy hats and shirts walking and gathered near a doorway beneath a framed image of the Virgin of Guadalupe."
+      es: "Fotografía en blanco y negro de un salón abarrotado en el Centro de Procesamiento de Monterrey, con hombres en sombreros vaqueros caminando y reunidos cerca de una puerta, bajo una imagen enmarcada de la Virgen de Guadalupe."
 geo:
 id: 1732
 item_type: Still Image

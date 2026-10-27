@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381524.jpg
     alt:
       en: "Black-and-white photo of a man in a suit and glasses seated behind a desk with a telephone and papers, speaking in an office, Mexico City."
+      es: "Foto en blanco y negro de un hombre con traje y gafas sentado detrás de un escritorio con teléfono y papeles, hablando en una oficina, Ciudad de México."
 geo:
 id: 1710
 item_type: Still Image

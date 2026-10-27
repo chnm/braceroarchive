@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380222.jpg
     alt:
       en: "Black-and-white photo of a shirtless bracero standing before an X-ray machine while two clothed men observe, inside the Hidalgo Processing Center examination room."
+      es: "Fotografía en blanco y negro de un bracero sin camisa frente a una máquina de rayos X, mientras dos hombres vestidos observan dentro de la sala de examen del Centro de Procesamiento de Hidalgo."
 geo:
 id: 1305
 item_type: Still Image

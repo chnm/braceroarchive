@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384703.jpg
     alt:
       en: "A bracero tilts his head back in a chair under a lamp while a nurse in a cap and apron reviews paperwork beside him in a medical office."
+      es: "Un bracero inclina la cabeza hacia atrás en una silla bajo una lámpara, mientras una enfermera con cofia y delantal revisa unos papeles a su lado en un consultorio médico."
 geo:
 id: 2732
 item_type: Still Image

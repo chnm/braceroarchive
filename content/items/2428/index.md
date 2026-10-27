@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383728.jpg
     alt:
       en: "Aerial view of braceros wearing hats, gathered in a circle eating lunch from plates near a truck, with food containers and boxes on the ground in the Salinas Valley."
+      es: "Vista aérea de braceros con sombreros, reunidos en círculo almorzando con platos cerca de un camión, con recipientes de comida y cajas en el suelo en el Valle de Salinas."
 geo:
 id: 2428
 item_type: Still Image

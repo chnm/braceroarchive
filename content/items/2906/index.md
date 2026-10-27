@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385315.jpg
     alt:
       en: "Clothes and towels drape over a chain-link fence beside a dirt path, with a man standing near barracks-style housing in the dim light at Gondo labor camp near Watsonville, California."
+      es: "Ropa y toallas cuelgan sobre una cerca de alambre junto a un camino de tierra, con un hombre de pie cerca de las barracas en la penumbra del campo laboral Gondo, cerca de Watsonville, California."
 geo:
 id: 2906
 item_type: Still Image

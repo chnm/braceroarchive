@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384718.jpg
     alt:
       en: "Black-and-white photo of men lining up at a serving counter with trays of food in a crowded dining hall, while others sit eating at tables in the background."
+      es: "Foto en blanco y negro de hombres haciendo fila en un mostrador con bandejas de comida en un comedor lleno de gente, mientras otros comen sentados en mesas al fondo."
 geo:
 id: 2746
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/ccasillasrodriguez17copy_c9e79417ad.jpg
     alt:
       en: "Typed letterhead from New York Central System, Toledo, Ohio, dated October 7, 1944, signed by C.R. Strattman recommending track laborer Catarino Casillas Rodriguez for future employment."
+      es: "Carta mecanografiada con membrete de New York Central System, Toledo, Ohio, fechada el 7 de octubre de 1944, firmada por C.R. Strattman recomendando al obrero de vías Catarino Casillas Rodriguez para futuro empleo."
 geo:
 id: 527
 item_type: Document

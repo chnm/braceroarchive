@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384309.jpg
     alt:
       en: "Workers in a field load wooden crates of lettuce onto flatbed trucks stacked with boxes, with utility poles and trees lining the Salinas Valley landscape in the background."
+      es: "Trabajadores en un campo cargan cajas de madera con lechuga en camiones de plataforma apilados con cajas, con postes de luz y árboles bordeando el paisaje del Valle de Salinas al fondo."
 geo:
 id: 2617
 item_type: Still Image

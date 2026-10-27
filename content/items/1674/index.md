@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381421.jpg
     alt:
       en: "An agent examines a bracero's arm beneath an open-sided shelter as a line of men in hats and work clothes waits nearby at the Hidalgo Processing Center, Texas."
+      es: "Un agente examina el brazo de un bracero bajo un cobertizo abierto mientras una fila de hombres con sombreros y ropa de trabajo espera cerca, en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1674
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380602.jpg
     alt:
       en: "Armed soldiers march past a long line of men waiting to board buses at the Monterrey Processing Center, with industrial buildings visible in the background."
+      es: "Soldados armados marchan frente a una larga fila de hombres que esperan abordar autobuses en el Centro de Procesamiento de Monterrey, con edificios industriales al fondo."
 geo:
 id: 1432
 item_type: Still Image

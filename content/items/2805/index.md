@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384926.jpg
     alt:
       en: "Black-and-white photo of workers bent over in a crop field, one in the foreground using a short-handled hoe to loosen soil, others visible working in rows behind him."
+      es: "Foto en blanco y negro de trabajadores agachados en un campo de cultivo, uno en primer plano usando un azadón de mango corto para aflojar la tierra, otros trabajando en hileras detrás de él."
 geo:
 id: 2805
 item_type: Still Image

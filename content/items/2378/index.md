@@ -46,6 +46,7 @@ files:
     url: /files/original/NAD-200401385216.jpg
     alt:
       en: "Black-and-white photo of braceros bent over in rows of a lettuce field, using short-handled hoes for stoop labor, with open farmland and trees in the distance."
+      es: "Foto en blanco y negro de braceros inclinados en hileras de un campo de lechuga, usando azadones de mango corto para labor agachada, con campo abierto y árboles al fondo."
 geo:
 id: 2378
 item_type: Still Image

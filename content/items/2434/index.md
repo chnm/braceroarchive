@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383734.jpg
     alt:
       en: "Black-and-white photo of braceros boarding a wooden truck beside a field in the Salinas Valley, with men seated in the foreground and others crouched near crates on the ground."
+      es: "Fotografía en blanco y negro de braceros subiendo a un camión de madera junto a un campo en el Valle de Salinas, con hombres sentados en primer plano y otros agachados junto a cajas en el suelo."
 geo:
 id: 2434
 item_type: Still Image

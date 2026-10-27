@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382012.jpg
     alt:
       en: "Black-and-white photo of workers loading cardboard boxes labeled \"Select Lettuce\" onto a truck bed beside rows of lettuce fields, with other laborers working in the distance."
+      es: "Fotografía en blanco y negro de trabajadores cargando cajas de cartón con la etiqueta \"Select Lettuce\" en la plataforma de un camión, junto a hileras de campos de lechuga, con otros trabajadores a lo lejos."
 geo:
 id: 1840
 item_type: Still Image

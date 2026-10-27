@@ -48,6 +48,7 @@ files:
     url: /files/original/garcia-roberto---id-card-rocket-wheel-industries-copy_0cdee97848.jpg
     alt:
       en: "Pink employee ID card from Rocket Wheel Industries, Los Angeles, with a man's photo and printed/handwritten details for Roberto S. Garcia, including birth date, height, weight, and signatures."
+      es: "Tarjeta de identificación rosa de Rocket Wheel Industries, Los Ángeles, con foto de un hombre y datos impresos/manuscritos de Roberto S. Garcia, incluyendo fecha de nacimiento, estatura, peso y firmas."
 geo:
 id: 788
 item_type: Document

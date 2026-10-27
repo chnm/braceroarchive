@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385012.jpg
     alt:
       en: "Black-and-white photo of men in cowboy hats gathering near a pickup truck and trailer, with a \"Lucky Lager\" billboard truck visible in the background."
+      es: "Foto en blanco y negro de hombres con sombreros vaqueros reunidos junto a una camioneta y un remolque, con un camión publicitario de \"Lucky Lager\" visible al fondo."
 geo:
 id: 2827
 item_type: Still Image

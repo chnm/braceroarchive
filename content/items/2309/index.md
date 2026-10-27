@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383537.jpg
     alt:
       en: "A man in an apron slices onions on a cutting board in a kitchen, with plates of chopped food nearby and rows of dining tables visible through a large window behind him."
+      es: "Un hombre con delantal corta cebollas sobre una tabla en una cocina, con platos de comida picada cerca y filas de mesas de comedor visibles a través de una gran ventana detrás de él."
 geo:
 id: 2309
 item_type: Still Image

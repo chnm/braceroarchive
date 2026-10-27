@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382811.jpg
     alt:
       en: "A man leans over a long wash basin to drink water from a faucet, while two other men stand nearby talking in a camp bathroom with pipes and fixtures along the wall."
+      es: "Un hombre se inclina sobre un lavabo alargado para beber agua de un grifo, mientras otros dos hombres conversan cerca en un baño de campamento con tuberías y accesorios a lo largo de la pared."
 geo:
 id: 2101
 item_type: Still Image

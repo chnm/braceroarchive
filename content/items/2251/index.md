@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383311.jpg
     alt:
       en: "A bracero bends over in stoop labor amid rows of a pepper field, a sickle tucked in his back pocket, as other workers appear in the background."
+      es: "Un bracero se inclina en labor agachada entre hileras de un campo de pimientos, con una hoz en el bolsillo trasero, mientras otros trabajadores aparecen al fondo."
 geo:
 id: 2251
 item_type: Still Image

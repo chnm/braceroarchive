@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382221.jpg
     alt:
       en: "Rows of cots line a long wooden barracks, with a man sitting on his bed near a footlocker and clothing hanging on the wall, while others rest further down the room."
+      es: "Filas de catres se alinean en un largo barracón de madera, con un hombre sentado en su cama junto a un baúl y ropa colgada en la pared, mientras otros descansan al fondo del salón."
 geo:
 id: 1921
 item_type: Still Image

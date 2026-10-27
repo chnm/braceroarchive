@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380439.jpg
     alt:
       en: "A long line of men in cowboy hats and work clothes stands outside the Monterrey Processing Center while a woman crouches on the ground preparing food to sell nearby."
+      es: "Una larga fila de hombres con sombreros vaqueros y ropa de trabajo espera afuera del Centro de Procesamiento de Monterrey, mientras una mujer se agacha para preparar comida que vende cerca."
 geo:
 id: 1379
 item_type: Still Image

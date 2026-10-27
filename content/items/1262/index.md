@@ -46,6 +46,7 @@ files:
     url: /files/original/lopez-leon,-asterio15a_18093eb784.jpg
     alt:
       en: "Typed Spanish testimony letter dated Mexicali, Baja California, September 10, 2003, with an official seal, a \"COTEJADO\" stamp, and two signatures from witnesses Roberto Morales Aganza and Rafael Garcia Molina."
+      es: "Carta de testimonio mecanografiada en español, fechada en Mexicali, Baja California, 10 de septiembre de 2003, con un sello oficial, un sello de \"COTEJADO\" y dos firmas de los testigos Roberto Morales Aganza y Rafael Garcia Molina."
 geo:
 id: 1262
 item_type: Document

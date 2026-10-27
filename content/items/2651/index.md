@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384419.jpg
     alt:
       en: "Several braceros sit on cots playing cards in a barracks-style living quarter, with clothing hanging on wall hooks and metal bed frames lining the room."
+      es: "Varios braceros sentados en catres juegan cartas en un cuarto de dormitorio tipo barraca, con ropa colgada en ganchos de pared y camas metálicas alineadas en la sala."
 geo:
 id: 2651
 item_type: Still Image

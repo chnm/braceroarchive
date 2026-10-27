@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380510.jpg
     alt:
       en: "Men wearing wide-brimmed hats cook tortillas on a long row of griddles over gas burners, with another man standing in the background near wooden crates."
+      es: "Hombres con sombreros de ala ancha cocinan tortillas sobre una larga fila de planchas con quemadores de gas, mientras otro hombre permanece al fondo cerca de cajas de madera."
 geo:
 id: 1391
 item_type: Still Image

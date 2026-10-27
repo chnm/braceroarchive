@@ -49,6 +49,7 @@ files:
     url: /files/original/flores01_ee5ee84248.jpg
     alt:
       en: "Two registered mail receipts (POD Form 3806) with Anaheim, Calif. 1962 postmarks, listing sender Timoteo Flores and recipient Faustina Flores Soto, with fee and postage details."
+      es: "Dos recibos de correo certificado (Formulario POD 3806) con matasellos de Anaheim, Calif. de 1962, con remitente Timoteo Flores y destinataria Faustina Flores Soto, junto con detalles de tarifas y franqueo."
 geo:
 id: 620
 item_type: Still Image

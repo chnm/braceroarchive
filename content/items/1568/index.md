@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381002.jpg
     alt:
       en: "A long line of men wearing hats and carrying bundles stretches along a gravel path toward low buildings, with a mountain visible in the distant background."
+      es: "Una larga fila de hombres con sombreros y bultos se extiende por un camino de grava hacia edificios bajos, con una montaña visible al fondo."
 geo:
 id: 1568
 item_type: Still Image

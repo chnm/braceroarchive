@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380642.jpg
     alt:
       en: "Long line of braceros wearing hats winds across an open dirt yard toward processing buildings, with a crowd gathered near a fence and a mountain rising in the background."
+      es: "Larga fila de braceros con sombreros se extiende por un patio de tierra hacia edificios de procesamiento, con una multitud junto a una cerca y una montaña al fondo."
 geo:
 id: 1440
 item_type: Still Image

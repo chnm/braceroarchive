@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384811.jpg
     alt:
       en: "Black-and-white photo of two men smiling near a doorway in a California labor camp, one wearing a denim jacket and the other a cap and button-down shirt."
+      es: "Fotografía en blanco y negro de dos hombres sonriendo junto a una puerta en un campamento laboral de California, uno con chaqueta de mezclilla y el otro con gorra y camisa de botones."
 geo:
 id: 2769
 item_type: Still Image

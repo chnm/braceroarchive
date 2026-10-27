@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380216.jpg
     alt:
       en: "A silhouetted technician adjusts equipment as a man stands facing the camera against a white backdrop, preparing for an identification photograph at the Hidalgo Processing Center."
+      es: "Un técnico en silueta ajusta el equipo mientras un hombre se coloca frente a la cámara ante un fondo blanco, preparándose para una foto de identificación en el Centro de Procesamiento de Hidalgo."
 geo:
 id: 1293
 item_type: Still Image

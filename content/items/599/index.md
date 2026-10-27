@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p30-31_87c0b635df.jpg
     alt:
       en: "Page 30 of a bracero instruction booklet, printed in Spanish, detailing workers' rights regarding accident claims, compensation for disability, and death benefits (numbered sections 13–15)."
+      es: "Página 30 de un folleto de instrucciones para braceros, impresa en español, con detalles sobre los derechos de los trabajadores en caso de accidentes, incapacidad y compensación por muerte (secciones numeradas 13-15)."
 geo:
 id: 599
 item_type: Still Image

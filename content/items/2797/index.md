@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384918.jpg
     alt:
       en: "A bracero bends over to pick peppers in a vast field, with another worker visible in the distance and hills on the horizon."
+      es: "Un bracero se inclina para recoger pimientos en un extenso campo, con otro trabajador a lo lejos y colinas en el horizonte."
 geo:
 id: 2797
 item_type: Still Image

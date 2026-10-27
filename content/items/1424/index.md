@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380606.jpg
     alt:
       en: "Black-and-white photo of a long line of braceros waiting outside a low building at the Monterrey Processing Center, with a barren hill rising behind and a man in a cowboy hat in the foreground."
+      es: "Fotografía en blanco y negro de una larga fila de braceros esperando afuera de un edificio bajo en el Centro de Procesamiento de Monterrey, con un cerro árido al fondo y un hombre con sombrero vaquero en primer plano."
 geo:
 id: 1424
 item_type: Still Image

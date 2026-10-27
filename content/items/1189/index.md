@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-30_360f8d80d9.jpg
     alt:
       en: "Three stacked \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank, Coachella, Calif., dated Feb. 14 1950, April 19 1948, and March 1 1949, payable to Francisca Rodriguez and Rosario Ramirez."
+      es: "Tres recibos de \"Purchaser's Receipt of Bank Money Order\" de The First National Bank, Coachella, Calif., fechados el 14 de feb. de 1950, 19 de abril de 1948 y 1 de marzo de 1949, pagaderos a Francisca Rodríguez y Rosario Ramírez."
 geo:
 id: 1189
 item_type: Document

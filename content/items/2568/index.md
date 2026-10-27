@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384120.jpg
     alt:
       en: "Black-and-white photo framed through a doorway of a bunk room, where several men sit on metal-frame beds, with jackets and clothing hanging on hooks along the wall behind them."
+      es: "Fotografía en blanco y negro tomada a través de una puerta que muestra un dormitorio con varios hombres sentados en camas de metal, con chaquetas y ropa colgadas en ganchos sobre la pared."
 geo:
 id: 2568
 item_type: Still Image

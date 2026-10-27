@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385609.jpg
     alt:
       en: "A line of braceros gathers along a dirt road beside a Californian pepper field, with a van parked nearby and farmland and hills stretching into the distance."
+      es: "Una fila de braceros se reúne junto a un camino de tierra al borde de un campo de pimientos en California, con una camioneta estacionada cerca y campos y colinas extendiéndose hacia el horizonte."
 geo:
 id: 2969
 item_type: Still Image

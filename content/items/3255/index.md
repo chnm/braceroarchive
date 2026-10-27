@@ -31,6 +31,7 @@ files:
     url: /files/original/photo-1_df833ac773.jpg
     alt:
       en: "Black-and-white passport photo of a young man with combed-back dark hair and a mustache, wearing a collared shirt; partial embossed seal reading \"EXTERIORES\" and purple ink stamps appear at the edges."
+      es: "Fotografía de pasaporte en blanco y negro de un joven de cabello oscuro peinado hacia atrás y bigote, con camisa de cuello; se ve un sello en relieve parcial que dice \"EXTERIORES\" y sellos de tinta morada en los bordes."
 geo:
 id: 3255
 item_type: Still Image

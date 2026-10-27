@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382613.jpg
     alt:
       en: "Black-and-white photo of braceros in hats gathered along a dirt road beside a field, reaching into wooden crates of bottled drinks, including a Pepsi-Cola case, during a lunch break."
+      es: "Foto en blanco y negro de braceros con sombrero reunidos junto a un camino de tierra al borde de un campo, tomando botellas de cajas de madera, incluida una caja de Pepsi-Cola, durante un descanso para almorzar."
 geo:
 id: 2036
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383218.jpg
     alt:
       en: "Two braceros sit on a bed in a sparse barracks room, one resting while the other writes a letter, with empty cots and chairs nearby."
+      es: "Dos braceros sentados en una cama en un cuarto de barracas austero, uno descansando mientras el otro escribe una carta, con catres y sillas vacías alrededor."
 geo:
 id: 2223
 item_type: Still Image

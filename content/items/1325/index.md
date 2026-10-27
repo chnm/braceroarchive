@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380305.jpg
     alt:
       en: "A standing official examines the hands of a seated man at a table while others wait nearby in a large hall with tall windows, part of processing at the Monterrey Processing Center."
+      es: "Un funcionario de pie examina las manos de un hombre sentado a una mesa mientras otros esperan cerca en un salón amplio con ventanas altas, durante el proceso en el Centro de Contratación de Monterrey."
 geo:
 id: 1325
 item_type: Still Image

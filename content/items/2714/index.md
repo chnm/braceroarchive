@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401384620.jpg
     alt:
       en: "Rows of bare metal bunk beds with exposed springs fill a dim barracks room, some topped with suitcases, folded clothing, and a straw hat, a bright doorway visible in the background."
+      es: "Filas de catres metálicos con resortes a la vista llenan un cuarto de barraca en penumbra, algunos con maletas, ropa doblada y un sombrero de paja, con una puerta iluminada al fondo."
 geo:
 id: 2714
 item_type: Still Image

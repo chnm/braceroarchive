@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382923.jpg
     alt:
       en: "Black-and-white street scene framed by two tree trunks, showing parked vintage cars and a small group of men standing outside the \"Plaza\" building entrance in Salinas, California."
+      es: "Escena callejera en blanco y negro enmarcada por dos troncos de árboles, con autos antiguos estacionados y un grupo de hombres de pie frente a la entrada del edificio \"Plaza\" en Salinas, California."
 geo:
 id: 2143
 item_type: Still Image

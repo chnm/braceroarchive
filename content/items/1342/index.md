@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380330.jpg
     alt:
       en: "Several young men stand around a long table covered with rows of sandwiches on plates, preparing food in a sunlit room with large windows at the Monterrey Processing Center."
+      es: "Varios jóvenes de pie alrededor de una larga mesa cubierta de hileras de sándwiches en platos, preparando comida en una sala iluminada con grandes ventanas en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1342
 item_type: Still Image

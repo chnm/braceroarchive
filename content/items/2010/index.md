@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382511.jpg
     alt:
       en: "A bracero lies face down on an examination table beneath an adjustable lamp, while in a back room a doctor examines another man standing beside a woman in a patterned-tile clinic."
+      es: "Un bracero yace boca abajo sobre una camilla bajo una lámpara ajustable, mientras en una sala al fondo un médico examina a otro hombre junto a una mujer, en una clínica de piso de baldosas."
 geo:
 id: 2010
 item_type: Still Image

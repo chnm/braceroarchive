@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383316.jpg
     alt:
       en: "Black-and-white photo of a bracero wearing a wide-brimmed hat, bending to perform stoop labor among rows of pepper plants, with open farmland and hills in the background."
+      es: "Fotografía en blanco y negro de un bracero con sombrero de ala ancha, agachado realizando labor agrícola entre hileras de plantas de pimiento, con campo abierto y colinas al fondo."
 geo:
 id: 2243
 item_type: Still Image

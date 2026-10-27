@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380704.jpg
     alt:
       en: "A man leans against a barbed wire fence in a dirt yard, with a large crowd of hatted men gathered behind, waiting at the Monterrey Processing Center."
+      es: "Un hombre se apoya en una cerca de alambre de púas en un patio de tierra, con una gran multitud de hombres con sombrero reunidos detrás, esperando en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1476
 item_type: Still Image

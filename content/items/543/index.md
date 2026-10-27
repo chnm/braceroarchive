@@ -48,6 +48,7 @@ files:
     url: /files/original/4of6-copy_d154bfb39d.jpg
     alt:
       en: "Interior of a Mexican Military Identification card, with printed regulations on the left page and a \"MATRICULA\" stamp with official seal and date \"4 FEB. 1965\" on the right page."
+      es: "Interior de una Cartilla de Identificación Militar mexicana, con el reglamento impreso en la página izquierda y un sello de \"MATRICULA\" con escudo oficial y la fecha \"4 FEB. 1965\" en la página derecha."
 geo:
 id: 543
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383623.jpg
     alt:
       en: "A man wearing a cap stands in a doorway numbered \"17\" of a wooden building, with a bucket, flattened boxes, and bottles scattered on the ground nearby."
+      es: "Un hombre con gorra está de pie en la puerta número \"17\" de un edificio de madera, con una cubeta, cajas aplanadas y botellas dispersas en el suelo cercano."
 geo:
 id: 2343
 item_type: Still Image

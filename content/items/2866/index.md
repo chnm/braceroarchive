@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385125.jpg
     alt:
       en: "Black-and-white photo of a nurse in uniform and cap writing on a notepad beside two men, in a clinic office with a desk, chairs, and a window in the background."
+      es: "Foto en blanco y negro de una enfermera con uniforme y cofia escribiendo en una libreta junto a dos hombres, en la oficina de una clínica con escritorio, sillas y una ventana al fondo."
 geo:
 id: 2866
 item_type: Still Image

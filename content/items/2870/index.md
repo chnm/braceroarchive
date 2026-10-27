@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385204.jpg
     alt:
       en: "Black-and-white photo of braceros bent over rows of strawberry plants, picking fruit and filling wooden crates in a large field in the Salinas Valley, California."
+      es: "Fotografía en blanco y negro de braceros agachados sobre hileras de fresas, recogiendo fruta y llenando cajas de madera en un extenso campo en el Valle de Salinas, California."
 geo:
 id: 2870
 item_type: Still Image

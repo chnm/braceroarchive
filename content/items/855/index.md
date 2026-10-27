@@ -46,6 +46,7 @@ files:
     url: /files/original/foto-san-francisco-ca-1957-(extreme-right)_126ba4d866.jpg
     alt:
       en: "Black-and-white photo of five men walking along a street with railroad tracks, warehouse buildings and parked cars in the background; \"DEC 57\" printed along the right edge."
+      es: "Foto en blanco y negro de cinco hombres caminando por una calle con vías de ferrocarril, edificios tipo almacén y autos estacionados al fondo; \"DEC 57\" impreso en el borde derecho."
 geo:
 id: 855
 item_type: Still Image

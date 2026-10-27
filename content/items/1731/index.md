@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381636.jpg
     alt:
       en: "Black-and-white photo of a large hall with rows of men in hats queued at a counter, as seated officials review documents at desks under tall windows."
+      es: "Fotografía en blanco y negro de un gran salón con filas de hombres con sombrero formados ante un mostrador, mientras funcionarios sentados revisan documentos en escritorios bajo ventanas altas."
 geo:
 id: 1731
 item_type: Still Image

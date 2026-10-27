@@ -48,6 +48,7 @@ files:
     url: /files/original/carta-certificado-arroyo-grande,-california_820a88285f.jpg
     alt:
       en: "Typed letterhead document from Arroyo Grande Farm Labor Association certifying bearer Peñalosa-Munoz, Cervando completed his contract and is returning to Mexico, signed in ink by D.A. Rowe, Manager."
+      es: "Carta mecanografiada con membrete de Arroyo Grande Farm Labor Association certificando que el portador, Peñalosa-Muñoz, Cervando, cumplió su contrato y regresa a México, firmada a tinta por D.A. Rowe, Manager."
 geo:
 id: 879
 item_type: Document

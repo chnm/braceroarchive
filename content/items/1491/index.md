@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380804.jpg
     alt:
       en: "Black-and-white photo of a family gathered in the dirt courtyard of an adobe-brick house, with a seated woman, children, and a standing man near the entrance in San Mateo, Mexico."
+      es: "Fotografía en blanco y negro de una familia reunida en el patio de tierra de una casa de adobe, con una mujer sentada, niños y un hombre de pie cerca de la entrada, en San Mateo, México."
 geo:
 id: 1491
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380810.jpg
     alt:
       en: "Black-and-white interior of a modest home with a standing woman near a dresser, a seated woman holding a child, framed pictures and a mirror on the wall, and a single hanging light bulb."
+      es: "Interior en blanco y negro de un hogar modesto con una mujer de pie junto a un tocador, otra mujer sentada sosteniendo a un niño, cuadros y un espejo en la pared, y un foco colgante."
 geo:
 id: 1497
 item_type: Still Image

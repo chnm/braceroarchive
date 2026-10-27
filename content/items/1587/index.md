@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381101.jpg
     alt:
       en: "Black-and-white photo of a large group of men in hats sitting and standing along the arched facade of a railroad station in Monterrey, Mexico, waiting outside the building."
+      es: "Fotografía en blanco y negro de un gran grupo de hombres con sombreros, sentados y de pie frente a la fachada de arcos de la estación de ferrocarril de Monterrey, México, esperando afuera del edificio."
 geo:
 id: 1587
 item_type: Still Image

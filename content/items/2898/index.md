@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385307.jpg
     alt:
       en: "Black-and-white photo of a man in a hat reaching into a long wall-mounted rack of numbered mailboxes at Gondo labor camp, with another man walking in the background."
+      es: "Fotografía en blanco y negro de un hombre con sombrero metiendo la mano en un largo casillero de correo numerado en el campamento laboral Gondo, mientras otro hombre camina al fondo."
 geo:
 id: 2898
 item_type: Still Image

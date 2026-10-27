@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380835.jpg
     alt:
       en: "An official in a suit reviews documents while a line of men in hats and work clothes wait to present their papers outdoors in Mexico City."
+      es: "Un funcionario con traje revisa documentos mientras una fila de hombres con sombreros y ropa de trabajo esperan para presentar sus papeles al aire libre en la Ciudad de México."
 geo:
 id: 1522
 item_type: Still Image

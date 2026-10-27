@@ -46,6 +46,7 @@ files:
     url: /files/original/cotton-field-picking_bfd10c9b4d.jpg
     alt:
       en: "A bracero wearing a striped shirt and sun hat stands in a sprawling cotton field, picking cotton amid rows of plants under a hazy sky, in this sepia-toned photograph."
+      es: "Un bracero con camisa a rayas y sombrero para el sol está de pie en un extenso campo de algodón, recogiendo algodón entre las hileras de plantas, bajo un cielo brumoso, en esta fotografía en tono sepia."
 geo:
 id: 571
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380805.jpg
     alt:
       en: "Black-and-white photo of a stone courtyard in San Mateo, Mexico, with family members standing near a house while several pigs forage among cornstalks and scattered debris."
+      es: "Fotografía en blanco y negro de un patio de piedra en San Mateo, México, con miembros de una familia de pie cerca de una casa mientras varios cerdos buscan comida entre mazorcas y escombros."
 geo:
 id: 1492
 item_type: Still Image

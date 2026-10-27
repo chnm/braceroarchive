@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384230.jpg
     alt:
       en: "Black-and-white photo of four braceros resting on the porch of a wooden barrack at a California labor camp, with trees, a parked car, and scattered tools in the yard."
+      es: "Fotografía en blanco y negro de cuatro braceros descansando en el porche de una barraca de madera en un campamento laboral de California, con árboles, un auto estacionado y herramientas dispersas en el patio."
 geo:
 id: 2601
 item_type: Still Image

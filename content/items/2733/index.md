@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384704.jpg
     alt:
       en: "A bracero sits in a doctor's office as a nurse in uniform writes notes nearby, with medicine cabinets and shelves of bottles in the background."
+      es: "Un bracero sentado en el consultorio de un médico mientras una enfermera uniformada toma notas cerca, con gabinetes y estantes de frascos de medicina al fondo."
 geo:
 id: 2733
 item_type: Still Image

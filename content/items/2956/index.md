@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385529.jpg
     alt:
       en: "Black-and-white street scene with men walking past the \"Colombo Plaza Hotel\" sign and storefronts advertising Coca-Cola, Pepsi, and 7 Up, with parked cars and a cab lining the curb."
+      es: "Escena callejera en blanco y negro con hombres caminando frente al letrero \"Colombo Plaza Hotel\" y escaparates con anuncios de Coca-Cola, Pepsi y 7 Up, con autos y un taxi estacionados junto a la acera."
 geo:
 id: 2956
 item_type: Still Image

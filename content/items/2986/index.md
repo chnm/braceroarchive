@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385626.jpg
     alt:
       en: "Black-and-white photo of a man in a wide-brimmed hat leaning on a lettuce box labeled \"Cookie Head Lettuce,\" standing on a truck bed beside rows of crates, with a lettuce field behind him."
+      es: "Foto en blanco y negro de un hombre con sombrero de ala ancha apoyado en una caja de lechuga con la etiqueta \"Cookie Head Lettuce\", de pie sobre un camión junto a hileras de cajas, con un campo de lechugas detrás."
 geo:
 id: 2986
 item_type: Still Image

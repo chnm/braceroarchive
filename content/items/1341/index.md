@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380329.jpg
     alt:
       en: "A long line of men, many wearing wide-brimmed hats and holding papers, stretches across a gravel yard at the Monterrey Processing Center, with institutional buildings visible in the background."
+      es: "Una larga fila de hombres, muchos con sombreros de ala ancha y sosteniendo documentos, se extiende por un patio de grava en el Centro de Procesamiento de Monterrey, con edificios institucionales al fondo."
 geo:
 id: 1341
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p22-23_06ecf89c6c.jpg
     alt:
       en: "Pages 22-23 of a bracero instruction booklet, printed in Spanish, detailing injury compensation rights, medical care procedures, and insurance claim guidelines for workers."
+      es: "Páginas 22-23 de un folleto de instrucciones para braceros, impreso en español, con detalles sobre indemnizaciones por lesiones, procedimientos de atención médica y lineamientos para reclamos de seguro."
 geo:
 id: 595
 item_type: Still Image

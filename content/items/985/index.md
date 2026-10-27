@@ -43,6 +43,7 @@ files:
     url: /files/original/gonzalezlorenzosantacruz2_eb0206c076.jpg
     alt:
       en: "Black-and-white photo of two men standing on a rustic wooden footbridge made of logs, with a dirt path and leafy plants in the background."
+      es: "Foto en blanco y negro de dos hombres de pie sobre un puente rústico de madera hecho de troncos, con un camino de tierra y plantas frondosas al fondo."
 geo:
 id: 985
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385617.jpg
     alt:
       en: "Workers harvest lettuce in long rows across a field, with stacked cardboard crates lining the furrows and a barn visible in the background."
+      es: "Trabajadores cosechan lechuga en largas hileras en un campo, con cajas de cartón apiladas a lo largo de los surcos y un granero visible al fondo."
 geo:
 id: 2977
 item_type: Still Image

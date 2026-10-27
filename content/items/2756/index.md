@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384728.jpg
     alt:
       en: "Black-and-white photo of a bracero giving another a haircut with scissors in a camp living quarters, draped cloth around his neck, bunks and hanging laundry in the background."
+      es: "Foto en blanco y negro de un bracero cortándole el cabello a otro con tijeras en los dormitorios de un campamento, con tela cubriéndole el cuello, literas y ropa colgada al fondo."
 geo:
 id: 2756
 item_type: Still Image

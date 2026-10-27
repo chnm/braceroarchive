@@ -46,6 +46,7 @@ files:
     url: /files/original/img_3447_7c38ad6a90.jpg
     alt:
       en: "Elderly man in a white striped shirt holds a vintage portable radio while standing behind a wrought-iron chair, with decorative string lights and a barred window visible behind him."
+      es: "Hombre mayor con camisa blanca a rayas sostiene una radio portátil vintage, de pie detrás de una silla de hierro forjado, con luces decorativas y una ventana enrejada al fondo."
 geo:
 id: 3039
 item_type: Still Image

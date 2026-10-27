@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380535.jpg
     alt:
       en: "Black-and-white photo of a long suspension bridge spanning a wide river, with a line of people walking across it; sandbars and sparse trees line the riverbanks below."
+      es: "Fotografía en blanco y negro de un largo puente colgante que cruza un ancho río, con una fila de personas caminando por él; bancos de arena y árboles dispersos bordean las orillas."
 geo:
 id: 1416
 item_type: Still Image

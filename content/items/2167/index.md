@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383016.jpg
     alt:
       en: "Black-and-white photo of a long barracks-style building with windows, a bracero walking along the path between structures, with other figures and buildings visible in the background."
+      es: "Foto en blanco y negro de un largo edificio tipo barracón con ventanas; un bracero camina por el sendero entre las construcciones, con otras figuras y edificios al fondo."
 geo:
 id: 2167
 item_type: Still Image

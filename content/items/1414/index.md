@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380533.jpg
     alt:
       en: "A line of men wearing hats walks single file along the grated walkway of the Reynosa-Hidalgo bridge, with overhead cables and a cityscape visible in the distance."
+      es: "Una fila de hombres con sombreros camina en fila por el pasillo enrejado del puente Reynosa-Hidalgo, con cables aéreos y un paisaje urbano al fondo."
 geo:
 id: 1414
 item_type: Still Image

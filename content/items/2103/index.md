@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382813.jpg
     alt:
       en: "Two braceros stand at a row of sinks in a camp bathroom; one wearing a wide-brimmed hat leans over a faucet while the other brushes his teeth nearby."
+      es: "Dos braceros junto a una fila de lavabos en el baño de un campamento; uno con sombrero de ala ancha se inclina sobre un grifo mientras el otro se cepilla los dientes cerca."
 geo:
 id: 2103
 item_type: Still Image

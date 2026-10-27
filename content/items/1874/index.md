@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382108.jpg
     alt:
       en: "Black-and-white photo of a sparse bunkhouse interior with metal-frame beds; in the foreground a man sits writing on a box on his lap, while two others converse on a bed in the background."
+      es: "Foto en blanco y negro del interior de un dormitorio con camas de metal; en primer plano un hombre escribe sobre una caja en su regazo, mientras otros dos conversan sentados en una cama al fondo."
 geo:
 id: 1874
 item_type: Still Image

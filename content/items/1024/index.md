@@ -46,6 +46,7 @@ files:
     url: /files/original/aceves-gutierrez,-jesus,-photo1_8324b03325.jpg
     alt:
       en: "Sepia-toned photo of a large hotel building labeled \"BALBOA\" with palm trees surrounding it, small figures gathered on the lawn near a pond in the foreground."
+      es: "Foto en tono sepia de un gran edificio de hotel con el letrero \"BALBOA\", rodeado de palmeras, con pequeñas figuras reunidas en el césped junto a un estanque en primer plano."
 geo:
 id: 1024
 item_type: Still Image

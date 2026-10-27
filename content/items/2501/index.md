@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383923.jpg
     alt:
       en: "Black-and-white photo of several men seated in the bed of a pickup truck parked outside the \"Cafe Horseshoe Club,\" with Coca-Cola signs and a \"Restaurant Dancing\" marquee visible on the building behind."
+      es: "Foto en blanco y negro de varios hombres sentados en la caja de una camioneta estacionada frente al \"Cafe Horseshoe Club\", con letreros de Coca-Cola y un cartel de \"Restaurant Dancing\" visible en el edificio detrás."
 geo:
 id: 2501
 item_type: Still Image

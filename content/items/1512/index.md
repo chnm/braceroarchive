@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380825.jpg
     alt:
       en: "A group of men, many wearing hats, gather outdoors as an official in a suit collects papers from braceros, with a large multi-story building in the background."
+      es: "Un grupo de hombres, muchos con sombreros, se reúne al aire libre mientras un funcionario en traje recoge documentos de braceros, con un gran edificio de varios pisos al fondo."
 geo:
 id: 1512
 item_type: Still Image

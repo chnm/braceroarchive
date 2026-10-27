@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383422.jpg
     alt:
       en: "Rows of \"Toro\" lettuce crates stretch into the distance across a field, with workers bent over harvesting lettuce in the rows beyond, hills visible on the horizon."
+      es: "Filas de cajas de lechuga \"Toro\" se extienden por un campo, con trabajadores agachados cosechando entre los surcos al fondo y colinas en el horizonte."
 geo:
 id: 2283
 item_type: Still Image

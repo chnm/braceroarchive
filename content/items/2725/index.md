@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384632.jpg
     alt:
       en: "Interior of a bunkhouse at a California labor camp with rows of wooden bunk beds holding bundled belongings, while two men wearing cowboy hats stand and walk among the beds."
+      es: "Interior de un dormitorio en un campamento laboral de California con filas de literas de madera llenas de pertenencias, mientras dos hombres con sombreros vaqueros caminan entre las camas."
 geo:
 id: 2725
 item_type: Still Image

@@ -51,6 +51,7 @@ files:
     url: /files/original/ss-cadr-back_35c1716e26.jpg
     alt:
       en: "Back of a Social Security card (Form OA-702 Rev. 1-46) with printed instructions to keep, sign, and show the card, plus notices from the Federal Security Agency, Social Security Administration."
+      es: "Reverso de una tarjeta de Seguro Social (Formulario OA-702 Rev. 1-46) con instrucciones impresas para guardarla, firmarla y mostrarla, además de avisos de la Federal Security Agency, Social Security Administration."
 geo:
 id: 501
 item_type: Document

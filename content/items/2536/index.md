@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384025.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat and denim vest leans on stacked \"Toro\" lettuce boxes atop a truck, with a farm field stretching behind him."
+      es: "Un bracero con sombrero de ala ancha y chaleco de mezclilla se apoya sobre cajas apiladas de lechuga \"Toro\" encima de un camión, con un campo agrícola extendiéndose detrás de él."
 geo:
 id: 2536
 item_type: Still Image

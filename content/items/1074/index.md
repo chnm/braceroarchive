@@ -48,6 +48,7 @@ files:
     url: /files/original/rafael-hernandez-passaport6_689d1b499d.jpg
     alt:
       en: "Two facing visa pages (12 and 13) with a faint Mexican eagle emblem; page 13 bears an INS stamp reading \"IMM. & NATZ. SERVICE, CALEXICO, CAL. 308, ADMITTED 7 OCT 1960, CLASS TO Perm. Res.\" with signature."
+      es: "Dos páginas de visas enfrentadas (12 y 13) con un tenue emblema del águila mexicana; la página 13 tiene un sello del INS que dice \"IMM. & NATZ. SERVICE, CALEXICO, CAL. 308, ADMITTED 7 OCT 1960, CLASS TO Perm. Res.\" con una firma."
 geo:
 id: 1074
 item_type: Document

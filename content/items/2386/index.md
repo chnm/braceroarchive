@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382230.jpg
     alt:
       en: "A bracero sits on a bunk examining his belongings in a dimly lit camp dormitory, with rows of beds, hanging laundry, and a sunlit window in the background."
+      es: "Un bracero sentado en una litera revisa sus pertenencias en un dormitorio de campamento poco iluminado, con hileras de camas, ropa colgada y una ventana iluminada al fondo."
 geo:
 id: 2386
 item_type: Still Image

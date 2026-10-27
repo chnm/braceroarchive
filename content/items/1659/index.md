@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381331.jpg
     alt:
       en: "Black-and-white photo of a dirt street in San Mateo, Mexico, with a man leading a mule past stone and plaster buildings, a child standing near a water tap."
+      es: "Fotografía en blanco y negro de una calle de tierra en San Mateo, México, con un hombre guiando una mula frente a edificios de piedra y yeso, y un niño cerca de un grifo de agua."
 geo:
 id: 1659
 item_type: Still Image

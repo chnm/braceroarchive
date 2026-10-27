@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382608.jpg
     alt:
       en: "Black-and-white photo of braceros seated in groups along the edge of a furrowed field in the Salinas Valley, eating lunch, with power poles, a parked truck, and distant hills in the background."
+      es: "Foto en blanco y negro de braceros sentados en grupos al borde de un campo surcado en el Valle de Salinas, almorzando, con postes eléctricos, un camión estacionado y colinas al fondo."
 geo:
 id: 2031
 item_type: Still Image

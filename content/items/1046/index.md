@@ -48,6 +48,7 @@ files:
     url: /files/original/moreno-sandoval,-cipreano,-1956,-id2_66d566b124.jpg
     alt:
       en: "Two-page document spread with official stamps, seals, and signatures, including \"VISADA de conformidad con el Art. 163,\" a date stamp \"MAR 17 1960,\" and printed instructions about matching a fingerprint to verify the ID card's owner."
+      es: "Documento de dos páginas con sellos, firmas y la leyenda \"VISADA de conformidad con el Art. 163\", un sello de fecha \"MAR 17 1960\" e instrucciones impresas sobre cómo verificar la huella digital del portador."
 geo:
 id: 1046
 item_type: Document

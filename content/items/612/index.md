@@ -48,6 +48,7 @@ files:
     url: /files/original/amarin004_6b5364dc5c.jpg
     alt:
       en: "Military Service Identification card for Aurelio Marin Luna, Matrícula 4408247, dated November 15, 1959, with printed regulations, official stamps, and signatures on both pages."
+      es: "Cartilla de Identificación del Servicio Militar Nacional de Aurelio Marín Luna, Matrícula 4408247, fechada el 15 de noviembre de 1959, con reglamentos impresos, sellos oficiales y firmas en ambas páginas."
 geo:
 id: 612
 item_type: Document

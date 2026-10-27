@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384207.jpg
     alt:
       en: "Dark, poorly lit interior of a wooden structure with visible rafters and beams, the substandard showering facilities at a bracero labor camp in California."
+      es: "Interior oscuro y mal iluminado de una estructura de madera con vigas y travesaños visibles, instalaciones de duchas deficientes en un campamento de braceros en California."
 geo:
 id: 2588
 item_type: Still Image

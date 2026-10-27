@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-42_cd20e491e1.jpg
     alt:
       en: "Purchaser's Receipt of Bank Money Order No. 32580, Coachella, Calif., Oct. 31, 1950, purchased by M. Gonzalez for Jesus Ramirez, fee .25, amount $20.56, from The First National Bank in Coachella."
+      es: "Recibo de Giro Bancario del Comprador N° 32580, Coachella, Calif., 31 de oct. de 1950, comprado por M. Gonzalez para Jesús Ramirez, comisión .25, monto $20.56, del The First National Bank en Coachella."
 geo:
 id: 1202
 item_type: Document

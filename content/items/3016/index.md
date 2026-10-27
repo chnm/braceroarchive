@@ -46,6 +46,7 @@ files:
     url: /files/original/carmen-quezada-6-rotated_aef7a73d99.jpg
     alt:
       en: "Worn Confederate States of America $1000 note dated May 28, 1861, Montgomery, with portraits of two men flanking ornate text and serial number 297."
+      es: "Billete desgastado de los Estados Confederados de América por $1000, fechado el 28 de mayo de 1861 en Montgomery, con retratos de dos hombres flanqueando texto ornamentado y el número de serie 297."
 geo:
 id: 3016
 item_type: Document

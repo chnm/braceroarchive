@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384432.jpg
     alt:
       en: "A man in a leather jacket lies resting on a bed in a dormitory-style bracero camp room, with other men on cots and hanging clothes visible in the background."
+      es: "Un hombre con chaqueta de cuero descansa recostado en una cama dentro de un dormitorio de un campamento de braceros, con otros hombres en catres y ropa colgada al fondo."
 geo:
 id: 2664
 item_type: Still Image

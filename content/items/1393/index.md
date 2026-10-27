@@ -46,6 +46,7 @@ files:
     url: /files/original/NAD-200401380512.jpg
     alt:
       en: "Rows of bunk beds with clothing and bundles stacked on top, boxes and shoes beneath, while a man stands beside the beds in a wood-paneled room near windows."
+      es: "Filas de literas con ropa y bultos apilados encima, cajas y zapatos debajo, mientras un hombre está de pie junto a las camas en una habitación de paneles de madera cerca de ventanas."
 geo:
 id: 1393
 item_type: Still Image

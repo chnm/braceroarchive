@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382228censored.jpg
     alt:
       en: "Black-and-white photo of a bracero showering beneath a row of pipes and hanging shower heads in a worn, substandard bathroom facility at a California labor camp."
+      es: "Fotografía en blanco y negro de un bracero duchándose bajo una fila de tuberías y regaderas colgantes en un baño deteriorado y precario de un campamento laboral en California."
 geo:
 id: 1928
 item_type: Still Image

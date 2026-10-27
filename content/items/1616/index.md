@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381223.jpg
     alt:
       en: "Men in hats gather around a makeshift sawhorse water fountain, washing up, while a large crowd waits under open-sided shelters in the background at the Hidalgo Processing Center, Texas."
+      es: "Hombres con sombrero se reúnen alrededor de una fuente de agua improvisada sobre un caballete, lavándose, mientras una gran multitud espera bajo refugios abiertos al fondo en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1616
 item_type: Still Image

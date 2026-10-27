@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380213.jpg
     alt:
       en: "Black-and-white photo of a man standing for an identification photo against a white backdrop at the Hidalgo Processing Center, Texas, as a line of other braceros waits nearby."
+      es: "Fotografía en blanco y negro de un hombre de pie para una foto de identificación frente a un fondo blanco en el Centro de Procesamiento de Hidalgo, Texas, mientras otros braceros esperan en fila."
 geo:
 id: 1290
 item_type: Still Image

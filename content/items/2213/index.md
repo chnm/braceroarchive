@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383208.jpg
     alt:
       en: "A shirtless man sits on a bench in a locker room, putting on his shoes, with shower stalls lining the hallway and hooks and coats hanging on the wall nearby."
+      es: "Un hombre sin camisa sentado en una banca de un vestidor se pone los zapatos, con cabinas de regaderas a lo largo del pasillo y ganchos con ropa colgada en la pared."
 geo:
 id: 2213
 item_type: Still Image

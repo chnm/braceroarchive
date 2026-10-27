@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382131.jpg
     alt:
       en: "A man wearing a cap sits on a bed in a sparse wooden room, writing at a small crate-like table; a jacket hangs on the wall and a mirror and hat are nearby."
+      es: "Un hombre con gorra está sentado en una cama en un cuarto de madera sencillo, escribiendo en una mesita improvisada; una chaqueta cuelga de la pared junto a un espejo y un sombrero."
 geo:
 id: 1897
 item_type: Still Image

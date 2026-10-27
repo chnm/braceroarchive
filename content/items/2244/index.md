@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383317.jpg
     alt:
       en: "A wide-brimmed hat shields a bracero bent over in stoop labor, hands working among low pepper plants in a furrowed field."
+      es: "Un sombrero de ala ancha cubre a un bracero inclinado en labor agachada, con las manos trabajando entre bajas plantas de chile en un campo surcado."
 geo:
 id: 2244
 item_type: Still Image

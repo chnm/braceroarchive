@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384103.jpg
     alt:
       en: "Viewed through a doorway, a bracero reclines on a bed reading a magazine while another man sits beside him; a third figure crouches nearby and clothing hangs drying on a line."
+      es: "Visto a través de una puerta, un bracero recostado en una cama lee una revista mientras otro hombre está sentado a su lado; una tercera figura se agacha cerca y hay ropa secándose en un tendedero."
 geo:
 id: 2551
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381038.jpg
     alt:
       en: "Black-and-white photo of braceros wearing hats, crouched along a creek washing clothes, with trees, open fields, and distant buildings in the background."
+      es: "Fotografía en blanco y negro de braceros con sombreros, agachados junto a un arroyo lavando ropa, con árboles, campos abiertos y edificios al fondo."
 geo:
 id: 1572
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383325.jpg
     alt:
       en: "Black-and-white portrait of a young man wearing a cap and buttoned work shirt, standing in an open field with rolling hills visible in the background."
+      es: "Retrato en blanco y negro de un joven con gorra y camisa de trabajo abotonada, de pie en un campo abierto con colinas onduladas al fondo."
 geo:
 id: 2253
 item_type: Still Image

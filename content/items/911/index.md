@@ -48,6 +48,7 @@ files:
     url: /files/original/mica-eagle-pass,-tx,-1956-(back)_c7ece28131.jpg
     alt:
       en: "Typed identification card back for Zavala-Lopez Miguel, born 6-15-36 in Cuenco, Mich., listing home address and Eagle Pass, Tex. issue date 9-12-56, with number L-2378594 and \"MICA\" stamped below."
+      es: "Reverso de tarjeta de identificación a máquina de Zavala-Lopez Miguel, nacido 6-15-36 en Cuenco, Mich., con domicilio y emisión en Eagle Pass, Tex. el 9-12-56, número L-2378594 y sello \"MICA\"."
 geo:
 id: 911
 item_type: Document

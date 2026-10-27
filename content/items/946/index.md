@@ -46,6 +46,7 @@ files:
     url: /files/original/margarita-3_baf9d8b33e.jpg
     alt:
       en: "Vintage photograph of a woman and two young children sitting together on grass outdoors, with trees in the background; the image shows wear, creases, and surface damage."
+      es: "Fotografía antigua de una mujer y dos niños pequeños sentados juntos sobre el pasto al aire libre, con árboles al fondo; la imagen presenta desgaste, pliegues y daños en la superficie."
 geo:
 id: 946
 item_type: Still Image

@@ -46,6 +46,7 @@ files:
     url: /files/original/mex-copy_b97e617752.jpg
     alt:
       en: "Worn military service card with \"MATRICULA\" header and typed Spanish text certifying completed service, dated Agosto de 1960, bearing official stamps and signatures; reverse side lists printed warnings about falsification."
+      es: "Tarjeta militar desgastada con encabezado \"MATRICULA\" y texto mecanografiado en español certificando el servicio cumplido, fechada en Agosto de 1960, con sellos y firmas oficiales; el reverso lista advertencias impresas sobre falsificación."
 geo:
 id: 550
 item_type: Document

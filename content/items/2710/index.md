@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384615.jpg
     alt:
       en: "Black-and-white photo of braceros gathered near a parked car and wooden buildings in a dirt-yard camp, with a man in a wide-brimmed hat standing in the foreground."
+      es: "Fotografía en blanco y negro de braceros reunidos cerca de un auto estacionado y edificios de madera en un campamento de terreno de tierra, con un hombre de sombrero de ala ancha en primer plano."
 geo:
 id: 2710
 item_type: Still Image

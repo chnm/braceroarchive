@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382803.jpg
     alt:
       en: "Black-and-white photo of braceros gathered around a bed playing cards in a bare wooden barrack room, a jacket hanging on the wall, viewed through an open doorway."
+      es: "Fotografía en blanco y negro de braceros reunidos alrededor de una cama jugando cartas en un cuarto de madera desnudo, con una chaqueta colgada en la pared, visto a través de una puerta abierta."
 geo:
 id: 2093
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/santacruz,-melitona,-1961,-affadavit-of-consent2_046d548337.jpg
     alt:
       en: "Typed certificate from the Ojocaliente, Zacatecas municipal president attesting to good conduct, with official purple seals, a signature, and an attached photo of a young man."
+      es: "Certificado mecanografiado del presidente municipal de Ojocaliente, Zacatecas, que acredita buena conducta, con sellos morados oficiales, una firma y una fotografía adjunta de un hombre joven."
 geo:
 id: 1069
 item_type: Document

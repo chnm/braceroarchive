@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-48_49c6a698ce.jpg
     alt:
       en: "Three Purchaser's Receipt of Bank Money Order forms from The First National Bank of Coachella, California, dated May 2, April 24, and May 29, 1950, each marked \"NOT NEGOTIABLE\" and \"SECURED,\" listing Salvador Velasco as purchaser and Arnulfo Velasco as payee."
+      es: "Tres formularios de \"Recibo del Comprador de Giro Bancario\" del First National Bank de Coachella, California, fechados el 2 de mayo, 24 de abril y 29 de mayo de 1950, marcados \"NOT NEGOTIABLE\" y \"SECURED,\" con Salvador Velasco como comprador y Arnulfo Velasco como beneficiario."
 geo:
 id: 1213
 item_type: Document

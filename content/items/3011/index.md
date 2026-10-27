@@ -43,6 +43,7 @@ files:
     url: /files/original/carmen-quezada-1_a5f502638f.jpg
     alt:
       en: "Printed Spanish-language \"Secretaría del Trabajo de los E.E.U.U.\" certificate for bracero J.C. Quezada Morales, dated Nov 28, 1952, with a signature and a right index finger fingerprint impression."
+      es: "Certificado impreso en español de la \"Secretaría del Trabajo de los E.E.U.U.\" para el bracero J.C. Quezada Morales, fechado el 28 de noviembre de 1952, con firma e impresión del dedo índice derecho."
 geo:
 id: 3011
 item_type: Document

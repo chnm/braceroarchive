@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381320.jpg
     alt:
       en: "An official seated at a table examines a bracero's hands for calluses while other men in cowboy hats wait in line behind him at the Monterrey Processing Center."
+      es: "Un oficial sentado a una mesa revisa las manos de un bracero en busca de callos, mientras otros hombres con sombreros vaqueros esperan en fila detrás de él en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1648
 item_type: Still Image

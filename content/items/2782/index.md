@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384903.jpg
     alt:
       en: "Black-and-white aerial view of a California field with braceros performing stoop labor, a truck and utility pole nearby, and a tree line in the distance."
+      es: "Vista aérea en blanco y negro de un campo en California con braceros realizando labor agachada, un camión y un poste de servicio cercanos, y una hilera de árboles al fondo."
 geo:
 id: 2782
 item_type: Still Image

@@ -46,6 +46,7 @@ files:
     url: /files/original/__hr_riovista-1956-messhall_5d15327e50.jpg
     alt:
       en: "Vintage photo taken from inside a vehicle, showing a dirt road lined with trees, a water tower, and groups of people near buildings, dated \"MAR 56\" at the top."
+      es: "Fotografía antigua tomada desde el interior de un vehículo, con un camino de tierra bordeado de árboles, una torre de agua y grupos de personas cerca de edificios, fechada \"MAR 56\" en la parte superior."
 geo:
 id: 536
 item_type: Still Image

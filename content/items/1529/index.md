@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380922.jpg
     alt:
       en: "Black-and-white photo of a long line of men wearing hats waiting to board several buses parked in an open dirt lot, with buildings and a clock tower visible in the background."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con sombrero esperando para abordar varios autobuses estacionados en un terreno de tierra, con edificios y una torre con reloj al fondo."
 geo:
 id: 1529
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/tarifas-de-salarios_123c78d791.jpg
     alt:
       en: "Spanish-English wage rate sheet titled \"3--Determination 862.4 - Beet Wage/Salarios de Betabel,\" listing beet-related tasks and per-acre rates across three wage districts (I, II, III)."
+      es: "Hoja bilingüe de tarifas salariales titulada \"3--Determination 862.4 - Beet Wage/Salarios de Betabel\", que enumera tareas del betabel y tarifas por acre en tres distritos salariales (I, II, III)."
 geo:
 id: 849
 item_type: Document

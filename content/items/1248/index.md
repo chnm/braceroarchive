@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio2b_303c712ef7.jpg
     alt:
       en: "Back of an identification card showing \"Numero de Registro LELA-271028\" and \"Clave Oficinas 048-00-0,\" a signature under \"Firma del Causante,\" a red stamp, and printed legal warnings in Spanish."
+      es: "Reverso de una tarjeta de identificación con \"Número de Registro LELA-271028\" y \"Clave Oficinas 048-00-0,\" una firma bajo \"Firma del Causante,\" un sello rojo y advertencias legales impresas en español."
 geo:
 id: 1248
 item_type: Document

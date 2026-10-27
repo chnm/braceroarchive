@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380314.jpg
     alt:
       en: "A seated official reviews documents with a standing bracero wearing a hat at a desk, while a long line of men in hats waits behind them in the Monterrey Processing Center."
+      es: "Un funcionario sentado revisa documentos con un bracero que está de pie y usa sombrero junto al escritorio, mientras una larga fila de hombres con sombreros espera detrás en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1322
 item_type: Still Image

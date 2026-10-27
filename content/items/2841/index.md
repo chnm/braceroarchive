@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385026.jpg
     alt:
       en: "Black-and-white photo of braceros carrying tools as they walk across a dirt yard past a flatbed truck and bus toward barracks, with a wooden water tower in the background."
+      es: "Fotografía en blanco y negro de braceros que caminan por un terreno de tierra con herramientas, pasando junto a un camión de plataforma y un autobús, con barracones y una torre de agua de madera al fondo."
 geo:
 id: 2841
 item_type: Still Image

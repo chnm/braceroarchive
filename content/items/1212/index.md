@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-47_6a2dabd991.jpg
     alt:
       en: "Purchaser's Receipt of Bank Money Order No. 33995 from The First National Bank in Coachella, California, dated Dec. 28, 1950, purchased by M. Gonzalez for Francisca Rodriguez, amount $12.00, marked \"NOT NEGOTIABLE.\""
+      es: "Recibo de giro bancario N.º 33995 del First National Bank en Coachella, California, fechado 28 de dic. de 1950, comprado por M. Gonzalez para Francisca Rodriguez, por $12.00, marcado \"NOT NEGOTIABLE\"."
 geo:
 id: 1212
 item_type: Document

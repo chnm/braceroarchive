@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383934.jpg
     alt:
       en: "A man wearing a straw hat crouches on the ground amid a group of seated men, with stacked suitcases, cardboard boxes, and other belongings piled behind them."
+      es: "Un hombre con sombrero de paja se agacha en el suelo entre un grupo de hombres sentados, con maletas apiladas, cajas de cartón y otras pertenencias amontonadas detrás de ellos."
 geo:
 id: 2511
 item_type: Still Image

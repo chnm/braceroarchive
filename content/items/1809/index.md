@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381920.jpg
     alt:
       en: "Black-and-white photo of a wooden barracks building with a peaked roof and small window, where several men stand and sit on the entrance steps in Stockton, California."
+      es: "Foto en blanco y negro de un edificio de barracas de madera con techo a dos aguas y una pequeña ventana, donde varios hombres están de pie y sentados en los escalones de entrada en Stockton, California."
 geo:
 id: 1809
 item_type: Still Image

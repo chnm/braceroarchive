@@ -48,6 +48,7 @@ files:
     url: /files/original/espino10copy_13a0f7771c.jpg
     alt:
       en: "War Ration Book No. 3, number 987517 DW, issued to Jose Ortiz Espino of Fresno, Calif., stamped \"Local Board Action MAR 10 1944\" by the War Manpower Commission."
+      es: "Libro de Racionamiento de Guerra No. 3, número 987517 DW, emitido a Jose Ortiz Espino de Fresno, Calif., con sello \"Local Board Action MAR 10 1944\" de la War Manpower Commission."
 geo:
 id: 931
 item_type: Document

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380527.jpg
     alt:
       en: "Men wearing cowboy hats gather around long wooden tables and benches under a corrugated metal roof, preparing food and socializing in a bracero camp living quarters near McAllen, Texas."
+      es: "Hombres con sombreros de vaquero se reúnen alrededor de largas mesas y bancas de madera bajo un techo de lámina, preparando alimentos y socializando en los dormitorios de un campamento de braceros cerca de McAllen, Texas."
 geo:
 id: 1408
 item_type: Still Image

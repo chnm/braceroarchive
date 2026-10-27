@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381643.jpg
     alt:
       en: "A large crowd of men in wide-brimmed hats gathers in a dirt courtyard beneath corrugated metal roofs, encircling a guitarist and a woman singing beside him."
+      es: "Una gran multitud de hombres con sombreros de ala ancha se reúne en un patio de tierra bajo techos de lámina, rodeando a un guitarrista y a una mujer que canta junto a él."
 geo:
 id: 1717
 item_type: Still Image

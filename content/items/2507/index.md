@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383929.jpg
     alt:
       en: "Black-and-white photo of a group of braceros in hats and work clothes gathered outdoors, as a man in the foreground holds papers, near a \"Horseshoe Club\" sign in Stockton, California."
+      es: "Fotografía en blanco y negro de un grupo de braceros con sombreros y ropa de trabajo reunidos al aire libre, mientras un hombre en primer plano sostiene unos papeles, cerca de un letrero de \"Horseshoe Club\" en Stockton, California."
 geo:
 id: 2507
 item_type: Still Image

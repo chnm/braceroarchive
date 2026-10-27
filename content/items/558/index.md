@@ -48,6 +48,7 @@ files:
     url: /files/original/porter6_cfa478375c.jpg
     alt:
       en: "Page from a bilingual phrase book titled \"En el Hospital — In the Hospital,\" listing Spanish phrases with phonetic pronunciations and English translations, plus a vocabulary list of clothing and body-part terms."
+      es: "Página de un libro de frases bilingüe titulada \"En el Hospital — In the Hospital\", con frases en español con pronunciación fonética y traducción al inglés, más una lista de vocabulario de ropa y partes del cuerpo."
 geo:
 id: 558
 item_type: Document

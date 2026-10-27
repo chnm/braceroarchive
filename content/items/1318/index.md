@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380310.jpg
     alt:
       en: "A man wearing a hat stands at a desk facing an official seated with his back to the camera, while a line of men wait behind him near tall windows."
+      es: "Un hombre con sombrero está de pie frente a un escritorio ante un funcionario sentado de espaldas a la cámara, mientras una fila de hombres espera detrás cerca de ventanas altas."
 geo:
 id: 1318
 item_type: Still Image

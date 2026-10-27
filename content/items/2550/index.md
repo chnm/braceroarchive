@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384102.jpg
     alt:
       en: "Black-and-white photo, viewed through a doorway, of two braceros seated on a bed in a wood-paneled living quarter, with clothing and jackets hanging on the wall behind them."
+      es: "Fotografía en blanco y negro, vista a través de una puerta, de dos braceros sentados en una cama en un dormitorio de madera, con ropa y chaquetas colgadas en la pared detrás de ellos."
 geo:
 id: 2550
 item_type: Still Image

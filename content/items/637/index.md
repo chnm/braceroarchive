@@ -46,6 +46,7 @@ files:
     url: /files/original/jul27_08_40355682ef.jpg
     alt:
       en: "State of Colorado Certificate of Death for Robert Carrillo, male, born Jan. 15, 1908, died Dec. 23, 1920 (sic) in Denver, with cause of death listed as aspiration pneumonia and chronic liver disease."
+      es: "Certificado de Defunción del Estado de Colorado para Robert Carrillo, hombre, nacido el 15 de enero de 1908, fallecido el 23 de diciembre de 1920 (sic) en Denver, causa: neumonía por aspiración y enfermedad hepática crónica."
 geo:
 id: 637
 item_type: Still Image

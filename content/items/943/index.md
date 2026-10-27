@@ -46,6 +46,7 @@ files:
     url: /files/original/father_e528381694.jpg
     alt:
       en: "Vintage photograph of Jesus Corella standing on a rocky hillside beneath a large tree, wearing a cap, jacket, and trousers, with a cliff face and sky visible behind him."
+      es: "Fotografía antigua de Jesús Corella de pie en una ladera rocosa bajo un gran árbol, vistiendo gorra, chaqueta y pantalones, con un acantilado y el cielo visibles detrás de él."
 geo:
 id: 943
 item_type: Still Image

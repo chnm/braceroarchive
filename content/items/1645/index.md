@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381317.jpg
     alt:
       en: "Large hall filled with men in hats, many waiting in lines, as officials at tables check documents and inspect hands at the Monterrey Processing Center."
+      es: "Gran salón lleno de hombres con sombrero, muchos esperando en filas, mientras funcionarios en mesas revisan documentos e inspeccionan las manos en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1645
 item_type: Still Image

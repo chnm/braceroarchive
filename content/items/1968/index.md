@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382404.jpg
     alt:
       en: "Black-and-white photo of a line of men in wide-brimmed hats standing outdoors as an official in a light shirt hands out paychecks, with utility poles and buildings in the background."
+      es: "Foto en blanco y negro de una fila de hombres con sombreros de ala ancha de pie al aire libre mientras un funcionario con camisa clara entrega cheques de pago, con postes de electricidad y edificios al fondo."
 geo:
 id: 1968
 item_type: Still Image

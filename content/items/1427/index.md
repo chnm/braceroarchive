@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380609.jpg
     alt:
       en: "Long line of men wearing straw hats stretches diagonally across a dusty courtyard toward a multi-story building, as braceros wait in queue at the Monterrey Processing Center, Mexico."
+      es: "Larga fila de hombres con sombreros de paja se extiende en diagonal por un patio polvoriento hacia un edificio de varios pisos, mientras los braceros esperan turno en el Centro de Contratación de Monterrey, México."
 geo:
 id: 1427
 item_type: Still Image

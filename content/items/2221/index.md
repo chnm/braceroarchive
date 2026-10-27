@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383216.jpg
     alt:
       en: "Black-and-white photo looking through a doorway into a row of shower stalls lit by bare bulbs, with a stained concrete floor and a window at the far end."
+      es: "Foto en blanco y negro de una puerta que da a una fila de cabinas de ducha iluminadas por bombillas desnudas, con piso de concreto manchado y una ventana al fondo."
 geo:
 id: 2221
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384321.jpg
     alt:
       en: "Black-and-white photo of braceros walking along a dirt path between cultivated fields in California's Salinas Valley, with distant hills and a tree line visible in the background."
+      es: "Fotografía en blanco y negro de braceros caminando por un sendero de tierra entre campos cultivados en el Valle de Salinas, California, con colinas y una línea de árboles al fondo."
 geo:
 id: 2628
 item_type: Still Image

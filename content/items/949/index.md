@@ -46,6 +46,7 @@ files:
     url: /files/original/dsc00511_dd1cf5f528.jpg
     alt:
       en: "Older man in a white cowboy hat and shirt holding a dark binder with a chain attached, standing beneath a long wooden pergola-style structure with empty livestock pens."
+      es: "Hombre mayor con sombrero vaquero blanco y camisa blanca, sosteniendo una carpeta oscura con una cadena, de pie bajo una estructura de madera tipo pérgola junto a corrales vacíos para ganado."
 geo:
 id: 949
 item_type: Still Image

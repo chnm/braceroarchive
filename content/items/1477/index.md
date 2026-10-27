@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380705.jpg
     alt:
       en: "Black-and-white photo of braceros lined up outdoors at the Monterrey Processing Center, with groups walking across a dirt field toward low buildings in the background."
+      es: "Fotografía en blanco y negro de braceros formados al aire libre en el Centro de Procesamiento de Monterrey, con grupos caminando por un campo de tierra hacia edificios bajos al fondo."
 geo:
 id: 1477
 item_type: Still Image

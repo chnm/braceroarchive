@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380417.jpg
     alt:
       en: "A narrow concrete drainage ditch runs through a littered dirt lot lined with vendor stalls, with a van and groups of people visible in the background."
+      es: "Una estrecha zanja de drenaje de concreto atraviesa un terreno de tierra lleno de basura y bordeado de puestos de vendedores, con una camioneta y grupos de personas al fondo."
 geo:
 id: 1348
 item_type: Still Image

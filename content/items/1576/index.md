@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381042.jpg
     alt:
       en: "Black-and-white photo of men resting along a railroad embankment beside a mound of earth marked with a small cross, with distant hills and a fenced tree line visible."
+      es: "Foto en blanco y negro de hombres descansando junto a un terraplén ferroviario, al lado de un montículo de tierra marcado con una pequeña cruz, con colinas lejanas y una hilera de árboles cercada al fondo."
 geo:
 id: 1576
 item_type: Still Image

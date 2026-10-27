@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384724.jpg
     alt:
       en: "Black-and-white photo of braceros lined up at a serving counter in a dining hall, receiving plates of food from a server, with stacked dishes and workers in the background."
+      es: "Foto en blanco y negro de braceros formados en un mostrador de servicio en un comedor, recibiendo platos de comida de un servidor, con platos apilados y trabajadores al fondo."
 geo:
 id: 2752
 item_type: Still Image

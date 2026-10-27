@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380914.jpg
     alt:
       en: "Large crowd of braceros gathered along railroad tracks and fencing near the Monterrey Processing Center, with a large hill rising in the background."
+      es: "Gran multitud de braceros reunidos junto a las vías del tren y una cerca cerca del Centro de Procesamiento de Monterrey, con una gran colina al fondo."
 geo:
 id: 1545
 item_type: Still Image

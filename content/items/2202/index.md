@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383114.jpg
     alt:
       en: "Black-and-white photo of braceros bent over doing stoop labor and hoeing rows in a California field, with farm buildings and a rocky, tree-covered hillside in the background."
+      es: "Foto en blanco y negro de braceros agachados realizando trabajo agrícola y desyerbando hileras en un campo de California, con edificios de granja y una colina rocosa cubierta de árboles al fondo."
 geo:
 id: 2202
 item_type: Still Image

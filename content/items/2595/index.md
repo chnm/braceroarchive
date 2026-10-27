@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384224.jpg
     alt:
       en: "Black-and-white photo of a mailbox on a wooden post in the foreground, with railroad tracks, a small rail cart, and distant buildings and hills beyond a dirt field."
+      es: "Foto en blanco y negro de un buzón sobre un poste de madera en primer plano, con vías férreas, un pequeño vagón de carril y edificios y colinas distantes más allá de un campo de tierra."
 geo:
 id: 2595
 item_type: Still Image

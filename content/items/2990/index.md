@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385630.jpg
     alt:
       en: "A bracero bends to harvest lettuce in a field while a man in a wide-brimmed hat observes nearby, with farm equipment visible in the background."
+      es: "Un bracero se inclina para cosechar lechuga en un campo mientras un hombre con sombrero de ala ancha observa cerca, con maquinaria agrícola visible al fondo."
 geo:
 id: 2990
 item_type: Still Image

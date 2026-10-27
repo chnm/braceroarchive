@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382822.jpg
     alt:
       en: "Black-and-white photo of braceros seated at long tables in a dining hall, eating meals from plates with bottled drinks, in a California labor camp."
+      es: "Fotografía en blanco y negro de braceros sentados en mesas largas en un comedor, comiendo platillos con bebidas embotelladas, en un campamento laboral de California."
 geo:
 id: 2112
 item_type: Still Image

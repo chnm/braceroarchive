@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384816.jpg
     alt:
       en: "A man wearing a hat sits on a metal-framed bed reading a letter inside a sparse wooden room, with clothing hanging on a line overhead and sunlight streaming through a small window."
+      es: "Un hombre con sombrero está sentado en una cama de estructura metálica leyendo una carta dentro de una habitación de madera sencilla, con ropa colgada en un tendedero y luz solar entrando por una pequeña ventana."
 geo:
 id: 2774
 item_type: Still Image

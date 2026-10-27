@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383219.jpg
     alt:
       en: "Two braceros sit on bunk beds in a sparse room, one resting with arms crossed and the other writing on paper, with clothing hung on wall hooks behind them."
+      es: "Dos braceros sentados en literas en una habitación sencilla, uno descansando con los brazos cruzados y el otro escribiendo en un papel, con ropa colgada en ganchos en la pared detrás de ellos."
 geo:
 id: 2224
 item_type: Still Image

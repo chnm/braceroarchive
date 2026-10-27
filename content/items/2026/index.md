@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382603.jpg
     alt:
       en: "Two braceros in cowboy hats count and tally full crates of strawberries stacked at a field's edge near Watsonville, California, with workers visible in the rows behind them."
+      es: "Dos braceros con sombreros vaqueros cuentan y registran cajones llenos de fresas apilados al borde de un campo cerca de Watsonville, California, con trabajadores visibles entre los surcos al fondo."
 geo:
 id: 2026
 item_type: Still Image

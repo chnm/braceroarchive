@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382219.jpg
     alt:
       en: "Rows of cots line a wooden barracks in a California labor camp, with jackets hanging on the walls and two men seated near windows in the background."
+      es: "Filas de catres se alinean en un barracón de madera en un campo laboral de California, con chaquetas colgadas en las paredes y dos hombres sentados junto a las ventanas al fondo."
 geo:
 id: 1919
 item_type: Still Image

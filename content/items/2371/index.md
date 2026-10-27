@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381111.jpg
     alt:
       en: "Silhouetted figures sit inside a train car, framed by a lit window, as dim evening light filters in near the Monterrey Processing Center, Mexico."
+      es: "Figuras en silueta sentadas dentro de un vagón de tren, enmarcadas por una ventana iluminada, mientras la tenue luz del atardecer se filtra cerca del Centro de Procesamiento de Monterrey, México."
 geo:
 id: 2371
 item_type: Still Image

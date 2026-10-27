@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384528.jpg
     alt:
       en: "Black-and-white photo of braceros bent over in a dry field, picking crops and placing them into a metal can, with power lines and a transmission tower visible in the background."
+      es: "Fotografía en blanco y negro de braceros agachados en un campo seco, recogiendo cultivos y colocándolos en un bote metálico, con líneas eléctricas y una torre de transmisión visibles al fondo."
 geo:
 id: 2695
 item_type: Still Image

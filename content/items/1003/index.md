@@ -43,6 +43,7 @@ files:
     url: /files/original/marcial5_a3cc5c93d0.jpg
     alt:
       en: "Two men sit together on a leather couch, each holding a beverage bottle; one is shirtless, the other wears glasses and a short-sleeved shirt, with curtains visible behind them."
+      es: "Dos hombres sentados juntos en un sofá de cuero, cada uno con una botella en la mano; uno está sin camisa y el otro usa lentes y camisa de manga corta, con cortinas al fondo."
 geo:
 id: 1003
 item_type: Still Image

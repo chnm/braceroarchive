@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380419.jpg
     alt:
       en: "Black-and-white photo of a large group of men, most wearing broad-brimmed straw hats, standing closely together outdoors at the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de un gran grupo de hombres, la mayoría con sombreros de ala ancha, de pie muy juntos al aire libre en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1350
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383926.jpg
     alt:
       en: "Black-and-white photo of a man in glasses holding papers while speaking to a group of braceros, one wearing a wide-brimmed hat, gathered outside a building with large windows."
+      es: "Foto en blanco y negro de un hombre con gafas sosteniendo papeles mientras habla con un grupo de braceros, uno con sombrero de ala ancha, reunidos frente a un edificio con grandes ventanas."
 geo:
 id: 2504
 item_type: Still Image

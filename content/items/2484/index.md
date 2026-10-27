@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383906.jpg
     alt:
       en: "Black-and-white photo of a crowd of men, many wearing straw hats, gathered closely together outdoors while waiting to receive documents in Stockton, California."
+      es: "Fotografía en blanco y negro de una multitud de hombres, muchos con sombreros de paja, reunidos de cerca al aire libre mientras esperan recibir documentos en Stockton, California."
 geo:
 id: 2484
 item_type: Still Image

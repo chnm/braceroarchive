@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385007.jpg
     alt:
       en: "A bracero in sandals and work pants harvests zucchini from a field row, with a metal bucket sitting on the cracked soil nearby."
+      es: "Un bracero con sandalias y pantalón de trabajo cosecha calabacitas en un surco, mientras un cubo metálico descansa sobre la tierra agrietada cerca de él."
 geo:
 id: 2822
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericodecretobraceros4_54ebf1f7ef.jpg
     alt:
       en: "Scanned page of the Diario Oficial dated May 25, 2005, showing dense Spanish legal text including signatures of Mexican officials and the start of a convenio regarding ex-braceros, under the heading \"Considerando.\""
+      es: "Página escaneada del Diario Oficial del 25 de mayo de 2005, con texto legal denso en español, firmas de funcionarios mexicanos y el inicio de un convenio sobre ex-braceros, bajo el encabezado \"Considerando\"."
 geo:
 id: 1154
 item_type: Document

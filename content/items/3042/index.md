@@ -46,6 +46,7 @@ files:
     url: /files/original/olivares_samaniego_az47_ba6566d164.jpg
     alt:
       en: "Older man with gray hair seated in a brown leather recliner, wearing a plaid shirt under an olive vest and gray pants, with a kitchen and framed picture visible in the background."
+      es: "Hombre mayor de cabello gris sentado en un sillón reclinable de cuero marrón, vistiendo una camisa a cuadros bajo un chaleco verde olivo y pantalones grises, con una cocina y un cuadro enmarcado al fondo."
 geo:
 id: 3042
 item_type: Still Image

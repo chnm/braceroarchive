@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380415.jpg
     alt:
       en: "Two braceros crouch drinking coffee in a dirt yard while others in hats walk past toward a large building at the Monterrey Processing Center."
+      es: "Dos braceros se agachan bebiendo café en un patio de tierra mientras otros con sombrero caminan hacia un edificio grande en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1363
 item_type: Still Image

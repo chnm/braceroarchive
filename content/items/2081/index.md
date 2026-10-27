@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382710.jpg
     alt:
       en: "Outdoor washing basin beneath a wooden staircase at a labor camp, with metal buckets and cans nearby, laundry hanging on a line, and a wood-frame building with an open doorway in the background."
+      es: "Lavadero exterior bajo una escalera de madera en un campamento de trabajadores, con cubetas y botes de metal cerca, ropa colgada en un tendedero y un edificio de madera con una puerta abierta al fondo."
 geo:
 id: 2081
 item_type: Still Image

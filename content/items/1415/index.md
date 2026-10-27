@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380534.jpg
     alt:
       en: "A line of men wearing wide-brimmed hats walks single file along the railing of a suspension bridge, with a lone figure crossing the roadway ahead and trees lining the riverbank below."
+      es: "Una fila de hombres con sombreros de ala ancha camina en fila sobre el barandal de un puente colgante, mientras una figura solitaria cruza la calzada y árboles bordean la ribera del río abajo."
 geo:
 id: 1415
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384028.jpg
     alt:
       en: "Rows of lettuce boxes stacked in a vast field as numerous braceros wearing hats work among the crop rows, with hills and distant buildings visible on the horizon."
+      es: "Filas de cajas de lechuga apiladas en un vasto campo mientras numerosos braceros con sombreros trabajan entre los surcos del cultivo, con colinas y edificios lejanos en el horizonte."
 geo:
 id: 2539
 item_type: Still Image

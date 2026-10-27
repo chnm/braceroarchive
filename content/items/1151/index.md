@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericodecretobraceros1_fbabee4f05.jpg
     alt:
       en: "Scanned page from Mexico's Diario Oficial dated May 25, 2005, headed \"Poder Ejecutivo\" and \"Secretaría de Hacienda y Crédito Público,\" presenting Vicente Fox's decree creating the Fideicomiso Fondo de Apoyo Social para Ex Trabajadores Migratorios Mexicanos."
+      es: "Página escaneada del Diario Oficial de México, fechada el 25 de mayo de 2005, encabezada \"Poder Ejecutivo\" y \"Secretaría de Hacienda y Crédito Público\", con el decreto de Vicente Fox que crea el Fideicomiso Fondo de Apoyo Social para Ex Trabajadores Migratorios Mexicanos."
 geo:
 id: 1151
 item_type: Document

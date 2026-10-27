@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383231.jpg
     alt:
       en: "Two braceros play dominoes at a wooden table in a dormitory-style living quarters, with bunk beds and personal belongings visible in the background."
+      es: "Dos braceros juegan dominó en una mesa de madera dentro de un dormitorio tipo albergue, con literas y pertenencias personales visibles al fondo."
 geo:
 id: 2236
 item_type: Still Image

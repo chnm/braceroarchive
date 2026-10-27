@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384130.jpg
     alt:
       en: "Black-and-white photo of four men seated close together in a wood-paneled living quarter, one holding a magazine titled \"Confidential\" on his lap."
+      es: "Foto en blanco y negro de cuatro hombres sentados juntos en una habitación con paredes de madera, uno sostiene en el regazo una revista titulada \"Confidential\"."
 geo:
 id: 2578
 item_type: Still Image

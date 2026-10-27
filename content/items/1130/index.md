@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericobirth2_889175f576.jpg
     alt:
       en: "Back of a Mexican birth certificate with a green \"Poder Ejecutivo, Estado de Guanajuato\" seal, repeated faint letterhead text, and a certification statement dated November 3, 1992, Cueramaro, Gto., signed by the civil registry officer."
+      es: "Reverso de un acta de nacimiento mexicana con un sello verde de \"Poder Ejecutivo, Estado de Guanajuato\", texto repetido de membrete tenue y certificación fechada el 3 de noviembre de 1992 en Cueramaro, Gto., firmada por el oficial del registro civil."
 geo:
 id: 1130
 item_type: Document

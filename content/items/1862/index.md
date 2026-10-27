@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382016.jpg
     alt:
       en: "Black-and-white photo of long rows of lettuce stretching toward trucks and equipment parked at the field's edge under an overcast sky, Salinas Valley, California."
+      es: "Foto en blanco y negro de largas hileras de lechuga que se extienden hacia camiones y maquinaria estacionados al borde del campo bajo un cielo nublado, Valle de Salinas, California."
 geo:
 id: 1862
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383413.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat bends over a \"TORO\" lettuce box in a field, with rows of harvested lettuce and other workers visible in the background."
+      es: "Un bracero con sombrero de ala ancha se inclina sobre una caja de lechuga \"TORO\" en un campo, con hileras de lechuga cosechada y otros trabajadores al fondo."
 geo:
 id: 3007
 item_type: Still Image

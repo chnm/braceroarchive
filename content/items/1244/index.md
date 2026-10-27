@@ -48,6 +48,7 @@ files:
     url: /files/original/flores,jesus1a_1f120ed60f.jpg
     alt:
       en: "Aged tan cover reading \"U.S. Department of Labor — Mención Honorífica,\" with a worker emblem on the left and the Department of Labor seal on the right."
+      es: "Portada de color tostado envejecido con el texto \"U.S. Department of Labor — Mención Honorífica\", un emblema de trabajador a la izquierda y el sello del Departamento de Labor a la derecha."
 geo:
 id: 1244
 item_type: Document

@@ -51,6 +51,7 @@ files:
     url: /files/original/jul27_12_04d7bca11a.jpg
     alt:
       en: "Handwritten letter in Spanish on lined paper, dated \"Kingsburg, Calif. Junio 9 de 1957,\" addressed \"Querida Esposa,\" with closely spaced cursive text filling the page."
+      es: "Carta manuscrita en español sobre papel rayado, fechada \"Kingsburg, Calif. Junio 9 de 1957,\" dirigida a \"Querida Esposa,\" con texto cursivo apretado que llena toda la página."
 geo:
 id: 640
 item_type: Still Image

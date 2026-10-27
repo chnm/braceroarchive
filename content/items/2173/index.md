@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383003.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat hoes a row in a pepper field near Salinas, California, while several other workers labor in the rows behind him."
+      es: "Un bracero con sombrero de ala ancha azada una hilera en un campo de chiles cerca de Salinas, California, mientras otros trabajadores laboran en las hileras detrás de él."
 geo:
 id: 2173
 item_type: Still Image

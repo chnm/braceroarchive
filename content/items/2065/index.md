@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382730.jpg
     alt:
       en: "Black-and-white photo of braceros walking along a dirt path outside a row of wooden barracks at the Gondo Labor Camp in Watsonville, California."
+      es: "Fotografía en blanco y negro de braceros caminando por un sendero de tierra frente a una hilera de barracas de madera en el Campo de Trabajo Gondo en Watsonville, California."
 geo:
 id: 2065
 item_type: Still Image

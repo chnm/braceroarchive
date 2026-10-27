@@ -48,6 +48,7 @@ files:
     url: /files/original/santacruz,-melitona,-1986,-birth-certificate1_b739bae889.jpg
     alt:
       en: "Official Mexican birth certificate form from the Civil Registry of Aguascalientes for Jose Guadalupe Santacruz Rangel, born December 15, 1925, bearing printed text, handwritten entries, stamps, and a signature."
+      es: "Formulario oficial de acta de nacimiento del Registro Civil de Aguascalientes para Jose Guadalupe Santacruz Rangel, nacido el 15 de diciembre de 1925, con texto impreso, anotaciones manuscritas, sellos y una firma."
 geo:
 id: 1084
 item_type: Document

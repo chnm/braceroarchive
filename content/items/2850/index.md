@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385109.jpg
     alt:
       en: "Black-and-white photo of braceros resting in a narrow wooden barracks room, one man lying on a bunk, others seated nearby, with clothing hanging on lines in the background."
+      es: "Foto en blanco y negro de braceros descansando en un cuarto estrecho de madera, uno recostado en una litera y otros sentados cerca, con ropa colgada al fondo."
 geo:
 id: 2850
 item_type: Still Image

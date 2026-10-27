@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381711.jpg
     alt:
       en: "Rows of men sit along the walls of a tiled room with hats placed on the floor before them, while an official stands in the center examining them at the Monterrey Processing Center."
+      es: "Filas de hombres sentados junto a las paredes de una sala con azulejos, con sombreros colocados en el suelo frente a ellos, mientras un funcionario se encuentra de pie en el centro examinándolos en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1760
 item_type: Still Image

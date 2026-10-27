@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385502.jpg
     alt:
       en: "Black-and-white aerial view of braceros wearing wide-brimmed hats, bent over in rows of a lettuce field, harvesting crops by hand across a California farm."
+      es: "Vista aérea en blanco y negro de braceros con sombreros de ala ancha, inclinados en hileras de un campo de lechuga, cosechando a mano en una granja de California."
 geo:
 id: 2929
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382323.jpg
     alt:
       en: "Black-and-white photo of four braceros gathered around a cot playing a game in a California camp dormitory, with rows of bunks and hanging clothes visible in the background."
+      es: "Foto en blanco y negro de cuatro braceros reunidos alrededor de un catre jugando en un dormitorio de un campamento en California, con filas de literas y ropa colgada al fondo."
 geo:
 id: 1952
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382812.jpg
     alt:
       en: "Black-and-white photo of braceros at a row of sinks in a camp bathroom; one bends to drink from a faucet while two others brush their teeth nearby, one wearing a cowboy hat."
+      es: "Foto en blanco y negro de braceros junto a una fila de lavabos en el baño de un campamento; uno se inclina para beber de un grifo mientras otros dos se cepillan los dientes, uno con sombrero de vaquero."
 geo:
 id: 2102
 item_type: Still Image

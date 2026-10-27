@@ -48,6 +48,7 @@ files:
     url: /files/original/mica-calexico-ca,-junio-1957-(back)_c7bc8a88b3.jpg
     alt:
       en: "Back of an alien laborer's identification card for Ignacio Ochoa-Perdomo, born 5-25-23 in Petatlan, Gro., Mexico, issued in Calexico, Calif. on 6-6-57, with ID number L-2763805 and \"MICA\" printed below."
+      es: "Reverso de una tarjeta de identificación de trabajador bracero de Ignacio Ochoa-Perdomo, nacido el 5-25-23 en Petatlán, Gro., México, emitida en Calexico, Calif. el 6-6-57, con número L-2763805 y la palabra \"MICA\" impresa debajo."
 geo:
 id: 877
 item_type: Document

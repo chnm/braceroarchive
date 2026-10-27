@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381921.jpg
     alt:
       en: "Black-and-white photo of a wooden barrack-style living quarters in Stockton, California, with braceros standing and sitting on the entrance steps and a child nearby in the dirt yard."
+      es: "Foto en blanco y negro de un albergue de madera tipo barraca en Stockton, California, con braceros de pie y sentados en los escalones de entrada y un niño cerca en el patio de tierra."
 geo:
 id: 1810
 item_type: Still Image

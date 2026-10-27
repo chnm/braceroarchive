@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380629.jpg
     alt:
       en: "A man in a straw hat leans against a barbed wire fence, with a crowd of hatted men gathered behind him near a building, Monterrey Processing Center, Mexico."
+      es: "Un hombre con sombrero de paja se apoya en una cerca de alambre de púas, con una multitud de hombres con sombrero reunidos detrás cerca de un edificio, Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1451
 item_type: Still Image

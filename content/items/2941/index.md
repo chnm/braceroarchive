@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385514.jpg
     alt:
       en: "Black-and-white street scene of the State Theatre marquee reading \"MIERCOLES CANTINFLITAS EN PERSONA,\" with parked cars and a group of men gathered outside on the sidewalk in Watsonville, California."
+      es: "Escena callejera en blanco y negro de la marquesina del Teatro State que dice \"MIERCOLES CANTINFLITAS EN PERSONA\", con autos estacionados y un grupo de hombres reunidos en la acera en Watsonville, California."
 geo:
 id: 2941
 item_type: Still Image

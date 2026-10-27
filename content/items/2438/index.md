@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383738.jpg
     alt:
       en: "Black-and-white photo of a harvested field with scattered produce in the foreground, workers walking near trucks labeled \"California,\" and utility poles along the roadside in Salinas Valley."
+      es: "Foto en blanco y negro de un campo cosechado con restos de cultivo en primer plano, trabajadores caminando cerca de camiones con el letrero \"California\" y postes eléctricos junto al camino en Salinas Valley."
 geo:
 id: 2438
 item_type: Still Image

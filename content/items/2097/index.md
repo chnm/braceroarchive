@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382807.jpg
     alt:
       en: "Black-and-white photo of a bracero leaning against an open doorway, with a row of small houses and a dirt path visible in the background of a California labor camp."
+      es: "Fotografía en blanco y negro de un bracero apoyado en una puerta abierta, con una hilera de casas pequeñas y un camino de tierra al fondo de un campamento laboral en California."
 geo:
 id: 2097
 item_type: Still Image

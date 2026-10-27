@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380832.jpg
     alt:
       en: "A man in a suit collects papers from a line of braceros wearing straw hats, with trees and buildings in the background, Mexico City, Mexico."
+      es: "Un hombre con traje recoge papeles de una fila de braceros con sombreros de paja, con árboles y edificios al fondo, Ciudad de México, México."
 geo:
 id: 1519
 item_type: Still Image

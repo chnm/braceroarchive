@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382120.jpg
     alt:
       en: "Black-and-white photo of braceros seated on bunk beds in a wooden barracks, talking and eating strawberries from a crate labeled \"Symphony,\" with clothes hanging above."
+      es: "Foto en blanco y negro de braceros sentados en literas dentro de un barracón de madera, conversando y comiendo fresas de una caja con la etiqueta \"Symphony\", con ropa colgada arriba."
 geo:
 id: 1886
 item_type: Still Image

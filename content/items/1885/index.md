@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382119.jpg
     alt:
       en: "Two straw hats, clothing, striped bags, and a folded blanket hang on pegs above a bed with a patterned pillow in a wood-paneled bracero living quarter."
+      es: "Dos sombreros de paja, ropa, bolsas rayadas y una manta doblada cuelgan de ganchos sobre una cama con almohada estampada en un cuarto de madera para braceros."
 geo:
 id: 1885
 item_type: Still Image

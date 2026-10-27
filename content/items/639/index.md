@@ -51,6 +51,7 @@ files:
     url: /files/original/jul27_11_6682292b9c.jpg
     alt:
       en: "Handwritten letter in Spanish cursive on lined paper, dated \"Denver Colo. Marzo-16/59\" at top, signed \"Roberto\" at bottom, addressed to \"Querida Hijita.\""
+      es: "Carta manuscrita en cursiva en español sobre papel rayado, fechada \"Denver Colo. Marzo-16/59\" en la parte superior, firmada \"Roberto\" al final, dirigida a \"Querida Hijita\"."
 geo:
 id: 639
 item_type: Still Image

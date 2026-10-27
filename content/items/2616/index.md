@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384308.jpg
     alt:
       en: "Black-and-white photo of workers bent over in long rows of lettuce, harvesting by hand, with trucks and trees visible in the background of the Salinas Valley field."
+      es: "Foto en blanco y negro de trabajadores inclinados en largas hileras de lechuga, cosechando a mano, con camiones y árboles visibles al fondo del campo en el Valle de Salinas."
 geo:
 id: 2616
 item_type: Still Image

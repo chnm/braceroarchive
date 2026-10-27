@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381840.jpg
     alt:
       en: "Black-and-white photo of a bracero carrying a large cotton sack on his shoulder across a field, with other workers nearby and a wooden tripod structure, near McAllen, Texas."
+      es: "Fotografía en blanco y negro de un bracero cargando un gran costal de algodón sobre el hombro en un campo, con otros trabajadores cerca y una estructura de madera en forma de trípode, cerca de McAllen, Texas."
 geo:
 id: 1793
 item_type: Still Image

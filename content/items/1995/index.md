@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382431.jpg
     alt:
       en: "Black-and-white photo of a peddlar holding up a small container of liquid for a group of braceros gathered around a car with merchandise displayed on its open trunk lid."
+      es: "Fotografía en blanco y negro de un vendedor ambulante mostrando un pequeño recipiente con líquido a un grupo de braceros reunidos junto a un auto con mercancía exhibida sobre la cajuela abierta."
 geo:
 id: 1995
 item_type: Still Image

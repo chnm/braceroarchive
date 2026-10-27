@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384233.jpg
     alt:
       en: "A concrete step inscribed with \"DIOS ES AMOR\" (\"God is love\"), with a person's sandaled foot resting on it near the entrance of a bracero camp building."
+      es: "Escalón de concreto con la inscripción \"DIOS ES AMOR\", con el pie calzado en sandalia de una persona apoyado cerca de la entrada de un edificio del campamento bracero."
 geo:
 id: 2605
 item_type: Still Image

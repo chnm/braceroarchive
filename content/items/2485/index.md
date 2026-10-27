@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383907.jpg
     alt:
       en: "Black-and-white photo of a line of men walking along a roadside in Stockton, California, carrying suitcases and bundles, with power lines, a parked car, and buildings in the background."
+      es: "Fotografía en blanco y negro de una fila de hombres caminando por el borde de una calle en Stockton, California, cargando maletas y bultos, con cables eléctricos, un auto estacionado y edificios al fondo."
 geo:
 id: 2485
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383621.jpg
     alt:
       en: "Rows of wooden barracks line a dirt pathway as several men lean against the walls, with mountains visible in the hazy distance."
+      es: "Filas de barracas de madera bordean un camino de tierra mientras varios hombres se apoyan en las paredes, con montañas visibles en la distancia brumosa."
 geo:
 id: 2341
 item_type: Still Image

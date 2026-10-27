@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382112.jpg
     alt:
       en: "Black-and-white photo of braceros resting on cots in a wooden bunkhouse, with clothing and hats hung on the wall, as one man stands in a doorway and others sit talking nearby."
+      es: "Fotografía en blanco y negro de braceros descansando en catres dentro de un barracón de madera, con ropa y sombreros colgados en la pared, mientras un hombre está de pie en la puerta y otros conversan sentados cerca."
 geo:
 id: 1878
 item_type: Still Image

@@ -45,6 +45,7 @@ files:
     url: /files/original/renteria-rosario---fathers-death-certificate_08362a3e54.jpg
     alt:
       en: "Official Mexican death certificate (\"Certificado de Defunción\") for Eugenio Renteria Mojica, filled with typed and handwritten details on personal data, cause of death, and signatures, stamped Folio 2222343."
+      es: "Certificado de Defunción oficial mexicano de Eugenio Rentería Mojica, con datos personales, causas de muerte y firmas mecanografiados y manuscritos, sellado con el folio 2222343."
 geo:
 id: 1009
 item_type: Document

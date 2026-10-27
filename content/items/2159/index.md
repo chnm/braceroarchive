@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383008.jpg
     alt:
       en: "Black-and-white photo of a two-story farmhouse with exterior stairs, surrounded by small outbuildings, parked vehicles, and flat open land stretching to the horizon."
+      es: "Fotografía en blanco y negro de una granja de dos pisos con escaleras exteriores, rodeada de pequeñas edificaciones, vehículos estacionados y un terreno plano que se extiende hasta el horizonte."
 geo:
 id: 2159
 item_type: Still Image

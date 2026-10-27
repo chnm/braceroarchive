@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382935.jpg
     alt:
       en: "Black-and-white street scene in Watsonville, California, with men pausing to view shoes displayed in a shop window advertising a \"2-for-1 Sale,\" while others walk along the sidewalk past storefronts."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con hombres observando zapatos en el escaparate de una tienda que anuncia una \"Venta 2 por 1\", mientras otros caminan por la acera frente a los comercios."
 geo:
 id: 2155
 item_type: Still Image

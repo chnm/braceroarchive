@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380718.jpg
     alt:
       en: "A large crowd of men wearing wide-brimmed straw hats gathers in a covered walkway outside a building at the Monterrey Processing Center, waiting in line during processing."
+      es: "Una gran multitud de hombres con sombreros de paja de ala ancha se reúne en un pasillo cubierto fuera de un edificio en el Centro de Procesamiento de Monterrey, esperando en fila durante el procesamiento."
 geo:
 id: 1466
 item_type: Still Image

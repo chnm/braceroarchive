@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382810.jpg
     alt:
       en: "A man leans over a row of old wash basins to drink water, while another man stands nearby in a worn, industrial-style room with pipes and machinery visible."
+      es: "Un hombre se inclina sobre una fila de viejos lavabos para beber agua, mientras otro hombre está de pie cerca en una habitación industrial desgastada con tuberías y maquinaria visibles."
 geo:
 id: 2100
 item_type: Still Image

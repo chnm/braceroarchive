@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382412.jpg
     alt:
       en: "An official leans over a desk stamping paperwork while a bracero wearing a wide-brimmed hat waits beside him, with other men standing in line behind them."
+      es: "Un funcionario se inclina sobre un escritorio sellando papeles mientras un bracero con sombrero de ala ancha espera a su lado, con otros hombres formados en fila detrás de ellos."
 geo:
 id: 1976
 item_type: Still Image

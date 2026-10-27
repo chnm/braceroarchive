@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385017.jpg
     alt:
       en: "A man in a pith helmet and sunglasses sits on a suitcase amid luggage and bundles, while other men in hats gather nearby on a tree-lined street in Stockton, California."
+      es: "Un hombre con casco de corcho y gafas de sol se sienta sobre una maleta entre equipaje y bultos, mientras otros hombres con sombreros se reúnen cerca en una calle arbolada de Stockton, California."
 geo:
 id: 2832
 item_type: Still Image

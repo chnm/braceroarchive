@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382207.jpg
     alt:
       en: "Row of canvas tents with laundry hanging to dry along a dirt path, a wooden barn visible at left and utility poles lining the camp under an overcast sky."
+      es: "Fila de tiendas de campaña con ropa tendida junto a un camino de tierra, un granero de madera a la izquierda y postes de luz bordeando el campamento bajo un cielo nublado."
 geo:
 id: 1907
 item_type: Still Image

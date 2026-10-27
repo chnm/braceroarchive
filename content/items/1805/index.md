@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381928.jpg
     alt:
       en: "Black-and-white aerial photo of California farmland, showing a dirt road and irrigation ditch dividing plowed and unplowed fields, with small vehicles parked along the road and an airplane wing visible in the corner."
+      es: "Fotografía aérea en blanco y negro de tierras de cultivo en California, con un camino de tierra y una zanja de riego que dividen campos arados y sin arar, vehículos pequeños estacionados junto al camino y el ala de un avión visible en la esquina."
 geo:
 id: 1805
 item_type: Still Image

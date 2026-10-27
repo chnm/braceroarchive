@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382933.jpg
     alt:
       en: "Black-and-white street scene with a group of men standing on a sidewalk beneath an \"Electric Co.\" sign, a parked car and streetlights lining the road in Watsonville, California."
+      es: "Escena callejera en blanco y negro con un grupo de hombres en una acera bajo un letrero de \"Electric Co.\", un automóvil estacionado y postes de luz a lo largo de la calle en Watsonville, California."
 geo:
 id: 2153
 item_type: Still Image

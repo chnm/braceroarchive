@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383017.jpg
     alt:
       en: "Black-and-white photo of a long, barrack-style wooden building with a pitched roof and multiple small windows, set in a dirt yard with scattered debris and power lines overhead."
+      es: "Fotografía en blanco y negro de un edificio alargado de madera tipo barracón, con techo a dos aguas y varias ventanas pequeñas, en un patio de tierra con escombros dispersos y cables eléctricos en lo alto."
 geo:
 id: 2168
 item_type: Still Image

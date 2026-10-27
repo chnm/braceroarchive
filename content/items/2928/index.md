@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385501.jpg
     alt:
       en: "Black-and-white aerial view of braceros bent over in rows of a lettuce field, picking crops by hand across a large cultivated plot."
+      es: "Vista aérea en blanco y negro de braceros agachados en hileras de un campo de lechuga, cosechando a mano a lo largo de una gran parcela cultivada."
 geo:
 id: 2928
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384801.jpg
     alt:
       en: "A man in a collared shirt stands smoking in a wooden living quarter, with a hat and clothing hanging on the wall and a table holding various objects nearby."
+      es: "Un hombre con camisa de cuello fumando en una vivienda de madera, con un sombrero y ropa colgados en la pared y una mesa con varios objetos cerca."
 geo:
 id: 2761
 item_type: Still Image

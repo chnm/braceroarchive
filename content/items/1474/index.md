@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380714.jpg
     alt:
       en: "Large crowd of men wearing hats gathers behind a fence in a gravel lot at the Monterrey Processing Center, with a few individuals and a tree in the foreground and industrial buildings in the background."
+      es: "Gran multitud de hombres con sombrero se agrupa detrás de una cerca en un terreno de grava en el Centro de Procesamiento de Monterrey, con algunas personas y un árbol en primer plano y edificios industriales al fondo."
 geo:
 id: 1474
 item_type: Still Image

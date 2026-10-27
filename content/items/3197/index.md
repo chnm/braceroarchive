@@ -31,6 +31,7 @@ files:
     url: /files/original/rochin-mkt-cr-acapulco-~-1949_4581b9f4da.jpg
     alt:
       en: "Black-and-white 1949 street view of Rochin's Market, a single-story corner building with large storefront windows, flanked by parked cars and a small tower structure visible in the background."
+      es: "Vista callejera en blanco y negro de 1949 de Rochin's Market, un edificio de esquina de un piso con grandes vitrinas, rodeado de autos estacionados y una pequeña torre visible al fondo."
 geo:
 id: 3197
 item_type: Still Image

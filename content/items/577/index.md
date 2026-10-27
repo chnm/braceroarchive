@@ -46,6 +46,7 @@ files:
     url: /files/original/outhouse_26d87fae71.jpg
     alt:
       en: "Two photographs on an album page: a faded, pink-toned image of a truck parked along a roadside, and a horse tied near a wooden outhouse and fence."
+      es: "Dos fotografías en una página de álbum: una imagen con tono rosado de un camión estacionado junto a una carretera, y un caballo atado cerca de una letrina de madera y una cerca."
 geo:
 id: 577
 item_type: Still Image

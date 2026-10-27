@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---passport3_0d90eaeb09.jpg
     alt:
       en: "Two facing pages of a Mexican passport booklet, each marked \"MATRICULA 1341980,\" with a printed \"VISADA\" stamp, official seal, and a handwritten signature reading \"Enrique Ruiz.\""
+      es: "Dos páginas enfrentadas de un pasaporte mexicano, ambas marcadas \"MATRICULA 1341980\", con un sello impreso \"VISADA\", un sello oficial y una firma manuscrita que dice \"Enrique Ruiz\"."
 geo:
 id: 973
 item_type: Document

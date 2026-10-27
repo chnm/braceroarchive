@@ -46,6 +46,7 @@ files:
     url: /files/original/anaheim,-california,-1953--(3rd-from-left-to-right)_9ad658eafc.jpg
     alt:
       en: "Four men walk abreast down a paved street lined with trees and a utility pole, in this aged, creased photograph from Anaheim, California, 1953."
+      es: "Cuatro hombres caminan juntos por una calle pavimentada bordeada de árboles y un poste de luz, en esta fotografía antigua y agrietada de Anaheim, California, 1953."
 geo:
 id: 859
 item_type: Still Image

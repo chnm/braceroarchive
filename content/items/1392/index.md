@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380511.jpg
     alt:
       en: "Black-and-white photo of braceros preparing tortillas along a long row of outdoor griddles and tables, with one man in a tank top standing beside the cooking line."
+      es: "Foto en blanco y negro de braceros preparando tortillas junto a una larga fila de planchas y mesas al aire libre, con un hombre en camiseta sin mangas de pie junto a la línea de cocina."
 geo:
 id: 1392
 item_type: Still Image

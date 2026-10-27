@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-27_7cbc80c5a3.jpg
     alt:
       en: "Three \"Purchaser's Receipt of Bank Money Order\" forms from The First National Bank, Coachilla, California, dated 1947-1949, made out to Rosario Ramirez and Arnulfo Velasco for $100, $26, and $35."
+      es: "Tres formularios de \"Purchaser's Receipt of Bank Money Order\" del First National Bank, Coachilla, California, fechados entre 1947 y 1949, a nombre de Rosario Ramirez y Arnulfo Velasco por $100, $26 y $35."
 geo:
 id: 1146
 item_type: Document

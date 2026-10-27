@@ -48,6 +48,7 @@ files:
     url: /files/original/jul28_02-back_e537343f8f.jpg
     alt:
       en: "Alien Laborer's Identification Card (MICA) for Alberto Magallon-Jimenes, born 4/23/21 in Ameca, Jal., Mexico, issued in Calexico, Calif. on 6/23/55, numbered L-2151212."
+      es: "Tarjeta de Identificación de Trabajador Extranjero (MICA) de Alberto Magallón-Jiménez, nacido el 4/23/21 en Ameca, Jal., México, emitida en Calexico, Calif. el 6/23/55, con número L-2151212."
 geo:
 id: 793
 item_type: Document

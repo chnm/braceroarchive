@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383805.jpg
     alt:
       en: "Interior of a wooden barracks with a corrugated metal roof, where a central support beam holds a small shelf with glasses, a round decorative object, and clotheslines strung across the room."
+      es: "Interior de un barracón de madera con techo de lámina corrugada, donde una viga central sostiene un pequeño estante con vasos, un objeto decorativo redondo y cuerdas de tender ropa cruzando la habitación."
 geo:
 id: 2449
 item_type: Still Image

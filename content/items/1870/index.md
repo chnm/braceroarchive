@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382103.jpg
     alt:
       en: "A bracero reclines on a metal-framed bed with hands behind his head, gazing toward a sunlit window; hats, jackets, and bags hang on wall pegs beside rows of bunks."
+      es: "Un bracero descansa reclinado en una cama de estructura metálica, con las manos detrás de la cabeza, mirando hacia una ventana iluminada; sombreros, chaquetas y bolsas cuelgan de ganchos en la pared junto a hileras de literas."
 geo:
 id: 1870
 item_type: Still Image

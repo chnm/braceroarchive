@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384122.jpg
     alt:
       en: "Black-and-white photo of a row of simple wooden barracks; a man stands in the doorway of the center building, with a dirt yard, power lines, and trees in the background."
+      es: "Foto en blanco y negro de una fila de barracones de madera sencillos; un hombre está de pie en la puerta del edificio central, con un patio de tierra, líneas eléctricas y árboles al fondo."
 geo:
 id: 2570
 item_type: Still Image

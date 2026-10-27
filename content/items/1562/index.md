@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381008.jpg
     alt:
       en: "Black-and-white photo of a long line of braceros carrying bundles and bags, walking across an open dirt field toward the Monterrey Processing Center under a hazy sky."
+      es: "Fotografía en blanco y negro de una larga fila de braceros cargando bultos y bolsas, caminando por un campo de tierra hacia el Centro de Procesamiento de Monterrey bajo un cielo neblinoso."
 geo:
 id: 1562
 item_type: Still Image

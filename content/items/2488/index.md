@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383910.jpg
     alt:
       en: "Black-and-white photo of a group of men in hats gathered around the open side of a van or truck, with a vendor displaying items inside, at a bus stop in Stockton, California."
+      es: "Fotografía en blanco y negro de un grupo de hombres con sombrero reunidos junto al costado abierto de una furgoneta o camión, con un vendedor mostrando artículos en el interior, en una parada de autobús en Stockton, California."
 geo:
 id: 2488
 item_type: Still Image

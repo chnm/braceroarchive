@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381427.jpg
     alt:
       en: "Long line of men in cowboy hats and work clothes stand under an open-air shelter, as an agent in a striped shirt selects workers from the group, Hidalgo, Texas."
+      es: "Larga fila de hombres con sombreros vaqueros y ropa de trabajo bajo un cobertizo al aire libre, mientras un agente con camisa a rayas selecciona trabajadores del grupo, Hidalgo, Texas."
 geo:
 id: 1680
 item_type: Still Image

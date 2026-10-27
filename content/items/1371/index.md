@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380443.jpg
     alt:
       en: "Black-and-white photo of a long line of men in hats waiting outside a building at the Monterrey Processing Center, with a man leaning on a ladder in the foreground."
+      es: "Foto en blanco y negro de una larga fila de hombres con sombrero esperando afuera de un edificio en el Centro de Procesamiento de Monterrey, con un hombre apoyado en una escalera en primer plano."
 geo:
 id: 1371
 item_type: Still Image

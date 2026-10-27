@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382616.jpg
     alt:
       en: "A large group of braceros, many wearing wide-brimmed hats, gather along a dirt road beside a field, with trucks and trailers parked in the background."
+      es: "Un gran grupo de braceros, muchos con sombreros de ala ancha, se reúne a lo largo de un camino de tierra junto a un campo, con camiones y remolques estacionados al fondo."
 geo:
 id: 2039
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383106.jpg
     alt:
       en: "A bracero in a wide-brimmed hat crouches beside stacked wooden crates of strawberries, punching a tally card, with the crate labeled \"BEST QUAL FROZEN\" and numbers like 71 and 96 chalked on the boxes."
+      es: "Un bracero con sombrero de ala ancha se agacha junto a cajas de madera apiladas con fresas, perforando una tarjeta de conteo; una caja dice \"BEST QUAL FROZEN\" con números 71 y 96 marcados con tiza."
 geo:
 id: 2396
 item_type: Still Image

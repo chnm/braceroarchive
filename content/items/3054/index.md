@@ -46,6 +46,7 @@ files:
     url: /files/original/belen-soto-moreno-3-(dup)_7c2543fe65.jpg
     alt:
       en: "Sepia-toned photograph of a small wooden building mounted on wheels, being pulled by a team of horses and mules, with two men standing on the structure's platform."
+      es: "Fotografía en tono sepia de una pequeña construcción de madera montada sobre ruedas, tirada por un equipo de caballos y mulas, con dos hombres de pie sobre la plataforma de la estructura."
 geo:
 id: 3054
 item_type: Still Image

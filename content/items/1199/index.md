@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-40_e725eb2ba4.jpg
     alt:
       en: "Purchaser's receipt of bank money order No. 32428 from The First National Bank in Coachella, California, dated Oct. 27, 1950, showing M. Gonzalez paying Jesus Ramirez $17.00, stamped \"NOT NEGOTIABLE.\""
+      es: "Recibo del comprador de un giro bancario No. 32428 del First National Bank en Coachella, California, fechado el 27 de octubre de 1950, de M. Gonzalez a Jesus Ramirez por $17.00, sellado \"NOT NEGOTIABLE\"."
 geo:
 id: 1199
 item_type: Document

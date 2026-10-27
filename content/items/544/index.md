@@ -46,6 +46,7 @@ files:
     url: /files/original/5of6_67d6b55781.jpg
     alt:
       en: "Interior spread of a worn identification card booklet, left page printed with Spanish-language rules on identification cards, right page blank with faint discoloration and tears along the edges."
+      es: "Interior de un folleto de identificación desgastado, página izquierda con reglas impresas en español sobre la cartilla, página derecha en blanco con manchas tenues y rasgaduras en los bordes."
 geo:
 id: 544
 item_type: Document

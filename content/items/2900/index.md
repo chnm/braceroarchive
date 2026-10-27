@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385309.jpg
     alt:
       en: "Black-and-white photo of a line of braceros standing beside a large wall-mounted box of numbered slots at the Gondo labor camp near Watsonville, California, with one man retrieving a paper."
+      es: "Foto en blanco y negro de una fila de braceros junto a una gran caja de casillas numeradas montada en la pared en el campo laboral Gondo cerca de Watsonville, California, con un hombre sacando un papel."
 geo:
 id: 2900
 item_type: Still Image

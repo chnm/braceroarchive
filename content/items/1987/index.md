@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382423.jpg
     alt:
       en: "Black-and-white photo of officials at a cluttered desk reviewing documents while a group of braceros in hats gather closely around, waiting in a Stockton, California office; a wall map hangs above."
+      es: "Fotografía en blanco y negro de funcionarios en un escritorio lleno de papeles revisando documentos mientras un grupo de braceros con sombreros espera alrededor, en una oficina de Stockton, California; un mapa cuelga en la pared."
 geo:
 id: 1987
 item_type: Still Image

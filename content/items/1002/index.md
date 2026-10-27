@@ -43,6 +43,7 @@ files:
     url: /files/original/marcial4_c94fc7b60c.jpg
     alt:
       en: "Wedding photo of a bride in a lace gown and veil holding a cascading bouquet, flanked by a groom and three others in formal attire, with a stone wall and floral arrangement in the background."
+      es: "Foto de boda con la novia en vestido de encaje y velo sosteniendo un ramo cascada, acompañada por el novio y otras tres personas vestidas de gala, frente a un muro de piedra y un arreglo floral."
 geo:
 id: 1002
 item_type: Still Image

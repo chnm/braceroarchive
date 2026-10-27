@@ -48,6 +48,7 @@ files:
     url: /files/original/hernandez-arreola,-raul---letter-of-finished-bracero-work_dbdc299d53.jpg
     alt:
       en: "Spanish-language printed notice titled \"¡¡ Aviso Importante !!\" explaining MICA identification card procedures for contracted braceros, dated Rev. 1/17/58, form SW-35."
+      es: "Aviso impreso en español titulado \"¡¡ Aviso Importante !!\" que explica el procedimiento de la tarjeta de identificación MICA para braceros contratados, fechado Rev. 1/17/58, formulario SW-35."
 geo:
 id: 1094
 item_type: Document

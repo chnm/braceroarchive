@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380304.jpg
     alt:
       en: "Black-and-white photo of a man in a straw hat speaking with seated officials at a table, with other men wearing hats standing near tall windows in the background."
+      es: "Fotografía en blanco y negro de un hombre con sombrero de paja hablando con oficiales sentados en una mesa, con otros hombres con sombrero de pie cerca de ventanas altas al fondo."
 geo:
 id: 1324
 item_type: Still Image

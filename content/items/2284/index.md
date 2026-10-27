@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383423.jpg
     alt:
       en: "Rows of \"Toro\" lettuce boxes stretch across a harvested field, with braceros working in the distance and hills on the horizon under a hazy sky."
+      es: "Filas de cajas de lechuga \"Toro\" se extienden por un campo cosechado, con braceros trabajando a lo lejos y colinas en el horizonte bajo un cielo brumoso."
 geo:
 id: 2284
 item_type: Still Image

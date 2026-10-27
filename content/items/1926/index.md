@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382226.jpg
     alt:
       en: "A single light fixture glows beneath a ceiling of exposed beams in an otherwise dark, mostly black photograph with a narrow strip of visible interior space."
+      es: "Una sola luminaria brilla bajo un techo de vigas expuestas, en una fotografía mayormente negra con una estrecha franja de espacio interior visible."
 geo:
 id: 1926
 item_type: Still Image

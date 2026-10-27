@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382606.jpg
     alt:
       en: "Black-and-white photo of braceros wearing straw hats lined up along a dirt road beside a field, serving food from large metal pots onto plates in the Salinas Valley, California."
+      es: "Foto en blanco y negro de braceros con sombreros de paja formados junto a un camino de tierra al borde de un campo, sirviendo comida de ollas grandes en platos, en el Valle de Salinas, California."
 geo:
 id: 2029
 item_type: Still Image

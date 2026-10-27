@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381708.jpg
     alt:
       en: "Two rows of shirtless men stand with backs to the wall, arms raised overhead, as an official walks between them inspecting their physiques at the Monterrey Processing Center."
+      es: "Dos filas de hombres sin camisa están de pie con la espalda contra la pared y los brazos levantados, mientras un funcionario camina entre ellos inspeccionando sus físicos en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1757
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383326.jpg
     alt:
       en: "A black-and-white photo of a bracero bent over, using a short-handled hoe to work the soil between rows of pepper plants, a plaid cap visible at his waist."
+      es: "Foto en blanco y negro de un bracero inclinado, usando una azada de mango corto para trabajar la tierra entre hileras de plantas de chile, con una gorra a cuadros visible en su cintura."
 geo:
 id: 2254
 item_type: Still Image

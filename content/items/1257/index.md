@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio10_cf115598ad.jpg
     alt:
       en: "Mexican passport pages 4-5 listing physical descriptions, birthplaces, birth dates, and occupations for \"Titular\" and \"Esposa,\" alongside a black-and-white photo of the couple, a fingerprint, and two signatures."
+      es: "Páginas 4-5 de un pasaporte mexicano con descripciones físicas, lugares y fechas de nacimiento, y ocupaciones del \"Titular\" y la \"Esposa\", junto a una foto en blanco y negro de la pareja, una huella dactilar y dos firmas."
 geo:
 id: 1257
 item_type: Document

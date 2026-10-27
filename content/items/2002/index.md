@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382503.jpg
     alt:
       en: "A predominantly black, underexposed or blank frame with faint scattered specks of light and a few thin scratches visible across the surface."
+      es: "Fotograma predominantemente negro, subexpuesto o en blanco, con tenues puntos de luz dispersos y algunas finas rayaduras visibles en la superficie."
 geo:
 id: 2002
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381007.jpg
     alt:
       en: "Silhouetted group of men in hats sit and stand behind a barbed wire fence near railroad tracks, with wooden posts framing the hazy sky at dusk."
+      es: "Grupo de hombres con sombreros, en siluetas, sentados y de pie tras una cerca de alambre de púas cerca de vías del tren, con postes de madera que enmarcan un cielo brumoso al atardecer."
 geo:
 id: 1561
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381409.jpg
     alt:
       en: "Black-and-white photo of a long dining hall with braceros seated along both sides of an extended table, eating plates of food under a covered walkway with large windows."
+      es: "Foto en blanco y negro de un comedor alargado con braceros sentados a ambos lados de una mesa extendida, comiendo platos de comida bajo un pasillo cubierto con amplios ventanales."
 geo:
 id: 1662
 item_type: Still Image

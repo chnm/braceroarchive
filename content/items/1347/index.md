@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380416.jpg
     alt:
       en: "Black-and-white photo of a crowd of men in hats standing on dusty ground while a woman in a striped dress crouches by a pot, preparing food at an outdoor vendor stand."
+      es: "Foto en blanco y negro de una multitud de hombres con sombrero de pie sobre terreno polvoriento, mientras una mujer con vestido a rayas se agacha junto a una olla, preparando comida en un puesto de venta al aire libre."
 geo:
 id: 1347
 item_type: Still Image

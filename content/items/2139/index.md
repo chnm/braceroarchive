@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382931.jpg
     alt:
       en: "Black-and-white street scene in Watsonville, California, with men in hats walking past storefronts, parked cars with a parking meter, and a barber pole along the sidewalk."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con hombres de sombrero caminando frente a tiendas, autos estacionados junto a un parquímetro y un poste de barbería en la acera."
 geo:
 id: 2139
 item_type: Still Image

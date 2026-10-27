@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380809.jpg
     alt:
       en: "Black-and-white photo of a woman seated at a table in a sparse room, surrounded by religious statues, a Virgen de Guadalupe painting, a radio, chairs, and hanging garments."
+      es: "Fotografía en blanco y negro de una mujer sentada a una mesa en una habitación sencilla, rodeada de estatuas religiosas, una pintura de la Virgen de Guadalupe, una radio, sillas y prendas colgadas."
 geo:
 id: 1496
 item_type: Still Image

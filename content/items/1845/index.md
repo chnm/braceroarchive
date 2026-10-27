@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382035.jpg
     alt:
       en: "Aerial view of a bracero standing in a lettuce field beside crates labeled \"Head Lettuce\" and \"Cookie,\" with rows of leafy crops stretching into the distance."
+      es: "Vista aérea de un bracero de pie en un campo de lechugas junto a cajas con las etiquetas \"Head Lettuce\" y \"Cookie\", con hileras de cultivos extendiéndose a la distancia."
 geo:
 id: 1845
 item_type: Still Image

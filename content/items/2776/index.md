@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401384818.jpg
     alt:
       en: "A bracero wearing a hat lies resting on a bed in a sparse camp room, with clothing hanging on lines above and a checkerboard visible in the foreground."
+      es: "Un bracero con sombrero descansa recostado en una cama dentro de un cuarto sencillo del campamento, con ropa colgada en cuerdas sobre él y un tablero de damas visible en primer plano."
 geo:
 id: 2776
 item_type: Still Image

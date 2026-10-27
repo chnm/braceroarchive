@@ -48,6 +48,7 @@ files:
     url: /files/original/porter4_032725fcef.jpg
     alt:
       en: "Two upside-down pages from a bilingual phrase book pairing illustrated icons—bank, gas station, police officer, doctor, lawyer, hospital, mailbox, tailor shop—with Spanish and English labels for each."
+      es: "Dos páginas invertidas de un libro de frases bilingüe que combinan íconos ilustrados —banco, gasolinera, policía, doctor, abogado, hospital, buzón, sastrería— con etiquetas en español e inglés para cada uno."
 geo:
 id: 556
 item_type: Document

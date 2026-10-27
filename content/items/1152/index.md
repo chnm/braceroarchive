@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericodecretobraceros2_120f9748bf.jpg
     alt:
       en: "Page 2 of a Spanish-language official decree from Diario Oficial, dated Wednesday, May 25, 2005, detailing articles 4 and 5 outlining rules for the Fondo de Apoyo para Ex Trabajadores Migratorios Mexicanos trust fund."
+      es: "Página 2 de un decreto oficial en español del Diario Oficial, fechado el miércoles 25 de mayo de 2005, que detalla los artículos 4 y 5 con las reglas del fideicomiso Fondo de Apoyo para Ex Trabajadores Migratorios Mexicanos."
 geo:
 id: 1152
 item_type: Document

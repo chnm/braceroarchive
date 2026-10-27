@@ -46,6 +46,7 @@ files:
     url: /files/original/NAD-200401384808.jpg
     alt:
       en: "A straw hat hangs on a wooden wall above a small shelf holding a crucifix, a flower in a glass vase, and a small figurine."
+      es: "Un sombrero de paja cuelga en una pared de madera, sobre una pequeña repisa con un crucifijo, una flor en un jarrón de vidrio y una pequeña figura."
 geo:
 id: 2377
 item_type: Still Image

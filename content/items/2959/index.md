@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385532.jpg
     alt:
       en: "Black-and-white street scene with vintage cars parked along a sidewalk lined with storefronts reading \"Greyhound Hotel,\" \"Army Store,\" \"Money to Loan,\" and \"Italian Dinners,\" as pedestrians walk past the shops."
+      es: "Escena callejera en blanco y negro con autos antiguos estacionados junto a una acera con tiendas que anuncian \"Greyhound Hotel\", \"Army Store\", \"Money to Loan\" e \"Italian Dinners\", mientras peatones caminan frente a los comercios."
 geo:
 id: 2959
 item_type: Still Image

@@ -46,6 +46,7 @@ files:
     url: /files/original/belen-playing-softball_32b55c1735.jpg
     alt:
       en: "Four girls in shorts and blouses stand together on grass in front of a brick building, two holding softball mitts, in this black-and-white photograph."
+      es: "Cuatro niñas con shorts y blusas posan juntas sobre el césped frente a un edificio de ladrillo, dos de ellas sosteniendo guantes de softbol, en esta fotografía en blanco y negro."
 geo:
 id: 3049
 item_type: Still Image

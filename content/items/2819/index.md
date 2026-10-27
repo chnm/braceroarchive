@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385004.jpg
     alt:
       en: "Black-and-white photo of two braceros resting on the bare ground at a field's edge, wearing straw hats, one lying on folded cloth with a worn boot in the foreground."
+      es: "Fotografía en blanco y negro de dos braceros descansando en el suelo al borde de un campo, con sombreros de paja, uno recostado sobre tela doblada y una bota gastada en primer plano."
 geo:
 id: 2819
 item_type: Still Image

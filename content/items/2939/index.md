@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385512.jpg
     alt:
       en: "Black-and-white street scene with men seated on benches in the foreground, facing parked cars and storefronts, including a building with a large \"National Dollar Stores\" sign in Watsonville, California."
+      es: "Escena callejera en blanco y negro con hombres sentados en bancas en primer plano, frente a autos estacionados y tiendas, incluyendo un edificio con un gran letrero \"National Dollar Stores\" en Watsonville, California."
 geo:
 id: 2939
 item_type: Still Image

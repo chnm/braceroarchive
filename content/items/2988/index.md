@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385628.jpg
     alt:
       en: "Black-and-white photo of workers in a lettuce field loading boxes onto a flatbed truck, with open farmland and a distant horizon under an overcast sky."
+      es: "Foto en blanco y negro de trabajadores en un campo de lechuga cargando cajas en un camión de plataforma, con campo abierto y un horizonte lejano bajo un cielo nublado."
 geo:
 id: 2988
 item_type: Still Image

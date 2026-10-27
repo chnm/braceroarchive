@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380520.jpg
     alt:
       en: "Braceros wearing wide-brimmed hats gather along a row of stovetops and a long wooden table inside a crowded bunkhouse, preparing and cooking their own food near McAllen, Texas."
+      es: "Braceros con sombreros de ala ancha se reúnen junto a una fila de estufas y una larga mesa de madera dentro de un dormitorio abarrotado, preparando y cocinando su propia comida cerca de McAllen, Texas."
 geo:
 id: 1401
 item_type: Still Image

@@ -46,6 +46,7 @@ files:
     url: /files/original/jul27_01_42cdc102d4.jpg
     alt:
       en: "Photo album page with five black-and-white snapshots: a portrait of a man, a photo of two people standing indoors, a train wreck scene with derailed cars, and two images of railroad tracks and gravel terrain."
+      es: "Página de álbum fotográfico con cinco fotos en blanco y negro: un retrato de un hombre, dos personas de pie en interiores, un tren descarrilado y dos vistas de vías férreas sobre terreno de grava."
 geo:
 id: 633
 item_type: Still Image

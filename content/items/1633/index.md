@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381305.jpg
     alt:
       en: "A woman washes clothes in a basin while three children stand nearby in a dirt courtyard, with a stone wall, corrugated metal roofing, and wooden structures in the background."
+      es: "Una mujer lava ropa en un recipiente mientras tres niños están cerca en un patio de tierra, con un muro de piedra, techos de lámina y estructuras de madera al fondo."
 geo:
 id: 1633
 item_type: Still Image

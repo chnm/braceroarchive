@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381306.jpg
     alt:
       en: "Black-and-white photo of a dirt street in San Mateo, Mexico, lined by a stone wall and whitewashed buildings, with a man leading a mule and other figures walking along the road."
+      es: "Foto en blanco y negro de una calle de tierra en San Mateo, México, bordeada por un muro de piedra y edificios encalados, con un hombre guiando una mula y otras personas caminando por el camino."
 geo:
 id: 1634
 item_type: Still Image

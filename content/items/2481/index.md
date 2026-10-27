@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383903.jpg
     alt:
       en: "A crowd of hatted braceros gathers outside the Horseshoe Club building, with an official distributing documents as two uniformed guards stand by stacked luggage."
+      es: "Una multitud de braceros con sombrero se reúne frente al edificio del Horseshoe Club, mientras un funcionario reparte documentos y dos guardias uniformados vigilan junto al equipaje apilado."
 geo:
 id: 2481
 item_type: Still Image

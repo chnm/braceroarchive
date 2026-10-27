@@ -48,6 +48,7 @@ files:
     url: /files/original/montes-robles,-manuel---alien-labor-id-1-copy_cb9adf52a8.jpg
     alt:
       en: "Worn identification card titled \"Alien Laborer's Identification Card,\" featuring a man's photograph and printed text reading \"United States Department of Justice, Immigration and Naturalization Service - I-100D (Rev. 12-2-57).\""
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\", con la fotografía de un hombre y el texto impreso \"United States Department of Justice, Immigration and Naturalization Service - I-100D (Rev. 12-2-57)\"."
 geo:
 id: 1125
 item_type: Document

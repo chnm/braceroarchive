@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383705.jpg
     alt:
       en: "Black-and-white photo of braceros loading \"Toro\" brand lettuce boxes onto a flatbed truck in a Salinas Valley field, with workers scattered across the rows behind them."
+      es: "Fotografía en blanco y negro de braceros cargando cajas de lechuga marca \"Toro\" en un camión de plataforma en un campo del Valle de Salinas, con trabajadores dispersos entre los surcos al fondo."
 geo:
 id: 2413
 item_type: Still Image

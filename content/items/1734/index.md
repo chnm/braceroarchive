@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381627.jpg
     alt:
       en: "Large group of braceros wearing straw hats sit and rest on the ground in the shade along a building wall at the Monterrey Processing Center, Mexico."
+      es: "Gran grupo de braceros con sombreros de paja sentados y descansando en el suelo a la sombra junto al muro de un edificio en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1734
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383731.jpg
     alt:
       en: "Black-and-white photo of braceros seated on a dirt roadside eating lunch beside pots, crates, and bottles, with a large truck and a parked pickup nearby in the Salinas Valley."
+      es: "Foto en blanco y negro de braceros sentados en el borde de un camino de tierra almorzando junto a ollas, cajas y botellas, con un camión grande y una camioneta estacionada cerca en el Valle de Salinas."
 geo:
 id: 2431
 item_type: Still Image

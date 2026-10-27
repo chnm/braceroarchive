@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382723.jpg
     alt:
       en: "Group of men wearing wide-brimmed hats stand before a wall-mounted mail slot board at the Gondo Labor Camp, with trash cans and industrial structures visible in the background."
+      es: "Grupo de hombres con sombreros de ala ancha frente a un tablero de casillas de correo en el Campamento Laboral Gondo, con botes de basura y estructuras industriales al fondo."
 geo:
 id: 2070
 item_type: Still Image

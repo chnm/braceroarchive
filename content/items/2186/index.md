@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383125.jpg
     alt:
       en: "Rows of an onion field stretch toward distant hills and mountains under overhead power lines, with small figures and vehicles visible in the mid-ground, Salinas Valley, California."
+      es: "Hileras de un campo de cebollas se extienden hacia colinas y montañas lejanas bajo líneas eléctricas, con pequeñas figuras y vehículos visibles al fondo, Valle de Salinas, California."
 geo:
 id: 2186
 item_type: Still Image

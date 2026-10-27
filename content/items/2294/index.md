@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383409.jpg
     alt:
       en: "Black-and-white photo of braceros bent over harvesting lettuce in a large field, packing crates labeled with text, with a truck and distant hills in the background."
+      es: "Foto en blanco y negro de braceros inclinados cosechando lechuga en un extenso campo, llenando cajas con etiquetas de texto, con un camión y colinas distantes al fondo."
 geo:
 id: 2294
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382216.jpg
     alt:
       en: "Black-and-white photo of a bracero standing at the entrance of a large peaked tent in a dirt-floor camp, surrounded by trees and another tent in the foreground."
+      es: "Fotografía en blanco y negro de un bracero de pie en la entrada de una gran carpa puntiaguda en un campamento con piso de tierra, rodeado de árboles y otra carpa en primer plano."
 geo:
 id: 1916
 item_type: Still Image

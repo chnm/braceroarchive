@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p6-7_ece680cd8b.jpg
     alt:
       en: "Pages 6 and 7 of a bracero instruction booklet, printed in Spanish, listing numbered rules of conduct (items 2–12) covering respect for laws, cleanliness, avoiding vice, and carrying proper documents."
+      es: "Páginas 6 y 7 de un folleto de instrucciones para braceros, impreso en español, con una lista numerada de normas de conducta (puntos 2–12) sobre respeto a las leyes, limpieza, evitar vicios y portar documentos."
 geo:
 id: 587
 item_type: Still Image

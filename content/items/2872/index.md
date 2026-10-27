@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385206.jpg
     alt:
       en: "Black-and-white photo of braceros bent over rows in a strawberry field, picking fruit and filling wooden crates, with many more workers scattered across the field in the background."
+      es: "Foto en blanco y negro de braceros agachados entre hileras en un campo de fresas, recogiendo fruta y llenando cajas de madera, con muchos más trabajadores dispersos en el fondo."
 geo:
 id: 2872
 item_type: Still Image

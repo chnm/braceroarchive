@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383503.jpg
     alt:
       en: "Empty bus interior converted for transporting braceros, with long wooden benches running along both sides and a central plywood table or platform with metal hinges, viewed toward the windshield."
+      es: "Interior de un autobús vacío adaptado para transportar braceros, con largas bancas de madera a ambos lados y una plataforma central de madera contrachapada con bisagras metálicas, vista hacia el parabrisas."
 geo:
 id: 2405
 item_type: Still Image

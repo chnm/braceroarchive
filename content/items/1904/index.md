@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401382204.jpg
     alt:
       en: "Rows of metal-frame cots with thin striped mattresses and rumpled blankets inside a dim, slat-walled barn, light streaking through gaps in the wooden siding."
+      es: "Filas de camastros con delgados colchones a rayas y mantas arrugadas dentro de un granero en penumbra con paredes de tablas, por cuyas rendijas se filtran rayos de luz."
 geo:
 id: 1904
 item_type: Still Image

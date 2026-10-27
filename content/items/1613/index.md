@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381232.jpg
     alt:
       en: "A flatbed truck loaded with braceros departs the Hidalgo Processing Center, with parked cars and buildings visible under a cloudy sky."
+      es: "Un camión de plataforma cargado de braceros sale del Centro de Procesamiento de Hidalgo, con autos estacionados y edificios visibles bajo un cielo nublado."
 geo:
 id: 1613
 item_type: Still Image

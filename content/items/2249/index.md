@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383309.jpg
     alt:
       en: "A bracero in a hat crouches beside a large metal water canister, drinking from a tin cup, as fellow workers bend over crop rows in a field behind him."
+      es: "Un bracero con sombrero se agacha junto a un gran recipiente metálico de agua, bebiendo de una taza de hojalata, mientras otros trabajadores se inclinan sobre los surcos del campo detrás de él."
 geo:
 id: 2249
 item_type: Still Image

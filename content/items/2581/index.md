@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384133.jpg
     alt:
       en: "A young man sits on a bunk writing a letter, clothes hanging above on a line, with a \"Butiers Best\" crate visible nearby in the sparse barracks room."
+      es: "Un joven sentado en una litera escribe una carta, con ropa colgada en una cuerda detrás y una caja de \"Butlers Best\" cerca, en un cuarto sencillo de barracón."
 geo:
 id: 2581
 item_type: Still Image

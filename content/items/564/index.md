@@ -46,6 +46,7 @@ files:
     url: /files/original/bracero-in-cotton-field_325857ef88.jpg
     alt:
       en: "Two men wearing hats stand in a vast cotton field under a cloudy sky, with distant hills visible on the horizon; the photo has an aged orange-toned color cast."
+      es: "Dos hombres con sombrero de pie en un extenso campo de algodón bajo un cielo nublado, con colinas a lo lejos; la foto tiene un tono anaranjado envejecido."
 geo:
 id: 564
 item_type: Still Image

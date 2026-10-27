@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383520.jpg
     alt:
       en: "Black-and-white photo of wooden crates lined along a furrowed onion field in the Salinas Valley, with workers bent over picking onions and hills visible in the distance."
+      es: "Foto en blanco y negro de cajones de madera alineados en un campo de cebollas surcado en el Valle de Salinas, con trabajadores agachados recolectando cebollas y colinas visibles al fondo."
 geo:
 id: 2328
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381209.jpg
     alt:
       en: "Black-and-white photo of a long line of men wearing hats walking single file across a suspension bridge, with a river and distant buildings visible below and beyond the railing."
+      es: "Foto en blanco y negro de una larga fila de hombres con sombreros caminando en fila sobre un puente colgante, con un río y edificios distantes visibles bajo y más allá del barandal."
 geo:
 id: 2997
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381118.jpg
     alt:
       en: "Black-and-white photo of small roadside buildings with signs, including one reading \"Insurance,\" lined with parked cars under an open sky in Hidalgo, Texas."
+      es: "Foto en blanco y negro de pequeños edificios junto a la carretera con letreros, uno de ellos dice \"Insurance\", con varios autos estacionados frente a ellos bajo un cielo despejado en Hidalgo, Texas."
 geo:
 id: 2375
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384714.jpg
     alt:
       en: "Black-and-white photo of an empty two-lane road with power lines overhead, leading to a cluster of low buildings in the town of Chualar, California, set against flat farmland and a hazy sky."
+      es: "Fotografía en blanco y negro de una carretera vacía de dos carriles con líneas eléctricas en lo alto, que conduce a un grupo de edificios bajos en el pueblo de Chualar, California, rodeado de tierras de cultivo planas y un cielo brumoso."
 geo:
 id: 2742
 item_type: Still Image

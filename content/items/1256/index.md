@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio9_876dcc8cd0.jpg
     alt:
       en: "Mexican passport pages 2-3 for Asterio Leon Lopez, with a red wax seal on the left page and purple stamped text on the right reading \"Estados Unidos de América\" and an expiration date of 28 Abril 1965."
+      es: "Páginas 2-3 de un pasaporte mexicano a nombre de Asterio León López, con un sello de cera roja en la página izquierda y texto morado en la derecha que dice \"Estados Unidos de América\" y una fecha de expiración del 28 Abril 1965."
 geo:
 id: 1256
 item_type: Document

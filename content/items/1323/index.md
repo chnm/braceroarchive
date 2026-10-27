@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380303.jpg
     alt:
       en: "A man in a hat adjusts his collar while standing before seated officials at a table, with a line of men in hats waiting behind him in a large hall with tall windows."
+      es: "Un hombre con sombrero se ajusta el cuello de pie frente a funcionarios sentados en una mesa, mientras una fila de hombres con sombrero espera detrás en un salón amplio con ventanas altas."
 geo:
 id: 1323
 item_type: Still Image

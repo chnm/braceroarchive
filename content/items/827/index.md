@@ -48,6 +48,7 @@ files:
     url: /files/original/antonio-front_96fd7a47b9.jpg
     alt:
       en: "U.S. Citizen's Identification Card for Concha, Antonio, age 3, with a small black-and-white photo of a young boy, card number 49916, and signature of Immigrant Inspector E.H. Warren."
+      es: "Tarjeta de Identificación de Ciudadano Estadounidense de Concha, Antonio, de 3 años, con una pequeña foto en blanco y negro de un niño, número de tarjeta 49916, y firma del Inspector de Inmigración E.H. Warren."
 geo:
 id: 827
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383118.jpg
     alt:
       en: "Workers crouch along rows of crops in a field, filling wooden crates with onions, with houses and hills visible in the background."
+      es: "Trabajadores se agachan junto a hileras de cultivos en un campo, llenando cajas de madera con cebollas, con casas y colinas visibles al fondo."
 geo:
 id: 2194
 item_type: Still Image

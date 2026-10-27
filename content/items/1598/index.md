@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381132.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat leans over a desk to speak with a seated official filling out paperwork, as a line of men in cowboy hats wait behind them at the Monterrey Processing Center."
+      es: "Un bracero con sombrero de ala ancha se inclina sobre un escritorio para hablar con un funcionario sentado que llena papeles, mientras una fila de hombres con sombreros espera detrás en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1598
 item_type: Still Image

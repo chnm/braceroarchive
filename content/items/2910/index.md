@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385319.jpg
     alt:
       en: "A bracero reclines on a bed smoking a cigarette in a dormitory-style camp room, with clothing hanging on lines and other bunks visible in the background."
+      es: "Un bracero reclinado en una cama fuma un cigarrillo en una habitación de dormitorio comunitario del campamento, con ropa colgada en cuerdas y otras literas visibles al fondo."
 geo:
 id: 2910
 item_type: Still Image

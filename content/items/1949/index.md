@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382320.jpg
     alt:
       en: "Rows of metal-frame bunk beds line both sides of a long barracks room, with clothing and blankets draped on bedposts; a few men gather around a bed near the center, sunlight streaming through windows on the left."
+      es: "Filas de literas de metal a ambos lados de un largo cuarto de barracas, con ropa y mantas colgadas en los postes; unos hombres se reúnen junto a una cama central mientras entra luz solar por las ventanas de la izquierda."
 geo:
 id: 1949
 item_type: Still Image

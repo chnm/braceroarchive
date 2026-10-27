@@ -48,6 +48,7 @@ files:
     url: /files/original/joseramirez13_9cb7ca08ec.jpg
     alt:
       en: "A worn, creased typed letter dated March 14, 1960, from Mrs. Jesse B. Gilmer, with a folded crease pattern forming a cross, stamped text, and a signature at the bottom."
+      es: "Carta mecanografiada y desgastada, fechada el 14 de marzo de 1960, de la Sra. Jesse B. Gilmer, con pliegues que forman una cruz, texto sellado y una firma al final."
 geo:
 id: 959
 item_type: Document

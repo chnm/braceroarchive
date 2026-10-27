@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383607.jpg
     alt:
       en: "Rows of wooden barracks at a bracero camp in Gonzales, California, with two men standing between buildings, mountains in the distance, and railroad tracks in the foreground."
+      es: "Filas de barracones de madera en un campamento de braceros en Gonzales, California, con dos hombres de pie entre los edificios, montañas al fondo y vías del ferrocarril en primer plano."
 geo:
 id: 2363
 item_type: Still Image

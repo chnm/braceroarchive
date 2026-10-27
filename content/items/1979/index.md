@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382415.jpg
     alt:
       en: "Black-and-white photo of men gathered around a paper-covered desk in an office, with lockers in the background, as officials sort documents and braceros look on."
+      es: "Foto en blanco y negro de hombres reunidos alrededor de un escritorio cubierto de papeles en una oficina, con casilleros al fondo, mientras funcionarios ordenan documentos y braceros observan."
 geo:
 id: 1979
 item_type: Still Image

@@ -51,6 +51,7 @@ files:
     url: /files/original/flores05_36e92f18bd.jpg
     alt:
       en: "Typed Spanish-language notice (SW-35, dated 11-25-55) from the Immigration & Naturalization Service explaining MICA identification card procedures for Mexican braceros, titled \"Aviso Importante.\""
+      es: "Aviso oficial mecanografiado en español (SW-35, fechado 11-25-55) del Servicio de Inmigración y Naturalización que explica el procedimiento de la tarjeta MICA para braceros mexicanos, titulado \"Aviso Importante\"."
 geo:
 id: 624
 item_type: Still Image

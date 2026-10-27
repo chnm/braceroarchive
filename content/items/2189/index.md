@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383129.jpg
     alt:
       en: "Rows of small wooden cabins line a dirt path in a bracero camp, with several men standing in doorways and along the walkway, power lines and hills visible in the background."
+      es: "Hileras de pequeñas cabañas de madera bordean un camino de tierra en un campamento de braceros, con varios hombres de pie en las puertas y a lo largo del camino, líneas eléctricas y colinas al fondo."
 geo:
 id: 2189
 item_type: Still Image

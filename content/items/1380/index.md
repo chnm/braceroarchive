@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380440.jpg
     alt:
       en: "A long line of men in wide-brimmed hats and plaid shirts waits outdoors at the Monterrey Processing Center while a woman in a plaid dress stands nearby offering food for sale."
+      es: "Una larga fila de hombres con sombreros de ala ancha y camisas a cuadros espera afuera del Centro de Procesamiento de Monterrey, mientras una mujer con vestido a cuadros ofrece comida en venta."
 geo:
 id: 1380
 item_type: Still Image

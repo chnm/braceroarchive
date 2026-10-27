@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383304.jpg
     alt:
       en: "Black-and-white photo of long, freshly plowed furrows stretching across a large California field, with distant trees, hills, and a line of small figures near the horizon."
+      es: "Fotografía en blanco y negro de largos surcos recién arados que se extienden por un amplio campo de California, con árboles y colinas al fondo y una fila de pequeñas figuras cerca del horizonte."
 geo:
 id: 2268
 item_type: Still Image

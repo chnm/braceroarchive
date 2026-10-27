@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384732.jpg
     alt:
       en: "Black-and-white photo of a long line of men in work clothes and jackets standing outside wooden barrack-style buildings, waiting to enter a dining hall at a California labor camp."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con ropa de trabajo y chaquetas, de pie frente a edificios de madera tipo barracón, esperando para entrar a un comedor en un campamento laboral de California."
 geo:
 id: 2760
 item_type: Still Image

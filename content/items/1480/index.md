@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380708.jpg
     alt:
       en: "A line of hatted braceros, casting long shadows, walks across a dusty yard at the Monterrey Processing Center while a large crowd waits behind a barbed wire fence in the background."
+      es: "Una fila de braceros con sombrero, proyectando largas sombras, cruza un patio polvoriento en el Centro de Procesamiento de Monterrey mientras una multitud espera detrás de una cerca de alambre de púas al fondo."
 geo:
 id: 1480
 item_type: Still Image

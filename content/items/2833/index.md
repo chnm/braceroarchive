@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385018.jpg
     alt:
       en: "An official in a white shirt hands documents to a man in a wide-brimmed hat, as a large crowd of braceros wearing hats gathers under trees in Stockton, California."
+      es: "Un funcionario con camisa blanca entrega documentos a un hombre con sombrero de ala ancha, mientras una gran multitud de braceros con sombreros se reúne bajo los árboles en Stockton, California."
 geo:
 id: 2833
 item_type: Still Image

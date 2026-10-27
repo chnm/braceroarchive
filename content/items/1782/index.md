@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381733.jpg
     alt:
       en: "Rows of shirtless braceros stand in line at a processing center while seated typists record their information at desks; a chalkboard reads \"DATE... TIME... 1588.\""
+      es: "Filas de braceros sin camisa esperan en línea en un centro de procesamiento mientras mecanógrafas sentadas registran su información en escritorios; una pizarra muestra \"DATE... TIME... 1588\"."
 geo:
 id: 1782
 item_type: Still Image

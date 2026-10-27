@@ -48,6 +48,7 @@ files:
     url: /files/original/carta-recomendacion-beet-growers-assn-california-march-1961_8af1152ed6.jpg
     alt:
       en: "Typed letterhead document from Beet Growers Labor Association, Chico, California, certifying satisfactory completion of a work contract, signed by Manager Nick Coria, dated March 1961."
+      es: "Documento mecanografiado con membrete de Beet Growers Labor Association, Chico, California, que certifica la finalización satisfactoria de un contrato de trabajo, firmado por el gerente Nick Coria, fechado en marzo de 1961."
 geo:
 id: 867
 item_type: Document

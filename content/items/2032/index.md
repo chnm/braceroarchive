@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382609.jpg
     alt:
       en: "Black-and-white photo of workers crouched in long rows of strawberry plants, pushing wheeled crates labeled \"California Strawberries\" as they harvest the field."
+      es: "Fotografía en blanco y negro de trabajadores agachados entre largas hileras de fresas, empujando huacales con ruedas que dicen \"California Strawberries\" mientras cosechan el campo."
 geo:
 id: 2032
 item_type: Still Image

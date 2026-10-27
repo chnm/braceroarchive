@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380532.jpg
     alt:
       en: "Black-and-white photo of a line of men, many wearing hats and carrying bags, walking across the metal-grated Reynosa-Hidalgo bridge, with trees and buildings visible in the background."
+      es: "Fotografía en blanco y negro de una fila de hombres, muchos con sombrero y cargando bolsas, cruzando el puente de rejilla metálica Reynosa-Hidalgo, con árboles y edificios al fondo."
 geo:
 id: 1413
 item_type: Still Image

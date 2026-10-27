@@ -46,6 +46,7 @@ files:
     url: /files/original/minerva-cheatum_ca9e3386ad.jpg
     alt:
       en: "Black-and-white photo of a large group of braceros gathered outside a long building beside a tall water tower."
+      es: "Fotografía en blanco y negro de un gran grupo de braceros reunidos frente a un edificio alargado junto a una alta torre de agua."
 geo:
 id: 534
 item_type: Still Image

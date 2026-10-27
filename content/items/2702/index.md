@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384607.jpg
     alt:
       en: "Two braceros sit on the ground playing checkers outside a barracks building, while a third man watches from a bench nearby and a wooden outbuilding and clothesline stand in the background."
+      es: "Dos braceros sentados en el suelo juegan a las damas afuera de una barraca, mientras un tercer hombre observa desde una banca cercana y al fondo se ven una caseta de madera y un tendedero."
 geo:
 id: 2702
 item_type: Still Image

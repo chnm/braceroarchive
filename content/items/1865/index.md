@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382019.jpg
     alt:
       en: "A man in a wide-brimmed hat packs lettuce into a cardboard \"Cookie\" head lettuce box on a trolley cart, surrounded by rows of leafy lettuce in a Salinas Valley field."
+      es: "Un hombre con sombrero de ala ancha empaca lechuga en una caja de cartón \"Cookie\" sobre un carrito, rodeado de hileras de lechuga en un campo del Valle de Salinas."
 geo:
 id: 1865
 item_type: Still Image

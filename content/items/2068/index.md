@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382721.jpg
     alt:
       en: "Braceros stand in a narrow dirt path between wooden living quarters and a chain-link fence hung with laundry at the Gondo Labor Camp in Watsonville, California."
+      es: "Braceros de pie en un estrecho camino de tierra entre viviendas de madera y una cerca de malla metálica con ropa tendida, en el Campamento Laboral Gondo, Watsonville, California."
 geo:
 id: 2068
 item_type: Still Image

@@ -46,6 +46,7 @@ files:
     url: /files/original/jul28_03_6eea0e6ecf.jpg
     alt:
       en: "Pay stub from Snohomish Farm Labor Committee, Inc. for Nicolas Ismael Osorio, listing wages from 11-2 to 11-14-45, gross earnings of $34.12, deductions, and an amount paid of $24.46."
+      es: "Recibo de pago del Snohomish Farm Labor Committee, Inc. para Nicolas Ismael Osorio, con salarios del 11-2 al 11-14-45, ganancias brutas de $34.12, deducciones y un monto pagado de $24.46."
 geo:
 id: 798
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/velez-de-cervantes,-estela4_787d41cf20.jpg
     alt:
       en: "Back of a baptism certificate titled \"Notations,\" with handwritten entries for First Communion, Confirmation, Marriage(s), Diaconate, and Religious Profession, listing dates, churches, and places in Guanajuato, Mexico."
+      es: "Reverso de un certificado de bautismo titulado \"Notations\", con anotaciones manuscritas de Primera Comunión, Confirmación, Matrimonio(s), Diaconado y Profesión Religiosa, con fechas, iglesias y lugares en Guanajuato, México."
 geo:
 id: 1220
 item_type: Document

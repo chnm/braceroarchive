@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382308.jpg
     alt:
       en: "A bracero stands at an outdoor wooden washing table doing laundry, with buckets and basins nearby and canvas tents and a wooden shed in the background of the camp."
+      es: "Un bracero lava ropa en una mesa de madera al aire libre, rodeado de cubetas y palanganas, con tiendas de lona y una caseta de madera al fondo del campamento."
 geo:
 id: 1937
 item_type: Still Image

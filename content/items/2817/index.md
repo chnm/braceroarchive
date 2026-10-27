@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385002.jpg
     alt:
       en: "Black-and-white photo of several braceros resting on the edge of a cultivated field in California, sitting on cloths and sacks with hats and rolled sleeves, farmland stretching to trees on the horizon."
+      es: "Foto en blanco y negro de varios braceros descansando al borde de un campo cultivado en California, sentados sobre telas y costales, con sombreros y mangas enrolladas, campos que se extienden hasta árboles en el horizonte."
 geo:
 id: 2817
 item_type: Still Image

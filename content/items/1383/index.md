@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380502.jpg
     alt:
       en: "Black-and-white photo of a group of men in hats walking across the suspension-style Reynosa-Hidalgo bridge, with steel towers and cables overhead and chain-link fencing along the sides."
+      es: "Fotografía en blanco y negro de un grupo de hombres con sombrero cruzando el puente colgante Reynosa-Hidalgo, con torres y cables de acero arriba y cercas de malla a los lados."
 geo:
 id: 1383
 item_type: Still Image

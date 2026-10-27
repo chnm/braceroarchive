@@ -48,6 +48,7 @@ files:
     url: /files/original/alvarez,-agustin,-1962,-alien-laborer-id2_6d06a0b5ea.jpg
     alt:
       en: "Back of an alien laborer's identification (MICA) card for Agustin Alvarez-Castellon, listing home address in Mexicali, birth date 8-28-41, birthplace Volcanes, Jal., admission at Calexico on 5-22-62, and number L 3832627."
+      es: "Reverso de una tarjeta de identificación de trabajador extranjero (MICA) de Agustín Álvarez-Castellón, con domicilio en Mexicali, fecha de nacimiento 8-28-41, lugar de nacimiento Volcanes, Jal., admitido en Calexico el 5-22-62, número L 3832627."
 geo:
 id: 1028
 item_type: Document

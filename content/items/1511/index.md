@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380824.jpg
     alt:
       en: "A man in a wide-brimmed hat and woven poncho walks across a dirt plaza reading a document, with tree-lined paths and seated figures visible in the background."
+      es: "Un hombre con sombrero de ala ancha y poncho tejido camina por una plaza de tierra leyendo un documento, con senderos arbolados y figuras sentadas al fondo."
 geo:
 id: 1511
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380827.jpg
     alt:
       en: "A group of men wearing wide-brimmed hats and carrying bundles and bags stand in a line outdoors, with trees and buildings in the background."
+      es: "Un grupo de hombres con sombreros de ala ancha, cargando bultos y bolsas, esperan en fila al aire libre, con árboles y edificios al fondo."
 geo:
 id: 1514
 item_type: Still Image

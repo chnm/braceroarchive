@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383834.jpg
     alt:
       en: "Elevated view of flat farmland with rows of long barracks-style buildings in the middle distance, a wooden fence post in the foreground, and overcast sky above, Gondo Labor Camp, Watsonville."
+      es: "Vista elevada de terrenos agrícolas planos con filas de edificios tipo barracón a lo lejos, un poste de madera en primer plano y cielo nublado, Campo Laboral Gondo, Watsonville."
 geo:
 id: 2478
 item_type: Still Image

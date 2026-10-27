@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385126.jpg
     alt:
       en: "Black-and-white photo of a doctor using a lighted instrument to examine a seated bracero's mouth, while a nurse in a cap and apron stands nearby in a clinic room with a window and medical supplies."
+      es: "Fotografía en blanco y negro de un doctor usando un instrumento iluminado para examinar la boca de un bracero sentado, mientras una enfermera con cofia y delantal observa cerca, en una sala con ventana e instrumental médico."
 geo:
 id: 2867
 item_type: Still Image

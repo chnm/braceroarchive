@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380437.jpg
     alt:
       en: "Aerial view of a large crowd of braceros gathered in an open dirt yard at the Monterrey Processing Center, with vehicles, tents, and buildings nearby and mountains in the background."
+      es: "Vista aérea de una gran multitud de braceros reunidos en un patio de tierra abierto en el Centro de Procesamiento de Monterrey, con vehículos, carpas y edificios cercanos, y montañas al fondo."
 geo:
 id: 1377
 item_type: Still Image

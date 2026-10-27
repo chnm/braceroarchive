@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380905.jpg
     alt:
       en: "Black-and-white photo of braceros wearing straw hats, sitting along railroad tracks resting near the Monterrey Processing Center, with hazy mountains visible in the distance."
+      es: "Fotografía en blanco y negro de braceros con sombreros de paja, sentados a lo largo de vías ferroviarias descansando cerca del Centro de Procesamiento de Monterrey, con montañas difusas al fondo."
 geo:
 id: 1548
 item_type: Still Image

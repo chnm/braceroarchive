@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381508.jpg
     alt:
       en: "A woman serves filled tortillas from a street cart to men wearing hats, as a crowd of braceros lines up outside a building in the background, Mexico City."
+      es: "Una mujer sirve tortillas rellenas desde un puesto callejero a hombres con sombrero, mientras una fila de braceros espera frente a un edificio al fondo, Ciudad de México."
 geo:
 id: 1694
 item_type: Still Image

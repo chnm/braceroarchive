@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385119.jpg
     alt:
       en: "Black-and-white photo of Dr. Stanley Savoy examining a shirtless, seated bracero's back, with medical supplies on a table nearby in a Salinas Valley clinic."
+      es: "Fotografía en blanco y negro del Dr. Stanley Savoy examinando la espalda de un bracero sentado y sin camisa, con suministros médicos sobre una mesa cercana en una clínica del Valle de Salinas."
 geo:
 id: 2860
 item_type: Still Image

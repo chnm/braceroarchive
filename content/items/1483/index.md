@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380743.jpg
     alt:
       en: "A large crowd of braceros gathers in an open dirt lot at the Monterrey Processing Center, with vehicles parked nearby and mountains visible in the background."
+      es: "Una gran multitud de braceros se reúne en un terreno de tierra abierto en el Centro de Procesamiento de Monterrey, con vehículos estacionados cerca y montañas visibles al fondo."
 geo:
 id: 1483
 item_type: Still Image

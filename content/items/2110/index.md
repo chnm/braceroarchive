@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382820.jpg
     alt:
       en: "Black-and-white photo of braceros seated at a table eating a meal in a crowded dining hall, with one man drinking from a bottle and others standing in the background."
+      es: "Fotografía en blanco y negro de braceros sentados a una mesa comiendo en un comedor lleno de gente, uno de ellos bebiendo de una botella mientras otros permanecen de pie al fondo."
 geo:
 id: 2110
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380422.jpg
     alt:
       en: "A long line of men winds across an open dirt lot toward four parked buses at the Monterrey Processing Center, with low buildings and trees in the background."
+      es: "Una larga fila de hombres serpentea por un terreno de tierra hacia cuatro autobuses estacionados en el Centro de Contratación de Monterrey, con edificios bajos y árboles al fondo."
 geo:
 id: 1352
 item_type: Still Image

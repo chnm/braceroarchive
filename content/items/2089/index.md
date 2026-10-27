@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382706.jpg
     alt:
       en: "Overhead view of a man bending over an outdoor washbasin to do laundry, with a washboard and clothing nearby on a wooden platform."
+      es: "Vista aérea de un hombre inclinado sobre un lavadero exterior lavando ropa, con una tabla de lavar y prendas cerca sobre una plataforma de madera."
 geo:
 id: 2089
 item_type: Still Image

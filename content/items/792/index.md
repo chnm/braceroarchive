@@ -48,6 +48,7 @@ files:
     url: /files/original/jul28_01-front_769505c72a.jpg
     alt:
       en: "Worn identification card titled \"Alien Laborer's Identification Card\" with a small photo of a man, issued by the United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)."
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\" con una pequeña foto de un hombre, emitida por el Departamento de Justicia de EE.UU., Servicio de Inmigración y Naturalización - I-100D (12-7-55)."
 geo:
 id: 792
 item_type: Document

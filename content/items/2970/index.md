@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385610.jpg
     alt:
       en: "Braceros gather along a dirt road beside a pepper field, eating lunch near a parked truck, with utility poles and farmland stretching into the distance."
+      es: "Braceros se reúnen a lo largo de un camino de tierra junto a un campo de pimientos, almorzando cerca de una camioneta estacionada, con postes de servicios y tierras de cultivo extendiéndose hacia el horizonte."
 geo:
 id: 2970
 item_type: Still Image

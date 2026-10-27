@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380136.jpg
     alt:
       en: "A long line of braceros winds across a dirt lot toward a row of parked buses at the Monterrey Processing Center, with a low building and onlookers along the queue."
+      es: "Una larga fila de braceros serpentea por un terreno de tierra hacia una hilera de autobuses estacionados en el Centro de Procesamiento de Monterrey, con un edificio bajo y espectadores junto a la fila."
 geo:
 id: 1279
 item_type: Still Image

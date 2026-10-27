@@ -48,6 +48,7 @@ files:
     url: /files/original/martinez,-faustino---passport-6_5a096ad06b.jpg
     alt:
       en: "Pages 12-13 of a passport headed \"VISAS,\" with page 12 bearing an INS Calexico, CA admission stamp dated 14 Feb 1962 and handwritten notes including an A-number and I-90 filing dates; page 13 is blank with a faint eagle emblem."
+      es: "Páginas 12-13 de un pasaporte encabezadas \"VISAS\"; la página 12 tiene un sello de admisión del INS en Calexico, CA, fechado 14 feb 1962, y notas manuscritas con un número A y fechas de trámite I-90; la página 13 está en blanco con un águila tenue."
 geo:
 id: 1116
 item_type: Document

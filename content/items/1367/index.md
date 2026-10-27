@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380407.jpg
     alt:
       en: "Aerial view of men in wide-brimmed hats gathered beneath long corrugated-metal roofed vendor stands, with trees and a work area visible in the background."
+      es: "Vista aérea de hombres con sombreros de ala ancha reunidos bajo puestos de vendedores con techos de lámina corrugada, con árboles y una zona de trabajo visibles al fondo."
 geo:
 id: 1367
 item_type: Still Image

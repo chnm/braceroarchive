@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384127.jpg
     alt:
       en: "Black-and-white photo of three braceros resting on beds in a sparse wood-paneled camp room, with jackets and a scarf hanging on wall hooks above them."
+      es: "Foto en blanco y negro de tres braceros descansando en camas dentro de una habitación de madera en un campamento, con chaquetas y un pañuelo colgados de ganchos en la pared sobre ellos."
 geo:
 id: 2575
 item_type: Still Image

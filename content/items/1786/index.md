@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381844.jpg
     alt:
       en: "Black-and-white photo of a cotton-laden truck bed beside a field, with a bracero lifting a large cotton sack near a tripod scale along a rural road near McAllen, Texas."
+      es: "Foto en blanco y negro de un camión cargado de algodón junto a un campo, con un bracero levantando un gran costal de algodón cerca de una báscula de trípode en un camino rural cerca de McAllen, Texas."
 geo:
 id: 1786
 item_type: Still Image

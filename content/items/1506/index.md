@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380819.jpg
     alt:
       en: "Black-and-white photo of a sparse office viewed through a doorway, with a seated official at a desk addressing two men standing before him, a bare bulb overhead and a framed portrait on the wall."
+      es: "Fotografía en blanco y negro de una oficina austera vista a través de una puerta, con un oficial sentado en un escritorio hablando con dos hombres de pie frente a él, un foco colgante y un retrato enmarcado en la pared."
 geo:
 id: 1506
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383141.jpg
     alt:
       en: "A payroll check from J.J. Crosetti Co. in Watsonville, California, No. 190 N, lying on a weathered wooden surface, with printed payment details and a handwritten signature."
+      es: "Cheque de nómina de J.J. Crosetti Co. en Watsonville, California, No. 190 N, sobre una superficie de madera desgastada, con detalles de pago impresos y una firma manuscrita."
 geo:
 id: 2184
 item_type: Still Image

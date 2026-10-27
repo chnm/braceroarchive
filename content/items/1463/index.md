@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380727.jpg
     alt:
       en: "A long line of men, many wearing hats, snakes across a dusty field toward a large crowd gathered near buildings, with mountains visible in the background."
+      es: "Una larga fila de hombres, muchos con sombrero, serpentea por un campo polvoriento hacia una gran multitud reunida cerca de unos edificios, con montañas al fondo."
 geo:
 id: 1463
 item_type: Still Image

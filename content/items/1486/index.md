@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380702.jpg
     alt:
       en: "Black-and-white photo of a large crowd gathered on an open dirt lot near low buildings, with vehicles parked nearby and a mountain range rising in the background."
+      es: "Fotografía en blanco y negro de una gran multitud reunida en un terreno de tierra cerca de edificios bajos, con vehículos estacionados y una cadena montañosa al fondo."
 geo:
 id: 1486
 item_type: Still Image

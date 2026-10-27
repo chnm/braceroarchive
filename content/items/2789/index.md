@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384910.jpg
     alt:
       en: "A bracero in a straw hat stands beside an irrigation ditch at the edge of a field, with other workers and rows of trees visible in the background."
+      es: "Un bracero con sombrero de paja está de pie junto a una zanja de riego al borde de un campo, con otros trabajadores y hileras de árboles visibles al fondo."
 geo:
 id: 2789
 item_type: Still Image

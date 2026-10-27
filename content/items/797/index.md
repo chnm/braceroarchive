@@ -46,6 +46,7 @@ files:
     url: /files/original/jul28_02_39a945853f.jpg
     alt:
       en: "A large group of braceros poses in rows outside a wooden barracks building at Harden Camp in 1946, some standing, others kneeling or seated in front."
+      es: "Un gran grupo de braceros posa en filas frente a un edificio de barracas de madera en el Harden Camp en 1946, algunos de pie, otros arrodillados o sentados al frente."
 geo:
 id: 797
 item_type: Still Image

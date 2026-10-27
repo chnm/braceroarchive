@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384225.jpg
     alt:
       en: "Black-and-white photo of two men doing laundry outdoors at a labor camp, one bent over a basin, another at a makeshift washing table, with vehicles and tents in the background."
+      es: "Foto en blanco y negro de dos hombres lavando ropa al aire libre en un campamento laboral, uno inclinado sobre una palangana y otro junto a una mesa de lavado improvisada, con vehículos y carpas al fondo."
 geo:
 id: 2596
 item_type: Still Image

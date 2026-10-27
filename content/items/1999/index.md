@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382435.jpg
     alt:
       en: "Rows of bunk beds with bedding and clothing line a long barracks room, with two men seated near the bunks amid rows of windows along the walls."
+      es: "Filas de literas con ropa de cama y prendas se alinean en un largo cuarto de barraca, con dos hombres sentados cerca de las camas entre hileras de ventanas en las paredes."
 geo:
 id: 1999
 item_type: Still Image

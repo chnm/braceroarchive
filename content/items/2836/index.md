@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385021.jpg
     alt:
       en: "Black-and-white photo of a bracero looking out a bus window, with partial lettering \"ANGELES TR\" painted above the windows, in Stockton, California."
+      es: "Foto en blanco y negro de un bracero mirando por la ventana de un autobús, con letras parciales \"ANGELES TR\" pintadas sobre las ventanas, en Stockton, California."
 geo:
 id: 2836
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384727.jpg
     alt:
       en: "A seated bracero gets a haircut from another man standing behind him in a dormitory, while clothes hang on lines overhead and two men rest on bunks nearby."
+      es: "Un bracero sentado recibe un corte de cabello de otro hombre de pie detrás de él en un dormitorio, con ropa colgada en tendederos arriba y dos hombres descansando en literas cercanas."
 geo:
 id: 2755
 item_type: Still Image

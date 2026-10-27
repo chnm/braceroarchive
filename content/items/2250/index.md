@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383310.jpg
     alt:
       en: "Black-and-white photo of several workers wearing hats bent over performing stoop labor in a low-growing pepper field, with trees lining the horizon."
+      es: "Foto en blanco y negro de varios trabajadores con sombrero agachados realizando labor agrícola en un campo bajo de pimientos, con árboles al fondo en el horizonte."
 geo:
 id: 2250
 item_type: Still Image

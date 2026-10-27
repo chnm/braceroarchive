@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384040.jpg
     alt:
       en: "Black-and-white photo of a man in a suit seated at a desk in an office, reviewing papers, with a cabinet, framed picture, and venetian-blind window in the background."
+      es: "Fotografía en blanco y negro de un hombre con traje sentado en un escritorio de oficina, revisando papeles, con un gabinete, un cuadro enmarcado y una ventana con persianas al fondo."
 geo:
 id: 2517
 item_type: Still Image

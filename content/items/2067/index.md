@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382720.jpg
     alt:
       en: "Clothes hang drying on a line strung along a chain-link fence between two barrack-style buildings, with open grassy hills and scattered trees in the background at the Gondo Labor Camp, Watsonville, California."
+      es: "Ropa tendida en una cuerda sobre una cerca de malla metálica entre dos edificios tipo barracón, con colinas de pasto y árboles dispersos al fondo, en el campamento laboral Gondo, Watsonville, California."
 geo:
 id: 2067
 item_type: Still Image

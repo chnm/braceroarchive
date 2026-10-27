@@ -48,6 +48,7 @@ files:
     url: /files/original/flores,jesus1b_8fdb650146.jpg
     alt:
       en: "Certificate of recognition from the Secretaría del Trabajo de los E.E.U.U. for bracero Flores Gonzalez Jesus, dated March 13, 1953, signed by Martin P. Durkin, Secretary of Labor."
+      es: "Certificado de reconocimiento de la Secretaría del Trabajo de los E.E.U.U. para el bracero Flores González Jesús, fechado el 13 de marzo de 1953, firmado por Martin P. Durkin, Secretario del Trabajo."
 geo:
 id: 1245
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384909.jpg
     alt:
       en: "Black-and-white photo of braceros working a furrowed pepper field, with one man crouched filling a cup from a metal water container; rows of trees line the horizon."
+      es: "Foto en blanco y negro de braceros trabajando un campo surcado de chiles, con un hombre agachado llenando un vaso de un contenedor metálico de agua; una hilera de árboles bordea el horizonte."
 geo:
 id: 2788
 item_type: Still Image

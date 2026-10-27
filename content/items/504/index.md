@@ -51,6 +51,7 @@ files:
     url: /files/original/mica-back_317416826d.jpg
     alt:
       en: "Back of an Alien Laborer's identification card for Tomas Zapata-Castaneda, listing birth date Dec. 29, 1937, birthplace El Ejido El Parro, Chih., home address Col. Sacramento, Chih., issue date 10/11/57, and number L-2639579."
+      es: "Reverso de una tarjeta de identificación de trabajador agrícola a nombre de Tomás Zapata-Castañeda, con fecha de nacimiento 29 de dic. de 1937, lugar de nacimiento El Ejido El Parro, Chih., domicilio Col. Sacramento, Chih., fecha de emisión 10/11/57 y número L-2639579."
 geo:
 id: 504
 item_type: Document

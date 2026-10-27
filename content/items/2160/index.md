@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383009.jpg
     alt:
       en: "A weathered two-story farmhouse with an exterior staircase stands beside scattered debris and parked vehicles, with a small outbuilding to the right under a wide, empty sky."
+      es: "Una granja desgastada de dos pisos con escalera exterior se alza junto a escombros dispersos y vehículos estacionados, con una pequeña edificación anexa a la derecha bajo un cielo amplio y despejado."
 geo:
 id: 2160
 item_type: Still Image

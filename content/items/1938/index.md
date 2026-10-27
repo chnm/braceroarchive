@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382309.jpg
     alt:
       en: "A man in a hat uses an outdoor wooden washing bench to do laundry, with buckets nearby and canvas tents and a wooden shed in the background of a dirt camp."
+      es: "Un hombre con sombrero usa un banco de madera al aire libre para lavar ropa, con cubetas cerca y tiendas de lona y un cobertizo de madera al fondo en un campamento de tierra."
 geo:
 id: 1938
 item_type: Still Image

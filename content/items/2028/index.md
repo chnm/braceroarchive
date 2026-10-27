@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382605.jpg
     alt:
       en: "Black-and-white photo of braceros seated in a long row along a dirt path beside a pepper field, taking a lunch break, with a man in a plaid jacket and hat standing nearby."
+      es: "Fotografía en blanco y negro de braceros sentados en una larga fila a lo largo de un camino de tierra junto a un campo de pimientos, tomando un descanso para almorzar, con un hombre de chaqueta a cuadros y sombrero de pie cerca."
 geo:
 id: 2028
 item_type: Still Image

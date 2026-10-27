@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384626.jpg
     alt:
       en: "Braceros gather around a water spigot to do laundry and fill cans with water outside a brick building labeled \"Federal Pitter Co., Peach Pitting Equipment.\""
+      es: "Braceros se reúnen alrededor de una llave de agua para lavar ropa y llenar botes afuera de un edificio de ladrillo con el letrero \"Federal Pitter Co., Peach Pitting Equipment\"."
 geo:
 id: 2719
 item_type: Still Image

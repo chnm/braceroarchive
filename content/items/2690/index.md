@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384523.jpg
     alt:
       en: "Rows of braceros bent over in stoop labor across a large field in California, with wide flat farmland and tree lines stretching to the horizon."
+      es: "Filas de braceros agachados realizando trabajo agrícola en un extenso campo de California, con terrenos planos y líneas de árboles hasta el horizonte."
 geo:
 id: 2690
 item_type: Still Image

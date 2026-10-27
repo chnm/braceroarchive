@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383909.jpg
     alt:
       en: "Group of men wearing straw hats gather around the back of a truck or trailer displaying jackets and goods for sale, with a peddler visible inside the vehicle."
+      es: "Grupo de hombres con sombreros de paja rodean la parte trasera de un camión o remolque donde se exhiben chamarras y mercancías, con un vendedor ambulante visible dentro del vehículo."
 geo:
 id: 2487
 item_type: Still Image

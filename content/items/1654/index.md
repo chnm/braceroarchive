@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381326.jpg
     alt:
       en: "Interior of a large hall with rows of columns and desks, where officials review documents with braceros; a sign reads \"A.C. Muller, Supervisor, Selection\" on a desk in the foreground."
+      es: "Interior de un gran salón con filas de columnas y escritorios, donde funcionarios revisan documentos con braceros; un letrero dice \"A.C. Muller, Supervisor, Selection\" sobre un escritorio en primer plano."
 geo:
 id: 1654
 item_type: Still Image

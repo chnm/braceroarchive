@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383403.jpg
     alt:
       en: "Black-and-white aerial view of a lettuce field with numerous workers bent over rows, harvesting and packing produce into wooden crates, with open land and a road visible in the background."
+      es: "Fotografía aérea en blanco y negro de un campo de lechuga con numerosos trabajadores agachados en hileras, cosechando y empacando el producto en cajas de madera, con terreno abierto y un camino al fondo."
 geo:
 id: 2299
 item_type: Still Image

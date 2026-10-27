@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401382203.jpg
     alt:
       en: "Black-and-white photo of a dim, slatted wooden barn converted into bracero housing, with rows of cots bearing thin mattresses and blankets, and a few men resting or sitting among them."
+      es: "Foto en blanco y negro de un granero de madera con tablones, adaptado como vivienda para braceros, con hileras de catres con colchones delgados y algunos hombres sentados o recostados entre ellos."
 geo:
 id: 1903
 item_type: Still Image

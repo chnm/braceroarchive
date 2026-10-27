@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384810.jpg
     alt:
       en: "Black-and-white photo of three men standing inside a wooden-walled living quarters, with one man in the foreground wearing a denim jacket and eyes closed, near a paned window."
+      es: "Foto en blanco y negro de tres hombres de pie dentro de un alojamiento de paredes de madera, uno en primer plano con chaqueta de mezclilla y los ojos cerrados, junto a una ventana con paneles."
 geo:
 id: 2768
 item_type: Still Image

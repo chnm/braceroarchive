@@ -48,6 +48,7 @@ files:
     url: /files/original/certificado-antecedentes-penales,-ciud-de-mexico,-1961-(upp_af67b58196.jpg
     alt:
       en: "Official Mexican document with a passport photo, stamps, and the national eagle seal, certifying Liborio Santiago Perez has no police record, noting his identification as a bracero in 1961 and 1964."
+      es: "Documento oficial mexicano con foto de identificación, timbres fiscales y el sello del águila nacional, que certifica que Liborio Santiago Pérez no tiene antecedentes policiales, señalando su identificación como bracero en 1961 y 1964."
 geo:
 id: 887
 item_type: Document

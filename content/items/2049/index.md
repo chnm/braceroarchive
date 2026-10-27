@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382626.jpg
     alt:
       en: "Black-and-white portrait of a smiling man in a wide-brimmed hat and work shirt standing before rows of crops in a Salinas Valley pepper field."
+      es: "Retrato en blanco y negro de un hombre sonriente con sombrero de ala ancha y camisa de trabajo, de pie frente a hileras de cultivos en un campo de chile en el Valle de Salinas."
 geo:
 id: 2049
 item_type: Still Image

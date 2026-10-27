@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383533.jpg
     alt:
       en: "Black-and-white photo of a man shaving at a sink below a mirror, while another man, shirtless with a towel over his shoulder, stands in a doorway at a washing facility."
+      es: "Foto en blanco y negro de un hombre afeitándose frente a un lavabo bajo un espejo, mientras otro hombre, sin camisa y con una toalla al hombro, está parado en una puerta de una instalación de lavado."
 geo:
 id: 2317
 item_type: Still Image

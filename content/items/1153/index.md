@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericodecretoexbraceros3_9293cd3829.jpg
     alt:
       en: "Scanned page from Diario Oficial dated Miércoles 25 de mayo de 2005, showing dense Spanish legal text outlining articles and requirements for beneficiaries of the Ex-Trabajadores Migratorios Mexicanos support program."
+      es: "Página escaneada del Diario Oficial del miércoles 25 de mayo de 2005, con texto legal denso en español que detalla artículos y requisitos para beneficiarios del programa de apoyo a Ex-Trabajadores Migratorios Mexicanos."
 geo:
 id: 1153
 item_type: Document

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380637.jpg
     alt:
       en: "Black-and-white photo of a large crowd of men in straw hats standing in lines, holding up signs including one reading \"Duranguenses Libres,\" at the Monterrey Processing Center."
+      es: "Foto en blanco y negro de una gran multitud de hombres con sombreros de paja formados en filas, sosteniendo carteles, uno de ellos con la leyenda \"Duranguenses Libres\", en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1435
 item_type: Still Image

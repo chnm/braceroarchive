@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383540.jpg
     alt:
       en: "Black-and-white photo of two men working in a camp kitchen, one shaping dough at a table while the other tends a large pot on a stove under an exhaust hood."
+      es: "Fotografía en blanco y negro de dos hombres trabajando en una cocina de campamento, uno moldeando masa en una mesa mientras el otro atiende una olla grande sobre una estufa bajo una campana extractora."
 geo:
 id: 2312
 item_type: Still Image

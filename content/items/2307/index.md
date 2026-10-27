@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383501.jpg
     alt:
       en: "Elevated view of a bracero camp showing long single-story barracks with gabled roofs, a dirt yard, parked cars, small groups of people outside, and open farmland stretching to the horizon."
+      es: "Vista elevada de un campamento de braceros con largos barracones de un piso y techos a dos aguas, un patio de tierra, autos estacionados, pequeños grupos de personas afuera y campos abiertos hasta el horizonte."
 geo:
 id: 2307
 item_type: Still Image

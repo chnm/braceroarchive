@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385611.jpg
     alt:
       en: "Black-and-white photo of a person's legs and handmade sandals standing in a furrowed field among low pepper plants, with bare soil and rows visible in the background."
+      es: "Fotografía en blanco y negro de las piernas de una persona y sandalias hechas a mano, de pie en un campo surcado entre plantas bajas de chile, con tierra y surcos visibles al fondo."
 geo:
 id: 2971
 item_type: Still Image

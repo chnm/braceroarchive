@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384920.jpg
     alt:
       en: "Black-and-white photo of a bracero bending to pick peppers in a California field, with other workers visible among crop rows and hills in the distance."
+      es: "Foto en blanco y negro de un bracero inclinado recogiendo pimientos en un campo de California, con otros trabajadores entre los surcos de cultivo y colinas al fondo."
 geo:
 id: 2799
 item_type: Still Image

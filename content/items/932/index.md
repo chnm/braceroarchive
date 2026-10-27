@@ -48,6 +48,7 @@ files:
     url: /files/original/espino-11_7642ee26d9.jpg
     alt:
       en: "Sheet of 48 numbered \"Ration Stamp No.\" coupons printed with an eagle emblem, arranged in rows upside down, with serial number 987517 printed in red at the top."
+      es: "Hoja de 48 cupones numerados \"Ration Stamp No.\" impresos con un emblema de águila, dispuestos en filas al revés, con el número de serie 987517 impreso en rojo en la parte superior."
 geo:
 id: 932
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384612.jpg
     alt:
       en: "Black-and-white photo of a large crowd of men gathered outdoors between wooden barracks, standing around a table for a religious service at a labor camp."
+      es: "Foto en blanco y negro de una gran multitud de hombres reunidos al aire libre entre barracones de madera, de pie alrededor de una mesa durante un servicio religioso en un campamento de trabajo."
 geo:
 id: 2707
 item_type: Still Image

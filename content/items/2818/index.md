@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385003.jpg
     alt:
       en: "Black-and-white photo of several braceros wearing straw hats and button-up shirts standing at the edge of a cultivated field, with trees lining the horizon."
+      es: "Foto en blanco y negro de varios braceros con sombreros de paja y camisas abotonadas de pie al borde de un campo cultivado, con árboles en el horizonte."
 geo:
 id: 2818
 item_type: Still Image

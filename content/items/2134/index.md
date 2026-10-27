@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382944.jpg
     alt:
       en: "Braceros line up on a sidewalk outside the State Theater in Watsonville, California, its marquee reading \"MIERCOLES CANTINFLITAS EN PERSONA,\" with parked cars and storefronts lining the street."
+      es: "Braceros hacen fila en la acera frente al Teatro State en Watsonville, California, con la marquesina que dice \"MIERCOLES CANTINFLITAS EN PERSONA,\" junto a autos estacionados y escaparates de tiendas."
 geo:
 id: 2134
 item_type: Still Image

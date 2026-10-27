@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384516.jpg
     alt:
       en: "Black-and-white photo of a man in a wide-brimmed hat crouched at a field's edge, filling a sack with produce; more workers and crop rows stretch into the distance."
+      es: "Foto en blanco y negro de un hombre con sombrero de ala ancha agachado al borde de un campo, llenando un costal con producto; otros trabajadores y surcos de cultivo se extienden a lo lejos."
 geo:
 id: 2683
 item_type: Still Image

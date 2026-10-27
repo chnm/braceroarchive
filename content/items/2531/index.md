@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384020.jpg
     alt:
       en: "A man leans against stacked cardboard boxes labeled \"TORO\" on a truck bed, with an open agricultural field stretching behind him under a hazy sky."
+      es: "Un hombre se apoya en cajas de cartón apiladas con la etiqueta \"TORO\" sobre la plataforma de un camión, con un campo agrícola abierto extendiéndose detrás bajo un cielo brumoso."
 geo:
 id: 2531
 item_type: Still Image

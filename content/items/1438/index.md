@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380640.jpg
     alt:
       en: "A long line of men in hats stretches across an open dirt field toward a larger crowd gathered near buildings, with mountains visible in the background at the Monterrey Processing Center."
+      es: "Una larga fila de hombres con sombrero se extiende por un campo de tierra hacia una multitud mayor cerca de edificios, con montañas al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1438
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383011.jpg
     alt:
       en: "A bracero wearing a hat stands beside a long wooden barrack-style living quarter, with barrels, debris, and a vintage car parked nearby in a dirt and grass camp area."
+      es: "Un bracero con sombrero está de pie junto a un largo barracón de madera, con barriles, escombros y un auto antiguo cerca, en una zona de tierra y pasto del campamento."
 geo:
 id: 2162
 item_type: Still Image

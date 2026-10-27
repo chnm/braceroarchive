@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380728.jpg
     alt:
       en: "Long line of braceros waiting single-file in an open dirt yard, with a larger crowd gathered in the distance and mountains visible on the horizon."
+      es: "Larga fila de braceros esperando en una sola línea en un patio de tierra, con una multitud mayor reunida a lo lejos y montañas visibles en el horizonte."
 geo:
 id: 1453
 item_type: Still Image

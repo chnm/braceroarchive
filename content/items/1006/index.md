@@ -45,6 +45,7 @@ files:
     url: /files/original/renteria-rosario---dads-marriage-certificate1_51c05038cc.jpg
     alt:
       en: "Scanned Mexican civil registry document headed \"Estado Libre y Soberano de Nayarit\" with an emblem, recording the 1938 marriage certificate of Eugenio Rentería and María Refugio Gómez in dense typed Spanish script."
+      es: "Documento escaneado del registro civil mexicano encabezado \"Estado Libre y Soberano de Nayarit\" con un emblema, que registra el acta de matrimonio de 1938 entre Eugenio Rentería y María Refugio Gómez en texto mecanografiado denso."
 geo:
 id: 1006
 item_type: Document

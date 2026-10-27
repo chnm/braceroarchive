@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383315.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat bends to hoe a row of young plants in a California pepper field, surrounded by rows of leafy seedlings."
+      es: "Un bracero con sombrero de ala ancha se inclina para azadonar una hilera de plantas jóvenes en un campo de chile en California, rodeado de hileras de plántulas frondosas."
 geo:
 id: 2242
 item_type: Still Image

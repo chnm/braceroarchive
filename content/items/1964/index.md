@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382335.jpg
     alt:
       en: "Black-and-white photo of two men resting on cots inside a tent, with jackets hanging on a line and a single bare bulb lighting the interior."
+      es: "Fotografía en blanco y negro de dos hombres descansando en catres dentro de una tienda de campaña, con chaquetas colgadas de una cuerda y una bombilla desnuda iluminando el interior."
 geo:
 id: 1964
 item_type: Still Image

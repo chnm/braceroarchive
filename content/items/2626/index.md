@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384319.jpg
     alt:
       en: "Black-and-white photo of a lettuce field in the Salinas Valley, with workers loading crates onto a flatbed truck while others harvest lettuce in rows nearby."
+      es: "Fotografía en blanco y negro de un campo de lechuga en el Valle de Salinas, con trabajadores cargando cajas en un camión de plataforma mientras otros cosechan lechuga en hileras cercanas."
 geo:
 id: 2626
 item_type: Still Image

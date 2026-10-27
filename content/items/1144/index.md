@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-25_286cdeaed6.jpg
     alt:
       en: "Two Western Union telegraph money order receipts, dated Oct. 31, 1958 and Jan. 17, 1959, recording $42 payments sent by Nepomuceno Gonzalez of Coachella, Cal. to Esperanza Velasco and Rosario De Velasco in Jalisco, Mexico."
+      es: "Dos recibos de giro telegráfico de Western Union, fechados el 31 de octubre de 1958 y el 17 de enero de 1959, que registran pagos de $42 enviados por Nepomuceno Gonzalez de Coachella, Cal. a Esperanza Velasco y Rosario De Velasco en Jalisco, México."
 geo:
 id: 1144
 item_type: Document

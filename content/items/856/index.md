@@ -46,6 +46,7 @@ files:
     url: /files/original/foto-winnemucca-nevada,-1952-(cuando-trabajo-en-tren_37749c9278.jpg
     alt:
       en: "Black-and-white studio portrait of a young man with dark, wavy hair, smiling at the camera while wearing a double-breasted suit jacket, white shirt, and patterned tie with a decorative pin."
+      es: "Retrato de estudio en blanco y negro de un joven de cabello oscuro y ondulado, sonriendo a la cámara, vestido con saco cruzado, camisa blanca y corbata estampada con un prendedor decorativo."
 geo:
 id: 856
 item_type: Still Image

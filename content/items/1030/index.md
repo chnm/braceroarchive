@@ -48,6 +48,7 @@ files:
     url: /files/original/figueroaencinasluisformatocontrol_600b25e162.jpg
     alt:
       en: "Registration form titled \"Atención a Ex Braceros (1942-1946)\" with Folio No. 01879, dated 25 Septiembre 2003, bearing the name Luis Figueroa Encinas and an official \"Recibido\" stamp from the Secretaría de Gobernación, Baja California."
+      es: "Formulario de registro titulado \"Atención a Ex Braceros (1942-1946)\" con Folio No. 01879, fechado 25 Septiembre 2003, a nombre de Luis Figueroa Encinas, con sello oficial \"Recibido\" de la Secretaría de Gobernación, Baja California."
 geo:
 id: 1030
 item_type: Document

@@ -46,6 +46,7 @@ files:
     url: /files/original/castañedaaaron-02_5cb6557401.jpg
     alt:
       en: "Black-and-white photo of two braceros on railroad tracks; one in a plaid jacket uses a long-handled tool on the rail while another stands nearby, hills in the background."
+      es: "Foto en blanco y negro de dos braceros en las vías del tren; uno con chaqueta a cuadros usa una herramienta de mango largo sobre el riel mientras otro observa, con colinas al fondo."
 geo:
 id: 510
 item_type: Still Image

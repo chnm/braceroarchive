@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382824.jpg
     alt:
       en: "Black-and-white photo of braceros gathered around a table in a dimly lit dining hall kitchen, with large pots, basins, and cookware in the foreground."
+      es: "Fotografía en blanco y negro de braceros reunidos alrededor de una mesa en la cocina de un comedor poco iluminado, con grandes ollas, recipientes y utensilios de cocina en primer plano."
 geo:
 id: 2114
 item_type: Still Image

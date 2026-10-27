@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381918.jpg
     alt:
       en: "Men wearing cowboy hats and work jackets stand in a line beside a bus, with more people queued along the street in the background."
+      es: "Hombres con sombreros de vaquero y chaquetas de trabajo forman una fila junto a un autobús, mientras más personas esperan en línea a lo largo de la calle al fondo."
 geo:
 id: 1819
 item_type: Still Image

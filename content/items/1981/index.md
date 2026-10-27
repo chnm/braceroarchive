@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382417.jpg
     alt:
       en: "Two men seated at a cluttered desk reviewing papers in an office, with wall maps, a calendar, and metal lockers in the background, Stockton, California."
+      es: "Dos hombres sentados en un escritorio lleno de papeles revisando documentos en una oficina, con mapas en la pared, un calendario y casilleros metálicos al fondo, Stockton, California."
 geo:
 id: 1981
 item_type: Still Image

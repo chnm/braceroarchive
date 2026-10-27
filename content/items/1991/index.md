@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382427.jpg
     alt:
       en: "A row of toilets with black seats lines a narrow wooden-walled corridor, positioned against the right wall above a long metal trough urinal fixed to the left wall."
+      es: "Una fila de inodoros con asientos negros se alinea en un estrecho pasillo de paredes de madera, ubicados contra la pared derecha sobre un largo urinario de metal tipo canal fijado a la pared izquierda."
 geo:
 id: 1991
 item_type: Still Image

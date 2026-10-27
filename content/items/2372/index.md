@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381113.jpg
     alt:
       en: "A predominantly black, underexposed photograph with a faint lighter rectangular shape visible in the upper right corner."
+      es: "Fotografía predominantemente negra y subexpuesta, con una forma rectangular ligeramente más clara visible en la esquina superior derecha."
 geo:
 id: 2372
 item_type: Still Image

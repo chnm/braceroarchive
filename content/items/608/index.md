@@ -51,6 +51,7 @@ files:
     url: /files/original/jrivera002_bdb1f11249.jpg
     alt:
       en: "Alien Laborer's Identification card for Jesus Rivera Lopez, born 10-7-34 in Juchitlan, Jal., Mexico, with card number L-2751770, issued at Calexico, Cal. on 5-14-57, labeled \"MICA.\""
+      es: "Tarjeta de identificación de trabajador extranjero de Jesús Rivera Lopez, nacido el 10-7-34 en Juchitlán, Jal., México, con número L-2751770, emitida en Calexico, Cal. el 5-14-57, con la etiqueta \"MICA\"."
 geo:
 id: 608
 item_type: Document

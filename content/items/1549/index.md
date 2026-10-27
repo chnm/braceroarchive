@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380906.jpg
     alt:
       en: "Large group of braceros wearing straw hats sit and wait along railroad tracks near a fenced area, with one man standing holding a bag in the foreground."
+      es: "Gran grupo de braceros con sombreros de paja sentados y esperando junto a las vías del tren cerca de un área cercada, con un hombre de pie sosteniendo una bolsa en primer plano."
 geo:
 id: 1549
 item_type: Still Image

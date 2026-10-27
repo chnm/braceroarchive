@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---passport4_2b021ee275.jpg
     alt:
       en: "Interior pages of a worn passport booklet showing \"MATRICULA 1341950\" with a printed Spanish military service clause, a purple official stamp, and a handwritten signature in black ink."
+      es: "Páginas interiores de un pasaporte desgastado con \"MATRICULA 1341950\", una cláusula impresa de servicio militar en español, un sello oficial morado y una firma manuscrita en tinta negra."
 geo:
 id: 974
 item_type: Document

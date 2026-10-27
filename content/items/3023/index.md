@@ -46,6 +46,7 @@ files:
     url: /files/original/dionisio-hernandez1_236f7011e8.jpg
     alt:
       en: "Printed bilingual continuation of a Standard Work Contract form for Dionisio Hernandez Cancholo, listing employer details, work locations in California, contract dates, wage rates, and signatures, stamped \"El Centro\" 1958."
+      es: "Formulario bilingüe impreso de continuación de Contrato de Trabajo Estándar para Dionisio Hernández Canchola, con datos del empleador, lugares de trabajo en California, fechas de contrato, tarifas salariales y firmas, sellado \"El Centro\" 1958."
 geo:
 id: 3023
 item_type: Document

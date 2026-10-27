@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380301.jpg
     alt:
       en: "A bracero wearing a hat gestures while speaking to seated officials at a table, with a line of men in cowboy hats waiting in the background at the Monterrey Processing Center."
+      es: "Un bracero con sombrero gesticula mientras habla con funcionarios sentados a una mesa, con una fila de hombres con sombreros vaqueros esperando al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1333
 item_type: Still Image

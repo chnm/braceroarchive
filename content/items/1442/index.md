@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380632.jpg
     alt:
       en: "A bracero leans against a barbed wire fence post, waiting among a large crowd of hatted men at the Monterrey Processing Center, with buildings visible in the background."
+      es: "Un bracero se apoya en un poste de alambre de púas, esperando entre una gran multitud de hombres con sombrero en el Centro de Procesamiento de Monterrey, con edificios visibles al fondo."
 geo:
 id: 1442
 item_type: Still Image

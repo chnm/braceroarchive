@@ -48,6 +48,7 @@ files:
     url: /files/original/jul28_02_ae146d3eb3.jpg
     alt:
       en: "Selective Service System Registration Certificate for Jose NMN Hernandez-Romero, born Nov. 27, 1929 in Tepatitlan, Jal., Mexico, residing in Salinas, Monterey, California, registered Aug. 16, 1961."
+      es: "Certificado de Registro del Sistema de Servicio Selectivo de Jose NMN Hernandez-Romero, nacido el 27 de nov. de 1929 en Tepatitlán, Jal., México, residente en Salinas, Monterey, California, registrado el 16 de agosto de 1961."
 geo:
 id: 652
 item_type: Document

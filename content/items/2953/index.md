@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385526.jpg
     alt:
       en: "Black-and-white street scene in Watsonville, California, with men gathered on the sidewalk near signs for Zacatecana Cafe, Monterey House, and Rancho Grande, all advertising Coca-Cola and beer."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con hombres reunidos en la acera cerca de letreros de Zacatecana Cafe, Monterey House y Rancho Grande, todos anunciando Coca-Cola y cerveza."
 geo:
 id: 2953
 item_type: Still Image

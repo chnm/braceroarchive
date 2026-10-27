@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381010.jpg
     alt:
       en: "Braceros carrying bags and hats walk in a long line across a dusty field toward the Monterrey Processing Center, with telephone poles and a hazy sky in the background."
+      es: "Braceros cargando bolsas y sombreros caminan en una larga fila por un campo polvoriento hacia el Centro de Procesamiento de Monterrey, con postes telefónicos y un cielo brumoso al fondo."
 geo:
 id: 1564
 item_type: Still Image

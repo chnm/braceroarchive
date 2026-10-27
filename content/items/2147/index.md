@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382915.jpg
     alt:
       en: "Black-and-white photo taken from inside a vehicle of a pickup truck with men seated in its bed, driving along a highway lined with utility poles and industrial buildings near Salinas, California."
+      es: "Fotografía en blanco y negro tomada desde el interior de un vehículo de una camioneta con hombres sentados en la caja, circulando por una carretera bordeada de postes de luz y edificios industriales cerca de Salinas, California."
 geo:
 id: 2147
 item_type: Still Image

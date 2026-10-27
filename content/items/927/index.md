@@ -48,6 +48,7 @@ files:
     url: /files/original/espino-8_9a24ca1dd8.jpg
     alt:
       en: "Back of a driver's license listing restriction codes A–W and vehicle class descriptions (Class A, B, C, M), with a notice to place an organ donor emblem at the bottom."
+      es: "Reverso de una licencia de conducir con la lista de códigos de restricción A–W y descripciones de clases de vehículos (A, B, C, M), además de un aviso para colocar el emblema de donante de órganos."
 geo:
 id: 927
 item_type: Document

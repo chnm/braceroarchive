@@ -43,6 +43,7 @@ files:
     url: /files/original/gonzalezlorenzoyubacity_4be5ddacf8.jpg
     alt:
       en: "A man in a cap pours a bucket of plums into a large wooden \"Sunsweet\" crate, with additional buckets of fruit nearby and orchard trees in the background."
+      es: "Un hombre con gorra vierte una cubeta de ciruelas en un gran cajón de madera con la palabra \"Sunsweet\", con más cubetas de fruta cerca y árboles del huerto al fondo."
 geo:
 id: 990
 item_type: Still Image

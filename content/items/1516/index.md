@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380829.jpg
     alt:
       en: "Black-and-white photo of two men in an office reviewing documents at desks, with a filing cabinet, wall map, and framed portrait in the background, lit by a hanging bulb."
+      es: "Fotografía en blanco y negro de dos hombres en una oficina revisando documentos en sus escritorios, con un archivero, un mapa de pared y un retrato enmarcado al fondo, iluminados por un foco colgante."
 geo:
 id: 1516
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384904.jpg
     alt:
       en: "Black-and-white photo of long furrowed rows in a pepper field stretching toward distant hills, with a group of braceros working in the far background."
+      es: "Fotografía en blanco y negro de largas hileras surcadas en un campo de pimientos que se extienden hacia colinas distantes, con un grupo de braceros trabajando al fondo."
 geo:
 id: 2783
 item_type: Still Image

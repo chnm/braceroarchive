@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383915.jpg
     alt:
       en: "Men in cowboy hats gather at the open back of a truck or trailer examining goods, surrounded by stacked boxes and suitcases at a bus stop in Stockton, California."
+      es: "Hombres con sombreros vaqueros se reúnen en la parte trasera abierta de un camión o remolque examinando mercancías, rodeados de cajas apiladas y maletas en una parada de autobús en Stockton, California."
 geo:
 id: 2493
 item_type: Still Image

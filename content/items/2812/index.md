@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384935.jpg
     alt:
       en: "A bracero bends low using a short-handled hoe to work the soil between rows of young pepper plants, with long cultivated furrows stretching toward distant hills."
+      es: "Un bracero se inclina para remover la tierra con un azadón de mango corto entre hileras de plantas jóvenes de chile, con surcos cultivados que se extienden hacia colinas distantes."
 geo:
 id: 2812
 item_type: Still Image

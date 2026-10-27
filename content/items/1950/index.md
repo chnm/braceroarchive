@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382321.jpg
     alt:
       en: "Black-and-white photo of a bunkhouse interior with rows of beds, hanging clothes, and workers gathered around a table in the background; a bare bed frame sits in the foreground."
+      es: "Fotografía en blanco y negro del interior de un dormitorio con filas de camas, ropa colgada y trabajadores reunidos alrededor de una mesa al fondo; en primer plano se ve un somier sin colchón."
 geo:
 id: 1950
 item_type: Still Image

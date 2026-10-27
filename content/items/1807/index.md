@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381930.jpg
     alt:
       en: "Aerial black-and-white photograph of a labor camp with rows of long barracks-style buildings and surrounding dirt roads, set amid cultivated farm fields in California."
+      es: "Fotografía aérea en blanco y negro de un campamento laboral con filas de barracones alargados y caminos de tierra, rodeado de campos cultivados en California."
 geo:
 id: 1807
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382315.jpg
     alt:
       en: "Black-and-white photo of a bracero lying on a cot in a dormitory, arm resting on windowsill, gazing outside; metal bunk beds fill the sparse room."
+      es: "Fotografía en blanco y negro de un bracero acostado en un catre en un dormitorio, con el brazo apoyado en el alféizar de la ventana mientras mira hacia afuera; literas metálicas llenan la habitación austera."
 geo:
 id: 1944
 item_type: Still Image

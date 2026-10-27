@@ -46,6 +46,7 @@ files:
     url: /files/original/sanchezisaias1_6eed18bd13.jpg
     alt:
       en: "Man standing beside a white car parked on a tree-lined road, resting his hand on the hood near the headlight; the car's license plate reads \"2ACZ736.\""
+      es: "Hombre de pie junto a un auto blanco estacionado en un camino bordeado de árboles, con la mano apoyada en el cofre cerca del faro; la placa del auto dice \"2ACZ736\"."
 geo:
 id: 1055
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384022.jpg
     alt:
       en: "A man leans against a stack of \"Toro\" brand lettuce boxes piled on a truck, with a vast agricultural field stretching behind him under an open sky."
+      es: "Un hombre se apoya en una pila de cajas de lechuga de la marca \"Toro\" cargadas en un camión, con un extenso campo agrícola extendiéndose detrás bajo un cielo abierto."
 geo:
 id: 2533
 item_type: Still Image

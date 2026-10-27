@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384431.jpg
     alt:
       en: "Black-and-white photo of a bracero camp dormitory with rows of metal cots, several men resting or lying on their beds, and clothing hung to dry near a window."
+      es: "Fotografía en blanco y negro de un dormitorio en un campamento de braceros, con hileras de catres metálicos, varios hombres descansando o acostados en sus camas, y ropa colgada para secar junto a una ventana."
 geo:
 id: 2663
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381509.jpg
     alt:
       en: "A mostly black, underexposed frame with faint scattered specks of light and a thin horizontal line near the center; no discernible figures or scene details are visible."
+      es: "Fotograma mayormente negro y subexpuesto, con tenues puntos de luz dispersos y una delgada línea horizontal cerca del centro; no se distinguen figuras ni detalles de escena."
 geo:
 id: 1695
 item_type: Still Image

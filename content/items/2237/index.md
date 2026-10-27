@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383232.jpg
     alt:
       en: "Two braceros play dominoes at a small table in a dormitory room, surrounded by bunk beds, with shelving and a curtained window in the background."
+      es: "Dos braceros juegan dominó en una mesa pequeña dentro de un dormitorio, rodeados de literas, con estantes y una ventana con cortina al fondo."
 geo:
 id: 2237
 item_type: Still Image

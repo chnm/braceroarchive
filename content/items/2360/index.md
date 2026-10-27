@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383604.jpg
     alt:
       en: "Black-and-white photograph of long, even rows of an onion field stretching toward distant hills, with grassy foreground vegetation and a hazy sky above the valley."
+      es: "Fotografía en blanco y negro de hileras largas y uniformes de un campo de cebollas que se extienden hacia colinas distantes, con vegetación herbácea en primer plano y un cielo brumoso sobre el valle."
 geo:
 id: 2360
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380442.jpg
     alt:
       en: "Black-and-white photo of a long line of men queued outside a small wooden building at the Monterrey Processing Center, with mountains visible in the background, as officials review documents."
+      es: "Fotografía en blanco y negro de una larga fila de hombres afuera de un pequeño edificio de madera en el Centro de Procesamiento de Monterrey, con montañas al fondo, mientras funcionarios revisan documentos."
 geo:
 id: 1370
 item_type: Still Image

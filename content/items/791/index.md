@@ -48,6 +48,7 @@ files:
     url: /files/original/jul28_04_back_808d06a223.jpg
     alt:
       en: "Back of an Alien Laborer's Identification Card (MICA) for Jose Hernandez-Romero, born 1929 in Tepatitlan, Jal., Mexico, issued in Calexico, Calif. on 11-15-57, card number L-2865713."
+      es: "Reverso de una Tarjeta de Identificación de Trabajador Extranjero (MICA) de Jose Hernandez-Romero, nacido en 1929 en Tepatitlán, Jal., México, emitida en Calexico, Calif. el 11-15-57, número de tarjeta L-2865713."
 geo:
 id: 791
 item_type: Document

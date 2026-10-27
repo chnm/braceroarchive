@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383322.jpg
     alt:
       en: "Black-and-white portrait of a man in a wide-brimmed hat, plaid shirt, and jacket smiling in a field, with hills and another worker in a hat visible in the background."
+      es: "Retrato en blanco y negro de un hombre con sombrero de ala ancha, camisa a cuadros y chaqueta, sonriendo en un campo, con colinas y otro trabajador con sombrero visible al fondo."
 geo:
 id: 2262
 item_type: Still Image

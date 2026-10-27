@@ -46,6 +46,7 @@ files:
     url: /files/original/santosnuñez-05-copy_9bd7da738c.jpg
     alt:
       en: "Decorative Social Security card with Mexican and U.S. flags flanking an eagle emblem, reading \"U.S. Social Security,\" \"Account Number,\" and \"Name: Santos Nunez Sotelo.\""
+      es: "Tarjeta decorativa de Seguro Social con las banderas de México y Estados Unidos flanqueando un emblema de águila, con los textos \"U.S. Social Security,\" \"Account Number\" y \"Name: Santos Nunez Sotelo.\""
 geo:
 id: 520
 item_type: Document

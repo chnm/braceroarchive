@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383314.jpg
     alt:
       en: "Black-and-white photo of a bracero in a cap and long-sleeved shirt bent over doing stoop labor among low pepper plants, with another worker visible in the background row."
+      es: "Foto en blanco y negro de un bracero con gorra y camisa de manga larga, inclinado realizando trabajo agachado entre plantas bajas de pimiento, con otro trabajador visible al fondo."
 geo:
 id: 2241
 item_type: Still Image

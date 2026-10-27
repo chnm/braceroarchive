@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382201.jpg
     alt:
       en: "Black-and-white photo of a dim barracks room with rows of metal-frame beds, rumpled blankets, and clothing hung on a brick wall; two men sit hunched on beds near the back."
+      es: "Fotografía en blanco y negro de un barracón en penumbra con filas de camas de metal, mantas arrugadas y ropa colgada en una pared de ladrillo; dos hombres sentados encorvados en las camas al fondo."
 geo:
 id: 1901
 item_type: Still Image

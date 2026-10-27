@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384623.jpg
     alt:
       en: "Rows of bunk beds fill a high-ceilinged barracks, with clothing hanging from lines strung overhead near the brick walls and windows."
+      es: "Filas de literas ocupan un barracón de techos altos, con ropa colgada en cuerdas tendidas junto a las paredes de ladrillo y las ventanas."
 geo:
 id: 2716
 item_type: Still Image

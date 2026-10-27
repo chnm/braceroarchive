@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384520.jpg
     alt:
       en: "Black-and-white photo of a bracero bending to pick crops in a vast California field, with rows of other workers scattered across the land under a line of distant trees."
+      es: "Fotografía en blanco y negro de un bracero inclinado recogiendo cultivos en un extenso campo de California, con hileras de otros trabajadores dispersos por el terreno bajo una línea de árboles distantes."
 geo:
 id: 2687
 item_type: Still Image

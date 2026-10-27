@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382333.jpg
     alt:
       en: "Two braceros rest inside a canvas tent at a camp near Stockton, California, seated on metal-frame beds beneath a bare hanging light bulb, with clothing hanging on a line nearby."
+      es: "Dos braceros descansan dentro de una tienda de lona en un campamento cerca de Stockton, California, sentados en camas con marco metálico bajo un foco colgante, con ropa tendida cerca."
 geo:
 id: 1962
 item_type: Still Image

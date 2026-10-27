@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381137.jpg
     alt:
       en: "A bracero wearing a straw hat stands at a counter speaking with a seated official, while a line of other men in hats waits behind him under tall windows."
+      es: "Un bracero con sombrero de paja está de pie junto a un mostrador hablando con un oficial sentado, mientras una fila de otros hombres con sombrero espera detrás bajo altas ventanas."
 geo:
 id: 1603
 item_type: Still Image

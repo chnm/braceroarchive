@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383001.jpg
     alt:
       en: "Black-and-white photo of braceros working in long rows of crops in an open field near Salinas, California, with flat farmland stretching to the horizon."
+      es: "Foto en blanco y negro de braceros trabajando en largas hileras de cultivos en un campo abierto cerca de Salinas, California, con terrenos agrícolas planos que se extienden hasta el horizonte."
 geo:
 id: 2171
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382825.jpg
     alt:
       en: "Black-and-white photo of braceros serving beans from a large pot into their plates in a dining hall kitchen, with shelves and stacked trays visible in the background."
+      es: "Fotografía en blanco y negro de braceros sirviendo frijoles de una gran olla en sus platos en la cocina de un comedor, con estantes y bandejas apiladas visibles al fondo."
 geo:
 id: 2115
 item_type: Still Image

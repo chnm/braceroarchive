@@ -46,6 +46,7 @@ files:
     url: /files/original/post-card-winnemucca-nevada,-1954_2b317c068c.jpg
     alt:
       en: "Black-and-white postcard of the Sonoma Inn building with its tower sign, cars parked out front, and a person on the sidewalk; captioned \"Sonoma Inn, Winnemucca, Nev.\""
+      es: "Postal en blanco y negro del edificio Sonoma Inn con su torre y letrero, autos estacionados al frente y una persona en la acera; subtitulada \"Sonoma Inn, Winnemucca, Nev.\""
 geo:
 id: 857
 item_type: Still Image

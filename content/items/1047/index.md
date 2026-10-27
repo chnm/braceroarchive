@@ -46,6 +46,7 @@ files:
     url: /files/original/figueroaencinasluisregistrationexbraceros2_6b298a5452.jpg
     alt:
       en: "Handwritten \"Entrevista de Bracero\" interview form for Luis Figueroa Encinas, listing 14 printed Spanish questions about his life, residence, age, and Bracero Program experience, with handwritten answers."
+      es: "Formulario manuscrito \"Entrevista de Bracero\" para Luis Figueroa Encinas, con 14 preguntas impresas en español sobre su vida, residencia, edad y experiencia en el Programa Bracero, con respuestas manuscritas."
 geo:
 id: 1047
 item_type: Document

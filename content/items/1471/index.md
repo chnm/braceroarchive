@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380711.jpg
     alt:
       en: "Black-and-white photo of braceros, many wearing straw hats, lined up along a barbed wire enclosure showing documents to an official, with a large crowd waiting beyond the fence."
+      es: "Fotografía en blanco y negro de braceros, muchos con sombreros de paja, formados junto a un cercado de alambre de púas mostrando documentos a un oficial, mientras una gran multitud espera detrás de la cerca."
 geo:
 id: 1471
 item_type: Still Image

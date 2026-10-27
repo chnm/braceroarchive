@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383616.jpg
     alt:
       en: "Black-and-white photo of a row of wooden barracks at a labor camp, with men standing and leaning against the buildings in a dirt pathway, mountains visible in the background."
+      es: "Fotografía en blanco y negro de una hilera de barracones de madera en un campamento de trabajo, con hombres de pie y recostados contra los edificios en un camino de tierra, montañas visibles al fondo."
 geo:
 id: 2348
 item_type: Still Image

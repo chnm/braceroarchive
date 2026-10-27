@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384404.jpg
     alt:
       en: "Black-and-white photo of a man bent over a washbasin doing laundry on a wooden platform outside a bracero camp living quarter, with scaffolding and timber structures above."
+      es: "Fotografía en blanco y negro de un hombre inclinado sobre una palangana lavando ropa sobre una plataforma de madera fuera de una vivienda de un campamento bracero, con andamios y estructuras de madera arriba."
 geo:
 id: 2637
 item_type: Still Image

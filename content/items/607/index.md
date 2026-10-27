@@ -51,6 +51,7 @@ files:
     url: /files/original/jrivera001_f6f905400b.jpg
     alt:
       en: "Alien Laborer's Identification Card from the U.S. Department of Justice, Immigration and Naturalization Service, featuring a photo booth portrait of a man and printed form text dated 12-7-55."
+      es: "Tarjeta de Identificación de Trabajador Extranjero del Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización, con una fotografía tipo carnet de un hombre y texto impreso fechado 12-7-55."
 geo:
 id: 607
 item_type: Document

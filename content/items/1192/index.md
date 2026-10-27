@@ -48,6 +48,7 @@ files:
     url: /files/original/velasco-patino-33_78cc9e5bc6.jpg
     alt:
       en: "Three \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank in Coachilla, California, issued to M. Gonzalez for Francisca Rodriguez (1949, 1950) and Rosario Ramirez (1948), each stamped \"INSURED.\""
+      es: "Tres recibos de \"Purchaser's Receipt of Bank Money Order\" del First National Bank en Coachilla, California, emitidos a M. Gonzalez para Francisca Rodríguez (1949, 1950) y Rosario Ramírez (1948), cada uno sellado \"INSURED\"."
 geo:
 id: 1192
 item_type: Document

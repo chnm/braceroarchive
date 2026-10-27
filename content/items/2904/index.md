@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385313.jpg
     alt:
       en: "Black-and-white photo of braceros lined up along a long serving counter in a California camp dining hall, holding trays while kitchen staff dish out food from large pots."
+      es: "Foto en blanco y negro de braceros formados junto a un largo mostrador de servicio en el comedor de un campamento en California, sosteniendo bandejas mientras el personal de cocina sirve comida desde grandes ollas."
 geo:
 id: 2904
 item_type: Still Image

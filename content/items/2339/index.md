@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383630.jpg
     alt:
       en: "Black-and-white photo of a row of small wood-frame cabins along a dirt lot, with a vintage car parked near the buildings and a wooden sawhorse in the foreground."
+      es: "Fotografía en blanco y negro de una fila de pequeñas cabañas de madera junto a un terreno de tierra, con un automóvil antiguo estacionado cerca de los edificios y un caballete de madera en primer plano."
 geo:
 id: 2339
 item_type: Still Image

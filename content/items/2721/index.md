@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384628.jpg
     alt:
       en: "Black-and-white photo of braceros standing and crouching outside a brick building marked \"FED... PITT...\" with laundry hanging and a car parked nearby amid large trees."
+      es: "Foto en blanco y negro de braceros de pie y agachados fuera de un edificio de ladrillo con el letrero \"FED... PITT...\", con ropa tendida y un auto estacionado entre árboles grandes."
 geo:
 id: 2721
 item_type: Still Image

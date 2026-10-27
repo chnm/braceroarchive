@@ -46,6 +46,7 @@ files:
     url: /files/original/belen-soto-moreno-2-(dup)_1c43ed62e3.jpg
     alt:
       en: "Vintage photograph dated \"1925\" showing a farmer working a field with a team of horses, set against an open sky and plowed earth."
+      es: "Fotografía antigua fechada \"1925\" que muestra a un agricultor trabajando un campo con un equipo de caballos, bajo un cielo abierto y sobre tierra arada."
 geo:
 id: 3053
 item_type: Still Image

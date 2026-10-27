@@ -48,6 +48,7 @@ files:
     url: /files/original/jul28_01_front_7e1b38cff4.jpg
     alt:
       en: "Worn identification card titled \"Alien Laborer's Identification Card\" with a black-and-white photo of a mustached man, issued by the U.S. Department of Justice, Immigration and Naturalization Service, Form I-100D (12-7-55)."
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\" con una fotografía en blanco y negro de un hombre con bigote, emitida por el Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización, Formulario I-100D (12-7-55)."
 geo:
 id: 651
 item_type: Document

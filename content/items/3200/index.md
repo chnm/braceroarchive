@@ -22,6 +22,7 @@ files:
     url: /files/original/rochin-acapulco-1st-anniversary-1951_2e7c28fbe7.jpg
     alt:
       en: "Black-and-white photo of a formally dressed group gathered around a table, with a man in a white suit cutting a tiered cake; a mariachi guitarist stands at the far right, 1949."
+      es: "Foto en blanco y negro de un grupo vestido formalmente reunido alrededor de una mesa, con un hombre de traje blanco cortando un pastel de varios niveles; un guitarrista mariachi está de pie a la derecha, 1949."
 geo:
 id: 3200
 item_type: Still Image

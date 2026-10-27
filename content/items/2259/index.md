@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383319.jpg
     alt:
       en: "Black-and-white photo of a worker in a wide-brimmed hat bent over doing stoop labor in a pepper field, with other laborers and a tree line visible in the distance."
+      es: "Foto en blanco y negro de un trabajador con sombrero de ala ancha agachado realizando labor agrícola en un campo de chile, con otros jornaleros y una hilera de árboles al fondo."
 geo:
 id: 2259
 item_type: Still Image

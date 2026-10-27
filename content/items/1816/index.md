@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381915.jpg
     alt:
       en: "Black-and-white photo of a crowded bus full of men, many wearing hats, seated closely together; overhead luggage racks are packed with bundles and bags."
+      es: "Fotografía en blanco y negro de un autobús repleto de hombres, muchos con sombreros, sentados muy juntos; los portaequipajes superiores están llenos de bultos y bolsas."
 geo:
 id: 1816
 item_type: Still Image

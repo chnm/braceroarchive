@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401384729.jpg
     alt:
       en: "Black-and-white photo of a bracero seated in a wooden chair, holding a mirror, while another bracero cuts his hair; clotheslines with hanging clothes and bunks fill the camp room."
+      es: "Foto en blanco y negro de un bracero sentado en una silla de madera, sosteniendo un espejo, mientras otro bracero le corta el cabello; cuerdas con ropa colgada y literas llenan el cuarto del campamento."
 geo:
 id: 2757
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/recibos-envio-dinero-western-union-1962_d8de2b4953.jpg
     alt:
       en: "Two Western Union Telegraph Company receipts from Seminole, Texas, dated June 11 and August 11, 1962, recording money orders sent by Liborio Santiago to Elida Rayon, Mexico, for $90.00 and $100.00."
+      es: "Dos recibos de The Western Union Telegraph Company de Seminole, Texas, fechados el 11 de junio y el 11 de agosto de 1962, por giros de dinero enviados por Liborio Santiago a Elida Rayón, México, por $90.00 y $100.00."
 geo:
 id: 903
 item_type: Document

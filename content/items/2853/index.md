@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385112.jpg
     alt:
       en: "Doctor Stanley Savoy examines a bracero lying on a reclined exam table, with a medical cabinet, instruments, and chair visible in the clinic room."
+      es: "El doctor Stanley Savoy examina a un bracero recostado en una mesa de examen reclinable, con un gabinete médico, instrumentos y una silla visibles en la sala de la clínica."
 geo:
 id: 2853
 item_type: Still Image

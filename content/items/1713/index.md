@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381527.jpg
     alt:
       en: "Black-and-white photo of a man in a suit and glasses seated at a desk, gesturing with a cigarette while speaking, with two telephones, papers, and ashtrays nearby."
+      es: "Fotografía en blanco y negro de un hombre con traje y lentes sentado en un escritorio, gesticulando con un cigarrillo mientras habla, con dos teléfonos, papeles y ceniceros cerca."
 geo:
 id: 1713
 item_type: Still Image

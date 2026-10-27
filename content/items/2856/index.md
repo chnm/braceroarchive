@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385115.jpg
     alt:
       en: "A doctor uses a stethoscope to examine a shirtless bracero's back while seated in an exam room, as a nurse in uniform stands watching near a supply cabinet."
+      es: "Un médico usa un estetoscopio para examinar la espalda de un bracero sin camisa en un consultorio, mientras una enfermera uniformada observa junto a un armario de suministros."
 geo:
 id: 2856
 item_type: Still Image

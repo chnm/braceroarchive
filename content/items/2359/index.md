@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383627.jpg
     alt:
       en: "Black-and-white view of a lettuce field with rows of harvested crops and stacked produce boxes extending toward distant hills, workers faintly visible in the background."
+      es: "Vista en blanco y negro de un campo de lechugas con hileras de cultivos cosechados y cajas de producto apiladas que se extienden hacia colinas distantes, con trabajadores apenas visibles al fondo."
 geo:
 id: 2359
 item_type: Still Image

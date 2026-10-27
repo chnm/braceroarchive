@@ -46,6 +46,7 @@ files:
     url: /files/original/__hr_us-side-santafe-bridge-lunch-1955_60923ed056.jpg
     alt:
       en: "Large crowd of men lined up in an open desert lot near the Santa Fe bridge, with cardboard boxes scattered in the foreground and mountains and buildings in the distance."
+      es: "Gran multitud de hombres formados en un terreno desértico abierto cerca del puente Santa Fe, con cajas de cartón dispersas en primer plano y montañas y edificios al fondo."
 geo:
 id: 538
 item_type: Still Image

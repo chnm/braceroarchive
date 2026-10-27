@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382122.jpg
     alt:
       en: "A man reclines on a striped mattress in a bunk, unzipping his jacket, with a felt hat resting beside him and striped bedding visible in the background."
+      es: "Un hombre recostado sobre un colchón a rayas en una litera se desabrocha la chaqueta, con un sombrero de fieltro a su lado y ropa de cama a rayas visible al fondo."
 geo:
 id: 1888
 item_type: Still Image

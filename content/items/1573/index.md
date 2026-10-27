@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381039.jpg
     alt:
       en: "Black-and-white photo of several men crouched along a muddy creek bank washing clothes and hands, with sparse vegetation and distant buildings near the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de varios hombres agachados junto a la orilla fangosa de un arroyo, lavando ropa y manos, con vegetación dispersa y edificios lejanos cerca del Centro de Contratación de Monterrey, México."
 geo:
 id: 1573
 item_type: Still Image

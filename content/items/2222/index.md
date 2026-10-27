@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383217censored.jpg
     alt:
       en: "Black-and-white photo of a bracero washing his face under a showerhead in a bare concrete stall, soap suds visible on his chest and arm."
+      es: "Foto en blanco y negro de un bracero lavándose la cara bajo una regadera en una ducha de concreto, con espuma de jabón visible en el pecho y el brazo."
 geo:
 id: 2222
 item_type: Still Image

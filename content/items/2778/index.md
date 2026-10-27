@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384820.jpg
     alt:
       en: "A bracero sits on a metal bed frame reading a letter, clothing hanging on a line above him in a sparse, sunlit barracks room."
+      es: "Un bracero sentado en un catre de metal lee una carta, con ropa colgada en una cuerda sobre él en una habitación austera e iluminada por el sol."
 geo:
 id: 2778
 item_type: Still Image

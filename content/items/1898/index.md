@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382132.jpg
     alt:
       en: "A bracero sits on a bed in a wooden camp room, writing at a small makeshift table, with jackets hanging on the wall and a shelf of personal items visible nearby."
+      es: "Un bracero sentado en una cama en un cuarto de madera del campamento, escribiendo en una pequeña mesa improvisada, con chaquetas colgadas en la pared y un estante con objetos personales cerca."
 geo:
 id: 1898
 item_type: Still Image

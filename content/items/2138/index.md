@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382930.jpg
     alt:
       en: "Black-and-white street scene of men entering a taxi cab near the Fox Theatre marquee, with the Capitol Department Store sign visible in the background, Watsonville, California."
+      es: "Escena callejera en blanco y negro de hombres subiendo a un taxi cerca de la marquesina del Fox Theatre, con el letrero de Capitol Department Store al fondo, en Watsonville, California."
 geo:
 id: 2138
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384018.jpg
     alt:
       en: "Elevated view of a truck stacked with \"Toro Lettuce\" boxes as workers load more crates, overlooking a vast lettuce field with laborers harvesting in rows toward distant hills."
+      es: "Vista elevada de un camión cargado con cajas de \"Toro Lettuce\" mientras trabajadores suben más, con un amplio campo de lechuga y jornaleros cosechando hacia colinas lejanas."
 geo:
 id: 2529
 item_type: Still Image

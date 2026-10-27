@@ -48,6 +48,7 @@ files:
     url: /files/original/porter5_5894c3481a.jpg
     alt:
       en: "Bilingual phrase book page with two columns, \"Cultivación de la Tierra / Land Cultivation\" and \"La Pizca del Algodón / Picking Cotton,\" listing Spanish-English farm vocabulary and phrases in capitalized text."
+      es: "Página de libro de frases bilingüe con dos columnas, \"Cultivación de la Tierra / Land Cultivation\" y \"La Pizca del Algodón / Picking Cotton\", con vocabulario y frases agrícolas en español e inglés en mayúsculas."
 geo:
 id: 557
 item_type: Document

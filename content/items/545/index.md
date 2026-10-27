@@ -46,6 +46,7 @@ files:
     url: /files/original/6of6_64a8d9aed6.jpg
     alt:
       en: "Worn gray cover of a Mexican military service card, featuring the national emblem and the printed text \"Estados Unidos Mexicanos\" and \"Cartilla de Identidad, Servicio Militar Nacional.\""
+      es: "Portada gris y desgastada de una cartilla de servicio militar mexicano, con el escudo nacional y el texto impreso \"Estados Unidos Mexicanos\" y \"Cartilla de Identidad, Servicio Militar Nacional\"."
 geo:
 id: 545
 item_type: Document

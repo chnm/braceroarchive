@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382229censored.jpg
     alt:
       en: "Black-and-white photo of a shirtless man showering under a bare hanging bulb in a dim, rundown camp bathroom with exposed pipes and wooden walls."
+      es: "Fotografía en blanco y negro de un hombre sin camisa duchándose bajo una bombilla colgante en un deteriorado baño de campamento, con tuberías expuestas y paredes de madera."
 geo:
 id: 1929
 item_type: Still Image

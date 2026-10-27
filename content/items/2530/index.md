@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384019.jpg
     alt:
       en: "A bracero carries a \"Toro\" brand lettuce box through a field, approaching a wooden crate stacked on a truck bed in the Salinas Valley, California."
+      es: "Un bracero carga una caja de lechuga marca \"Toro\" a través de un campo, acercándose a una plataforma de madera apilada en un camión en el Valle de Salinas, California."
 geo:
 id: 2530
 item_type: Still Image

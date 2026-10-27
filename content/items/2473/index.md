@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383829.jpg
     alt:
       en: "Black-and-white photo of a dirt road lined with long barracks-style buildings, with groups of men standing and walking outside; a metal trash can sits in the foreground."
+      es: "Fotografía en blanco y negro de un camino de tierra bordeado de edificios tipo barracón, con grupos de hombres de pie y caminando afuera; un bote de basura metálico aparece en primer plano."
 geo:
 id: 2473
 item_type: Still Image

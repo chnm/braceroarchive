@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio16_6cd93ac9e0.jpg
     alt:
       en: "Printed Mexican government \"Formato de Control\" for \"Atención a Ex Braceros (1942-1946),\" folio No. 01351, dated 10 de septiembre de 2003, with ex-bracero name Asterio Lopez Leon and a circular official seal stamp."
+      es: "Formato de Control impreso del gobierno mexicano para \"Atención a Ex Braceros (1942-1946)\", folio No. 01351, fechado 10 de septiembre de 2003, con el nombre Asterio Lopez Leon y un sello oficial circular."
 geo:
 id: 1265
 item_type: Document

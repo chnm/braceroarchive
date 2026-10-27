@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380915.jpg
     alt:
       en: "Black-and-white aerial view of men in hats walking along a dirt pathway lined with makeshift vendor stalls and crates, with trees and a building visible nearby."
+      es: "Vista aérea en blanco y negro de hombres con sombrero caminando por un camino de tierra bordeado de puestos de vendedores improvisados y cajas, con árboles y un edificio cerca."
 geo:
 id: 1546
 item_type: Still Image

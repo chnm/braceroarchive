@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384634.jpg
     alt:
       en: "Black-and-white photo of rows of wooden bunk beds with folded blankets and clothing, lined up in a dim barracks-style room with windows along the wall."
+      es: "Foto en blanco y negro de hileras de literas de madera con mantas dobladas y ropa, dispuestas en una habitación tipo barraca en penumbra con ventanas a lo largo de la pared."
 geo:
 id: 2727
 item_type: Still Image

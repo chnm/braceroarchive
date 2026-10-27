@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380103.jpg
     alt:
       en: "A line of men in hats and work clothes stand along railroad tracks with bundled belongings at their feet, waiting near the Monterrey Processing Center."
+      es: "Una fila de hombres con sombreros y ropa de trabajo esperan junto a las vías del tren, con sus pertenencias en bultos a sus pies, cerca del Centro de Procesamiento de Monterrey."
 geo:
 id: 1278
 item_type: Still Image

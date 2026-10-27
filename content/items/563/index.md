@@ -46,6 +46,7 @@ files:
     url: /files/original/bracero-hanging-out_7de25d7277.jpg
     alt:
       en: "Two braceros wearing light-colored hats sit together on a low wall beside two windows of a stucco building, casting long shadows in the sunlight."
+      es: "Dos braceros con sombreros de color claro sentados juntos sobre un muro bajo junto a dos ventanas de un edificio de estuco, proyectando largas sombras bajo el sol."
 geo:
 id: 563
 item_type: Still Image

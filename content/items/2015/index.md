@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382516.jpg
     alt:
       en: "Black-and-white photo of a bare wooden barracks room with several metal-frame cots, clothing hanging on the walls and a line, a small suitcase, and a bare bulb lighting the space."
+      es: "Fotografía en blanco y negro de un cuarto de madera en un campamento bracero, con varias camas de armazón metálico, ropa colgada en la pared y en un tendedero, una pequeña maleta y un foco encendido."
 geo:
 id: 2015
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382111.jpg
     alt:
       en: "Black-and-white photo of braceros seated on metal-framed beds in a sparse barracks room, talking near a small radio, with clothes hanging to dry and a window letting in light."
+      es: "Foto en blanco y negro de braceros sentados en camas con marco metálico en una habitación sencilla de barracón, conversando cerca de una pequeña radio, con ropa colgada para secar y una ventana que deja entrar luz."
 geo:
 id: 1877
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380801.jpg
     alt:
       en: "Black-and-white photo of a bracero family gathered in an arched doorway inside their home in San Mateo, Mexico, with a bookshelf, broom, and jugs visible in the foreground room."
+      es: "Foto en blanco y negro de una familia bracera reunida bajo un arco en su hogar en San Mateo, México, con un librero, una escoba y cántaros visibles en primer plano."
 geo:
 id: 1488
 item_type: Still Image

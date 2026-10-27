@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381140.jpg
     alt:
       en: "A man in a straw hat extends his hands toward seated officials at a table, while a long line of men wearing hats wait behind him in a large hall."
+      es: "Un hombre con sombrero de paja extiende sus manos hacia unos oficiales sentados en una mesa, mientras una larga fila de hombres con sombrero espera detrás de él en un gran salón."
 geo:
 id: 1594
 item_type: Still Image

@@ -51,6 +51,7 @@ files:
     url: /files/original/ss-cadr-front-copy_3bba1b9b3e.jpg
     alt:
       en: "Social Security Act card with the account number redacted, printed with the name \"Jose Parra Lucero\" and worn, creased edges."
+      es: "Tarjeta de la Ley del Seguro Social con el número de cuenta censurado, impresa con el nombre \"Jose Parra Lucero\" y con bordes desgastados y arrugados."
 geo:
 id: 500
 item_type: Document

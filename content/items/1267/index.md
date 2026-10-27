@@ -48,6 +48,7 @@ files:
     url: /files/original/sanchezperezbaltazar2_e28609afa3.jpg
     alt:
       en: "Worn identification card titled \"Alien Laborer's Identification Card\" with a black-and-white photo of a mustached man, blank fields, and printed text reading \"United States Department of Justice, Immigration and Naturalization Service - I-100D (Rev. 8-1-59).\""
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\", con una foto en blanco y negro de un hombre con bigote, campos en blanco y texto impreso que dice \"United States Department of Justice, Immigration and Naturalization Service - I-100D (Rev. 8-1-59)\"."
 geo:
 id: 1267
 item_type: Document

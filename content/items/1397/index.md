@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380516.jpg
     alt:
       en: "Black-and-white photo of a shed-like bracero camp near McAllen, Texas, with men seated at long wooden tables preparing food, including tortillas, while others stand and move about the room."
+      es: "Fotografía en blanco y negro de un campamento de braceros tipo galpón cerca de McAllen, Texas, con hombres sentados en mesas largas de madera preparando comida, incluidas tortillas, mientras otros están de pie y circulan por el lugar."
 geo:
 id: 1397
 item_type: Still Image

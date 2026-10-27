@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384117.jpg
     alt:
       en: "A man washes clothes at a row of large industrial sinks in a worn, stained bathroom, with a hose and basin nearby and a metal cart in the foreground."
+      es: "Un hombre lava ropa en una fila de grandes lavabos industriales en un baño desgastado y manchado, con una manguera y un recipiente cerca, y un carrito metálico en primer plano."
 geo:
 id: 2565
 item_type: Still Image

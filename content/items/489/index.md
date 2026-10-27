@@ -46,6 +46,7 @@ files:
     url: /files/original/__hr_riovista-main-office-1999_2391a79c7c.jpg
     alt:
       en: "Low white stucco building with a stone chimney and metal roof, small trees lining the front, and an empty paved parking lot in the foreground."
+      es: "Edificio bajo de estuco blanco con chimenea de piedra y techo metálico, árboles pequeños alineados en el frente y un estacionamiento pavimentado vacío en primer plano."
 geo:
 id: 489
 item_type: Still Image

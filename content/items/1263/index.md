@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio15b_1b76306d7a.jpg
     alt:
       en: "Spanish-language notarized certification document with dense typed paragraphs, bearing a notary's signature and an embossed circular seal in the lower right corner."
+      es: "Documento notarial certificado en español con párrafos mecanografiados densos, firma manuscrita del notario y sello circular en relieve en la esquina inferior derecha."
 geo:
 id: 1263
 item_type: Document

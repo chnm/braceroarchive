@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382833.jpg
     alt:
       en: "Black-and-white photo of men in a dining hall serving beans from a large pot onto plates, with one man wearing a straw hat in the foreground and others lined up behind him."
+      es: "Foto en blanco y negro de hombres en un comedor sirviendo frijoles de una gran olla a sus platos, con un hombre de sombrero de paja en primer plano y otros formados detrás de él."
 geo:
 id: 2123
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381310.jpg
     alt:
       en: "Black-and-white photo of a large group of men in hats lined up inside a sparse hall, waiting near a desk and large wall fan at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de un gran grupo de hombres con sombrero formados dentro de un salón austero, esperando cerca de un escritorio y un gran ventilador de pared en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1638
 item_type: Still Image

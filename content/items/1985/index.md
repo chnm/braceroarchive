@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382421.jpg
     alt:
       en: "Men gather in a Stockton office beside a chalkboard reading \"NOTICE: NO REPAIRS ON FRI, SAT OR SUN. NO MEX LABOR SHALL BE USED ON MECHANIZED EQUIP,\" with rows of handwritten labor rates below."
+      es: "Hombres se reúnen en una oficina de Stockton junto a una pizarra que dice \"NOTICE: NO REPAIRS ON FRI, SAT OR SUN. NO MEX LABOR SHALL BE USED ON MECHANIZED EQUIP\", con filas de tarifas laborales escritas a mano debajo."
 geo:
 id: 1985
 item_type: Still Image

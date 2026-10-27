@@ -48,6 +48,7 @@ files:
     url: /files/original/molinarodriguezmilitary_b4f785f3e8.jpg
     alt:
       en: "Military identification card with a passport-style photo of a mustached man, fingerprint impression, official stamps, and signatures, dated Mexicali, B.C., March 19, 1958."
+      es: "Tarjeta de identificación militar con fotografía tipo pasaporte de un hombre con bigote, huella digital, sellos oficiales y firmas, fechada en Mexicali, B.C., 19 de marzo de 1958."
 geo:
 id: 1117
 item_type: Document

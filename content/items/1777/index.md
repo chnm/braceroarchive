@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381728.jpg
     alt:
       en: "Black-and-white photo of a nurse in uniform vaccinating a shirtless man wearing a cowboy hat, with other men in line behind him under a \"Vaccination\" sign in an open-air building."
+      es: "Fotografía en blanco y negro de una enfermera uniformada vacunando a un hombre sin camisa con sombrero vaquero, mientras otros hombres esperan en fila bajo un cartel de \"Vaccination\" en un edificio abierto."
 geo:
 id: 1777
 item_type: Still Image

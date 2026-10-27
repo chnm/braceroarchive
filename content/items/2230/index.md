@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383225.jpg
     alt:
       en: "A man reclines on a bed in a dimly lit room, smoking a cigarette, with shelves and equipment visible in the shadowed background."
+      es: "Un hombre descansa recostado en una cama en una habitación con poca luz, fumando un cigarrillo, con estantes y equipo visibles en el fondo en sombras."
 geo:
 id: 2230
 item_type: Still Image

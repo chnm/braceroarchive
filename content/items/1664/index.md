@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381411.jpg
     alt:
       en: "Large crowd of braceros lined up beneath a long open-sided shelter at the Hidalgo Processing Center, with belongings piled nearby and additional buildings visible in the background."
+      es: "Gran multitud de braceros hace fila bajo un largo cobertizo abierto en el Centro de Procesamiento de Hidalgo, con pertenencias amontonadas cerca y otros edificios al fondo."
 geo:
 id: 1664
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382926.jpg
     alt:
       en: "Black-and-white photo of a California highway with utility poles lining the road, a billboard reading \"Go Farther,\" and hills in the distance, viewed through a car windshield."
+      es: "Fotografía en blanco y negro de una carretera de California con postes de servicio a los lados, una valla publicitaria que dice \"Go Farther\" y colinas al fondo, vista a través del parabrisas de un auto."
 geo:
 id: 2146
 item_type: Still Image

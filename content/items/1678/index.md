@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381425.jpg
     alt:
       en: "Large crowd of men wearing hats and holding papers wait in line under an open-air shelter at the Hidalgo Processing Center, while an official reviews documents at a desk, Texas."
+      es: "Gran multitud de hombres con sombreros y papeles en mano esperan en fila bajo un cobertizo techado en el Centro de Procesamiento de Hidalgo, mientras un funcionario revisa documentos en un escritorio, Texas."
 geo:
 id: 1678
 item_type: Still Image

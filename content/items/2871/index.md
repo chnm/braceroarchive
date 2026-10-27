@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385205.jpg
     alt:
       en: "Workers wearing wide-brimmed hats bend over rows of strawberry plants in a large field, with wooden crates on a cart in the foreground and hills visible in the distance."
+      es: "Trabajadores con sombreros de ala ancha se inclinan sobre hileras de fresas en un amplio campo, con cajas de madera sobre un carro en primer plano y colinas al fondo."
 geo:
 id: 2871
 item_type: Still Image

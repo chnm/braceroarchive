@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382932.jpg
     alt:
       en: "Black-and-white street scene in Watsonville, California, with a group of men in hats gathered on a sidewalk beneath storefront awnings, a vintage car parked nearby, and an \"Electric Co.\" sign above."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con un grupo de hombres con sombrero reunidos en la acera bajo toldos de tiendas, un auto antiguo estacionado cerca y un letrero de \"Electric Co.\" en lo alto."
 geo:
 id: 2140
 item_type: Still Image

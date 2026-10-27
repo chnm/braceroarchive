@@ -48,6 +48,7 @@ files:
     url: /files/original/bautistarodriguezjesus---mica1_bbd9ef8e2a.jpg
     alt:
       en: "Aged identification card titled \"Alien Laborer's Identification Card\" with a man's photograph, issued by the U.S. Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)."
+      es: "Tarjeta de identificación envejecida titulada \"Alien Laborer's Identification Card\" con la fotografía de un hombre, emitida por el Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización - I-100D (12-7-55)."
 geo:
 id: 966
 item_type: Document

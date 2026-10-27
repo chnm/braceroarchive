@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382815.jpg
     alt:
       en: "Two braceros brush their teeth at a row of sinks with exposed pipes and faucets in a camp bathroom, one wearing a wide-brimmed cowboy hat."
+      es: "Dos braceros se cepillan los dientes frente a una fila de lavabos con tuberías y grifos expuestos en el baño de un campamento, uno de ellos con sombrero de ala ancha tipo vaquero."
 geo:
 id: 2105
 item_type: Still Image

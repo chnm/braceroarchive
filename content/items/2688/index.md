@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384521.jpg
     alt:
       en: "Black-and-white photo of braceros walking through muddy furrowed rows in a California field, carrying filled cans, with power transmission towers visible on the horizon."
+      es: "Fotografía en blanco y negro de braceros caminando por surcos embarrados en un campo de California, cargando botes llenos, con torres de transmisión eléctrica visibles en el horizonte."
 geo:
 id: 2688
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381316.jpg
     alt:
       en: "Black-and-white photo of a large hall with rows of columns, where officials sit at tables reviewing documents while groups of men wait in line nearby."
+      es: "Fotografía en blanco y negro de un gran salón con filas de columnas, donde funcionarios sentados en mesas revisan documentos mientras grupos de hombres esperan en fila cerca."
 geo:
 id: 1644
 item_type: Still Image

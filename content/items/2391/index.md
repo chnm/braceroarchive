@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382235.jpg
     alt:
       en: "Interior of a bunkhouse with unmade beds, scattered belongings, and clothing hanging from lines overhead, while two men walk out through the doorway at the far end."
+      es: "Interior de un dormitorio con camas deshechas, pertenencias dispersas y ropa colgada en cuerdas sobre el techo, mientras dos hombres salen por la puerta al fondo."
 geo:
 id: 2391
 item_type: Still Image

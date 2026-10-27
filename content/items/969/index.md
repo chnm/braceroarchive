@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---(brothers-mica-1)_20388860da.jpg
     alt:
       en: "Back of a Bracero ID card listing Garcia-Sanchez, Baudelio, born 5-11-27 in Mexticacan, Jal, Mex., with home address Rcho Cocuelos; issued at Calexico, Calif. on 8-17-56, number L-2450351, MICA."
+      es: "Reverso de una tarjeta de identificación Bracero con el nombre García-Sánchez, Baudelio, nacido el 5-11-27 en Mexticacán, Jal., Méx., domicilio Rcho Cocuelos; emitida en Calexico, Calif. el 8-17-56, número L-2450351, MICA."
 geo:
 id: 969
 item_type: Document

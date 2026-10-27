@@ -48,6 +48,7 @@ files:
     url: /files/original/navarrofedericopassport3_cf46b7dc8a.jpg
     alt:
       en: "Passport pages showing printed personal details (height, color, eyes, hair, birthplace, birthdate, occupation, marital status) alongside a photograph, fingerprint, and signature of the holder."
+      es: "Páginas de pasaporte con datos personales impresos (estatura, color, ojos, pelo, lugar y fecha de nacimiento, ocupación, estado civil), junto a una fotografía, huella digital y firma del titular."
 geo:
 id: 1157
 item_type: Document

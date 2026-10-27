@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380904.jpg
     alt:
       en: "A mound of rocks topped with a simple wooden cross stands before a barbed wire fence, with railroad tracks and distant structures visible in the hazy background."
+      es: "Un montículo de piedras coronado por una sencilla cruz de madera se alza frente a una cerca de alambre de púas, con vías de tren y estructuras lejanas entre la neblina del fondo."
 geo:
 id: 1547
 item_type: Still Image

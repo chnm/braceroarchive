@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380526.jpg
     alt:
       en: "Black-and-white photo of braceros wearing wide-brimmed hats gathered around a table preparing food in a wooden shed-like dining area, with long benches and tables in the foreground."
+      es: "Fotografía en blanco y negro de braceros con sombreros de ala ancha reunidos alrededor de una mesa preparando comida en un comedor de madera tipo galpón, con largas bancas y mesas en primer plano."
 geo:
 id: 1407
 item_type: Still Image

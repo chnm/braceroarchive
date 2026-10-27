@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380611.jpg
     alt:
       en: "A long line of men wearing hats walks across an open dirt area toward the camera, with two-story buildings and mountains in the background at the Monterrey Processing Center."
+      es: "Una larga fila de hombres con sombreros camina por un área de tierra hacia la cámara, con edificios de dos pisos y montañas al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1417
 item_type: Still Image

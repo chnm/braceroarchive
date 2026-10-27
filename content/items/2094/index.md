@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382804.jpg
     alt:
       en: "Black-and-white photo of three men sitting on and beside a bed in a sparse living quarter, playing cards; a mirror, hat, and jackets hang on the wall above them."
+      es: "Foto en blanco y negro de tres hombres sentados sobre y junto a una cama en un dormitorio sencillo, jugando a las cartas; sobre ellos cuelgan un espejo, un sombrero y chaquetas en la pared."
 geo:
 id: 2094
 item_type: Still Image

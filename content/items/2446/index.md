@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383802.jpg
     alt:
       en: "Rows of metal cots with blankets fill a barracks-style room under a corrugated roof; hats hang on the wall and a man sits amid small items on a bed."
+      es: "Filas de catres metálicos con mantas llenan una habitación tipo barracón bajo un techo de lámina corrugada; sombreros cuelgan de la pared y un hombre está sentado entre pequeños objetos sobre una cama."
 geo:
 id: 2446
 item_type: Still Image

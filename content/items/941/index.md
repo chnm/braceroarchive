@@ -46,6 +46,7 @@ files:
     url: /files/original/father-and-daughter_9cdb821f45.jpg
     alt:
       en: "Aged, creased photograph of a man in a hat and white shirt with a child beside him, seated before a wire fence and sparse brush, set against a hillside and open sky."
+      es: "Fotografía antigua y agrietada de un hombre con sombrero y camisa blanca junto a una niña, sentados frente a una cerca de alambre y arbustos dispersos, con una colina y cielo abierto al fondo."
 geo:
 id: 941
 item_type: Still Image

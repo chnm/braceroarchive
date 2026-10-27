@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382507.jpg
     alt:
       en: "A doctor in a white coat examines a reclining bracero on an exam table/cabinet unit, with medical bottles, a wooden chair, and sunlit windows in the background."
+      es: "Un médico con bata blanca examina a un bracero recostado sobre una mesa/gabinete de examen, con frascos médicos, una silla de madera y ventanas iluminadas al fondo."
 geo:
 id: 2006
 item_type: Still Image

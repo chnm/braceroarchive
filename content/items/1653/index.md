@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381325.jpg
     alt:
       en: "Rows of desks fill a large hall where officials review documents with braceros; a sign reading \"A.C. Muller Supervisor Selection\" hangs above one station, with a calendar on the wall nearby."
+      es: "Filas de escritorios llenan un gran salón donde funcionarios revisan documentos con braceros; un letrero que dice \"A.C. Muller Supervisor Selection\" cuelga sobre una estación, con un calendario en la pared cercana."
 geo:
 id: 1653
 item_type: Still Image

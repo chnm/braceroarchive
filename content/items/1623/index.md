@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381218.jpg
     alt:
       en: "Bundles and duffel bags belonging to braceros lie scattered across the open ground at the Hidalgo Processing Center, Texas, with groups of men and buildings visible in the background."
+      es: "Bultos y maletas de braceros dispersos en el suelo del Centro de Procesamiento de Hidalgo, Texas, con grupos de hombres y edificios al fondo."
 geo:
 id: 1623
 item_type: Still Image

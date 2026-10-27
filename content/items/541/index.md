@@ -46,6 +46,7 @@ files:
     url: /files/original/lerma4_230586afcf.jpg
     alt:
       en: "Vintage photo of women and children gathered around a table with craft materials, including fluffy pom-pom decorations in pink, blue, and yellow, inside a sunlit room with large windows."
+      es: "Foto antigua de mujeres y niños reunidos alrededor de una mesa con materiales de manualidades, incluyendo pompones esponjosos rosas, azules y amarillos, en una habitación iluminada con grandes ventanas."
 geo:
 id: 541
 item_type: Still Image

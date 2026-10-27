@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401382702.jpg
     alt:
       en: "Payroll check from J.J. Crosetti Co. of Watsonville, California, issued to Antonio Garcia, with \"The sum of $32 and 88 cts\" printed and drawn on Pajaro Valley National Bank, lying on a wooden surface."
+      es: "Cheque de nómina de J.J. Crosetti Co. de Watsonville, California, emitido a Antonio Garcia, con \"The sum of $32 and 88 cts\" impreso, girado contra el Pajaro Valley National Bank, sobre una superficie de madera."
 geo:
 id: 2393
 item_type: Still Image

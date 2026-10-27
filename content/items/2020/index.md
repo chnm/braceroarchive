@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382521.jpg
     alt:
       en: "Black-and-white interior of a bracero bunkhouse showing several cots with blankets, metal lockers, shelving, hanging clothes, and personal items along the walls under exposed wooden rafters."
+      es: "Interior en blanco y negro de un dormitorio braceros con varios catres con mantas, casilleros metálicos, estantes, ropa colgada y objetos personales junto a las paredes, bajo vigas de madera vistas."
 geo:
 id: 2020
 item_type: Still Image

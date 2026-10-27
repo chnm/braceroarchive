@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384605.jpg
     alt:
       en: "Black-and-white photo framed through a doorway of braceros kneeling and standing closely together between living quarters, attending a divine service at a California camp."
+      es: "Fotografía en blanco y negro enmarcada por una puerta, con braceros arrodillados y de pie muy juntos entre los dormitorios, asistiendo a un oficio religioso en un campamento de California."
 geo:
 id: 2700
 item_type: Still Image

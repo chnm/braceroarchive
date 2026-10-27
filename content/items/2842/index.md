@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385027.jpg
     alt:
       en: "Black-and-white photo of a tent camp and large barn-like structure beyond a field, with a \"Mulberry Ave.\" street sign and utility pole in the foreground, Stanislaus County, California."
+      es: "Fotografía en blanco y negro de un campamento de tiendas y una gran estructura tipo granero al fondo de un campo, con un letrero de \"Mulberry Ave.\" y un poste de servicios en primer plano, Condado de Stanislaus, California."
 geo:
 id: 2842
 item_type: Still Image

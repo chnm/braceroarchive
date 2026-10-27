@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380421.jpg
     alt:
       en: "Black-and-white photo of a large crowd of men wearing straw hats gathered outdoors near wooden fencing, with hats laid out for sale on the ground and metal buckets and tubs in the foreground."
+      es: "Foto en blanco y negro de una gran multitud de hombres con sombreros de paja reunidos al aire libre cerca de un cercado de madera, con sombreros exhibidos para la venta en el suelo y cubetas y tinas metálicas en primer plano."
 geo:
 id: 1357
 item_type: Still Image

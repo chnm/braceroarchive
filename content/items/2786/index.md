@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384907.jpg
     alt:
       en: "Black-and-white photo of a bracero bent in stoop labor tending a pepper field row, with other workers and rows of crops stretching toward distant trees and hills."
+      es: "Fotografía en blanco y negro de un bracero inclinado realizando trabajo agachado en una hilera de un campo de pimientos, con otros trabajadores y surcos de cultivos extendiéndose hacia árboles y colinas lejanas."
 geo:
 id: 2786
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401382326.jpg
     alt:
       en: "An elderly bracero sits quietly on a metal-framed bunk inside a dim tent, with a wooden crate, hanging clothes, and a hat nearby on the sparse wooden floor."
+      es: "Un bracero de edad avanzada está sentado en silencio sobre un catre de estructura metálica dentro de una tienda en penumbra, con un cajón de madera, ropa colgada y un sombrero cerca, sobre un piso de madera escaso."
 geo:
 id: 1955
 item_type: Still Image

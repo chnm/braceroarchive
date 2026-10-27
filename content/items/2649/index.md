@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384416.jpg
     alt:
       en: "A man sits cross-legged on a bunk bed, reading an English grammar book, with shirts hanging on hooks against a paneled wall behind him."
+      es: "Un hombre sentado con las piernas cruzadas en una litera, leyendo un libro de gramática inglesa, con camisas colgadas en ganchos sobre una pared de paneles detrás de él."
 geo:
 id: 2649
 item_type: Still Image

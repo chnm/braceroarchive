@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383425.jpg
     alt:
       en: "Workers bend over rows of lettuce in a large field, placing produce into crates marked \"TORO,\" with mountains and farm buildings visible in the distance."
+      es: "Trabajadores inclinados sobre hileras de lechuga en un gran campo, colocando el producto en cajas marcadas con \"TORO\", con montañas y edificios de granja visibles a lo lejos."
 geo:
 id: 2286
 item_type: Still Image

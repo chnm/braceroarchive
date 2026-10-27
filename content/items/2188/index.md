@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383127.jpg
     alt:
       en: "Two braceros stand and lean against a wooden cabin in a row of identical living quarters at a labor camp, with farmland and hills visible in the background."
+      es: "Dos braceros de pie y recostados contra una cabaña de madera en una fila de viviendas idénticas de un campamento laboral, con campos de cultivo y colinas al fondo."
 geo:
 id: 2188
 item_type: Still Image

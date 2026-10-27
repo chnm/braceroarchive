@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401382039.jpg
     alt:
       en: "A man on a truck uses a box-assembly machine to construct \"Cookie\" brand lettuce crates, while nearby workers stack boxes and others harvest lettuce in the field beyond."
+      es: "Un hombre sobre un camión usa una máquina para armar cajas de lechuga marca \"Cookie\", mientras otros trabajadores apilan cajas y, al fondo, más personas cosechan lechuga en el campo."
 geo:
 id: 1849
 item_type: Still Image

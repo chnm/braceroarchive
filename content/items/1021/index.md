@@ -45,6 +45,7 @@ files:
     url: /files/original/venegas-apolonio---documentacion-faltante-form-copy_ad1764afa6.jpg
     alt:
       en: "Form titled \"Formato de Documentación Faltante\" for the Fondo de Apoyo Social para Extrabajadores Migratorios Mexicanos 1942-1964, listing missing documents by beneficiary, spouse, and children, with handwritten applicant details and signatures."
+      es: "Formulario \"Formato de Documentación Faltante\" del Fondo de Apoyo Social para Extrabajadores Migratorios Mexicanos 1942-1964, con listas de documentos faltantes por beneficiario, cónyuge e hijos, además de datos y firmas manuscritas del solicitante."
 geo:
 id: 1021
 item_type: Document

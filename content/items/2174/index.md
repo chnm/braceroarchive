@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383004.jpg
     alt:
       en: "Black-and-white photo of a bracero in a wide-brimmed hat hoeing a row in a pepper field, with other workers visible in the rows behind him near Salinas, California."
+      es: "Fotografía en blanco y negro de un bracero con sombrero de ala ancha azadonando una hilera en un campo de chiles, con otros trabajadores visibles al fondo cerca de Salinas, California."
 geo:
 id: 2174
 item_type: Still Image

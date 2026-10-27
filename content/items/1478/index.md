@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380706.jpg
     alt:
       en: "Aerial view of a large crowd of men in hats gathered in a dirt yard at the Monterrey Processing Center, with lines forming and long shadows cast across the ground."
+      es: "Vista aérea de una gran multitud de hombres con sombreros reunidos en un patio de tierra en el Centro de Procesamiento de Monterrey, formando filas con largas sombras proyectadas sobre el suelo."
 geo:
 id: 1478
 item_type: Still Image

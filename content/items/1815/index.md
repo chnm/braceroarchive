@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381914.jpg
     alt:
       en: "Two cardboard boxes, tied with string, sit on dirt ground amid several pairs of legs and feet; one box has wires and a small object visible through its open top."
+      es: "Dos cajas de cartón, atadas con cuerda, están sobre tierra entre varias piernas y pies; una caja tiene cables y un pequeño objeto visible por su parte superior abierta."
 geo:
 id: 1815
 item_type: Still Image

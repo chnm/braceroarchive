@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381923.jpg
     alt:
       en: "Black-and-white photo of a wooden barracks building, with several men leaning out of a small paned window, viewed from a low angle looking up."
+      es: "Fotografía en blanco y negro de un edificio de barracones de madera, con varios hombres asomados a una pequeña ventana con paneles, vista desde un ángulo bajo mirando hacia arriba."
 geo:
 id: 1812
 item_type: Still Image

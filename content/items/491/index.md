@@ -46,6 +46,7 @@ files:
     url: /files/original/__hr_santafe-bridge-lunch-1955-600dpi_dc0d0392b7.jpg
     alt:
       en: "Large crowd of men in hats lined up along a dirt road near a truck, with desert mountains and buildings in the background; cardboard boxes sit on the ground in the foreground."
+      es: "Gran multitud de hombres con sombreros formados en fila junto a un camino de tierra cerca de un camión, con montañas desérticas y edificios al fondo; cajas de cartón en el suelo en primer plano."
 geo:
 id: 491
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383609.jpg
     alt:
       en: "Rows of lettuce stretch across a cultivated field in Gonzales, California, with a line of simple barrack-style buildings forming a bracero camp along the horizon, mountains faintly visible beyond."
+      es: "Hileras de lechuga se extienden por un campo cultivado en Gonzales, California, con una línea de barracones sencillos de un campamento de braceros en el horizonte y montañas difusas al fondo."
 geo:
 id: 2353
 item_type: Still Image

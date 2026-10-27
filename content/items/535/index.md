@@ -46,6 +46,7 @@ files:
     url: /files/original/__hr_riovista-transportation-bldg-1999_a482c5be6f.jpg
     alt:
       en: "Low, elongated building with a covered porch and multiple doors and windows, set against bare trees and grass, with a shadowed structure in the foreground."
+      es: "Edificio bajo y alargado con un porche cubierto y múltiples puertas y ventanas, rodeado de árboles deshojados y césped, con una estructura en sombra en primer plano."
 geo:
 id: 535
 item_type: Still Image

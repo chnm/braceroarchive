@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380916.jpg
     alt:
       en: "Large crowd of men, mostly wearing hats, gathered behind a wire fence outside a building, with trucks and additional structures visible in the background."
+      es: "Gran multitud de hombres, la mayoría con sombrero, reunidos detrás de una cerca de alambre frente a un edificio, con camiones y otras construcciones al fondo."
 geo:
 id: 1535
 item_type: Still Image

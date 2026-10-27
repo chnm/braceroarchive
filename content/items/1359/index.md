@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380411.jpg
     alt:
       en: "Black-and-white photo of men in wide-brimmed hats lined up in a dirt yard near a truck and fence, waiting to present documents at the Monterrey Processing Center."
+      es: "Foto en blanco y negro de hombres con sombreros de ala ancha formados en fila en un patio de tierra cerca de un camión y una cerca, esperando presentar documentos en el Centro de Contratación de Monterrey."
 geo:
 id: 1359
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382043.jpg
     alt:
       en: "Black-and-white photo of braceros bent over long rows of lettuce in a Salinas Valley field, filling \"Cookie Head Lettuce\" boxes, with farm buildings and trees on the horizon."
+      es: "Fotografía en blanco y negro de braceros inclinados sobre largas hileras de lechuga en un campo del Valle de Salinas, llenando cajas de \"Cookie Head Lettuce\", con edificios de granja y árboles al fondo."
 geo:
 id: 1836
 item_type: Still Image

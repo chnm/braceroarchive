@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-back-side_646c0231ae.jpg
     alt:
       en: "Worn, faded green back cover of a booklet with vertical printed text near the left edge reading \"Impreso en los Talleres Gráficos de la Nación.\""
+      es: "Contraportada verde desgastada y descolorida de un folleto, con texto impreso en vertical cerca del borde izquierdo que dice \"Impreso en los Talleres Gráficos de la Nación.\""
 geo:
 id: 601
 item_type: Still Image

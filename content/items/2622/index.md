@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384314.jpg
     alt:
       en: "Workers load a lettuce box labeled \"KEEP UNDER REFRIGERATION\" onto a stacked truck bed beside a field, with a conveyor machine marked \"5\" harvesting lettuce in the background."
+      es: "Trabajadores cargan una caja de lechuga etiquetada \"KEEP UNDER REFRIGERATION\" sobre la plataforma de un camión junto a un campo, con una máquina transportadora marcada \"5\" cosechando lechuga al fondo."
 geo:
 id: 2622
 item_type: Still Image

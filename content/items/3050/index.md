@@ -46,6 +46,7 @@ files:
     url: /files/original/belen-soto-1_d44e501cf8.jpg
     alt:
       en: "A man drives a John Deere tractor pulling a trailer stacked with hay bales toward a barn, while another man stands in the barn doorway stacking bales."
+      es: "Un hombre conduce un tractor John Deere que arrastra un remolque cargado de pacas de heno hacia un granero, mientras otro hombre apila las pacas en la puerta del granero."
 geo:
 id: 3050
 item_type: Still Image

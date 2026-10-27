@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381423.jpg
     alt:
       en: "An official seated at a table reviews a bracero's documents while a long line of men in cowboy hats wait under an open-air shelter at the Hidalgo Processing Center, Texas."
+      es: "Un funcionario sentado en una mesa revisa los documentos de un bracero mientras una larga fila de hombres con sombreros vaqueros espera bajo un cobertizo al aire libre en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1676
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/espino-5copy_3742d56db5.jpg
     alt:
       en: "Identification card with a green wavy-line border, printed with \"THIS IS TO CERTIFY THAT: JOSE ESPINO O.\" and personal details including birth date, birthplace, height, hair, eyes, and a photo of a man."
+      es: "Tarjeta de identificación con borde de líneas onduladas verdes, impresa con \"THIS IS TO CERTIFY THAT: JOSE ESPINO O.\" y datos personales como fecha de nacimiento, lugar de nacimiento, estatura, cabello, ojos, y una foto de un hombre."
 geo:
 id: 924
 item_type: Document

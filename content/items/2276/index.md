@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383427.jpg
     alt:
       en: "Black-and-white photo of rows of workers bent over harvesting lettuce in a vast flat field, with a loading platform and utility poles visible in the distance."
+      es: "Foto en blanco y negro de hileras de trabajadores agachados cosechando lechuga en un campo extenso y plano, con una plataforma de carga y postes de servicios visibles al fondo."
 geo:
 id: 2276
 item_type: Still Image

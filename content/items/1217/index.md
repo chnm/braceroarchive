@@ -48,6 +48,7 @@ files:
     url: /files/original/velez-de-cervantes,-estela2b_a7bf6c1a61.jpg
     alt:
       en: "Resident citizen identification card back for Maria Estela Veles-Bernal, listing birth date 11/20/24, birthplace Del Rey, California, height 5'1\", brown hair, blue eyes, and a wart near her nose, with issuing officer's signature."
+      es: "Reverso de tarjeta de identificación de residente de Maria Estela Veles-Bernal, con fecha de nacimiento 11/20/24, lugar Del Rey, California, estatura 5'1\", pelo castaño, ojos azules, verruga junto a la nariz y firma del oficial."
 geo:
 id: 1217
 item_type: Document

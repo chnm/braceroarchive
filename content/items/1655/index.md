@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381327.jpg
     alt:
       en: "Rows of seated typists at desks with typewriters assist a line of men, some shirtless or wearing wide-brimmed hats, as they process paperwork in a large hall at the Monterrey Processing Center."
+      es: "Filas de mecanógrafas sentadas ante escritorios con máquinas de escribir atienden a una fila de hombres, algunos sin camisa o con sombreros de ala ancha, en un salón del Centro de Procesamiento de Monterrey."
 geo:
 id: 1655
 item_type: Still Image

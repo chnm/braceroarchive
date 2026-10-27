@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380807.jpg
     alt:
       en: "Black-and-white photo of a weathered stone-and-plaster house doorway in San Mateo, Mexico; one woman sits working near the threshold while another stands behind her in the doorway."
+      es: "Foto en blanco y negro de la entrada desgastada de una casa de piedra y yeso en San Mateo, México; una mujer trabaja sentada cerca del umbral mientras otra permanece de pie detrás en la puerta."
 geo:
 id: 1494
 item_type: Still Image

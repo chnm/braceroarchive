@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383605.jpg
     alt:
       en: "Multiple railroad tracks run parallel through Gonzales, California, with utility poles lining the route and a warehouse labeled \"Standard Oil Company of California\" and \"Gonzales\" standing beside the tracks."
+      es: "Varias vías ferroviarias discurren paralelas por Gonzales, California, con postes de servicios eléctricos a lo largo del trayecto y un almacén con los letreros \"Standard Oil Company of California\" y \"Gonzales\" junto a las vías."
 geo:
 id: 2361
 item_type: Still Image

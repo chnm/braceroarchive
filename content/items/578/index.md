@@ -46,6 +46,7 @@ files:
     url: /files/original/truck-on-road_b8c38cb2f7.jpg
     alt:
       en: "Vintage faded photo of a wooden slatted farm trailer and pickup truck parked on a rural roadside, with workers loading crates as mountains and fields stretch into the distance."
+      es: "Fotografía antigua y descolorida de un remolque agrícola de tablillas de madera y una camioneca estacionados junto a una carretera rural, con trabajadores cargando cajas mientras montañas y campos se extienden al fondo."
 geo:
 id: 578
 item_type: Still Image

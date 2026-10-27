@@ -46,6 +46,7 @@ files:
     url: /files/original/img_3171rotated_5bc0363c1d.jpg
     alt:
       en: "Man wearing a straw hat and plaid shirt sits at a table being interviewed, as a woman holds a microphone toward him; papers and a recorder lie on the table."
+      es: "Hombre con sombrero de paja y camisa a cuadros sentado a una mesa siendo entrevistado, mientras una mujer le acerca un micrófono; sobre la mesa hay papeles y una grabadora."
 geo:
 id: 3031
 item_type: Still Image

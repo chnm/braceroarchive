@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384613.jpg
     alt:
       en: "Sepia-toned photo of a line of braceros standing near a parked car and a wooden stand outside a building, with another vehicle and trees in the background."
+      es: "Foto en tono sepia de una fila de braceros de pie cerca de un auto estacionado y un puesto de madera frente a un edificio, con otro vehículo y árboles al fondo."
 geo:
 id: 2708
 item_type: Still Image

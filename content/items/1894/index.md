@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382128.jpg
     alt:
       en: "A bracero sits on a wooden step reading a newspaper while another man, standing, shaves his face; a wooden building and scattered boxes surround them."
+      es: "Un bracero sentado en un escalón de madera lee un periódico mientras otro hombre, de pie, lo afeita; una edificación de madera y cajas dispersas los rodean."
 geo:
 id: 1894
 item_type: Still Image

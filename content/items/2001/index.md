@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382502.jpg
     alt:
       en: "Black-and-white photo of a bracero in a cowboy hat exiting a doorway beside a sign reading \"Pan-American Underwriters, Medical Service, Oficina de Doctor.\""
+      es: "Fotografía en blanco y negro de un bracero con sombrero vaquero saliendo por una puerta junto a un letrero que dice \"Pan-American Underwriters, Medical Service, Oficina de Doctor\"."
 geo:
 id: 2001
 item_type: Still Image

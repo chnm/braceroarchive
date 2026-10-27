@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383543.jpg
     alt:
       en: "Black-and-white photograph of long, evenly spaced crop rows stretching toward distant hills, with low buildings visible along the horizon under a pale sky."
+      es: "Fotografía en blanco y negro de largas hileras de cultivos uniformemente espaciadas que se extienden hacia colinas distantes, con edificaciones bajas visibles en el horizonte bajo un cielo pálido."
 geo:
 id: 2305
 item_type: Still Image

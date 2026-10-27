@@ -48,6 +48,7 @@ files:
     url: /files/original/cobarruvias,-isaura--father-mica-card1_e1fb2aacf5.jpg
     alt:
       en: "Alien Laborer's Identification Card with a black-and-white photo of a man, headed \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55).\""
+      es: "Tarjeta de Identificación de Trabajador Extranjero con una fotografía en blanco y negro de un hombre, encabezada \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)\"."
 geo:
 id: 917
 item_type: Document

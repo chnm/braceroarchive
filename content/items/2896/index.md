@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385305.jpg
     alt:
       en: "Black-and-white photo of braceros seated at long tables in a dining hall, eating meals from trays with pitchers and dishes, windows lining the wall behind them."
+      es: "Fotografía en blanco y negro de braceros sentados en mesas largas en un comedor, comiendo en bandejas con jarras y platos, con ventanas a lo largo de la pared detrás de ellos."
 geo:
 id: 2896
 item_type: Still Image

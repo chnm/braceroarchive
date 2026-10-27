@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385208.jpg
     alt:
       en: "Black-and-white photo of farmworkers kneeling and bending in long rows of strawberry plants, picking fruit into crates in a large open field in the Salinas Valley, California."
+      es: "Foto en blanco y negro de trabajadores agrícolas arrodillados e inclinados en largas hileras de fresas, recogiendo fruta en cajas en un amplio campo abierto del Valle de Salinas, California."
 geo:
 id: 2874
 item_type: Still Image

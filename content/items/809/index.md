@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-junio-julio-1955,-ca-(parte-superior)_636a69e6f4.jpg
     alt:
       en: "Printed Spanish/English work contract form for Guadalupe Cano-Quiroz, dated July 1955, with a red \"EMPLOYMENT TERMINATED\" stamp and handwritten signature of Paz across the top."
+      es: "Formulario impreso de contrato de trabajo en español/inglés para Guadalupe Cano-Quiroz, fechado en julio de 1955, con un sello rojo \"EMPLOYMENT TERMINATED\" y firma manuscrita de Paz en la parte superior."
 geo:
 id: 809
 item_type: Document

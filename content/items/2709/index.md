@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384614.jpg
     alt:
       en: "A group of men in hats stand in a line near a parked car beside a wooden building, with trees and another vehicle in the background."
+      es: "Un grupo de hombres con sombreros forman una fila cerca de un auto estacionado junto a un edificio de madera, con árboles y otro vehículo al fondo."
 geo:
 id: 2709
 item_type: Still Image

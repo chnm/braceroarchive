@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382416.jpg
     alt:
       en: "A group of men wearing hats gather around a desk in an office as officials review paperwork, with handwritten notes and a map visible on the wall behind them."
+      es: "Un grupo de hombres con sombreros se reúne alrededor de un escritorio en una oficina mientras unos funcionarios revisan documentos, con notas escritas a mano y un mapa visibles en la pared detrás de ellos."
 geo:
 id: 1980
 item_type: Still Image

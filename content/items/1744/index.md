@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381613.jpg
     alt:
       en: "Rows of shirtless men in cowboy hats line up inside a large hall as medical staff in white coats administer vaccinations at tables, with more workers waiting in the background."
+      es: "Filas de hombres sin camisa con sombreros vaqueros esperan en un salón amplio mientras personal médico de bata blanca aplica vacunas en mesas, con más trabajadores aguardando al fondo."
 geo:
 id: 1744
 item_type: Still Image

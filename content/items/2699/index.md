@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384604.jpg
     alt:
       en: "A large group of braceros kneel in rows on the dirt path between barracks buildings, heads bowed in prayer during an outdoor religious service."
+      es: "Un gran grupo de braceros se arrodilla en filas sobre el camino de tierra entre los barracones, con las cabezas inclinadas en oración durante un servicio religioso al aire libre."
 geo:
 id: 2699
 item_type: Still Image

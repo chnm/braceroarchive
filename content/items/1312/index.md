@@ -46,6 +46,7 @@ files:
     url: /files/original/NAD-200401380229.jpg
     alt:
       en: "A line of men wearing hats walks single file across a suspension bridge's pedestrian walkway, with a river and trees visible below."
+      es: "Una fila de hombres con sombrero camina uno tras otro por el paso peatonal de un puente colgante, con un río y árboles visibles abajo."
 geo:
 id: 1312
 item_type: Still Image

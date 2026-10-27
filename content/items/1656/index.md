@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381328.jpg
     alt:
       en: "Black-and-white photo of a long hall with a line of men in hats waiting at tables while a seated official reviews a bracero's documents at the Monterrey Processing Center."
+      es: "Foto en blanco y negro de un largo salón con una fila de hombres con sombrero esperando junto a mesas, mientras un funcionario sentado revisa los documentos de un bracero en el Centro de Contratación de Monterrey."
 geo:
 id: 1656
 item_type: Still Image

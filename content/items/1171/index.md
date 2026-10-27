@@ -48,6 +48,7 @@ files:
     url: /files/original/romangaxiolamajesus1957contract4_f256dd0f3c.jpg
     alt:
       en: "Weathered, torn bilingual contract page with numbered clauses in English (left) and Spanish (right), including sections on documentation costs, joint employment, and protection from illegal deductions."
+      es: "Página de contrato bilingüe desgastada y rasgada, con cláusulas numeradas en inglés (izquierda) y español (derecha), incluyendo secciones sobre costos de documentación, empleo conjunto y protección contra deducciones ilegales."
 geo:
 id: 1171
 item_type: Document

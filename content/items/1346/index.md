@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380334.jpg
     alt:
       en: "Black-and-white photo of three young men arranging rows of sandwiches on a long table, preparing food for braceros at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de tres jóvenes acomodando filas de sándwiches sobre una mesa larga, preparando comida para braceros en el Centro de Contratación de Monterrey."
 geo:
 id: 1346
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/guerrero-nava,-juan--mica-card1_5d451b2922.jpg
     alt:
       en: "Worn ID card titled \"Alien Laborer's Identification Card,\" featuring a black-and-white mugshot-style photo, with printed text reading \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-5)\"."
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\", con una fotografía tipo ficha policial en blanco y negro, y texto impreso que dice \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-5)\"."
 geo:
 id: 936
 item_type: Document

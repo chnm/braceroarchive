@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383722.jpg
     alt:
       en: "Black-and-white photo of braceros gathered and sitting along a dirt road beside a large truck and trailer, pausing for lunch at the edge of a field in the Salinas Valley."
+      es: "Fotografía en blanco y negro de braceros reunidos y sentados a lo largo de un camino de tierra junto a un gran camión con remolque, haciendo una pausa para almorzar al borde de un campo en el Valle de Salinas."
 geo:
 id: 2422
 item_type: Still Image

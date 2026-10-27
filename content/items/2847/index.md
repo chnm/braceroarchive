@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385106.jpg
     alt:
       en: "Black-and-white photo of a bracero camp room: a man reclines on a bed in the foreground while others sit and write at a table, with coats hung on wall pegs and shoes on the floor."
+      es: "Foto en blanco y negro de una habitación de un campamento de braceros: un hombre descansa en una cama en primer plano mientras otros se sientan a escribir en una mesa, con abrigos colgados en la pared y zapatos en el suelo."
 geo:
 id: 2847
 item_type: Still Image

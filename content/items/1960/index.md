@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382331.jpg
     alt:
       en: "Black-and-white photo of a dilapidated wooden outhouse with two toilets, a bucket, and peeling walls, viewed through an open weathered door."
+      es: "Fotografía en blanco y negro de una letrina de madera deteriorada con dos inodoros, un balde y paredes descascaradas, vista a través de una puerta desgastada y abierta."
 geo:
 id: 1960
 item_type: Still Image

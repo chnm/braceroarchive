@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382305.jpg
     alt:
       en: "Black-and-white photo of braceros resting on stacked bunk beds in a crowded camp barracks, with bedding and clothing hanging nearby."
+      es: "Foto en blanco y negro de braceros descansando en literas apiladas dentro de un barracón de campamento atestado, con ropa de cama y prendas colgadas cerca."
 geo:
 id: 1934
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/nad-200401380101_65bc6c8558.jpg
     alt:
       en: "Large crowd gathers near railroad tracks and partially built buildings, with stacked rails and ties in the foreground and workers standing along the fenced track area."
+      es: "Una gran multitud se reúne cerca de las vías del tren y edificios en construcción, con rieles y durmientes apilados en primer plano y trabajadores de pie junto al área cercada de las vías."
 geo:
 id: 494
 item_type: Still Image

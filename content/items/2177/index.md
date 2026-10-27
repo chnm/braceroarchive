@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383128.jpg
     alt:
       en: "Row of wooden cabins in a bracero labor camp, with several men leaning against the buildings; farmland and mountains visible in the background."
+      es: "Hilera de cabañas de madera en un campamento de braceros, con varios hombres recostados junto a los edificios; se ven campos de cultivo y montañas al fondo."
 geo:
 id: 2177
 item_type: Still Image

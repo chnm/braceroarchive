@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384435.jpg
     alt:
       en: "Black-and-white photo of a bracero camp barracks with men resting on metal-frame cots, jackets and clothing hanging on wall hooks above."
+      es: "Fotografía en blanco y negro de un dormitorio de un campamento de braceros, con hombres descansando en catres de metal y chaquetas colgadas en ganchos sobre la pared."
 geo:
 id: 2667
 item_type: Still Image

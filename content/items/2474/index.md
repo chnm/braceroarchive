@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383830.jpg
     alt:
       en: "Black-and-white photo of a dirt path lined with long barracks-style buildings; three men sit on a bench outside one structure while others stand and walk along the path, with power lines overhead."
+      es: "Foto en blanco y negro de un camino de tierra bordeado por barracas alargadas; tres hombres sentados en una banca afuera de un edificio mientras otros caminan por el sendero, con cables eléctricos arriba."
 geo:
 id: 2474
 item_type: Still Image

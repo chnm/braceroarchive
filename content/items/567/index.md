@@ -46,6 +46,7 @@ files:
     url: /files/original/bracero-relaxing_796b2aed31.jpg
     alt:
       en: "Shirtless bracero in light-colored trousers and dark shoes sits on a concrete wall beneath a covered porch, with an open landscape visible in the background."
+      es: "Bracero sin camisa, con pantalón claro y zapatos oscuros, sentado sobre un muro de concreto bajo un porche techado, con un paisaje abierto al fondo."
 geo:
 id: 567
 item_type: Still Image

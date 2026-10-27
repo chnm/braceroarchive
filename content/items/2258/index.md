@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383318.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat bends low to perform stoop labor in a pepper field, with three other workers similarly bent over in rows in the background."
+      es: "Un bracero con sombrero de ala ancha se inclina para realizar labor agachada en un campo de chiles, con otros tres trabajadores agachados en hileras al fondo."
 geo:
 id: 2258
 item_type: Still Image

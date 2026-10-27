@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384815.jpg
     alt:
       en: "Black-and-white photo of a man in a work shirt sitting on a bed in a sparse camp room, holding a cigarette, with bedding and a wooden wall visible behind him."
+      es: "Foto en blanco y negro de un hombre con camisa de trabajo sentado en una cama en un cuarto sencillo de un campamento, sosteniendo un cigarrillo, con ropa de cama y una pared de madera detrás."
 geo:
 id: 2773
 item_type: Still Image

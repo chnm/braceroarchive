@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382506.jpg
     alt:
       en: "Black-and-white photo of a doctor examining a seated bracero's mouth and teeth under a round overhead light, with medical instruments laid out on a table in the foreground."
+      es: "Fotografía en blanco y negro de un médico examinando la boca y los dientes de un bracero sentado bajo una lámpara circular, con instrumentos médicos sobre una mesa en primer plano."
 geo:
 id: 2005
 item_type: Still Image

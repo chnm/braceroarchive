@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382231.jpg
     alt:
       en: "Black-and-white photo of a bracero sitting on a bed in a crowded wooden barracks, surrounded by hanging clothes, boxes, and personal belongings, with sunlight entering through a small window."
+      es: "Foto en blanco y negro de un bracero sentado en una cama dentro de un abarrotado barracón de madera, rodeado de ropa colgada, cajas y pertenencias, con luz solar entrando por una pequeña ventana."
 geo:
 id: 2387
 item_type: Still Image

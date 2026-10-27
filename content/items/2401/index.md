@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383111.jpg
     alt:
       en: "Black-and-white photo of braceros bent over hoeing rows of crops in a California field, with parked cars and a tree-lined hillside in the background."
+      es: "Foto en blanco y negro de braceros inclinados, azadonando hileras de cultivos en un campo de California, con autos estacionados y una colina arbolada al fondo."
 geo:
 id: 2401
 item_type: Still Image

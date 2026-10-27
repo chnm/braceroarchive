@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383721.jpg
     alt:
       en: "Group of braceros wearing hats sit on crates eating lunch beside glass bottles and wooden boxes on a dirt field in the Salinas Valley, California, photographed from above."
+      es: "Grupo de braceros con sombreros sentados en cajas comiendo almuerzo junto a botellas de vidrio y cajas de madera en un campo de tierra en el Valle de Salinas, California, fotografiado desde arriba."
 geo:
 id: 2421
 item_type: Still Image

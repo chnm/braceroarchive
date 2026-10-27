@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381529.jpg
     alt:
       en: "Black-and-white photo of a man in a suit and glasses seated behind a large desk, hands clasped, with telephones, papers, and an ashtray visible in his office."
+      es: "Fotografía en blanco y negro de un hombre con traje y gafas sentado tras un gran escritorio, con las manos entrelazadas, junto a teléfonos, papeles y un cenicero en su oficina."
 geo:
 id: 1715
 item_type: Still Image

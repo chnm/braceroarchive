@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382411.jpg
     alt:
       en: "Black-and-white photo of men in hats gathered around a counter in an office as an official signs paychecks, with paperwork spread across the surface and a doorway visible behind them."
+      es: "Foto en blanco y negro de hombres con sombrero reunidos alrededor de un mostrador en una oficina mientras un funcionario firma cheques de pago, con papeles sobre la superficie y una puerta visible al fondo."
 geo:
 id: 1975
 item_type: Still Image

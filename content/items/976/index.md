@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---passport7_5baf61d426.jpg
     alt:
       en: "Mexican military service document \"Cartilla del Servicio Militar Nacional\" for Roberto Garcia Sanchez, with handwritten personal details, official stamps, a small photograph, and a fingerprint under \"Huella digital.\""
+      es: "Documento militar mexicano \"Cartilla del Servicio Militar Nacional\" de Roberto García Sánchez, con datos personales manuscritos, sellos oficiales, una pequeña fotografía y una huella digital bajo \"Huella digital\"."
 geo:
 id: 976
 item_type: Document

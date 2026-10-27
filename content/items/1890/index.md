@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382124.jpg
     alt:
       en: "A bracero sits cross-legged on a bed reading a newspaper in a wood-paneled camp room, with a hat and jacket hanging on the wall behind him."
+      es: "Un bracero sentado con las piernas cruzadas sobre una cama lee un periódico en un cuarto del campamento con paredes de madera, mientras un sombrero y una chaqueta cuelgan en la pared detrás de él."
 geo:
 id: 1890
 item_type: Still Image

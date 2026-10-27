@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-california-enero-marzo-1956_9d18131f73.jpg
     alt:
       en: "Printed and handwritten contract form titled \"Continuation of Standard Work Contract, as Amended,\" with worker and employer details, contract terms, and signatures, stamped \"Terminated\" in red near the center."
+      es: "Formulario de contrato impreso y manuscrito titulado \"Continuation of Standard Work Contract, as Amended\", con datos del trabajador y empleador, términos del contrato y firmas, con sello rojo \"Terminated\" cerca del centro."
 geo:
 id: 883
 item_type: Document

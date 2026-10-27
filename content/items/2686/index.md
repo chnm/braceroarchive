@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384519.jpg
     alt:
       en: "A bracero wearing a wide-brimmed hat bends over to harvest crops in a large, leafy field, with a bucket nearby and cracked earth in the foreground."
+      es: "Un bracero con sombrero de ala ancha se inclina para cosechar en un extenso campo de hojas, con una cubeta cerca y tierra agrietada en primer plano."
 geo:
 id: 2686
 item_type: Still Image

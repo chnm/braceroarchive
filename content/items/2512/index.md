@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383935.jpg
     alt:
       en: "A bracero in a hat sits on a suitcase beside bundled belongings as other men wait nearby on a shaded street in Stockton, California."
+      es: "Un bracero con sombrero está sentado sobre una maleta junto a bultos de equipaje, mientras otros hombres esperan cerca en una calle sombreada de Stockton, California."
 geo:
 id: 2512
 item_type: Still Image

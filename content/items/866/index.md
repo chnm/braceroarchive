@@ -48,6 +48,7 @@ files:
     url: /files/original/mica-egp,-julio-1964-(front-with-picture)_47ac6f1238.jpg
     alt:
       en: "Front side of an Alien Laborer's Identification Card with a black-and-white mugshot photo, titled \"ALIEN LABORER'S IDENTIFICATION CARD,\" issued by the U.S. Department of Justice, Immigration and Naturalization Service, form 1-100D (Rev. 8-1-59)."
+      es: "Anverso de una Tarjeta de Identificación de Trabajador Extranjero con una foto tipo ficha policial en blanco y negro, titulada \"ALIEN LABORER'S IDENTIFICATION CARD\", emitida por el Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización, formulario 1-100D (Rev. 8-1-59)."
 geo:
 id: 866
 item_type: Document

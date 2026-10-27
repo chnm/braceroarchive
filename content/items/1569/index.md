@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381003.jpg
     alt:
       en: "Black-and-white photo of braceros in hats standing behind a barbed wire fence near railroad tracks at the Monterrey Processing Center, Mexico, with hazy hills in the background."
+      es: "Fotografía en blanco y negro de braceros con sombreros de pie detrás de una cerca de alambre de púas cerca de las vías del tren en el Centro de Procesamiento de Monterrey, México, con colinas difusas al fondo."
 geo:
 id: 1569
 item_type: Still Image

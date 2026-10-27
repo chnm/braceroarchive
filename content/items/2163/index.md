@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383012.jpg
     alt:
       en: "A man in a hat stands beside a long wooden barracks-style building in a labor camp, with a tire and cloth hanging near the entrance and open fields beyond."
+      es: "Un hombre con sombrero está de pie junto a un largo edificio de madera tipo barracón en un campamento laboral, con una llanta y una tela colgando cerca de la entrada y campos abiertos al fondo."
 geo:
 id: 2163
 item_type: Still Image

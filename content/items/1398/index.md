@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380517.jpg
     alt:
       en: "Black-and-white photo of braceros preparing food at long wooden tables inside an open-sided shed, with pots, bowls, and tortillas visible under a corrugated metal roof."
+      es: "Foto en blanco y negro de braceros preparando comida en largas mesas de madera dentro de un cobertizo abierto, con ollas, tazones y tortillas visibles bajo un techo de lámina."
 geo:
 id: 1398
 item_type: Still Image

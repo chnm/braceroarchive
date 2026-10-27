@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380633.jpg
     alt:
       en: "A large group of men in hats and jackets stand in a roped-off line outside a multi-story building, waiting in the dirt courtyard of the Monterrey Processing Center."
+      es: "Un gran grupo de hombres con sombreros y chaquetas espera en una fila delimitada por cuerdas, en el patio de tierra frente a un edificio de varios pisos del Centro de Procesamiento de Monterrey."
 geo:
 id: 1443
 item_type: Still Image

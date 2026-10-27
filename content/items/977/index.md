@@ -45,6 +45,7 @@ files:
     url: /files/original/garcia-roberto---passport9_74c48593c3.jpg
     alt:
       en: "Mexican passport page listing three references—Martín García, Pío Sandoval, and Santiago Jáuregui—with an \"Observaciones\" section, facing a page with stamps, signature, and matrícula number 1341980."
+      es: "Página de pasaporte mexicano con tres referencias—Martín García, Pío Sandoval y Santiago Jáuregui—y sección de \"Observaciones\", frente a una página con sellos, firma y número de matrícula 1341980."
 geo:
 id: 977
 item_type: Document

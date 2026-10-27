@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381006.jpg
     alt:
       en: "A group of men wearing hats stand and sit along railroad tracks behind a barbed wire fence, set against a hazy sky near the Monterrey Processing Center."
+      es: "Un grupo de hombres con sombreros está de pie y sentado junto a las vías del tren, detrás de una cerca de alambre de púas, bajo un cielo brumoso cerca del Centro de Contratación de Monterrey."
 geo:
 id: 1560
 item_type: Still Image

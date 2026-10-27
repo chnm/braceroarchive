@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-calfornia-septiembre-octubre-1960-(front)_ced2476d4c.jpg
     alt:
       en: "A stained, typewritten \"Continuation of Standard Work Contract\" form for Santiago Perez Liborio, dated September 1960, with California Asparagus Growers Association, bearing signatures and an official purple stamp."
+      es: "Formulario mecanografiado de \"Continuación del Contrato de Trabajo, tipo de trabajo, bajo enmienda\" a nombre de Santiago Pérez Liborio, fechado en septiembre de 1960, con la California Asparagus Growers Association, con firmas y un sello oficial morado, sobre papel manchado."
 geo:
 id: 889
 item_type: Document

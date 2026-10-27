@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383743.jpg
     alt:
       en: "A man wearing a straw hat and denim jacket stands in a lettuce field, trimming leaves from a lettuce head, with other workers and a truck visible in the background."
+      es: "Un hombre con sombrero de paja y chaqueta de mezclilla está de pie en un campo de lechuga, recortando hojas de una lechuga, con otros trabajadores y un camión visibles al fondo."
 geo:
 id: 2443
 item_type: Still Image

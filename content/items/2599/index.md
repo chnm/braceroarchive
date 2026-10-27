@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384228.jpg
     alt:
       en: "Black-and-white photo of men at an outdoor washing facility near a tent and wooden building, with a child seated nearby and trees shading the camp."
+      es: "Fotografía en blanco y negro de hombres en una instalación de lavado al aire libre cerca de una carpa y un edificio de madera, con un niño sentado cerca y árboles que dan sombra al campamento."
 geo:
 id: 2599
 item_type: Still Image

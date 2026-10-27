@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381802.jpg
     alt:
       en: "Overhead view of workers unloading large piles of harvested cotton into a truck bed within a wooden-fenced enclosure, as other men look on nearby."
+      es: "Vista aérea de trabajadores descargando grandes montones de algodón cosechado en la plataforma de un camión dentro de un corral de madera, mientras otros hombres observan cerca."
 geo:
 id: 1788
 item_type: Still Image

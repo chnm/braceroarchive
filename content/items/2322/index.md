@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383526.jpg
     alt:
       en: "Black-and-white photo of a row of wooden barracks along a dirt path at a labor camp, with several men standing and walking outside the buildings under a cloudy sky."
+      es: "Fotografía en blanco y negro de una hilera de barracones de madera junto a un camino de tierra en un campamento de trabajo, con varios hombres de pie y caminando frente a los edificios bajo un cielo nublado."
 geo:
 id: 2322
 item_type: Still Image

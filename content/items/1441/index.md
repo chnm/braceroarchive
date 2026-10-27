@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380631.jpg
     alt:
       en: "A bracero leans against a barbed wire fence post, hat tilted back, as a large crowd of hatted men wait behind him at the Monterrey Processing Center, Mexico."
+      es: "Un bracero se apoya en un poste de alambre de púas, con el sombrero echado hacia atrás, mientras una gran multitud de hombres con sombrero espera detrás de él en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1441
 item_type: Still Image

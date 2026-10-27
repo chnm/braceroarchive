@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381838.jpg
     alt:
       en: "Silhouetted figures in wide-brimmed hats gather beneath a covered structure at the Hidalgo Processing Center, Texas, waiting in line to board trucks."
+      es: "Figuras en silueta con sombreros de ala ancha se reúnen bajo una estructura techada en el Centro de Procesamiento de Hidalgo, Texas, esperando en fila para subir a los camiones."
 geo:
 id: 1791
 item_type: Still Image

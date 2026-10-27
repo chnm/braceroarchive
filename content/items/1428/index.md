@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380643.jpg
     alt:
       en: "A long line of men winds across a dusty field toward distant buildings and a large crowd gathered at the Monterrey Processing Center, with mountains visible in the background."
+      es: "Una larga fila de hombres se extiende por un campo polvoriento hacia edificios distantes y una gran multitud reunida en el Centro de Procesamiento de Monterrey, con montañas al fondo."
 geo:
 id: 1428
 item_type: Still Image

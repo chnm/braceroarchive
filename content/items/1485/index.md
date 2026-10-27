@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380701.jpg
     alt:
       en: "A long line of men curves across a dusty open yard at the Monterrey Processing Center, with low buildings, trees, and distant structures visible in the background."
+      es: "Una larga fila de hombres se curva a través de un patio polvoriento y abierto en el Centro de Procesamiento de Monterrey, con edificios bajos, árboles y estructuras distantes al fondo."
 geo:
 id: 1485
 item_type: Still Image

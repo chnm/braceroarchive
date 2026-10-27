@@ -22,6 +22,7 @@ files:
     url: /files/original/rochin-acapulco-postcard-~-1949_6812d056b5.jpg
     alt:
       en: "Vintage postcard for \"Acapulco Gardens, 'The House of Fine Foods,' 1731 So. Hill St. (U.S. 101), Oceanside, Calif.,\" with an inset of an outdoor patio dining area and a street view of the restaurant's Spanish-style building with a tower and palm trees."
+      es: "Postal antigua de \"Acapulco Gardens, 'The House of Fine Foods,' 1731 So. Hill St. (U.S. 101), Oceanside, Calif.\", con un recuadro de un patio exterior y una vista callejera del edificio de estilo español con torre y palmeras."
 geo:
 id: 3201
 item_type: Still Image

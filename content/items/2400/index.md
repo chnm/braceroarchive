@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383110.jpg
     alt:
       en: "Black-and-white photo of a bracero bent over hoeing a long furrowed row in a California field, with another worker's arm visible at upper left."
+      es: "Foto en blanco y negro de un bracero inclinado, azadonando un largo surco en un campo de California, con el brazo de otro trabajador visible en la parte superior izquierda."
 geo:
 id: 2400
 item_type: Still Image

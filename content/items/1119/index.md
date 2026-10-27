@@ -48,6 +48,7 @@ files:
     url: /files/original/molinarodriguez2_4b34305128.jpg
     alt:
       en: "Two-page document spread with official stamps, including a \"MATRICULA\" stamp, \"Sector de Reclutamiento\" seal dated Jul 22 1960, and a Consulado de Mexico Calexico seal dated Nov 8 1965 with signature."
+      es: "Documento de dos páginas con sellos oficiales, incluyendo un sello \"MATRICULA\", un sello del \"Sector de Reclutamiento\" fechado 22 de julio de 1960, y un sello del Consulado de México en Calexico fechado 8 de noviembre de 1965 con firma."
 geo:
 id: 1119
 item_type: Document

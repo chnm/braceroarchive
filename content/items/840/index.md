@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-california-oct-nov-1956_65baf056f8.jpg
     alt:
       en: "Printed and typed contract form titled \"Continuation of Standard Work Contract, As Amended,\" with worker Cruz-Figueroa, Rodolfo's details, Imperial Valley Farmers Association employer data, dates, wages, and a red \"Employment Terminated\" stamp dated Feb 8 1957."
+      es: "Formulario de contrato impreso y mecanografiado titulado \"Continuation of Standard Work Contract, As Amended\", con datos del trabajador Cruz-Figueroa, Rodolfo, datos del empleador Imperial Valley Farmers Association, fechas, salarios y un sello rojo \"Employment Terminated\" fechado el 8 de febrero de 1957."
 geo:
 id: 840
 item_type: Document

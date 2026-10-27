@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385517.jpg
     alt:
       en: "Black-and-white street scene of men gathered on a sidewalk in front of a Smoke Shop and Radio Shop storefront in Watsonville, California, with parked cars along the curb."
+      es: "Escena callejera en blanco y negro con hombres reunidos en una acera frente a un escaparate de Smoke Shop y Radio Shop en Watsonville, California, con autos estacionados junto a la acera."
 geo:
 id: 2944
 item_type: Still Image

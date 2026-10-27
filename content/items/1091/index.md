@@ -48,6 +48,7 @@ files:
     url: /files/original/santacruz,-melitona,-1993,-registro2_b5d6920934.jpg
     alt:
       en: "Spanish-language civil registry certificate from Mexicali, Baja California, numbered 143920, with an official seal, signature, and a stamped date of MAR 09 1993."
+      es: "Certificado del Registro Civil en español de Mexicali, Baja California, numerado 143920, con sello oficial, firma y fecha estampada MAR 09 1993."
 geo:
 id: 1091
 item_type: Document

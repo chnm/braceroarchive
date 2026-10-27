@@ -46,6 +46,7 @@ files:
     url: /files/original/bautista,-agustine,-1943,-railroad-photo_92dd4bc56e.jpg
     alt:
       en: "Group of braceros posing on railroad tracks with tools, wearing hats and work clothes; handwritten note above reads \"Agustin Bautista\" with an arrow marking him in the back row."
+      es: "Grupo de braceros posando sobre las vías del ferrocarril con herramientas, vestidos con sombreros y ropa de trabajo; una nota manuscrita arriba dice \"Agustín Bautista\" con una flecha que lo señala en la fila trasera."
 geo:
 id: 1033
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381004.jpg
     alt:
       en: "Silhouetted men in wide-brimmed hats stand along a railroad track behind barbed wire at dusk, some holding bundles, at the Monterrey Processing Center, Mexico."
+      es: "Hombres en silueta con sombreros de ala ancha esperan junto a una vía ferroviaria tras una cerca de alambre de púas al atardecer, algunos cargando bultos, en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1570
 item_type: Still Image

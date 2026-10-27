@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381642.jpg
     alt:
       en: "A chalkboard sign reading \"DATE 7-16-56, TIME 5:00 P.M., 3,490, 45.00\" stands in a large hall where two lines of men in straw hats wait inside the Monterrey Processing Center."
+      es: "Un letrero de pizarra con \"DATE 7-16-56, TIME 5:00 P.M., 3,490, 45.00\" se alza en un gran salón donde dos filas de hombres con sombreros de paja esperan dentro del Centro de Procesamiento de Monterrey."
 geo:
 id: 1725
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380414.jpg
     alt:
       en: "Black-and-white photo of a large crowd of hatted men gathered outdoors near wooden crates and tables piled with pineapples, with buildings and mountains in the background."
+      es: "Foto en blanco y negro de una gran multitud de hombres con sombrero reunidos al aire libre junto a cajas de madera y mesas cargadas de piñas, con edificios y montañas al fondo."
 geo:
 id: 1362
 item_type: Still Image

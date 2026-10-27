@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381913.jpg
     alt:
       en: "A line of men wearing cowboy hats carry suitcases along a tree-lined street, with one man in the foreground holding two large bags."
+      es: "Una fila de hombres con sombreros vaqueros carga maletas por una calle bordeada de árboles, con un hombre en primer plano llevando dos bolsos grandes."
 geo:
 id: 1826
 item_type: Still Image

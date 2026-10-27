@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383921.jpg
     alt:
       en: "Black-and-white photo of a group of men, some wearing hats, standing in a dirt lot handling paperwork, with parked cars and utility poles in the background."
+      es: "Foto en blanco y negro de un grupo de hombres, algunos con sombrero, de pie en un terreno de tierra manejando papeles, con autos estacionados y postes eléctricos al fondo."
 geo:
 id: 2499
 item_type: Still Image

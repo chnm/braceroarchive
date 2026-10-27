@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384806.jpg
     alt:
       en: "Two braceros stand indoors in a wooden living quarter, each holding a small mirror while combing their hair, with a bare bulb, hanging laundry, and sparse furnishings visible around them."
+      es: "Dos braceros de pie en una vivienda de madera, cada uno sosteniendo un pequeño espejo mientras se peinan, con un foco sin pantalla, ropa colgada y muebles escasos alrededor."
 geo:
 id: 2765
 item_type: Still Image

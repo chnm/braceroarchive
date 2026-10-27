@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383108.jpg
     alt:
       en: "A fan-shaped stack of punched tally cards rests on bare, tilled soil beside a cluster of strawberry plants at the edge of a field."
+      es: "Un conjunto de tarjetas perforadas dispuestas en abanico descansa sobre tierra removida, junto a un grupo de plantas de fresa al borde de un campo."
 geo:
 id: 2398
 item_type: Still Image

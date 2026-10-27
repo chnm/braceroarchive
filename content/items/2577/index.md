@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384129.jpg
     alt:
       en: "Two braceros rest on beds in a dimly lit barracks room, seen through a doorway, with a window and hanging light fixture visible in the background."
+      es: "Dos braceros descansan en camas dentro de un cuarto de barracas poco iluminado, visto a través de una puerta, con una ventana y una lámpara colgante al fondo."
 geo:
 id: 2577
 item_type: Still Image

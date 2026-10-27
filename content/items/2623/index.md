@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384315.jpg
     alt:
       en: "Black-and-white photo of braceros wearing hats, bending to pick lettuce in long rows, with trucks and more workers visible in the distant field under a hazy sky."
+      es: "Foto en blanco y negro de braceros con sombreros, inclinados cosechando lechuga en largas hileras, con camiones y más trabajadores visibles al fondo del campo bajo un cielo brumoso."
 geo:
 id: 2623
 item_type: Still Image

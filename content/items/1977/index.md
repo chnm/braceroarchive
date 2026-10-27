@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382413.jpg
     alt:
       en: "Black-and-white photo of braceros standing in an office in Stockton, California, beneath a chalkboard notice reading \"No rebates on Fri, Sat, or Sun\" and \"No max labor shall be used on mechanized equip.\""
+      es: "Foto en blanco y negro de braceros de pie en una oficina en Stockton, California, bajo una pizarra con el aviso \"No rebates on Fri, Sat, or Sun\" y \"No max labor shall be used on mechanized equip.\""
 geo:
 id: 1977
 item_type: Still Image

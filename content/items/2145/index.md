@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382925.jpg
     alt:
       en: "Black-and-white street scene in Salinas, California, with men walking and standing along a sidewalk lined with shops, storefront signs, parked cars, and utility poles."
+      es: "Escena callejera en blanco y negro en Salinas, California, con hombres caminando y de pie en una acera bordeada de tiendas, letreros comerciales, autos estacionados y postes eléctricos."
 geo:
 id: 2145
 item_type: Still Image

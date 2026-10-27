@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382722.jpg
     alt:
       en: "Black-and-white photo of two men in hats standing before a large outdoor mail slot board mounted on a building, one pointing toward the rows of labeled mail compartments."
+      es: "Foto en blanco y negro de dos hombres con sombrero frente a un gran casillero de correo exterior montado en un edificio, uno de ellos señalando las filas de compartimentos etiquetados."
 geo:
 id: 2069
 item_type: Still Image

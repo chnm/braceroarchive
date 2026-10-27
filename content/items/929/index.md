@@ -48,6 +48,7 @@ files:
     url: /files/original/estrada-e,-luis,-mica-of-father_5a544d60fc.jpg
     alt:
       en: "Worn identification card titled \"Alien Laborer's Identification Card,\" featuring a man's mugshot-style photo with number plate \"918,\" issued by the U.S. Department of Justice, Immigration and Naturalization Service."
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\", con la foto tipo mugshot de un hombre y la placa numérica \"918\", emitida por el Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización."
 geo:
 id: 929
 item_type: Document

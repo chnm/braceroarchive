@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381842.jpg
     alt:
       en: "A bracero empties a sack of harvested cotton into a truck bed already piled high, with open farmland and distant workers visible in the background."
+      es: "Un bracero vacía un costal de algodón cosechado en la caja de un camión ya repleta, con campo abierto y trabajadores a lo lejos en el fondo."
 geo:
 id: 1795
 item_type: Still Image

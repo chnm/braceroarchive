@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382428.jpg
     alt:
       en: "Row of toilets along a wall-mounted trough in a wood-paneled room, with two wooden chairs placed near a doorway on the opposite side."
+      es: "Fila de inodoros junto a un canal de desagüe en una pared de madera, con dos sillas de madera cerca de una puerta al otro lado de la habitación."
 geo:
 id: 1992
 item_type: Still Image

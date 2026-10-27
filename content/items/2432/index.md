@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383732.jpg
     alt:
       en: "Black-and-white photo of a dirt road beside a farm field in the Salinas Valley, with parked trucks, utility poles, and workers resting along the roadside near railroad tracks."
+      es: "Foto en blanco y negro de un camino de tierra junto a un campo de cultivo en el Valle de Salinas, con camiones estacionados, postes eléctricos y trabajadores descansando cerca de las vías del tren."
 geo:
 id: 2432
 item_type: Still Image

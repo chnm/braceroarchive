@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385528.jpg
     alt:
       en: "Black-and-white street scene with men standing outside storefronts labeled \"Art Coots Smoke Shop,\" \"Art Coots Radio Shop,\" and \"Palace Grill - Steaks & Chop,\" with a parked car at curb."
+      es: "Escena callejera en blanco y negro con hombres de pie frente a escaparates rotulados \"Art Coots Smoke Shop\", \"Art Coots Radio Shop\" y \"Palace Grill - Steaks & Chop\", con un auto estacionado junto a la acera."
 geo:
 id: 2955
 item_type: Still Image

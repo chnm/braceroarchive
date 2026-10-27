@@ -48,6 +48,7 @@ files:
     url: /files/original/montes-robles,-manuel---check-pay-stub-copy_630368ab3a.jpg
     alt:
       en: "Pay stub for Montes-Robles Manuel from Imperial Valley Farmers Association, dated 10-28-64, listing hours worked, rate, gross pay of 636.0, deductions, and net pay of 501.0."
+      es: "Talón de pago de Montes-Robles Manuel de Imperial Valley Farmers Association, fechado 10-28-64, con horas trabajadas, tarifa, pago bruto de 636.0, deducciones y pago neto de 501.0."
 geo:
 id: 1120
 item_type: Document

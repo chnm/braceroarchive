@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381308.jpg
     alt:
       en: "A seated official reviews paperwork at a desk while a line of men in cowboy hats wait behind a man standing at the desk, inside the Monterrey Processing Center."
+      es: "Un funcionario sentado revisa documentos en un escritorio mientras una fila de hombres con sombreros vaqueros espera detrás de un hombre de pie frente al escritorio, dentro del Centro de Procesamiento de Monterrey."
 geo:
 id: 1636
 item_type: Still Image

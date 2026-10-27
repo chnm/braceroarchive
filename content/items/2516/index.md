@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384039.jpg
     alt:
       en: "Black-and-white photo of two men in suits in an office: one stands leaning over a desk while the seated man signs a document, with venetian-blind windows and a wall calendar in the background."
+      es: "Fotografía en blanco y negro de dos hombres trajeados en una oficina: uno se inclina sobre el escritorio mientras el otro, sentado, firma un documento, con persianas venecianas y un calendario de pared al fondo."
 geo:
 id: 2516
 item_type: Still Image

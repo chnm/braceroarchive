@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383538.jpg
     alt:
       en: "A man in an apron slices onions at a kitchen counter, with trays of chopped vegetables nearby and rows of empty dining tables visible through a window behind him."
+      es: "Un hombre con delantal corta cebollas en una mesa de cocina, con bandejas de verduras picadas cerca y filas de mesas de comedor vacías visibles a través de una ventana detrás de él."
 geo:
 id: 2310
 item_type: Still Image

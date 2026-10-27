@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380339.jpg
     alt:
       en: "A long line of men wearing straw hats winds across a dirt lot at the Monterrey Processing Center, with buses and a building visible in the background."
+      es: "Una larga fila de hombres con sombreros de paja serpentea sobre un terreno de tierra en el Centro de Procesamiento de Monterrey, con autobuses y un edificio al fondo."
 geo:
 id: 1339
 item_type: Still Image

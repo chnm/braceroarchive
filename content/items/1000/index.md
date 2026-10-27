@@ -43,6 +43,7 @@ files:
     url: /files/original/marcial2_4e5ae213ff.jpg
     alt:
       en: "Worn, creased sepia-toned photo of four children: a boy in a bow tie above, flanked below by a girl in glasses and two boys, all smiling for the camera."
+      es: "Foto sepia desgastada y agrietada de cuatro niños: un niño con corbata de moño arriba, y abajo una niña con lentes flanqueada por dos niños, todos sonriendo a la cámara."
 geo:
 id: 1000
 item_type: Still Image

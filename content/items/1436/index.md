@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380638.jpg
     alt:
       en: "A large crowd of men in hats stands in lines outdoors, some holding signs with state names such as \"Durango\" and \"Linares,\" at the Monterrey Processing Center."
+      es: "Una gran multitud de hombres con sombreros forma filas al aire libre, algunos sosteniendo carteles con nombres de estados como \"Durango\" y \"Linares\", en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1436
 item_type: Still Image

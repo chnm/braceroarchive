@@ -46,6 +46,7 @@ files:
     url: /files/original/jul27_03_bff0042f89.jpg
     alt:
       en: "Three black-and-white photographs on an album page depict a train accident scene, with railcars along tracks, bystanders gathered nearby, and objects scattered on the gravel beside the rails."
+      es: "Tres fotografías en blanco y negro en una página de álbum muestran un accidente de tren, con vagones junto a las vías, personas reunidas cerca y objetos esparcidos sobre la grava junto a los rieles."
 geo:
 id: 635
 item_type: Still Image

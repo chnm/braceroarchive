@@ -46,6 +46,7 @@ files:
     url: /files/original/nsaldana013_e7a7b93f44.jpg
     alt:
       en: "Handwritten note in blue ink reading \"Recuerdo de cuandoandaba de bracero, 10-7-57\" with \"Oregon pear tree\" below in black ink, plus a faded adhesive residue stain and the number \"139\" at bottom left."
+      es: "Nota manuscrita en tinta azul que dice \"Recuerdo de cuandoandaba de bracero, 10-7-57\" con \"Oregon pear tree\" debajo en tinta negra, además de una mancha de adhesivo descolorida y el número \"139\" en la esquina inferior izquierda."
 geo:
 id: 808
 item_type: Still Image

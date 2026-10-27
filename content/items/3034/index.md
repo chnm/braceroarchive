@@ -46,6 +46,7 @@ files:
     url: /files/original/img_3335_fcfaa04511.jpg
     alt:
       en: "Woman with curly hair wearing a purple shirt stands beside a weathered stone wall, with green lawns, trees, and ancient ruins visible in the background."
+      es: "Mujer de cabello rizado con camisa morada de pie junto a un muro de piedra desgastado, con césped verde, árboles y ruinas antiguas visibles al fondo."
 geo:
 id: 3034
 item_type: Still Image

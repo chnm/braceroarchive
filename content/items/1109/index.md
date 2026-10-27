@@ -48,6 +48,7 @@ files:
     url: /files/original/martinezfaustinoexbraceroformcopy_868a0ca31b.jpg
     alt:
       en: "Registration form for ex-bracero Faustino Balanzar Martinez, listing address in El Centro, CA, birthplace Cruz Grande, Guerrero, birth date 8-13-26, naturalization certificate, and Medical/Medicare coverage details."
+      es: "Formulario de registro del ex bracero Faustino Balanzar Martínez, con domicilio en El Centro, CA, lugar de nacimiento Cruz Grande, Guerrero, fecha de nacimiento 8-13-26, certificado de naturalización y cobertura de Medical/Medicare."
 geo:
 id: 1109
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385225.jpg
     alt:
       en: "Freshly plowed furrows stretch across a large field toward distant farm buildings, with tree-covered hills rising behind the camp in the background."
+      es: "Surcos recién arados se extienden por un amplio campo hacia edificios de granja distantes, con colinas cubiertas de árboles detrás del campamento al fondo."
 geo:
 id: 2890
 item_type: Still Image

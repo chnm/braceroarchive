@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383210.jpg
     alt:
       en: "A man in an apron stirs a large pot on a commercial stove in a kitchen, with steel countertops, steam rising from a tray, and a large sink in the foreground."
+      es: "Un hombre con delantal revuelve una olla grande sobre una estufa industrial en una cocina con mostradores de acero, vapor saliendo de una bandeja y un fregadero grande en primer plano."
 geo:
 id: 2215
 item_type: Still Image

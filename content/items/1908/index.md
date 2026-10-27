@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382208.jpg
     alt:
       en: "A predominantly black, nearly indiscernible image with faint shapes near the top edge."
+      es: "Imagen predominantemente negra, casi indiscernible, con formas tenues cerca del borde superior."
 geo:
 id: 1908
 item_type: Still Image

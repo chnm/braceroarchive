@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382130.jpg
     alt:
       en: "Black-and-white photo of braceros seated on a bed playing cards in a sparse living quarter, with jackets hanging on the wall and a man standing in the doorway."
+      es: "Fotografía en blanco y negro de braceros sentados en una cama jugando cartas en una habitación austera, con chaquetas colgadas en la pared y un hombre de pie en la puerta."
 geo:
 id: 1896
 item_type: Still Image

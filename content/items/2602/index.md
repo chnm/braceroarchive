@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384231.jpg
     alt:
       en: "A concrete step at a bracero camp in California, inscribed with the words \"DIOS ES AMOR,\" surrounded by gravel and corrugated metal structures."
+      es: "Un escalón de concreto en un campamento de braceros en California, inscrito con las palabras \"DIOS ES AMOR,\" rodeado de grava y estructuras de metal corrugado."
 geo:
 id: 2602
 item_type: Still Image

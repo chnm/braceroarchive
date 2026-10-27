@@ -48,6 +48,7 @@ files:
     url: /files/original/marialuz-back_25dc6036c6.jpg
     alt:
       en: "A worn U.S. Citizen's Identification Card with printed text from the Department of Labor, Immigration and Naturalization Service, handwritten address details, and an official stamp, with several black ink blots obscuring parts of the form."
+      es: "Tarjeta desgastada de Identificación de Ciudadano de EE.UU. con texto impreso del Departamento de Trabajo, Servicio de Inmigración y Naturalización, datos de dirección escritos a mano y un sello oficial, con varias manchas de tinta negra que cubren partes del formulario."
 geo:
 id: 830
 item_type: Document

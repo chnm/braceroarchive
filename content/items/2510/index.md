@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383933.jpg
     alt:
       en: "Black-and-white photo of several men in hats crouched and seated beside stacked suitcases and a cardboard box against a wall, with a wooden post nearby, in Stockton, California."
+      es: "Fotografía en blanco y negro de varios hombres con sombreros, agachados y sentados junto a maletas apiladas y una caja de cartón contra una pared, con un poste de madera cerca, en Stockton, California."
 geo:
 id: 2510
 item_type: Still Image

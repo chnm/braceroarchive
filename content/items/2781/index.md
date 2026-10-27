@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384934.jpg
     alt:
       en: "Black-and-white photo of braceros performing stoop labor in rows of crops at a field's edge, with irrigation pipes along the furrows and mountains on the horizon."
+      es: "Fotografía en blanco y negro de braceros realizando trabajo agrícola agachado en hileras de cultivos al borde de un campo, con tubos de riego en los surcos y montañas al fondo."
 geo:
 id: 2781
 item_type: Still Image

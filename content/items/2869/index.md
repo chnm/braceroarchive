@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385203.jpg
     alt:
       en: "A bracero crouches to punch tally cards beside stacked wooden strawberry crates, as workers stand nearby and others harvest in rows stretching across the Salinas Valley field behind them."
+      es: "Un bracero se agacha para perforar tarjetas de registro junto a cajas de madera apiladas con fresas, mientras otros trabajadores permanecen cerca y más personas cosechan en hileras en el campo del Valle de Salinas al fondo."
 geo:
 id: 2869
 item_type: Still Image

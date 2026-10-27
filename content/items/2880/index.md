@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385214.jpg
     alt:
       en: "Black-and-white photo of a bracero kneeling in a furrowed field, sharpening a short-handled hoe with a knife, while other workers bend over rows in the background."
+      es: "Foto en blanco y negro de un bracero arrodillado en un campo surcado, afilando un azadón de mango corto con un cuchillo, mientras otros trabajadores se inclinan sobre los surcos al fondo."
 geo:
 id: 2880
 item_type: Still Image

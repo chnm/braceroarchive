@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380406.jpg
     alt:
       en: "A large crowd of men in hats gathers near railroad tracks as a passenger train marked \"Nacionales de Mexico, Correo\" arrives at the Monterrey Processing Center, mountains visible in the background."
+      es: "Una gran multitud de hombres con sombreros se reúne cerca de las vías mientras llega un tren de pasajeros marcado \"Nacionales de Mexico, Correo\" al Centro de Procesamiento de Monterrey, con montañas al fondo."
 geo:
 id: 1366
 item_type: Still Image

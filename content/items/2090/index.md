@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382707.jpg
     alt:
       en: "Vintage sedan parked outside a building labeled \"PAJARO STEAM BATH,\" with a man standing near the entrance and a truck visible at the edge of the frame."
+      es: "Sedán antiguo estacionado frente a un edificio con el letrero \"PAJARO STEAM BATH\", con un hombre de pie cerca de la entrada y un camión visible al borde del encuadre."
 geo:
 id: 2090
 item_type: Still Image

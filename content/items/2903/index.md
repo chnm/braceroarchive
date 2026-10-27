@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385312.jpg
     alt:
       en: "Black-and-white photo of a bracero reaching into a wall-mounted box of papers at the Gondo labor camp near Watsonville, California, as other men wait in line beside him."
+      es: "Foto en blanco y negro de un bracero sacando un papel de una caja montada en la pared en el campo laboral Gondo, cerca de Watsonville, California, mientras otros hombres esperan en fila junto a él."
 geo:
 id: 2903
 item_type: Still Image

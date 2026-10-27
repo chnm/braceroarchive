@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p8-9_614ced060d.jpg
     alt:
       en: "Two printed pages from a bracero instruction booklet: page 8 ends a numbered safety tip about traffic accidents, while page 9 begins \"Recomendaciones Generales Relacionadas con el Trabajo\" listing numbered work-related guidelines."
+      es: "Dos páginas impresas de un folleto de instrucciones para braceros: la página 8 concluye un consejo numerado sobre accidentes de tránsito, y la página 9 inicia \"Recomendaciones Generales Relacionadas con el Trabajo\" con pautas laborales numeradas."
 geo:
 id: 588
 item_type: Still Image

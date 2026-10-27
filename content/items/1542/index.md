@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380911.jpg
     alt:
       en: "Large group of men in hats queue outdoors near long low buildings, with a two-story structure and distant mountains in the background at the Monterrey Processing Center, Mexico."
+      es: "Gran grupo de hombres con sombrero hacen fila al aire libre cerca de edificios bajos y alargados, con una estructura de dos pisos y montañas distantes al fondo en el Centro de Contratación de Monterrey, México."
 geo:
 id: 1542
 item_type: Still Image

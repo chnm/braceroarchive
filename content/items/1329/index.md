@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380341.jpg
     alt:
       en: "Large crowds of braceros in straw hats stand in long winding lines at the Monterrey Processing Center, with vendor stalls and onlookers scattered across the dusty open grounds."
+      es: "Grandes multitudes de braceros con sombreros de paja forman largas filas serpenteantes en el Centro de Procesamiento de Monterrey, con puestos de vendedores y espectadores dispersos por el terreno polvoriento."
 geo:
 id: 1329
 item_type: Still Image

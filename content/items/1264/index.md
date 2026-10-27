@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-leon,-asterio15b_bf551fc975.jpg
     alt:
       en: "Notarized Spanish-language certification document with dense typed paragraphs, signed by Licenciado Arturo López Corella, Notary Public Number Fourteen, featuring his handwritten signature and an official embossed seal."
+      es: "Documento de certificación notarial en español con párrafos mecanografiados densos, firmado por el Licenciado Arturo López Corella, Notario Público Número Catorce, con su firma manuscrita y un sello oficial estampado."
 geo:
 id: 1264
 item_type: Document

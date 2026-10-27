@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382918.jpg
     alt:
       en: "Black-and-white photo taken from inside a vehicle on a bridge, showing a pickup truck ahead with several passengers seated in its open bed, traveling along the highway toward Salinas, California."
+      es: "Fotografía en blanco y negro tomada desde el interior de un vehículo sobre un puente, mostrando una camioneta adelante con varios pasajeros sentados en la caja, viajando por la carretera hacia Salinas, California."
 geo:
 id: 2150
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383936.jpg
     alt:
       en: "A man wearing sunglasses and a hat sits on a suitcase amid a group of men gathered on a tree-lined street, with luggage and boxes stacked beside him."
+      es: "Un hombre con gafas de sol y sombrero se sienta sobre una maleta entre un grupo de hombres reunidos en una calle arbolada, con equipaje y cajas apiladas a su lado."
 geo:
 id: 2513
 item_type: Still Image

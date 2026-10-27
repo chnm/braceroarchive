@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381208.jpg
     alt:
       en: "A line of hat-wearing braceros walks single file across a pedestrian bridge spanning a river, with a town and trees visible in the background."
+      es: "Una fila de braceros con sombrero camina en fila sobre un puente peatonal que cruza un río, con un pueblo y árboles visibles al fondo."
 geo:
 id: 2996
 item_type: Still Image

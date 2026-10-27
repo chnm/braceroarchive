@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383727.jpg
     alt:
       en: "Black-and-white photo of braceros seated on a grassy embankment beside railroad tracks in the Salinas Valley, eating lunch from plates, with a car parked nearby and open fields in the background."
+      es: "Fotografía en blanco y negro de braceros sentados en un talud cubierto de hierba junto a las vías del tren en el Valle de Salinas, comiendo de platos, con un auto estacionado cerca y campos abiertos al fondo."
 geo:
 id: 2427
 item_type: Still Image

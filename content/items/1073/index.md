@@ -48,6 +48,7 @@ files:
     url: /files/original/santacruz,-melitona,-1961,-letter2_b3aa891b8e.jpg
     alt:
       en: "Typed letter on Security-First National Bank letterhead, dated January 20, 1961, recommending J. V. Borchard for credit, signed by C. A. Jacobson, with a notary seal and signature below."
+      es: "Carta mecanografiada con membrete del Security-First National Bank, fechada el 20 de enero de 1961, que recomienda a J. V. Borchard para crédito, firmada por C. A. Jacobson, con sello notarial y firma abajo."
 geo:
 id: 1073
 item_type: Document

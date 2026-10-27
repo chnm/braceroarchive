@@ -46,6 +46,7 @@ files:
     url: /files/original/id-card-front_4e10243768.jpg
     alt:
       en: "Non Resident Alien's Border Crossing Identification Card for Jose Gamez-Aros, with photo, physical description, and signature, numbered 372425."
+      es: "Tarjeta de Identificación de Cruce Fronterizo para Extranjero No Residente de Jose Gamez-Aros, con fotografía, descripción física y firma, numerada 372425."
 geo:
 id: 549
 item_type: Document

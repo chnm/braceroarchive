@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384427.jpg
     alt:
       en: "Black-and-white photo of braceros gathered on and around a bed playing cards in a crowded camp dormitory, with cots, hanging clothes, and a radio visible in the background."
+      es: "Foto en blanco y negro de braceros reunidos sobre y alrededor de una cama jugando cartas en un dormitorio de campamento abarrotado, con catres, ropa colgada y una radio al fondo."
 geo:
 id: 2659
 item_type: Still Image

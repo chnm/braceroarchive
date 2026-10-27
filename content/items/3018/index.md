@@ -46,6 +46,7 @@ files:
     url: /files/original/jose-porras-valadez1-rotated_a0d41108ce.jpg
     alt:
       en: "Black-and-white studio portrait of five children: four boys in overalls standing, and a girl in a dress, with the smallest child seated on a small carved table in the center."
+      es: "Retrato de estudio en blanco y negro de cinco niños: cuatro varones con overol de pie y una niña con vestido, con el más pequeño sentado en una mesita tallada al centro."
 geo:
 id: 3018
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382224.jpg
     alt:
       en: "Interior of a dimly lit bunkhouse with rows of simple beds, clothing and towels hanging from lines overhead, and two men standing near the far doorway preparing to leave."
+      es: "Interior de un dormitorio en penumbra con hileras de camas sencillas, ropa y toallas colgadas de cuerdas en el techo, y dos hombres de pie cerca de la puerta al fondo, listos para salir."
 geo:
 id: 1924
 item_type: Still Image

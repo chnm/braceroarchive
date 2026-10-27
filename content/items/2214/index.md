@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383209.jpg
     alt:
       en: "Black-and-white photo of two men in a large institutional kitchen, one in an apron stirring large pots on a stove beneath an exhaust hood, with counters and windows in the background."
+      es: "Fotografía en blanco y negro de dos hombres en una cocina institucional, uno con delantal revolviendo ollas grandes sobre una estufa bajo una campana extractora, con mostradores y ventanas al fondo."
 geo:
 id: 2214
 item_type: Still Image

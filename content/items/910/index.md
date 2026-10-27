@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-mayo-junio-1957-california-(front)_8a8409897a.jpg
     alt:
       en: "Bilingual carbon-copy work contract form for Miguel Zavala Lopez with Watsonville Growers Association, dated May 10, 1957, featuring typed employment terms and a handwritten signature with official stamps."
+      es: "Formulario de contrato de trabajo bilingüe en papel carbón de Miguel Zavala Lopez con Watsonville Growers Association, fechado el 10 de mayo de 1957, con términos de empleo mecanografiados, firma manuscrita y sellos oficiales."
 geo:
 id: 910
 item_type: Document

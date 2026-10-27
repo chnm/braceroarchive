@@ -48,6 +48,7 @@ files:
     url: /files/original/bautistarodriguezjesus---mica1_9b74277beb.jpg
     alt:
       en: "Worn \"Alien Laborer's Identification Card\" with a man's black-and-white photo, headed \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55).\""
+      es: "Tarjeta desgastada de \"Alien Laborer's Identification Card\" con foto en blanco y negro de un hombre, encabezada \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)\"."
 geo:
 id: 784
 item_type: Document

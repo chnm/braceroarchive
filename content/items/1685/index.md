@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381433.jpg
     alt:
       en: "Black-and-white photo of men in straw hats lined up at a counter as officials process paperwork and fingerprint braceros at the Hidalgo Processing Center, Texas."
+      es: "Fotografía en blanco y negro de hombres con sombreros de paja haciendo fila en un mostrador mientras funcionarios procesan documentos y toman huellas dactilares a braceros en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1685
 item_type: Still Image

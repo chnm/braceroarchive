@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380505.jpg
     alt:
       en: "A large crowd of men stands in a long line on an open dirt field, with a vintage car parked nearby and a dog wandering in the foreground, buildings and trees visible in the background."
+      es: "Una gran multitud de hombres forma una larga fila en un terreno de tierra, con un auto antiguo estacionado cerca y un perro en primer plano; al fondo se ven edificios y árboles."
 geo:
 id: 1386
 item_type: Still Image

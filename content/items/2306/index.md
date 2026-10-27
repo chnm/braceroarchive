@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383544.jpg
     alt:
       en: "Black-and-white photograph of long, converging crop rows stretching across a flat agricultural field, with low farm buildings and distant mountains on the horizon under a pale sky."
+      es: "Fotografía en blanco y negro de largas hileras de cultivos convergentes que se extienden por un campo agrícola plano, con bajas construcciones agrícolas y montañas lejanas en el horizonte bajo un cielo pálido."
 geo:
 id: 2306
 item_type: Still Image

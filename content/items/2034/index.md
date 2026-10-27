@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382611.jpg
     alt:
       en: "Braceros wearing wide-brimmed hats gather in a line receiving plates of food at a roadside lunch stop beside a field, with crates of bottled drinks and bread in the foreground."
+      es: "Braceros con sombreros de ala ancha forman una fila recibiendo platos de comida en una parada junto a un campo, con cajas de botellas y pan en primer plano."
 geo:
 id: 2034
 item_type: Still Image

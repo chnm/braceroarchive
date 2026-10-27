@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380612.jpg
     alt:
       en: "A long line of men in wide-brimmed hats and light clothing, many carrying bundles, stands along a building wall at the Monterrey Processing Center awaiting processing."
+      es: "Una larga fila de hombres con sombreros de ala ancha y ropa clara, muchos cargando bultos, espera junto a un muro del Centro de Procesamiento de Monterrey."
 geo:
 id: 1418
 item_type: Still Image

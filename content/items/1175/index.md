@@ -48,6 +48,7 @@ files:
     url: /files/original/roman-gaxiola,-manuel-de-jesus,-standard-work-contract_56bab3a428.jpg
     alt:
       en: "Bilingual printed document titled \"Standard Work Contract, As Amended / Contrato Tipo de Trabajo, Bajo Enmienda,\" with numbered clauses on lodging, insurance, and occupational risks, plus a compensation table for injuries."
+      es: "Documento impreso bilingüe titulado \"Standard Work Contract, As Amended / Contrato Tipo de Trabajo, Bajo Enmienda\", con cláusulas numeradas sobre alojamiento, seguros y riesgos profesionales, además de una tabla de compensación por lesiones."
 geo:
 id: 1175
 item_type: Document

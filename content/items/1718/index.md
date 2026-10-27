@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381644.jpg
     alt:
       en: "A crowd of men in wide-brimmed hats gathers in a circle outdoors near a corrugated metal roof structure, with a woman standing among them in the center beside seated figures."
+      es: "Una multitud de hombres con sombreros de ala ancha se reúne en círculo al aire libre cerca de una estructura con techo de metal corrugado, con una mujer de pie entre ellos junto a figuras sentadas."
 geo:
 id: 1718
 item_type: Still Image

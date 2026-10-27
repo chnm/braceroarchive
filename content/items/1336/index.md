@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380336.jpg
     alt:
       en: "Black-and-white photo of a crowded dining hall at the Monterrey Processing Center, with many hatted braceros seated at long tables eating from metal plates and cups."
+      es: "Foto en blanco y negro de un comedor abarrotado en el Centro de Contratación de Monterrey, con muchos braceros con sombrero sentados en largas mesas comiendo en platos y tazas de metal."
 geo:
 id: 1336
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384423.jpg
     alt:
       en: "Black-and-white photo of a bracero camp sleeping area, with clothing hanging on a line above cots, trunks, and a bag on the floor."
+      es: "Fotografía en blanco y negro de una zona de dormitorio en un campamento de braceros, con ropa colgada en una cuerda sobre catres, baúles y una bolsa en el suelo."
 geo:
 id: 2655
 item_type: Still Image

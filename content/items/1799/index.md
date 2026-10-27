@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381933.jpg
     alt:
       en: "Aerial black-and-white photograph of plowed agricultural fields in California, showing long parallel furrows stretching into the distance, with the shadow of the airplane visible in the lower left corner."
+      es: "Fotografía aérea en blanco y negro de campos agrícolas arados en California, con largos surcos paralelos que se extienden hacia el horizonte, y la sombra del avión visible en la esquina inferior izquierda."
 geo:
 id: 1799
 item_type: Still Image

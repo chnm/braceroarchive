@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383303.jpg
     alt:
       en: "A man wearing a cowboy hat and vest stacks \"Toro Lettuce\" boxes onto a truck bed already loaded with similar crates, in black and white."
+      es: "Un hombre con sombrero vaquero y chaleco apila cajas de \"Toro Lettuce\" en la plataforma de un camión ya cargado con cajas similares, en blanco y negro."
 geo:
 id: 2267
 item_type: Still Image

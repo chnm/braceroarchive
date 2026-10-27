@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382430.jpg
     alt:
       en: "Black-and-white photo of a group of men gathered around a station wagon with its rear hatch open in a dirt lot, with long barracks-style buildings in the background."
+      es: "Foto en blanco y negro de un grupo de hombres reunidos alrededor de una camioneta con el portón trasero abierto en un terreno de tierra, con edificios tipo barracas al fondo."
 geo:
 id: 1994
 item_type: Still Image

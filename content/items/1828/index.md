@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381903.jpg
     alt:
       en: "A charter bus drives past a large group of braceros waiting in line with luggage under a covered pavilion in Stockton, California."
+      es: "Un autobús fletado pasa frente a un gran grupo de braceros que esperan en fila con equipaje bajo un pabellón techado en Stockton, California."
 geo:
 id: 1828
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382407.jpg
     alt:
       en: "Crowd of men in cowboy hats gathers around an official holding paychecks and documents, with a bus and building visible in the background."
+      es: "Multitud de hombres con sombreros vaqueros rodea a un oficial que sostiene cheques y documentos, con un autobús y un edificio visibles al fondo."
 geo:
 id: 1971
 item_type: Still Image

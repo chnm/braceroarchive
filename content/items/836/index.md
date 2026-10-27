@@ -46,6 +46,7 @@ files:
     url: /files/original/luciano-manriquez---las-cruces,-nm-1950_60500653d1.jpg
     alt:
       en: "Black-and-white photo of a man crouched among harvested crops in a field, with trees and distant hills visible behind a tarp-lined row; the worn photograph has creased, torn edges."
+      es: "Fotografía en blanco y negro de un hombre agachado entre cultivos cosechados en un campo, con árboles y colinas lejanas visibles detrás de una hilera cubierta con lona; la fotografía desgastada tiene bordes arrugados y rasgados."
 geo:
 id: 836
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384434.jpg
     alt:
       en: "Three men rest on metal-frame beds in a bracero camp dormitory, with clothing hung along the walls and sunlight streaming through a window."
+      es: "Tres hombres descansan en camas de estructura metálica en un dormitorio de un campamento de braceros, con ropa colgada en las paredes y luz solar entrando por una ventana."
 geo:
 id: 2666
 item_type: Still Image

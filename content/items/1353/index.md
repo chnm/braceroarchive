@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380423.jpg
     alt:
       en: "A long line of men wearing hats and carrying bags stretches across a dusty lot toward parked buses, with a building visible on the right at the Monterrey Processing Center."
+      es: "Una larga fila de hombres con sombreros y bolsas se extiende por un terreno polvoriento hacia autobuses estacionados, con un edificio visible a la derecha en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1353
 item_type: Still Image

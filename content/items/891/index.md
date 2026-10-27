@@ -48,6 +48,7 @@ files:
     url: /files/original/contrato-texas-julio-agosto-1961_f26806a03e.jpg
     alt:
       en: "Typed bilingual \"Continuation of Standard Work Contract\" form for Liborio Santiago Perez, dated July 11, 1961, with contract number, wage rates, and signatures of worker and representatives."
+      es: "Formulario bilingüe mecanografiado de \"Continuación del Contrato Tipo de Trabajo\" para Liborio Santiago Pérez, fechado el 11 de julio de 1961, con número de contrato, tarifas salariales y firmas del trabajador y representantes."
 geo:
 id: 891
 item_type: Document

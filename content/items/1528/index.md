@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380932.jpg
     alt:
       en: "A shirtless man wearing a cowboy hat receives a vaccination in his upper arm from a uniformed nurse, with other men and staff visible in the background hall."
+      es: "Un hombre sin camisa con sombrero de vaquero recibe una vacuna en el brazo de una enfermera uniformada, mientras otros hombres y personal se observan en el fondo del salón."
 geo:
 id: 1528
 item_type: Still Image

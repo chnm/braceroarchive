@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381233.jpg
     alt:
       en: "Black-and-white photo of men in hats walking along a wooden ramp between raised platforms at the Hidalgo Processing Center, with cars and buildings visible in the background."
+      es: "Foto en blanco y negro de hombres con sombrero caminando por una rampa de madera entre plataformas elevadas en el Centro de Procesamiento de Hidalgo, con autos y edificios al fondo."
 geo:
 id: 1614
 item_type: Still Image

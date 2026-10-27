@@ -51,6 +51,7 @@ files:
     url: /files/original/mica-front_7ae06dcfaf.jpg
     alt:
       en: "Alien Laborer's Identification Card with a photograph of a man, printed with \"UNITED STATES DEPARTMENT OF JUSTICE, Immigration and Naturalization Service - I - 100D (12-7-55).\""
+      es: "Tarjeta de Identificación de Trabajador Extranjero con fotografía de un hombre, impresa con \"UNITED STATES DEPARTMENT OF JUSTICE, Immigration and Naturalization Service - I - 100D (12-7-55).\""
 geo:
 id: 497
 item_type: Document

@@ -48,6 +48,7 @@ files:
     url: /files/original/sanchezperezbaltazar1_1ff3c9131e.jpg
     alt:
       en: "Alien laborer's identification card for Sanchez-Perez, Baltazar, listing Mexico address and birthplace, admission at Calexico, Calif. on 6-8-60, with ID number L3488790 and a signature below \"MICA.\""
+      es: "Tarjeta de identificación de trabajador extranjero de Sánchez-Pérez, Baltazar, con domicilio y lugar de nacimiento en México, admitido en Calexico, Calif. el 6-8-60, número L3488790 y firma bajo \"MICA\"."
 geo:
 id: 1266
 item_type: Document

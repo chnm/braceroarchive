@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382433.jpg
     alt:
       en: "Group of men gathered around the open rear of a van in a labor camp, with a peddler displaying small appliances on the tailgate as one bracero examines an electric razor."
+      es: "Grupo de hombres reunidos alrededor de la parte trasera abierta de una camioneta en un campamento laboral, con un vendedor ambulante mostrando pequeños electrodomésticos sobre la compuerta mientras un bracero examina una rasuradora eléctrica."
 geo:
 id: 1997
 item_type: Still Image

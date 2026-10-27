@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382629.jpg
     alt:
       en: "Black-and-white photo of numerous laborers scattered across a large furrowed field, bent over harvesting crops, with hills and a hazy sky in the distance."
+      es: "Fotografía en blanco y negro de numerosos trabajadores dispersos en un amplio campo surcado, inclinados cosechando cultivos, con colinas y un cielo brumoso al fondo."
 geo:
 id: 2052
 item_type: Still Image

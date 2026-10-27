@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385523.jpg
     alt:
       en: "Black-and-white photo of men gathered outside a storefront with Coca-Cola, 7UP, and Budweiser signs in Watsonville, California, as others walk along the sidewalk nearby."
+      es: "Fotografía en blanco y negro de hombres reunidos frente a una tienda con letreros de Coca-Cola, 7UP y Budweiser en Watsonville, California, mientras otros caminan por la acera cercana."
 geo:
 id: 2950
 item_type: Still Image

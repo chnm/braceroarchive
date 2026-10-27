@@ -48,6 +48,7 @@ files:
     url: /files/original/instructivo-p20-21_f8f5c8a6db.jpg
     alt:
       en: "Open booklet pages 20-21 with Spanish text; page 21 headed \"Derechos en Materia de Seguros\" and \"Accidentes y Enfermedades por Causa del Trabajo,\" detailing insurance rights for braceros."
+      es: "Páginas 20-21 de un folleto abierto con texto en español; la página 21 lleva los encabezados \"Derechos en Materia de Seguros\" y \"Accidentes y Enfermedades por Causa del Trabajo\", detallando los derechos de seguro de los braceros."
 geo:
 id: 594
 item_type: Still Image

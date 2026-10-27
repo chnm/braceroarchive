@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384026.jpg
     alt:
       en: "Aerial view of braceros stooped in long rows of a lettuce field, harvesting and packing crops in the Salinas Valley, California, with vehicles and distant hills visible."
+      es: "Vista aérea de braceros agachados en largas hileras de un campo de lechugas, cosechando y empacando el producto en el Valle de Salinas, California, con vehículos y colinas al fondo."
 geo:
 id: 2537
 item_type: Still Image

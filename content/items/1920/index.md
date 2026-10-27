@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382220.jpg
     alt:
       en: "Men sit on cots in a long wooden barracks lined with rows of beds, hanging jackets, and metal trunks, with overhead lights illuminating the room."
+      es: "Hombres sentados en catres dentro de un largo barracón de madera, con hileras de camas, chaquetas colgadas y baúles metálicos, iluminado por luces en el techo."
 geo:
 id: 1920
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384218.jpg
     alt:
       en: "Black-and-white photo of rolling hillsides overlooking a plowed field and a row of barrack-like buildings, with two children walking along a dirt path in the foreground."
+      es: "Fotografía en blanco y negro de colinas onduladas sobre un campo arado y una hilera de edificios tipo barracón, con dos niños caminando por un sendero de tierra en primer plano."
 geo:
 id: 2592
 item_type: Still Image

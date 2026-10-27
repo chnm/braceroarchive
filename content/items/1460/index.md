@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380724.jpg
     alt:
       en: "Large group of men in cowboy hats line up with bundled belongings outside stucco buildings at the Monterrey Processing Center, a ladder leaning against a wall nearby."
+      es: "Gran grupo de hombres con sombreros vaqueros hacen fila con sus pertenencias en bultos frente a edificios de estuco en el Centro de Procesamiento de Monterrey, con una escalera apoyada contra una pared cercana."
 geo:
 id: 1460
 item_type: Still Image

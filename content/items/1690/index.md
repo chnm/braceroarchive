@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381504.jpg
     alt:
       en: "A large crowd of men wearing wide-brimmed hats stand in line in an outdoor courtyard, with a man in a suit walking past them near a brick building."
+      es: "Una gran multitud de hombres con sombreros de ala ancha hace fila en un patio al aire libre, mientras un hombre con traje camina junto a ellos cerca de un edificio de ladrillo."
 geo:
 id: 1690
 item_type: Still Image

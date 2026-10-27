@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382206.jpg
     alt:
       en: "Row of conical tents enclosed by fencing in a bracero camp, with a large wooden barn and parked car visible in the background, trees lining the dirt yard."
+      es: "Hilera de tiendas cónicas cercadas con malla en un campamento de braceros, con un gran granero de madera y un auto estacionado al fondo, entre árboles que bordean el patio de tierra."
 geo:
 id: 1906
 item_type: Still Image

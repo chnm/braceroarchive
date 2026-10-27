@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380211.jpg
     alt:
       en: "A shirtless man stands at a chest X-ray machine while another man assists him, inside the Hidalgo Processing Center examination room."
+      es: "Un hombre sin camisa se coloca frente a una máquina de rayos X de tórax mientras otro hombre lo asiste, dentro de la sala de examen del Centro de Procesamiento de Hidalgo."
 geo:
 id: 1288
 item_type: Still Image

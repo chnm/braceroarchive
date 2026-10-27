@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382317.jpg
     alt:
       en: "A man reclines on a striped mattress in a dimly lit bunkhouse, sunlight from a nearby window illuminating his face, while other men sit and talk in the background."
+      es: "Un hombre reclinado sobre un colchón a rayas en un dormitorio en penumbra, con luz de una ventana cercana iluminando su rostro, mientras otros hombres conversan sentados al fondo."
 geo:
 id: 1946
 item_type: Still Image

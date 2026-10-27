@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383429.jpg
     alt:
       en: "Black-and-white photo of farmworkers bent among long rows of lettuce in a Salinas Valley field, with wooden harvest crates and a metal funnel in the foreground."
+      es: "Foto en blanco y negro de trabajadores agrícolas agachados entre largas hileras de lechuga en un campo del Valle de Salinas, con cajas de madera para la cosecha y un embudo metálico en primer plano."
 geo:
 id: 2278
 item_type: Still Image

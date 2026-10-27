@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380515.jpg
     alt:
       en: "Black-and-white photo of braceros wearing hats gathered around tables in a long shed-like building, preparing food together in their shared living quarters."
+      es: "Foto en blanco y negro de braceros con sombreros reunidos alrededor de mesas en un galpón alargado, preparando alimentos juntos en sus habitaciones compartidas."
 geo:
 id: 1396
 item_type: Still Image

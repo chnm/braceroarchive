@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381501.jpg
     alt:
       en: "Black-and-white photo of a crowd of men in hats lined up along a sidewalk outside an ornate stone building, with a sign reading \"GRATIS\" posted beside the entrance."
+      es: "Foto en blanco y negro de una multitud de hombres con sombrero formados en la acera frente a un edificio de piedra ornamentado, con un letrero que dice \"GRATIS\" junto a la entrada."
 geo:
 id: 1687
 item_type: Still Image

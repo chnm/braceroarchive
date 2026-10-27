@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381221.jpg
     alt:
       en: "A long line of men stretches beneath an open-sided covered shed at the Hidalgo Processing Center, with additional buildings and a cloudy sky in the background."
+      es: "Una larga fila de hombres se extiende bajo un cobertizo abierto en el Centro de Procesamiento de Hidalgo, con edificios adicionales y un cielo nublado al fondo."
 geo:
 id: 1626
 item_type: Still Image

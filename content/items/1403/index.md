@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380522.jpg
     alt:
       en: "Black-and-white photo of braceros lined up along a long counter with pots and basins in a shed-like camp kitchen near McAllen, Texas, preparing food together."
+      es: "Foto en blanco y negro de braceros formados junto a un largo mostrador con ollas y recipientes en la cocina de un campamento tipo galpón cerca de McAllen, Texas, preparando alimentos juntos."
 geo:
 id: 1403
 item_type: Still Image

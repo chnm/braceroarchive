@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383130.jpg
     alt:
       en: "Black-and-white photo of workers bent over in a large field, harvesting and boxing lettuce in long rows, with hills and a hazy sky in the background."
+      es: "Foto en blanco y negro de trabajadores agachados en un gran campo, cosechando y empacando lechuga en hileras largas, con colinas y un cielo brumoso al fondo."
 geo:
 id: 2178
 item_type: Still Image

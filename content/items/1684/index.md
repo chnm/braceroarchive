@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381431.jpg
     alt:
       en: "Interior of a large processing hall with rows of desks where typists complete paperwork for braceros, many wearing hats, as lines of men wait throughout the room."
+      es: "Interior de una gran sala de procesamiento con filas de escritorios donde mecanógrafas completan documentos para braceros, muchos con sombrero, mientras filas de hombres esperan en toda la sala."
 geo:
 id: 1684
 item_type: Still Image

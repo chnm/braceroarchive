@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380444.jpg
     alt:
       en: "Large crowd of men in straw hats gathers outdoors at the Monterrey Processing Center, with fenced pathways, a tent, and a hill visible in the background."
+      es: "Gran multitud de hombres con sombreros de paja se reúne al aire libre en el Centro de Procesamiento de Monterrey, con senderos cercados, una carpa y un cerro al fondo."
 geo:
 id: 1372
 item_type: Still Image

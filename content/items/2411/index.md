@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383703.jpg
     alt:
       en: "A man stands atop a flatbed truck assembling lettuce boxes using a machine, while rows of workers in a Salinas Valley field fill crates with harvested lettuce under an open sky."
+      es: "Un hombre de pie sobre un camión plano arma cajas de lechuga con una máquina, mientras filas de trabajadores en un campo del Valle de Salinas llenan cajones con lechuga cosechada bajo un cielo despejado."
 geo:
 id: 2411
 item_type: Still Image

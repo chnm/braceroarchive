@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380717.jpg
     alt:
       en: "Large crowd of men wearing hats stand in lines outdoors, some holding handwritten signs, with a brick building and hills visible in the background at the Monterrey Processing Center."
+      es: "Gran multitud de hombres con sombrero formados en filas al aire libre, algunos sosteniendo carteles escritos a mano, con un edificio de ladrillo y cerros al fondo en el Centro de Contratación de Monterrey."
 geo:
 id: 1465
 item_type: Still Image

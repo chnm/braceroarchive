@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380917.jpg
     alt:
       en: "A large crowd of men in straw hats waits outside a barbed wire enclosure, while a few individuals pass through a gated entry point at the Monterrey Processing Center."
+      es: "Una gran multitud de hombres con sombreros de paja espera fuera de un cercado de alambre de púas, mientras unos pocos individuos pasan por un punto de entrada en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1536
 item_type: Still Image

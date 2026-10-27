@@ -46,6 +46,7 @@ files:
     url: /files/original/margarita-4_91634b5e0e.jpg
     alt:
       en: "Sepia-toned, worn photograph of a man wearing a hat and sunglasses seated beside a young girl in a grassy field, with sheep grazing in the background."
+      es: "Fotografía antigua en tono sepia de un hombre con sombrero y gafas de sol sentado junto a una niña pequeña en un campo de hierba, con ovejas pastando al fondo."
 geo:
 id: 947
 item_type: Still Image

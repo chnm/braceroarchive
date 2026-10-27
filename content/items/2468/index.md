@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383824.jpg
     alt:
       en: "A bracero's sleeping area with a wooden bunk, clothing and towels hung on diagonal wall beams, small devotional pictures pinned to the wall, and a straw hat mounted above the bed."
+      es: "Área para dormir de un bracero con una litera de madera, ropa y toallas colgadas en las vigas diagonales de la pared, pequeñas estampas religiosas y un sombrero de paja sobre la cama."
 geo:
 id: 2468
 item_type: Still Image

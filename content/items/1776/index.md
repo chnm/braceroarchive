@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381727.jpg
     alt:
       en: "Shirtless man wearing a cowboy hat receives a vaccination from a uniformed nurse at a table, as a line of other men waits behind him in a large hall with a \"Vaccination\" sign overhead."
+      es: "Hombre sin camisa con sombrero de vaquero recibe una vacuna de una enfermera uniformada en una mesa, mientras otros hombres esperan en fila bajo un letrero que dice \"Vaccination\"."
 geo:
 id: 1776
 item_type: Still Image

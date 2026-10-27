@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383415.jpg
     alt:
       en: "A bracero bends to fill a lettuce box in a Salinas Valley field, with other workers harvesting rows of lettuce in the background under an open sky."
+      es: "Un bracero se inclina para llenar una caja de lechuga en un campo del Valle de Salinas, mientras otros trabajadores cosechan hileras de lechuga al fondo bajo un cielo abierto."
 geo:
 id: 2288
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381424.jpg
     alt:
       en: "A long line of men in hats and work clothes waits under an open-air shelter at the Hidalgo Processing Center, while an official in uniform reviews documents at a small table."
+      es: "Una larga fila de hombres con sombreros y ropa de trabajo espera bajo un cobertizo abierto en el Centro de Procesamiento de Hidalgo, mientras un oficial uniformado revisa documentos en una pequeña mesa."
 geo:
 id: 1677
 item_type: Still Image

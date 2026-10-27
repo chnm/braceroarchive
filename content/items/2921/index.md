@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385406.jpg
     alt:
       en: "Silhouetted figures in hats walk single file across a field at dusk, with power lines and poles crossing the glowing horizon above."
+      es: "Figuras siluetadas con sombreros caminan en fila por un campo al atardecer, con postes y cables eléctricos cruzando el horizonte resplandeciente."
 geo:
 id: 2921
 item_type: Still Image

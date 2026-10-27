@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384936.jpg
     alt:
       en: "A bracero bends low over rows of plants, using a short-handled hoe to loosen soil in a California pepper field, with other workers faintly visible in the distant background."
+      es: "Un bracero se inclina sobre hileras de plantas, usando un azadón de mango corto para aflojar la tierra en un campo de chile en California, con otros trabajadores apenas visibles al fondo."
 geo:
 id: 2813
 item_type: Still Image

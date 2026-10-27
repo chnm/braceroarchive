@@ -46,6 +46,7 @@ files:
     url: /files/original/jul28_06_645fe6c2d9.jpg
     alt:
       en: "Printed and handwritten \"Continuation of Standard Work Contract\" form for Nicolas Osorio Ismael, listing address, marital status, beneficiary Elena Zafra de Osorio, employer Grower Farm Labor Association, and work location in Salinas, California, with purple official stamps."
+      es: "Formulario impreso y manuscrito \"Continuación del Contrato Tipo de Trabajo\" de Nicolás Osorio Ismael, con dirección, estado civil, beneficiaria Elena Zafra de Osorio, empleador Grower Farm Labor Association y lugar de trabajo en Salinas, California, con sellos oficiales morados."
 geo:
 id: 799
 item_type: Still Image

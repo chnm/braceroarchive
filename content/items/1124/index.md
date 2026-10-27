@@ -48,6 +48,7 @@ files:
     url: /files/original/montesroblesmanuelgobernacionworkerid2_4005d9244c.jpg
     alt:
       en: "Worn, stained card back with upside-down printed Spanish instructions (\"INSTRUCCIONES\") about registering with Mexican authorities, plus a faint ink signature or mark near the center."
+      es: "Reverso de tarjeta desgastada y manchada con instrucciones impresas en español (\"INSTRUCCIONES\") colocadas al revés, además de una firma o marca de tinta tenue cerca del centro."
 geo:
 id: 1124
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384525.jpg
     alt:
       en: "Two braceros wearing wide-brimmed hats stand together as one pours produce from a can into a sack held by the other, with filled bags and rows of crops stretching across the field behind them."
+      es: "Dos braceros con sombreros de ala ancha están de pie mientras uno vierte cosecha de una lata en un costal sostenido por el otro, con bolsas llenas y surcos de cultivo detrás de ellos."
 geo:
 id: 2692
 item_type: Still Image

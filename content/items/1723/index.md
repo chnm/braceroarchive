@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381640.jpg
     alt:
       en: "Black-and-white photo of men in straw hats and light clothing, carrying striped bags, lining up outdoors as one shows documents to an official seated at a small table."
+      es: "Foto en blanco y negro de hombres con sombreros de paja y ropa clara, cargando bolsas a rayas, formados afuera mientras uno muestra documentos a un funcionario sentado en una mesa pequeña."
 geo:
 id: 1723
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381135.jpg
     alt:
       en: "Black-and-white photo of a seated official reviewing a document at a table while a man in a straw hat stands waiting; others in hats line up in the background hall."
+      es: "Foto en blanco y negro de un funcionario sentado revisando un documento en una mesa mientras un hombre con sombrero de paja espera de pie; otros hombres con sombrero hacen fila al fondo del salón."
 geo:
 id: 1601
 item_type: Still Image

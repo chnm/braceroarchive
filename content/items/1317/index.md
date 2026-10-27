@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380309.jpg
     alt:
       en: "Shirtless braceros, many wearing wide-brimmed hats, stand in line at desks dictating information to seated clerk typists in a large hall at the Monterrey Processing Center."
+      es: "Braceros sin camisa, muchos con sombreros de ala ancha, hacen fila ante escritorios dictando información a mecanógrafas sentadas en un gran salón del Centro de Procesamiento de Monterrey."
 geo:
 id: 1317
 item_type: Still Image

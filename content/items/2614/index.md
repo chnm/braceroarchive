@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384306.jpg
     alt:
       en: "Black-and-white photo of workers bent over in long rows of a lettuce field, with a flatbed truck parked nearby and utility poles lining the horizon."
+      es: "Foto en blanco y negro de trabajadores agachados en largas hileras de un campo de lechuga, con un camión de plataforma estacionado cerca y postes de luz a lo largo del horizonte."
 geo:
 id: 2614
 item_type: Still Image

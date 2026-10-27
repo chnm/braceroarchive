@@ -51,6 +51,7 @@ files:
     url: /files/original/id-card-front_6112dd5270.jpg
     alt:
       en: "Alien Laborer's Identification Card with a photo of a man, issued by the U.S. Department of Justice, Immigration and Naturalization Service, form I-100D (12-7-55)."
+      es: "Tarjeta de Identificación de Trabajador Extranjero con la foto de un hombre, emitida por el Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización, formulario I-100D (12-7-55)."
 geo:
 id: 498
 item_type: Document

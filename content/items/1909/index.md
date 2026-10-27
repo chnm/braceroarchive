@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382209.jpg
     alt:
       en: "A solid black frame with no discernible image content, consistent with the item's \"no image\" title."
+      es: "Un cuadro completamente negro sin contenido visual discernible, acorde con el título \"sin imagen\" del elemento."
 geo:
 id: 1909
 item_type: Still Image

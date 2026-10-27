@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383918.jpg
     alt:
       en: "Black-and-white photo of a crowd of men, some wearing sombreros, gathered outside a building, with several in the foreground looking toward the camera."
+      es: "Fotografía en blanco y negro de una multitud de hombres, algunos con sombreros, reunidos frente a un edificio, con varios en primer plano mirando hacia la cámara."
 geo:
 id: 2496
 item_type: Still Image

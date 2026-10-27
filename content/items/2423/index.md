@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383723.jpg
     alt:
       en: "Black-and-white photo of braceros resting and eating lunch on bare earth beside a cultivated field, with other workers crouched among crop rows in the background, Salinas Valley, California."
+      es: "Fotografía en blanco y negro de braceros descansando y almorzando sobre tierra desnuda junto a un campo cultivado, con otros trabajadores agachados entre los surcos al fondo, en el Valle de Salinas, California."
 geo:
 id: 2423
 item_type: Still Image

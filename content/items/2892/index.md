@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385301.jpg
     alt:
       en: "Black-and-white photo of braceros seated at long wooden tables eating in a crowded dining hall, with an American flag hanging on the wall and ceiling lights overhead."
+      es: "Fotografía en blanco y negro de braceros sentados en largas mesas de madera comiendo en un comedor repleto, con una bandera estadounidense colgada en la pared y luces de techo encendidas."
 geo:
 id: 2892
 item_type: Still Image

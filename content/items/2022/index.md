@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382523.jpg
     alt:
       en: "Black-and-white photo of a bracero camp sleeping quarters with cots, wooden storage crates, shelving, hanging clothes, and a window, floor drain visible in foreground."
+      es: "Fotografía en blanco y negro de un dormitorio en un campamento bracero con catres, cajones de madera, estantes, ropa colgada y una ventana; se ve un desagüe en el piso en primer plano."
 geo:
 id: 2022
 item_type: Still Image

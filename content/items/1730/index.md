@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381635.jpg
     alt:
       en: "Large crowd of men wearing hats fills an open-sided building, some seated on the floor and others standing, awaiting processing at the Monterrey Processing Center."
+      es: "Gran multitud de hombres con sombrero llena un edificio de lado abierto, algunos sentados en el suelo y otros de pie, esperando ser procesados en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1730
 item_type: Still Image

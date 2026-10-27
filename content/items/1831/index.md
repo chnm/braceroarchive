@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381906.jpg
     alt:
       en: "Braceros line up with luggage along a tree-lined street in Stockton, California, as two buses wait in the background and officials distribute documents."
+      es: "Braceros hacen fila con su equipaje a lo largo de una calle arbolada en Stockton, California, mientras dos autobuses esperan al fondo y funcionarios distribuyen documentos."
 geo:
 id: 1831
 item_type: Still Image

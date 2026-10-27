@@ -46,6 +46,7 @@ files:
     url: /files/original/winnemucca-nevada,-1953-(second-left-to-right)-(cuando-traba_aef9855938.jpg
     alt:
       en: "Four men crouch together outdoors near a ball, with a truck and wooden buildings behind them; this vintage sepia-toned photo has decorative scalloped edges."
+      es: "Cuatro hombres se agachan juntos al aire libre cerca de una pelota, con un camión y edificios de madera detrás; fotografía vintage en tono sepia con bordes decorativos festoneados."
 geo:
 id: 858
 item_type: Still Image

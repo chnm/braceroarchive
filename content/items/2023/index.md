@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382524.jpg
     alt:
       en: "Interior of a bracero living quarters with metal-frame beds, wooden storage boxes, clothing hanging on hooks, and shelves lined with personal items along the walls."
+      es: "Interior de un alojamiento de braceros con camas de armazón metálico, cajas de madera para guardar objetos, ropa colgada en ganchos y repisas con artículos personales a lo largo de las paredes."
 geo:
 id: 2023
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/montesrobles-manuelworkersconract2_b87d867f3a.jpg
     alt:
       en: "Typed wage schedule from Central Coast Farm Labor Assn. listing piece-rate pay by crop and task in English and Spanish, printed on worn, creased paper with visible fold lines and a staple mark."
+      es: "Lista mecanografiada de salarios a destajo de Central Coast Farm Labor Assn., con tareas y cultivos en inglés y español, sobre papel desgastado con pliegues y marca de grapa."
 geo:
 id: 1122
 item_type: Document

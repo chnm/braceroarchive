@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384106.jpg
     alt:
       en: "Black-and-white photo taken through a doorway of three braceros seated on a bed and chair playing cards in a sparse wood-paneled room, with clothes hanging above and shoes on the floor."
+      es: "Fotografía en blanco y negro tomada a través de una puerta de tres braceros sentados en una cama y una silla jugando cartas en una habitación sencilla con paneles de madera, con ropa colgada arriba y zapatos en el suelo."
 geo:
 id: 2554
 item_type: Still Image

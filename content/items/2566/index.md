@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384118.jpg
     alt:
       en: "A man leans over a row of large basin sinks doing laundry in a camp bathroom, with a hose draped across the nearest basin and a \"FAB\" detergent sign visible on the wall."
+      es: "Un hombre se inclina sobre una fila de grandes lavabos lavando ropa en el baño de un campamento, con una manguera sobre el lavabo más cercano y un cartel de detergente \"FAB\" en la pared."
 geo:
 id: 2566
 item_type: Still Image

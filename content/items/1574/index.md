@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381040.jpg
     alt:
       en: "Groups of men sit and crouch along railroad tracks near a fenced area and low buildings, with mountains visible in the hazy distance at the Monterrey Processing Center."
+      es: "Grupos de hombres sentados y en cuclillas junto a las vías del tren cerca de un área cercada y edificios bajos, con montañas visibles entre la neblina al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1574
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/martinez,-faustino---passport-3_697f863ea5.jpg
     alt:
       en: "Passport pages showing printed \"FILIACIONES\" physical description fields and \"FOTOGRAFIAS\" section with a man's photograph, fingerprint, and signature reading \"Faustino Martinez B.\""
+      es: "Páginas de pasaporte con el campo impreso \"FILIACIONES\" de datos físicos y la sección \"FOTOGRAFIAS\" con la foto de un hombre, su huella digital y la firma \"Faustino Martinez B.\""
 geo:
 id: 1113
 item_type: Document

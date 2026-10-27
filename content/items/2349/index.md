@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383617.jpg
     alt:
       en: "Black-and-white photo of a row of wooden barracks at a labor camp in Gonzales, California, with several men standing or leaning against the buildings in the dirt yard."
+      es: "Fotografía en blanco y negro de una hilera de barracones de madera en un campamento laboral en Gonzales, California, con varios hombres de pie o recostados contra los edificios en el patio de tierra."
 geo:
 id: 2349
 item_type: Still Image

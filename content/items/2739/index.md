@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384711.jpg
     alt:
       en: "A nurse inserts a thermometer into the mouth of a standing bracero, while other men wait seated in rows behind them in a plain institutional room."
+      es: "Una enfermera inserta un termómetro en la boca de un bracero de pie, mientras otros hombres esperan sentados en filas detrás de ellos en una habitación sencilla."
 geo:
 id: 2739
 item_type: Still Image

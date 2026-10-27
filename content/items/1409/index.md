@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380528.jpg
     alt:
       en: "Two braceros in wide-brimmed hats stand at a table preparing tortillas, while another sits on a bench eating, in an open-air kitchen area with stoves and sinks nearby."
+      es: "Dos braceros con sombreros de ala ancha preparan tortillas de pie junto a una mesa, mientras otro está sentado en una banca comiendo, en una cocina al aire libre con estufas y fregaderos cerca."
 geo:
 id: 1409
 item_type: Still Image

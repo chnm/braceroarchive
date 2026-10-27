@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401385614.jpg
     alt:
       en: "Black-and-white portrait of a young bracero in a wide-brimmed hat and button-up shirt standing in a California field, with other workers visible in the background."
+      es: "Retrato en blanco y negro de un joven bracero con sombrero de ala ancha y camisa de botones, de pie en un campo de California, con otros trabajadores visibles al fondo."
 geo:
 id: 2974
 item_type: Still Image

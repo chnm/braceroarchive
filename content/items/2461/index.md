@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383817.jpg
     alt:
       en: "Black-and-white photo of braceros resting on cots in a crowded camp living quarter, one man propped up on an elbow looking toward the camera while another lies nearby."
+      es: "Fotografía en blanco y negro de braceros descansando en catres en un dormitorio abarrotado del campamento, uno apoyado en el codo mirando hacia la cámara y otro recostado cerca."
 geo:
 id: 2461
 item_type: Still Image

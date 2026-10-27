@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381522.jpg
     alt:
       en: "Black-and-white photo of a man in a suit standing behind an office desk, speaking and gesturing with a cigarette in hand; two rotary telephones sit on a side table behind him."
+      es: "Fotografía en blanco y negro de un hombre con traje de pie detrás de un escritorio de oficina, hablando y gesticulando con un cigarrillo en la mano; detrás de él, dos teléfonos de disco sobre una mesa auxiliar."
 geo:
 id: 1708
 item_type: Still Image

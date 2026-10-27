@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382205.jpg
     alt:
       en: "Black-and-white photo of a large wooden barn with a car parked nearby and a group of braceros seated in a row along its entrance, resting in the shade."
+      es: "Fotografía en blanco y negro de un gran granero de madera con un auto estacionado cerca y un grupo de braceros sentados en fila junto a la entrada, descansando a la sombra."
 geo:
 id: 1905
 item_type: Still Image

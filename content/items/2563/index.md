@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384115.jpg
     alt:
       en: "Black-and-white photo of men at a row of sinks along a wall in a camp washroom, one in the foreground holding a small mirror while shaving, another washing up further back."
+      es: "Foto en blanco y negro de hombres junto a una fila de lavabos en un baño de campamento; uno en primer plano sostiene un espejo pequeño mientras se afeita, y otro se asea más atrás."
 geo:
 id: 2563
 item_type: Still Image

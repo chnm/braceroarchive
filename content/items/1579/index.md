@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401381033.jpg
     alt:
       en: "A group of braceros walks along a dusty road beside railroad tracks, passing a pile of rocks marked with a wooden cross and barbed-wire fencing near Monterrey, Mexico."
+      es: "Un grupo de braceros camina por un camino polvoriento junto a vías de tren, pasando una pila de piedras con una cruz de madera y una cerca de alambre de púas cerca de Monterrey, México."
 geo:
 id: 1579
 item_type: Still Image

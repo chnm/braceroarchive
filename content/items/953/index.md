@@ -46,6 +46,7 @@ files:
     url: /files/original/j-delgado2_a1dc505cdd.jpg
     alt:
       en: "Black-and-white photo of a man walking across a town plaza in a light long-sleeved shirt and dark trousers, with a bus, church towers, and storefront signs reading \"Raymundo S. Garcia Comisionista\" visible behind him."
+      es: "Foto en blanco y negro de un hombre caminando por una plaza con camisa clara de manga larga y pantalón oscuro, con un autobús, torres de iglesia y letreros que dicen \"Raymundo S. Garcia Comisionista\" al fondo."
 geo:
 id: 953
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381703.jpg
     alt:
       en: "Interior of a large hall at the Monterrey Processing Center with braceros, many shirtless and wearing wide-brimmed hats, lined up near desks and a typewriter while clerks assist them."
+      es: "Interior de un gran salón del Centro de Procesamiento de Monterrey con braceros, muchos sin camisa y con sombreros de ala ancha, formados cerca de escritorios y una máquina de escribir mientras empleados los atienden."
 geo:
 id: 1752
 item_type: Still Image

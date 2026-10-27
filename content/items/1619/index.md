@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381226.jpg
     alt:
       en: "Empty flatbed trucks with wooden sideboards line up at the Hidalgo Processing Center, Texas, with parked cars and buildings visible in the background."
+      es: "Camiones de plataforma vacíos con bordes de madera se alinean en el Centro de Procesamiento de Hidalgo, Texas, con autos estacionados y edificios al fondo."
 geo:
 id: 1619
 item_type: Still Image

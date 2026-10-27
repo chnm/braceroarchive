@@ -46,6 +46,7 @@ files:
     url: /files/original/dionisio-hernandez-3_caaf06e8b9.jpg
     alt:
       en: "Bracero paycheck No. 23719 from Monterey County Trust & Savings Bank, Gonzales, California, dated March 1953, payable to J. Jesus Hernandez R. for $100.00, drawn on The National City Bank of New York."
+      es: "Cheque de bracero No. 23719 del Monterey County Trust & Savings Bank, Gonzales, California, fechado en marzo de 1953, pagadero a J. Jesús Hernández R. por $100.00, girado contra The National City Bank of New York."
 geo:
 id: 3025
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384110.jpg
     alt:
       en: "Black-and-white photo of a sparse dormitory room seen through a doorway, with a bracero standing under a hanging light while two others sit on a bed, clothes draped on lines nearby."
+      es: "Fotografía en blanco y negro de un dormitorio austero visto a través de una puerta, con un bracero de pie bajo una luz colgante mientras otros dos están sentados en una cama, con ropa colgada en cuerdas cercanas."
 geo:
 id: 2558
 item_type: Still Image

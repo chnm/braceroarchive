@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382125.jpg
     alt:
       en: "Black-and-white photo of a bracero seated on a bed in a sparse wooden barrack, rolling a cigarette beneath a bare hanging light bulb, with a jacket and hat hung on the wall."
+      es: "Fotografía en blanco y negro de un bracero sentado en una cama en un barracón de madera sencillo, liando un cigarrillo bajo un foco de luz colgante, con una chaqueta y un sombrero colgados en la pared."
 geo:
 id: 1891
 item_type: Still Image

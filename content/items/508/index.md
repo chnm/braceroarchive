@@ -48,6 +48,7 @@ files:
     url: /files/original/blancoortega-04_e937b19b48.jpg
     alt:
       en: "Back page of a bilingual Standard Work Contract/Contrato Tipo de Trabajo in English and Spanish, with numbered sections on incorporation of agreements, lodging, insurance, and a table listing death and injury compensation amounts in dollars."
+      es: "Página trasera de un Contrato Tipo de Trabajo bilingüe (inglés y español) con secciones numeradas sobre incorporación de acuerdos, alojamiento y seguros, además de una tabla con montos en dólares por muerte o lesión."
 geo:
 id: 508
 item_type: Document

@@ -48,6 +48,7 @@ files:
     url: /files/original/lopez-silve,-alejo,-1956,-mica1_3dd9d5ffd7.jpg
     alt:
       en: "An \"Alien Laborer's Identification Card\" with a photograph of a man, numbered \"15,\" issued by the United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)."
+      es: "Tarjeta de \"Identificación de Trabajador Extranjero\" con la fotografía de un hombre, numerada \"15\", emitida por el Departamento de Justicia de Estados Unidos, Servicio de Inmigración y Naturalización - I-100D (12-7-55)."
 geo:
 id: 956
 item_type: Document

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381804.jpg
     alt:
       en: "Black-and-white photo of braceros standing near a wooden truck loaded with cotton, with sacks and a tripod-like pole in a field near McAllen, Texas, workers visible in the distance."
+      es: "Fotografía en blanco y negro de braceros de pie junto a un camión de madera cargado de algodón, con costales y un poste en forma de trípode en un campo cerca de McAllen, Texas; se ven trabajadores a lo lejos."
 geo:
 id: 1790
 item_type: Still Image

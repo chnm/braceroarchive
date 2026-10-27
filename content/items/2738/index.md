@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384710.jpg
     alt:
       en: "A woman at a desk files papers for a standing man while several braceros wait seated in rows along the walls of a waiting room with patterned carpet and French doors."
+      es: "Una mujer en un escritorio archiva papeles para un hombre de pie, mientras varios braceros esperan sentados en filas junto a las paredes de una sala de espera con alfombra estampada y puertas francesas."
 geo:
 id: 2738
 item_type: Still Image

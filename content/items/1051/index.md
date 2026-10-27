@@ -46,6 +46,7 @@ files:
     url: /files/original/figueroaencinasluisregistrationexbraceros3_31ae229df3.jpg
     alt:
       en: "Handwritten interview form page with numbered questions 16–25 about Bracero work history, answers in cursive Spanish, including details on location, wages, housing, and reasons for supporting a new Bracero Program."
+      es: "Formulario de entrevista manuscrito con preguntas numeradas 16–25 sobre el trabajo como bracero, con respuestas en cursiva en español sobre lugar, salario, vivienda y razones para apoyar un nuevo Programa Bracero."
 geo:
 id: 1051
 item_type: Document

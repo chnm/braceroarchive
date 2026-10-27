@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384113.jpg
     alt:
       en: "Black-and-white photo of a man standing by a wash basin, shaving with a razor while holding a small mirror up to check his reflection, in a sparse wooden room."
+      es: "Fotografía en blanco y negro de un hombre junto a un lavabo, afeitándose con una navaja mientras sostiene un pequeño espejo para ver su reflejo, en una habitación de madera austera."
 geo:
 id: 2561
 item_type: Still Image

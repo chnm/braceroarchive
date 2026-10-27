@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401380926.jpg
     alt:
       en: "Large crowd of men wearing wide-brimmed hats stand in long queues in a dirt yard outside low buildings at the Monterrey Processing Center, Mexico."
+      es: "Gran multitud de hombres con sombreros de ala ancha forma largas filas en un patio de tierra frente a edificios bajos en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1533
 item_type: Still Image

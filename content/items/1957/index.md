@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382328.jpg
     alt:
       en: "Black-and-white photo of a makeshift water fountain with an upright pipe and spigot set in a concrete base, surrounded by bare, dirt ground near braceros' living quarters in Tracy, California."
+      es: "Fotografía en blanco y negro de una fuente de agua improvisada con un tubo vertical y un grifo sobre una base de concreto, rodeada de tierra desnuda cerca de las viviendas de los braceros en Tracy, California."
 geo:
 id: 1957
 item_type: Still Image

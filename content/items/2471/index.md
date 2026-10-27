@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383827.jpg
     alt:
       en: "A man reclines on a bed with his arm behind his head, resting inside a large dormitory-style living quarters at a California labor camp, with other men visible in the background."
+      es: "Un hombre descansa recostado en una cama con el brazo detrás de la cabeza, dentro de un dormitorio grande en un campamento laboral de California, con otros hombres al fondo."
 geo:
 id: 2471
 item_type: Still Image

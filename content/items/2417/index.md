@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383717.jpg
     alt:
       en: "Black-and-white photo of a harvested lettuce field with discarded leaves in the foreground; braceros gather for lunch at the field's edge, with trucks, a bus, and power lines along the road beyond."
+      es: "Foto en blanco y negro de un campo de lechuga cosechado con hojas descartadas en primer plano; braceros se reúnen para almorzar al borde del campo, con camiones, un autobús y cables eléctricos junto al camino."
 geo:
 id: 2417
 item_type: Still Image

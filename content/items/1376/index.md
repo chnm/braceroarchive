@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380436.jpg
     alt:
       en: "Aerial view of a large crowd gathered in an open dirt yard at the Monterrey Processing Center, with low buildings, scattered vehicles, and mountains in the background."
+      es: "Vista aérea de una gran multitud reunida en un patio de tierra en el Centro de Procesamiento de Monterrey, con edificios bajos, vehículos dispersos y montañas al fondo."
 geo:
 id: 1376
 item_type: Still Image

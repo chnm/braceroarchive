@@ -46,6 +46,7 @@ files:
     url: /files/original/contrato-julio-agosto,-fresno-california-1962-(back)_82cb2ccdfc.jpg
     alt:
       en: "Typed document listing agricultural labor wages by county and crop, including piece rates and hourly rates for crops like melons, cotton, tomatoes, and lettuce, with Spanish translations below each entry."
+      es: "Documento mecanografiado que detalla salarios agrícolas por condado y cultivo, incluyendo tarifas a destajo y por hora para melón, algodón, tomate y lechuga, con traducciones al español bajo cada entrada."
 geo:
 id: 872
 item_type: Document

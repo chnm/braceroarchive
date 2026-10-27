@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384722.jpg
     alt:
       en: "Rows of wooden picnic-style tables and benches set with cups and utensils fill a dining hall lit by fluorescent lights, with people visible through windows in the background."
+      es: "Filas de mesas y bancos de madera estilo picnic con tazas y utensilios llenan un comedor iluminado con luces fluorescentes, mientras se ven personas a través de las ventanas al fondo."
 geo:
 id: 2750
 item_type: Still Image

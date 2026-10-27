@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382622.jpg
     alt:
       en: "Black-and-white photo of braceros gathered around large pots, serving themselves food during a lunch break at the edge of a field, wearing hats and work clothes."
+      es: "Fotografía en blanco y negro de braceros reunidos alrededor de grandes ollas, sirviéndose comida durante un descanso para almorzar al borde de un campo, con sombreros y ropa de trabajo."
 geo:
 id: 2045
 item_type: Still Image

@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381617.jpg
     alt:
       en: "Rows of seated typists record information dictated by a long line of shirtless braceros wearing hats, inside a large hall with high windows at the Monterrey Processing Center."
+      es: "Filas de mecanógrafas sentadas registran la información dictada por una larga fila de braceros sin camisa con sombreros, dentro de un amplio salón con ventanas altas en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1748
 item_type: Still Image

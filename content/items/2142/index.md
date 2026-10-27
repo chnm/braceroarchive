@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382922.jpg
     alt:
       en: "Black-and-white photo of a group of men gathered outside a storefront building labeled \"Plaza\" with a vertical neon sign, parked cars lining the street, and tree branches framing the top of the scene."
+      es: "Foto en blanco y negro de un grupo de hombres reunidos frente a un edificio con letrero \"Plaza\" y luz de neón vertical, autos estacionados en la calle y ramas de árbol enmarcando la parte superior."
 geo:
 id: 2142
 item_type: Still Image

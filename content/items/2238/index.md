@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383233.jpg
     alt:
       en: "Two braceros play dominoes at a small table in a shared sleeping quarters, with cots and bedding lining the room and sunlight entering through a window."
+      es: "Dos braceros juegan dominó en una mesa pequeña dentro de un dormitorio compartido, con catres y ropa de cama a los lados y luz solar entrando por una ventana."
 geo:
 id: 2238
 item_type: Still Image

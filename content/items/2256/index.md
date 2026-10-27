@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401383328.jpg
     alt:
       en: "A bracero bent over, using a short-handled hoe to tend a row of plants in a pepper field, wearing a plaid cap and work jacket, with crop rows extending into the distance."
+      es: "Un bracero inclinado usa una azada de mango corto para trabajar una hilera de plantas en un campo de chile, con gorra a cuadros y chaqueta de trabajo, mientras los surcos se extienden a la distancia."
 geo:
 id: 2256
 item_type: Still Image

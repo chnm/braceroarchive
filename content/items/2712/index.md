@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384617.jpg
     alt:
       en: "Black-and-white photo through an open doorway into a bracero camp dormitory, showing bunk beds with worn mattresses, a bare hanging light bulb, and a man standing between the bunks."
+      es: "Fotografía en blanco y negro a través de una puerta abierta hacia un dormitorio de un campamento de braceros, con literas de colchones desgastados, un foco colgante y un hombre de pie entre las camas."
 geo:
 id: 2712
 item_type: Still Image

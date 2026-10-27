@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381632.jpg
     alt:
       en: "Large group of men in hats sit and wait on the floor of a spacious, column-lined hall at the Monterrey Processing Center, with scattered papers on the concrete floor."
+      es: "Gran grupo de hombres con sombrero sentados y esperando en el suelo de un amplio salón con columnas en el Centro de Procesamiento de Monterrey, con papeles dispersos sobre el piso de concreto."
 geo:
 id: 1727
 item_type: Still Image

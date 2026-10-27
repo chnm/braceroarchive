@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382028.jpg
     alt:
       en: "Rows of lettuce stretch toward a truck where workers load boxes, with more laborers and trees visible in the background of the Salinas Valley field."
+      es: "Hileras de lechuga se extienden hacia un camión donde trabajadores cargan cajas, con más jornaleros y árboles visibles al fondo del campo en el Valle de Salinas."
 geo:
 id: 1850
 item_type: Still Image

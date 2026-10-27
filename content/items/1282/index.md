@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401380139.jpg
     alt:
       en: "A long line of men in hats and work clothes queue outdoors near a pickup truck and long buildings, with one man walking along the line in the foreground."
+      es: "Una larga fila de hombres con sombreros y ropa de trabajo esperan al aire libre cerca de una camioneta y edificios alargados, mientras un hombre camina junto a la fila en primer plano."
 geo:
 id: 1282
 item_type: Still Image

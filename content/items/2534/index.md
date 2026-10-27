@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401384023.jpg
     alt:
       en: "A man wearing a straw hat kneels atop stacked \"Toro\" brand lettuce boxes on a truck, with a vast agricultural field and distant figures working in the background."
+      es: "Un hombre con sombrero de paja se arrodilla sobre cajas apiladas de lechuga marca \"Toro\" en un camión, con un amplio campo agrícola y figuras distantes trabajando al fondo."
 geo:
 id: 2534
 item_type: Still Image

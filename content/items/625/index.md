@@ -49,6 +49,7 @@ files:
     url: /files/original/flores06_b680825511.jpg
     alt:
       en: "Handwritten letter in Spanish on lined paper, dated September 30, 1963, addressed to Sra. Faustina Flores and signed by Timoteo Flores Soto, mentioning the sending of 200 dollars."
+      es: "Carta manuscrita en español sobre papel rayado, fechada el 30 de septiembre de 1963, dirigida a la Sra. Faustina Flores y firmada por Timoteo Flores Soto, mencionando el envío de 200 dólares."
 geo:
 id: 625
 item_type: Still Image

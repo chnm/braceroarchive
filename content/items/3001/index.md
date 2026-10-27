@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381215.jpg
     alt:
       en: "Large crowd of men with bundled belongings gathered near a covered pavilion and a reflecting pool, waiting outdoors at the Hidalgo Processing Center in Texas."
+      es: "Gran multitud de hombres con bultos de pertenencias reunidos cerca de un cobertizo y una alberca de reflejo, esperando al aire libre en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 3001
 item_type: Still Image

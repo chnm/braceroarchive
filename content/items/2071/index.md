@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401382724.jpg
     alt:
       en: "Black-and-white photo of braceros climbing down from a truck labeled \"Gondo Labor Camp, Watsonville,\" with camp buildings and hills in the background."
+      es: "Foto en blanco y negro de braceros bajando de un camión con el letrero \"Condo Labor Camp, Watsonville\", con edificios del campamento y colinas al fondo."
 geo:
 id: 2071
 item_type: Still Image

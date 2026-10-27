@@ -48,6 +48,7 @@ files:
     url: /files/original/voting-card-1-front_f279a2444b.jpg
     alt:
       en: "Baja California voter ID card for Guadalupe Becerra Topete, featuring his photo, a map of the Baja California peninsula, and printed personal details including birth date, address, and voter registration information."
+      es: "Credencial de elector de Baja California para Guadalupe Becerra Topete, con su fotografía, un mapa de la península de Baja California y datos personales impresos como fecha de nacimiento y domicilio."
 geo:
 id: 998
 item_type: Document

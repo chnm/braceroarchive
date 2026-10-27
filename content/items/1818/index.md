@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381917.jpg
     alt:
       en: "A long line of braceros wearing hats stands beside a bus in Stockton, California, with luggage and crates on the ground and trees lining the street."
+      es: "Una larga fila de braceros con sombrero espera junto a un autobús en Stockton, California, con maletas y cajas en el suelo y árboles bordeando la calle."
 geo:
 id: 1818
 item_type: Still Image

@@ -48,6 +48,7 @@ files:
     url: /files/original/filopmeno-burciago-1_d4af781e03.jpg
     alt:
       en: "Alien Laborer's Permit identification card for Jaime Filomeno Burciaga, Naimiquipa, Chih., Mexico, born 10-9-30, admitted at El Paso, Texas 9-15-60, with attached photograph and ID number L13323799."
+      es: "Tarjeta de identificación del Permiso de Trabajador Extranjero de Jaime Filomeno Burciaga, Naimiquipa, Chih., México, nacido el 10-9-30, admitido en El Paso, Texas el 9-15-60, con fotografía adjunta y número de identificación L13323799."
 geo:
 id: 899
 item_type: Document

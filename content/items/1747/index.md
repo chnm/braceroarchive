@@ -40,6 +40,7 @@ files:
     url: /files/original/NAD-200401381616.jpg
     alt:
       en: "A nurse administers a vaccination to a shirtless man holding a card, as a line of other men wait their turn under a \"Vaccination\" sign in a large hall."
+      es: "Una enfermera vacuna a un hombre sin camisa que sostiene una tarjeta, mientras otros hombres esperan su turno en fila bajo un letrero de \"Vaccination\" en un salón amplio."
 geo:
 id: 1747
 item_type: Still Image

@@ -43,6 +43,7 @@ files:
     url: /files/original/NAD-200401383536.jpg
     alt:
       en: "A man rests on a cot in a sparse dormitory room, with other beds, blankets, and a hat nearby, and a shirt hanging on the wall above."
+      es: "Un hombre descansa en un catre en una habitación sencilla de dormitorio, con otras camas, cobijas y un sombrero cerca, y una camisa colgada en la pared."
 geo:
 id: 2320
 item_type: Still Image
