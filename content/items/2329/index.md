@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.21.jpg
     thumb: /files/thumbnails/NAD-200401383521.jpg
     url: /files/original/NAD-200401383521.jpg
+    alt:
+      en: "Rows of wooden crates line a furrowed field in the Salinas Valley, with workers bent among onion rows and hills visible in the distance."
 geo:
 id: 2329
 item_type: Still Image

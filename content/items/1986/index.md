@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.22.jpg
     thumb: /files/thumbnails/NAD-200401382422.jpg
     url: /files/original/NAD-200401382422.jpg
+    alt:
+      en: "Braceros stand in a Stockton office beside a chalkboard with handwritten notices, posters including \"El Aguila\" visible on the wall nearby."
 geo:
 id: 1986
 item_type: Still Image

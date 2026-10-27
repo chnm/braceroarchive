@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.10.jpg
     thumb: /files/thumbnails/NAD-200401381510.jpg
     url: /files/original/NAD-200401381510.jpg
+    alt:
+      en: "Black-and-white photo of a group of men, many in straw hats, standing close together outdoors; a woman in overalls stands in front with arms crossed, facing the camera."
 geo:
 id: 1696
 item_type: Still Image

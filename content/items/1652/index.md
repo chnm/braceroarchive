@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.24.jpg
     thumb: /files/thumbnails/NAD-200401381324.jpg
     url: /files/original/NAD-200401381324.jpg
+    alt:
+      en: "A seated official reviews a bracero's documents at a desk while a long line of men in cowboy hats wait their turn inside the Monterrey Processing Center."
 geo:
 id: 1652
 item_type: Still Image

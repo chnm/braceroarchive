@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.03.jpg
     thumb: /files/thumbnails/NAD-200401384603.jpg
     url: /files/original/NAD-200401384603.jpg
+    alt:
+      en: "Group of men gathered between wooden barrack-style buildings in a labor camp, with power lines overhead and bare ground beneath a pale sky."
 geo:
 id: 2698
 item_type: Still Image

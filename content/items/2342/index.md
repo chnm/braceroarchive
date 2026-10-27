@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.22.jpg
     thumb: /files/thumbnails/NAD-200401383622.jpg
     url: /files/original/NAD-200401383622.jpg
+    alt:
+      en: "A man in a cap stands in the doorway of a wooden barrack numbered \"17\" at a labor camp, with another man and laundry hanging visible between buildings in the background."
 geo:
 id: 2342
 item_type: Still Image

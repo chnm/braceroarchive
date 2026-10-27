@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.15.jpg
     thumb: /files/thumbnails/NAD-200401385615.jpg
     url: /files/original/NAD-200401385615.jpg
+    alt:
+      en: "Black-and-white portrait of a young man wearing a wide-brimmed hat and button-up shirt, standing outdoors against a bright sky."
 geo:
 id: 2975
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.02.jpg
     thumb: /files/thumbnails/NAD-200401382802.jpg
     url: /files/original/NAD-200401382802.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on a bed in camp living quarters, playing cards together while a man stands nearby, jackets hanging on the wall behind them."
 geo:
 id: 2092
 item_type: Still Image

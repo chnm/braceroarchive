@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.10.jpg
     thumb: /files/thumbnails/NAD-200401384010.jpg
     url: /files/original/NAD-200401384010.jpg
+    alt:
+      en: "A bracero loads wooden lettuce crates onto a flatbed truck parked in a harvested lettuce field, with hills visible on the horizon."
 geo:
 id: 2521
 item_type: Still Image

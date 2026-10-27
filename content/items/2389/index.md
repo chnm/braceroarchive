@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.33.jpg
     thumb: /files/thumbnails/NAD-200401382233.jpg
     url: /files/original/NAD-200401382233.jpg
+    alt:
+      en: "Rows of empty cots with folded blankets line a barracks-style room, lit by two small windows, with personal belongings hanging on the walls and a water jug beside one bed."
 geo:
 id: 2389
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: Dionisio Hernandez 2.JPG
     thumb: /files/thumbnails/dionisio-hernandez-2_e50a911ba0.jpg
     url: /files/original/dionisio-hernandez-2_e50a911ba0.jpg
+    alt:
+      en: "Typed document titled \"Yolo Growers Inc.\" listing crop payment rates and hourly wages in English and Spanish, with columns for crops like beets, tomatoes, almonds, peaches, and strawberries."
 geo:
 id: 3024
 item_type: Document

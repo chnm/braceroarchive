@@ -46,6 +46,8 @@ files:
     original_filename: Montes-Robles, Manuel -Carta Honorifica 1 copy.jpg
     thumb: /files/thumbnails/montes-robles,-manuel--carta-honorifica-1-copy_db04f1cb2a.jpg
     url: /files/original/montes-robles,-manuel--carta-honorifica-1-copy_db04f1cb2a.jpg
+    alt:
+      en: "Worn bilingual certificate from the Secretaría del Trabajo de los E.E.U.U. recognizing Manuel Montes Robles as a bracero, dated 3-16-20, signed by Maurice J. Tobin, Secretary of Labor."
 geo:
 id: 1128
 item_type: Document

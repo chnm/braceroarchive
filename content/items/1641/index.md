@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.13.jpg
     thumb: /files/thumbnails/NAD-200401381313.jpg
     url: /files/original/NAD-200401381313.jpg
+    alt:
+      en: "Black-and-white photo of a seated official examining a worker's hands at a table inside a large hall, with other men and partitioned stations visible in the background."
 geo:
 id: 1641
 item_type: Still Image

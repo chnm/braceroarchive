@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.04.jpg
     thumb: /files/thumbnails/NAD-200401385104.jpg
     url: /files/original/NAD-200401385104.jpg
+    alt:
+      en: "Rows of metal-framed beds with thin mattresses fill a bunkhouse, where several braceros rest or sit while clothing hangs from lines and hooks along the walls."
 geo:
 id: 2846
 item_type: Still Image

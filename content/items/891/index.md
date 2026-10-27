@@ -46,6 +46,8 @@ files:
     original_filename: Contrato Texas julio-agosto 1961.jpg
     thumb: /files/thumbnails/contrato-texas-julio-agosto-1961_f26806a03e.jpg
     url: /files/original/contrato-texas-julio-agosto-1961_f26806a03e.jpg
+    alt:
+      en: "Typed bilingual \"Continuation of Standard Work Contract\" form for Liborio Santiago Perez, dated July 11, 1961, with contract number, wage rates, and signatures of worker and representatives."
 geo:
 id: 891
 item_type: Document

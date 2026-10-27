@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.07.jpg
     thumb: /files/thumbnails/NAD-200401381507.jpg
     url: /files/original/NAD-200401381507.jpg
+    alt:
+      en: "Black-and-white photo of men in hats gathered on a tree-lined plaza outside a large official building, with a long line of people waiting near the entrance in the background."
 geo:
 id: 1693
 item_type: Still Image

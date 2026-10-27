@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.08.jpg
     thumb: /files/thumbnails/NAD-200401385508.jpg
     url: /files/original/NAD-200401385508.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over rows harvesting lettuce into boxes in a Salinas Valley field, with hills and a dirt road in the background."
 geo:
 id: 2935
 item_type: Still Image

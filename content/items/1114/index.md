@@ -46,6 +46,8 @@ files:
     original_filename: Martinez, Faustino - Passport 4.jpg
     thumb: /files/thumbnails/martinez,-faustino---passport-4_423b9fb472.jpg
     url: /files/original/martinez,-faustino---passport-4_423b9fb472.jpg
+    alt:
+      en: "Two \"Refrendos\" passport pages with stamped seals from Consulado de México in Calexico, Calif., handwritten dates in 1965 and 1967, and signatures including Ignacio Romo Porchas, Canciller."
 geo:
 id: 1114
 item_type: Document

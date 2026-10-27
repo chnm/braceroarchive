@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.17.jpg
     thumb: /files/thumbnails/NAD-200401380417.jpg
     url: /files/original/NAD-200401380417.jpg
+    alt:
+      en: "A narrow concrete drainage ditch runs through a littered dirt lot lined with vendor stalls, with a van and groups of people visible in the background."
 geo:
 id: 1348
 item_type: Still Image

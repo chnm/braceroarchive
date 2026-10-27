@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.30.jpg
     thumb: /files/thumbnails/NAD-200401383330.jpg
     url: /files/original/NAD-200401383330.jpg
+    alt:
+      en: "Black-and-white photo of a man in a plaid cap and jacket bending over to do field work, with another worker partially visible at left and hills in the background."
 geo:
 id: 2264
 item_type: Still Image

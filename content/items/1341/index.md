@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.29.jpg
     thumb: /files/thumbnails/NAD-200401380329.jpg
     url: /files/original/NAD-200401380329.jpg
+    alt:
+      en: "A long line of men, many wearing wide-brimmed hats and holding papers, stretches across a gravel yard at the Monterrey Processing Center, with institutional buildings visible in the background."
 geo:
 id: 1341
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.28.jpg
     thumb: /files/thumbnails/NAD-200401380628.jpg
     url: /files/original/NAD-200401380628.jpg
+    alt:
+      en: "Large crowd of braceros gathered in an open field at the Monterrey Processing Center, with mountains in the background and a bus parked to the right."
 geo:
 id: 1450
 item_type: Still Image

@@ -49,6 +49,8 @@ files:
     original_filename: Jul27_13.JPG
     thumb: /files/thumbnails/jul27_13_413b4df45a.jpg
     url: /files/original/jul27_13_413b4df45a.jpg
+    alt:
+      en: "Handwritten letter in Spanish on lined notebook paper, with a short note at the top signed \"Roberto\" followed by several paragraphs of cursive script filling the page."
 geo:
 id: 641
 item_type: Still Image

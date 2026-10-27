@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.30.jpg
     thumb: /files/thumbnails/NAD-200401384930.jpg
     url: /files/original/NAD-200401384930.jpg
+    alt:
+      en: "Black-and-white photo of braceros in wide-brimmed hats stooping with short-handled hoes along long rows of a pepper field, mountains visible in the distance."
 geo:
 id: 2809
 item_type: Still Image

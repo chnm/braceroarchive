@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.11.jpg
     thumb: /files/thumbnails/NAD-200401384511.jpg
     url: /files/original/NAD-200401384511.jpg
+    alt:
+      en: "Braceros gather at the edge of a field during a lunch break, with one man pouring from a large can while others sit nearby; a truck and more workers are visible in the background."
 geo:
 id: 2678
 item_type: Still Image

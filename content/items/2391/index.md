@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.35.jpg
     thumb: /files/thumbnails/NAD-200401382235.jpg
     url: /files/original/NAD-200401382235.jpg
+    alt:
+      en: "Interior of a bunkhouse with unmade beds, scattered belongings, and clothing hanging from lines overhead, while two men walk out through the doorway at the far end."
 geo:
 id: 2391
 item_type: Still Image

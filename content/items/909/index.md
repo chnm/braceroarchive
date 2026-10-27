@@ -44,6 +44,8 @@ files:
     original_filename: Contrato mayo-junio 1957 California (back).jpg
     thumb: /files/thumbnails/contrato-mayo-junio-1957-california-(back)_a3d7353d83.jpg
     url: /files/original/contrato-mayo-junio-1957-california-(back)_a3d7353d83.jpg
+    alt:
+      en: "Typed list of pay rates by region and crop—Santa Cruz, Monterey, San Benito, Santa Clara, San Mateo, and Salinas—covering vegetables and strawberries, on a worn, creased English-language document."
 geo:
 id: 909
 item_type: Document

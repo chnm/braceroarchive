@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.56.07.jpg
     thumb: /files/thumbnails/NAD-200401385607.jpg
     url: /files/original/NAD-200401385607.jpg
+    alt:
+      en: "A bracero wearing a straw hat and jacket stands in a field, a short-handled hoe resting over his shoulder, with workers and buildings visible in the hazy background."
 geo:
 id: 2383
 item_type: Still Image

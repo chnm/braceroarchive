@@ -44,6 +44,8 @@ files:
     original_filename: Lopez Leon, Asterio15A.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio15a_18093eb784.jpg
     url: /files/original/lopez-leon,-asterio15a_18093eb784.jpg
+    alt:
+      en: "Typed Spanish testimony letter dated Mexicali, Baja California, September 10, 2003, with an official seal, a \"COTEJADO\" stamp, and two signatures from witnesses Roberto Morales Aganza and Rafael Garcia Molina."
 geo:
 id: 1262
 item_type: Document

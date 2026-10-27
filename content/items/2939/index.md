@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.12.jpg
     thumb: /files/thumbnails/NAD-200401385512.jpg
     url: /files/original/NAD-200401385512.jpg
+    alt:
+      en: "Black-and-white street scene with men seated on benches in the foreground, facing parked cars and storefronts, including a building with a large \"National Dollar Stores\" sign in Watsonville, California."
 geo:
 id: 2939
 item_type: Still Image

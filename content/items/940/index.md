@@ -44,6 +44,8 @@ files:
     original_filename: espino17copy.jpg
     thumb: /files/thumbnails/espino17copy_6d19bd70c9.jpg
     url: /files/original/espino17copy_6d19bd70c9.jpg
+    alt:
+      en: "Bilingual (English/Spanish) printed contract page listing injury compensation values for body parts and clauses on employer liability, medical care, and life/non-occupational insurance under the Bracero Program."
 geo:
 id: 940
 item_type: Document

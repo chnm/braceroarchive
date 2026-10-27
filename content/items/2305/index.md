@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.43.jpg
     thumb: /files/thumbnails/NAD-200401383543.jpg
     url: /files/original/NAD-200401383543.jpg
+    alt:
+      en: "Black-and-white photograph of long, evenly spaced crop rows stretching toward distant hills, with low buildings visible along the horizon under a pale sky."
 geo:
 id: 2305
 item_type: Still Image

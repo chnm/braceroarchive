@@ -44,6 +44,8 @@ files:
     original_filename: Lerma3.jpg
     thumb: /files/thumbnails/lerma3_65cc04de4c.jpg
     url: /files/original/lerma3_65cc04de4c.jpg
+    alt:
+      en: "Two vintage photographs showing a group of women standing in a row behind a table decorated with pastel-colored floral arrangements, in a room with a chalkboard and wood-paneled walls."
 geo:
 id: 540
 item_type: Still Image

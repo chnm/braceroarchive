@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.05.jpg
     thumb: /files/thumbnails/NAD-200401382405.jpg
     url: /files/original/NAD-200401382405.jpg
+    alt:
+      en: "A man hands a paycheck and papers to another man while a line of hat-wearing braceros wait nearby outside a wooden building."
 geo:
 id: 1969
 item_type: Still Image

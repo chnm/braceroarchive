@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.29.jpg
     thumb: /files/thumbnails/NAD-200401384129.jpg
     url: /files/original/NAD-200401384129.jpg
+    alt:
+      en: "Two braceros rest on beds in a dimly lit barracks room, seen through a doorway, with a window and hanging light fixture visible in the background."
 geo:
 id: 2577
 item_type: Still Image

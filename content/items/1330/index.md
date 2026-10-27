@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.03.42.jpg
     thumb: /files/thumbnails/NAD-200401380342.jpg
     url: /files/original/NAD-200401380342.jpg
+    alt:
+      en: "Aerial view of hundreds of hatted men in long lines at the Monterrey Processing Center, with vendor stalls and a small lavatory hut visible amid dusty open ground."
 geo:
 id: 1330
 item_type: Still Image

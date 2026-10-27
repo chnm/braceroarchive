@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.20.jpg
     thumb: /files/thumbnails/NAD-200401384820.jpg
     url: /files/original/NAD-200401384820.jpg
+    alt:
+      en: "A bracero sits on a metal bed frame reading a letter, clothing hanging on a line above him in a sparse, sunlit barracks room."
 geo:
 id: 2778
 item_type: Still Image

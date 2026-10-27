@@ -44,6 +44,8 @@ files:
     original_filename: Jul28_02.JPG
     thumb: /files/thumbnails/jul28_02_39a945853f.jpg
     url: /files/original/jul28_02_39a945853f.jpg
+    alt:
+      en: "A large group of braceros poses in rows outside a wooden barracks building at Harden Camp in 1946, some standing, others kneeling or seated in front."
 geo:
 id: 797
 item_type: Still Image

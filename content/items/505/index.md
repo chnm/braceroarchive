@@ -46,6 +46,8 @@ files:
     original_filename: BlancoOrtega-01.jpg
     thumb: /files/thumbnails/blancoortega-01_c641e62925.jpg
     url: /files/original/blancoortega-01_c641e62925.jpg
+    alt:
+      en: "Printed work contract form for Jose Guadalupe Blanco Ortega with handwritten entries, an \"EMPLOYMENT TERMINATED\" stamp, official seals, and signatures, dated 1957-1958, El Centro, California."
 geo:
 id: 505
 item_type: Document

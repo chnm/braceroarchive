@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.05.jpg
     thumb: /files/thumbnails/NAD-200401384605.jpg
     url: /files/original/NAD-200401384605.jpg
+    alt:
+      en: "Black-and-white photo framed through a doorway of braceros kneeling and standing closely together between living quarters, attending a divine service at a California camp."
 geo:
 id: 2700
 item_type: Still Image

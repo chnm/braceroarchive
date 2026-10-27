@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.30.jpg
     thumb: /files/thumbnails/NAD-200401383730.jpg
     url: /files/original/NAD-200401383730.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros taking a lunch break on a dirt path beside long rows of crops, with some workers seated eating while others stand nearby in the Salinas Valley, California."
 geo:
 id: 2430
 item_type: Still Image

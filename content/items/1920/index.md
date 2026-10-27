@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.20.jpg
     thumb: /files/thumbnails/NAD-200401382220.jpg
     url: /files/original/NAD-200401382220.jpg
+    alt:
+      en: "Men sit on cots in a long wooden barracks lined with rows of beds, hanging jackets, and metal trunks, with overhead lights illuminating the room."
 geo:
 id: 1920
 item_type: Still Image

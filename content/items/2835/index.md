@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.20.jpg
     thumb: /files/thumbnails/NAD-200401385020.jpg
     url: /files/original/NAD-200401385020.jpg
+    alt:
+      en: "Black-and-white photo of a large group of men, many wearing hats and carrying suitcases, gathered outdoors under trees near parked vehicles in Stockton, California."
 geo:
 id: 2835
 item_type: Still Image

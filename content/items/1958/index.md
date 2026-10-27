@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.29.jpg
     thumb: /files/thumbnails/NAD-200401382329.jpg
     url: /files/original/NAD-200401382329.jpg
+    alt:
+      en: "Black-and-white photo of a makeshift water fountain with a wooden post and pooled water in a dirt field, with fencing and trees visible in the background near Tracy, California."
 geo:
 id: 1958
 item_type: Still Image

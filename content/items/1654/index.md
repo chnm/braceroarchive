@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.26.jpg
     thumb: /files/thumbnails/NAD-200401381326.jpg
     url: /files/original/NAD-200401381326.jpg
+    alt:
+      en: "Interior of a large hall with rows of columns and desks, where officials review documents with braceros; a sign reads \"A.C. Muller, Supervisor, Selection\" on a desk in the foreground."
 geo:
 id: 1654
 item_type: Still Image

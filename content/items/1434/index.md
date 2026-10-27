@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.06.04.jpg
     thumb: /files/thumbnails/NAD-200401380604.jpg
     url: /files/original/NAD-200401380604.jpg
+    alt:
+      en: "Braceros gather with bundles near a bus labeled \"Transportes Monterrey\" at the Monterrey Processing Center, with mountains and low buildings in the background."
 geo:
 id: 1434
 item_type: Still Image

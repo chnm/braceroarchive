@@ -47,6 +47,8 @@ files:
     original_filename: Jul27_15.JPG
     thumb: /files/thumbnails/jul27_15_5544758460.jpg
     url: /files/original/jul27_15_5544758460.jpg
+    alt:
+      en: "Handwritten letter in cursive Spanish on aged, creased paper, with faded ink and visible fold lines across the page."
 geo:
 id: 643
 item_type: Still Image

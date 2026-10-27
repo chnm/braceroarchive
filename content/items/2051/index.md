@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.28.jpg
     thumb: /files/thumbnails/NAD-200401382628.jpg
     url: /files/original/NAD-200401382628.jpg
+    alt:
+      en: "A smiling man in a wide-brimmed straw hat and jacket stands in the foreground of a large pepper field, with other workers scattered across the rows behind him."
 geo:
 id: 2051
 item_type: Still Image

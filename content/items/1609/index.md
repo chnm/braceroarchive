@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.28.jpg
     thumb: /files/thumbnails/NAD-200401381228.jpg
     url: /files/original/NAD-200401381228.jpg
+    alt:
+      en: "Rows of empty bench seats line the open bed of a truck used to transport braceros, with parked cars and a building labeled \"OFFICE\" visible in the background."
 geo:
 id: 1609
 item_type: Still Image

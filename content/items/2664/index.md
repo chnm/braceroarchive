@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.32.jpg
     thumb: /files/thumbnails/NAD-200401384432.jpg
     url: /files/original/NAD-200401384432.jpg
+    alt:
+      en: "A man in a leather jacket lies resting on a bed in a dormitory-style bracero camp room, with other men on cots and hanging clothes visible in the background."
 geo:
 id: 2664
 item_type: Still Image

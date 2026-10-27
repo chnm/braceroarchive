@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.19.jpg
     thumb: /files/thumbnails/NAD-200401384519.jpg
     url: /files/original/NAD-200401384519.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat bends over to harvest crops in a large, leafy field, with a bucket nearby and cracked earth in the foreground."
 geo:
 id: 2686
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 26.jpg
     thumb: /files/thumbnails/velasco-patino-26_aad0b5de0e.jpg
     url: /files/original/velasco-patino-26_aad0b5de0e.jpg
+    alt:
+      en: "Western Union telegraph company receipt dated June 20, 1959, showing $56.00 sent by Nepomuceno Gonzalez of Coachella, Calif. to Rosario Mx R. de Velasco in Guadalajara, Jal, Mexico."
 geo:
 id: 1145
 item_type: Document

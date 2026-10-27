@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.19.jpg
     thumb: /files/thumbnails/NAD-200401384419.jpg
     url: /files/original/NAD-200401384419.jpg
+    alt:
+      en: "Several braceros sit on cots playing cards in a barracks-style living quarter, with clothing hanging on wall hooks and metal bed frames lining the room."
 geo:
 id: 2651
 item_type: Still Image

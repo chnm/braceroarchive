@@ -44,6 +44,8 @@ files:
     original_filename: bracero in the city.jpg
     thumb: /files/thumbnails/bracero-in-the-city_0618d4c70e.jpg
     url: /files/original/bracero-in-the-city_0618d4c70e.jpg
+    alt:
+      en: "A man in a cowboy hat and jacket leans against the front of a parked white car on a town street lined with storefronts, parking meters, and parked cars under a clear sky."
 geo:
 id: 565
 item_type: Still Image

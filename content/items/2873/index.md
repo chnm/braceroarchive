@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.07.jpg
     thumb: /files/thumbnails/NAD-200401385207.jpg
     url: /files/original/NAD-200401385207.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing wide-brimmed hats, bent over rows of strawberry plants in a large field, with wooden crates nearby for collecting the picked berries."
 geo:
 id: 2873
 item_type: Still Image

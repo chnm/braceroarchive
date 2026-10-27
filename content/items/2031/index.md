@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.08.jpg
     thumb: /files/thumbnails/NAD-200401382608.jpg
     url: /files/original/NAD-200401382608.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated in groups along the edge of a furrowed field in the Salinas Valley, eating lunch, with power poles, a parked truck, and distant hills in the background."
 geo:
 id: 2031
 item_type: Still Image

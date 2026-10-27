@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.16.jpg
     thumb: /files/thumbnails/NAD-200401381316.jpg
     url: /files/original/NAD-200401381316.jpg
+    alt:
+      en: "Black-and-white photo of a large hall with rows of columns, where officials sit at tables reviewing documents while groups of men wait in line nearby."
 geo:
 id: 1644
 item_type: Still Image

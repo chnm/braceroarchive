@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.15.jpg
     thumb: /files/thumbnails/NAD-200401383615.jpg
     url: /files/original/NAD-200401383615.jpg
+    alt:
+      en: "Rows of simple wooden cabins at a labor camp in Gonzales, California, with several men standing or leaning near the doorways and mountains visible in the background."
 geo:
 id: 2347
 item_type: Still Image

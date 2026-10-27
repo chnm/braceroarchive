@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.30.jpg
     thumb: /files/thumbnails/NAD-200401382630.jpg
     url: /files/original/NAD-200401382630.jpg
+    alt:
+      en: "Black-and-white photo of numerous workers bent over in a large field, pulling plants from long rows, with many more laborers scattered across the expansive field in the background."
 geo:
 id: 2053
 item_type: Still Image

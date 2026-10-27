@@ -44,6 +44,8 @@ files:
     original_filename: Aceves Gutierrez, Jesus, photo2.jpg
     thumb: /files/thumbnails/aceves-gutierrez,-jesus,-photo2_2059d27c79.jpg
     url: /files/original/aceves-gutierrez,-jesus,-photo2_2059d27c79.jpg
+    alt:
+      en: "Black-and-white photo of a woman in a flowing white dress and jewelry, seated on a decorated float, holding a feathered baton, with palm trees and parked cars in the background."
 geo:
 id: 1025
 item_type: Still Image

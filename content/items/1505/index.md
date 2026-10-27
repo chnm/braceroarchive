@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.18.jpg
     thumb: /files/thumbnails/NAD-200401380818.jpg
     url: /files/original/NAD-200401380818.jpg
+    alt:
+      en: "Black-and-white photo of a man leading a donkey down a dirt street lined with stone walls, a boy walking nearby, and a standpipe with a puddle in the foreground, San Mateo, Mexico."
 geo:
 id: 1505
 item_type: Still Image

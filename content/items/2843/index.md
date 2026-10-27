@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.28.jpg
     thumb: /files/thumbnails/NAD-200401385028.jpg
     url: /files/original/NAD-200401385028.jpg
+    alt:
+      en: "Black-and-white photo of a tent camp with peaked canvas roofs and a large barn-like building beyond a field, with a \"Mulberry Ave\" street sign and utility pole in the foreground."
 geo:
 id: 2843
 item_type: Still Image

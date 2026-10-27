@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.31.jpg
     thumb: /files/thumbnails/NAD-200401385531.jpg
     url: /files/original/NAD-200401385531.jpg
+    alt:
+      en: "Black-and-white street scene with men standing and walking on a sidewalk beneath the \"Colombo Plaza Hotel\" sign, with storefronts advertising Coca-Cola, Pepsi, and 7Up visible nearby."
 geo:
 id: 2958
 item_type: Still Image

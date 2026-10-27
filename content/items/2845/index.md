@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.03.jpg
     thumb: /files/thumbnails/NAD-200401385103.jpg
     url: /files/original/NAD-200401385103.jpg
+    alt:
+      en: "Rows of metal cots in a barracks-style room, with several men resting or sleeping while one man stands near the doorway; clothing hangs from overhead lines and hooks along the walls."
 geo:
 id: 2845
 item_type: Still Image

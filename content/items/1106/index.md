@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 16.jpg
     thumb: /files/thumbnails/velasco-patino-16_cb7b2171b3.jpg
     url: /files/original/velasco-patino-16_cb7b2171b3.jpg
+    alt:
+      en: "Pink Coachella Valley Farmers Association travel pass addressed to immigration officers, granting Nepomuceno Gonzalez a 48-hour pass to visit Mexicali, dated 2/6/1955 and signed by the manager."
 geo:
 id: 1106
 item_type: Document

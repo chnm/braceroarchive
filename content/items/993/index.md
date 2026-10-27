@@ -44,6 +44,8 @@ files:
     original_filename: Calles, Jesus M - bracero picture3.jpg
     thumb: /files/thumbnails/calles,-jesus-m---bracero-picture3_2cf31bb1ec.jpg
     url: /files/original/calles,-jesus-m---bracero-picture3_2cf31bb1ec.jpg
+    alt:
+      en: "Vintage photograph of a man in a white t-shirt holding a cloth bundle, standing in a doorway; handwritten text reads \"Jesus I. Calles\" and \"Arrive tortillas Sonorenses.\""
 geo:
 id: 993
 item_type: Still Image

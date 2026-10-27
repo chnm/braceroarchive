@@ -44,6 +44,8 @@ files:
     original_filename: e santiago1.jpg
     thumb: /files/thumbnails/e-santiago1_0e7af0f688.jpg
     url: /files/original/e-santiago1_0e7af0f688.jpg
+    alt:
+      en: "Faded color photograph of a man wearing a hat, bending over while working amid rows of cotton plants in a sunlit field, with a pale sky visible above the horizon."
 geo:
 id: 908
 item_type: Still Image

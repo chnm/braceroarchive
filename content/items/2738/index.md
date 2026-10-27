@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.10.jpg
     thumb: /files/thumbnails/NAD-200401384710.jpg
     url: /files/original/NAD-200401384710.jpg
+    alt:
+      en: "A woman at a desk files papers for a standing man while several braceros wait seated in rows along the walls of a waiting room with patterned carpet and French doors."
 geo:
 id: 2738
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: MartinezFaustinobirth2.jpg
     thumb: /files/thumbnails/martinezfaustinobirth2_fceffa96b7.jpg
     url: /files/original/martinezfaustinobirth2_fceffa96b7.jpg
+    alt:
+      en: "Typed Spanish certification text stating the document is a true copy of the original, issued on July 18, 1928, in Cruz Grande, Guerrero, with an official civil registry seal and handwritten signature below."
 geo:
 id: 1103
 item_type: Document

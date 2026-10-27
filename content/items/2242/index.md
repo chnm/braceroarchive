@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.15.jpg
     thumb: /files/thumbnails/NAD-200401383315.jpg
     url: /files/original/NAD-200401383315.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat bends to hoe a row of young plants in a California pepper field, surrounded by rows of leafy seedlings."
 geo:
 id: 2242
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: Foto en Pecos TX, Oct 1957(right).jpg
     thumb: /files/thumbnails/foto-en-pecos-tx,-oct-1957(right)_7589953f72.jpg
     url: /files/original/foto-en-pecos-tx,-oct-1957(right)_7589953f72.jpg
+    alt:
+      en: "Black-and-white photo of two men standing beside a light-colored car in front of a cinder block building; printed on the border reads \"OCT 1957.\""
 geo:
 id: 817
 item_type: Still Image

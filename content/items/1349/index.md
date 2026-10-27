@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.18.jpg
     thumb: /files/thumbnails/NAD-200401380418.jpg
     url: /files/original/NAD-200401380418.jpg
+    alt:
+      en: "A narrow concrete drainage ditch runs through a dirt lot toward a crowd of men in hats gathered near a building, at the Monterrey Processing Center, Mexico."
 geo:
 id: 1349
 item_type: Still Image

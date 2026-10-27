@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.08.24.jpg
     thumb: /files/thumbnails/NAD-200401380824.jpg
     url: /files/original/NAD-200401380824.jpg
+    alt:
+      en: "A man in a wide-brimmed hat and woven poncho walks across a dirt plaza reading a document, with tree-lined paths and seated figures visible in the background."
 geo:
 id: 1511
 item_type: Still Image

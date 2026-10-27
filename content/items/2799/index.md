@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.20.jpg
     thumb: /files/thumbnails/NAD-200401384920.jpg
     url: /files/original/NAD-200401384920.jpg
+    alt:
+      en: "Black-and-white photo of a bracero bending to pick peppers in a California field, with other workers visible among crop rows and hills in the distance."
 geo:
 id: 2799
 item_type: Still Image

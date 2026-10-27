@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.36.jpg
     thumb: /files/thumbnails/NAD-200401384036.jpg
     url: /files/original/NAD-200401384036.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit seated at an office desk, writing on paper, with a cabinet, framed artwork, and venetian-blind window in the background."
 geo:
 id: 2547
 item_type: Still Image

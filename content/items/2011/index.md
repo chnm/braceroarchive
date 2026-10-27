@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.12.jpg
     thumb: /files/thumbnails/NAD-200401382512.jpg
     url: /files/original/NAD-200401382512.jpg
+    alt:
+      en: "A man lies on an examination table beneath an adjustable lamp in a clinic room, while another man is examined on a table in an adjoining room visible through the doorway."
 geo:
 id: 2011
 item_type: Still Image

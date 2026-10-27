@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.22.jpg
     thumb: /files/thumbnails/NAD-200401384022.jpg
     url: /files/original/NAD-200401384022.jpg
+    alt:
+      en: "A man leans against a stack of \"Toro\" brand lettuce boxes piled on a truck, with a vast agricultural field stretching behind him under an open sky."
 geo:
 id: 2533
 item_type: Still Image

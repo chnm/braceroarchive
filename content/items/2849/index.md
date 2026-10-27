@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.08.jpg
     thumb: /files/thumbnails/NAD-200401385108.jpg
     url: /files/original/NAD-200401385108.jpg
+    alt:
+      en: "Black-and-white photo through an open door of a sparse bunk room, with one man resting on a bed and three others sitting and talking near a dresser in a Californian bracero camp."
 geo:
 id: 2849
 item_type: Still Image

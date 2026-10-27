@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.22.jpg
     thumb: /files/thumbnails/NAD-200401382622.jpg
     url: /files/original/NAD-200401382622.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered around large pots, serving themselves food during a lunch break at the edge of a field, wearing hats and work clothes."
 geo:
 id: 2045
 item_type: Still Image

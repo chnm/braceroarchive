@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.24.jpg
     thumb: /files/thumbnails/NAD-200401385324.jpg
     url: /files/original/NAD-200401385324.jpg
+    alt:
+      en: "Rows of cots line a long barracks-style room, with blankets and clothing draped over several beds and a clothesline strung between support posts in the background."
 geo:
 id: 2914
 item_type: Still Image

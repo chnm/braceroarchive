@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.38.jpg
     thumb: /files/thumbnails/NAD-200401383138.jpg
     url: /files/original/NAD-200401383138.jpg
+    alt:
+      en: "Black-and-white photo of a two-story wooden building with a balcony in Watsonville, California; a group of men stands near the entrance while an old truck is parked out front."
 geo:
 id: 2181
 item_type: Still Image

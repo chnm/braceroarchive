@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.30.jpg
     thumb: /files/thumbnails/NAD-200401385530.jpg
     url: /files/original/NAD-200401385530.jpg
+    alt:
+      en: "Black-and-white street scene with men walking past storefronts beneath signs reading \"Colombo Plaza Hotel,\" \"Cafe,\" \"Coca-Cola,\" and \"7 Up,\" with power lines overhead."
 geo:
 id: 2957
 item_type: Still Image

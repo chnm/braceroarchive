@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 20.jpg
     thumb: /files/thumbnails/velasco-patino-20_6dab30ef91.jpg
     url: /files/original/velasco-patino-20_6dab30ef91.jpg
+    alt:
+      en: "Handwritten statement from Lopes Hardware Co. in Coachella, California, dated 7-3-58, billing N. Gonsalez for a Osterizer Blender, listing charges, tax, and a paid balance of $46.78."
 geo:
 id: 1139
 item_type: Document

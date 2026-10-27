@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.27.jpg
     thumb: /files/thumbnails/NAD-200401381227.jpg
     url: /files/original/NAD-200401381227.jpg
+    alt:
+      en: "Interior view of an empty wooden flatbed truck with long bench-like seating down each side, photographed from the rear; other trucks and buildings are visible outside in the background."
 geo:
 id: 1620
 item_type: Still Image

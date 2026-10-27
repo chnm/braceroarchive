@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.05.jpg
     thumb: /files/thumbnails/NAD-200401384105.jpg
     url: /files/original/NAD-200401384105.jpg
+    alt:
+      en: "Black-and-white photo through a doorway of two braceros in a bunkroom: one reclines reading a magazine, the other sits smoking, with clothes hung on a line and a crate marked \"TO\" nearby."
 geo:
 id: 2553
 item_type: Still Image

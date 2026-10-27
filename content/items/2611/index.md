@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.03.jpg
     thumb: /files/thumbnails/NAD-200401384303.jpg
     url: /files/original/NAD-200401384303.jpg
+    alt:
+      en: "Black-and-white photo of a worker standing beside stacked lettuce boxes on a truck bed, with another worker packing crates nearby and rows of a lettuce field stretching into the distance."
 geo:
 id: 2611
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.14.jpg
     thumb: /files/thumbnails/NAD-200401384314.jpg
     url: /files/original/NAD-200401384314.jpg
+    alt:
+      en: "Workers load a lettuce box labeled \"KEEP UNDER REFRIGERATION\" onto a stacked truck bed beside a field, with a conveyor machine marked \"5\" harvesting lettuce in the background."
 geo:
 id: 2622
 item_type: Still Image

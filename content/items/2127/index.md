@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.29.04.jpg
     thumb: /files/thumbnails/NAD-200401382904.jpg
     url: /files/original/NAD-200401382904.jpg
+    alt:
+      en: "Black-and-white photo of a calm lake with a small boat in the distance, patches of algae on the water's surface, and low shrubby shoreline in the foreground under a hazy sky."
 geo:
 id: 2127
 item_type: Still Image

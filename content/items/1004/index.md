@@ -43,6 +43,8 @@ files:
     original_filename: Renteria Rosario - (eugenio) mica1.jpg
     thumb: /files/thumbnails/renteria-rosario---(eugenio)-mica1_89c3794b71.jpg
     url: /files/original/renteria-rosario---(eugenio)-mica1_89c3794b71.jpg
+    alt:
+      en: "Bracero ID card backside for Eugenio Renteria-Mojica, listing home address, 1926 birth date, Jalisco, Nay. birthplace, Calexico, Calif. admission point, 6-21-61 admission date, and card number L-3 660061."
 geo:
 id: 1004
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.06.jpg
     thumb: /files/thumbnails/NAD-200401381006.jpg
     url: /files/original/NAD-200401381006.jpg
+    alt:
+      en: "A group of men wearing hats stand and sit along railroad tracks behind a barbed wire fence, set against a hazy sky near the Monterrey Processing Center."
 geo:
 id: 1560
 item_type: Still Image

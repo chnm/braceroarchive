@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.41.jpg
     thumb: /files/thumbnails/NAD-200401383141.jpg
     url: /files/original/NAD-200401383141.jpg
+    alt:
+      en: "A payroll check from J.J. Crosetti Co. in Watsonville, California, No. 190 N, lying on a weathered wooden surface, with printed payment details and a handwritten signature."
 geo:
 id: 2184
 item_type: Still Image

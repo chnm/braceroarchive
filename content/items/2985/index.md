@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.25.jpg
     thumb: /files/thumbnails/NAD-200401385625.jpg
     url: /files/original/NAD-200401385625.jpg
+    alt:
+      en: "Black-and-white photo of a large agricultural field with many workers bent over picking lettuce, a mechanical harvester with workers aboard to the right, and distant buildings along the horizon."
 geo:
 id: 2985
 item_type: Still Image

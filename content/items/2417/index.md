@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.17.jpg
     thumb: /files/thumbnails/NAD-200401383717.jpg
     url: /files/original/NAD-200401383717.jpg
+    alt:
+      en: "Black-and-white photo of a harvested lettuce field with discarded leaves in the foreground; braceros gather for lunch at the field's edge, with trucks, a bus, and power lines along the road beyond."
 geo:
 id: 2417
 item_type: Still Image

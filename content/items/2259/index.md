@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.19.jpg
     thumb: /files/thumbnails/NAD-200401383319.jpg
     url: /files/original/NAD-200401383319.jpg
+    alt:
+      en: "Black-and-white photo of a worker in a wide-brimmed hat bent over doing stoop labor in a pepper field, with other laborers and a tree line visible in the distance."
 geo:
 id: 2259
 item_type: Still Image

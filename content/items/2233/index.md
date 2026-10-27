@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.28.jpg
     thumb: /files/thumbnails/NAD-200401383228.jpg
     url: /files/original/NAD-200401383228.jpg
+    alt:
+      en: "Black-and-white photo of braceros relaxing on bunk beds in a dormitory room, one smoking in the foreground, two others talking in the background, with hats and clothing hanging nearby."
 geo:
 id: 2233
 item_type: Still Image

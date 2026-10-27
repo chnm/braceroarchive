@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.48.08.jpg
     thumb: /files/thumbnails/NAD-200401384808.jpg
     url: /files/original/NAD-200401384808.jpg
+    alt:
+      en: "A straw hat hangs on a wooden wall above a small shelf holding a crucifix, a flower in a glass vase, and a small figurine."
 geo:
 id: 2377
 item_type: Still Image

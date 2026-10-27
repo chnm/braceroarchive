@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.05.jpg
     thumb: /files/thumbnails/NAD-200401382105.jpg
     url: /files/original/NAD-200401382105.jpg
+    alt:
+      en: "Black-and-white photo of braceros sitting on beds in a camp dormitory, gathered around a radio, smoking and talking, with clothing and hats hanging on the walls."
 geo:
 id: 1871
 item_type: Still Image

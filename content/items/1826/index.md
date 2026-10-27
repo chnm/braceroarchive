@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.13.jpg
     thumb: /files/thumbnails/NAD-200401381913.jpg
     url: /files/original/NAD-200401381913.jpg
+    alt:
+      en: "A line of men wearing cowboy hats carry suitcases along a tree-lined street, with one man in the foreground holding two large bags."
 geo:
 id: 1826
 item_type: Still Image

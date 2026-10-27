@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.29.jpg
     thumb: /files/thumbnails/NAD-200401381529.jpg
     url: /files/original/NAD-200401381529.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and glasses seated behind a large desk, hands clasped, with telephones, papers, and an ashtray visible in his office."
 geo:
 id: 1715
 item_type: Still Image

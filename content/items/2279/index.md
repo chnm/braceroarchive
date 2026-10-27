@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.30.jpg
     thumb: /files/thumbnails/NAD-200401383430.jpg
     url: /files/original/NAD-200401383430.jpg
+    alt:
+      en: "Black-and-white photo of braceros harvesting lettuce in a Salinas Valley field, one worker balancing stacked boxes overhead while others bend to pick, with a truck parked on a distant road."
 geo:
 id: 2279
 item_type: Still Image

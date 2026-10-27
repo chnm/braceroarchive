@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3146.JPG
     thumb: /files/thumbnails/img_3146_d6507c2d20.jpg
     url: /files/original/img_3146_d6507c2d20.jpg
+    alt:
+      en: "Man in a white hat and plaid shirt gestures while speaking at a kitchen table, as a woman in a purple shirt listens and holds a pen, with jars and papers on the counter behind them."
 geo:
 id: 3029
 item_type: Still Image

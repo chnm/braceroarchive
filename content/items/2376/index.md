@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.46.18.jpg
     thumb: /files/thumbnails/NAD-200401384618.jpg
     url: /files/original/NAD-200401384618.jpg
+    alt:
+      en: "Two men sit on the ground playing checkers with bottle caps outside a quonset hut, while several other men sit on a bench nearby watching."
 geo:
 id: 2376
 item_type: Still Image

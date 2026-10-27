@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.02.jpg
     thumb: /files/thumbnails/NAD-200401380902.jpg
     url: /files/original/NAD-200401380902.jpg
+    alt:
+      en: "Two men under a makeshift canvas awning near railroad tracks and a barbed-wire fence, one giving the other a haircut, with a small table of supplies beside them."
 geo:
 id: 1557
 item_type: Still Image

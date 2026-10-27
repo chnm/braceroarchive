@@ -46,6 +46,8 @@ files:
     original_filename: RiveraPedroPassport3.jpg
     thumb: /files/thumbnails/riverapedropassport3_8e4bd5d3e7.jpg
     url: /files/original/riverapedropassport3_8e4bd5d3e7.jpg
+    alt:
+      en: "Interior passport pages listing physical traits, birthplace, birth date, occupation, and marital status in Spanish, alongside a black-and-white photo, fingerprint, and signature of Pedro Rivera Duran."
 geo:
 id: 1164
 item_type: Document

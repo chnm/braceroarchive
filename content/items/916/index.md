@@ -44,6 +44,8 @@ files:
     original_filename: covarrubias, fortino betabel field 1959 picture.jpg
     thumb: /files/thumbnails/covarrubias,-fortino-betabel-field-1959-picture_6a25d6f43c.jpg
     url: /files/original/covarrubias,-fortino-betabel-field-1959-picture_6a25d6f43c.jpg
+    alt:
+      en: "Black-and-white photo of a man standing in a vast, leafy crop field, with distant farm buildings and hills visible on the horizon under a hazy sky."
 geo:
 id: 916
 item_type: Still Image

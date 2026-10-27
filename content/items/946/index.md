@@ -44,6 +44,8 @@ files:
     original_filename: margarita-3.jpg
     thumb: /files/thumbnails/margarita-3_baf9d8b33e.jpg
     url: /files/original/margarita-3_baf9d8b33e.jpg
+    alt:
+      en: "Vintage photograph of a woman and two young children sitting together on grass outdoors, with trees in the background; the image shows wear, creases, and surface damage."
 geo:
 id: 946
 item_type: Still Image

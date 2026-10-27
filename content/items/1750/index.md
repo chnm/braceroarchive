@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.01.jpg
     thumb: /files/thumbnails/NAD-200401381701.jpg
     url: /files/original/NAD-200401381701.jpg
+    alt:
+      en: "An official shines a flashlight into the open mouth of a shirtless bracero while other shirtless men stand in line against a wall at the Monterrey Processing Center, Mexico."
 geo:
 id: 1750
 item_type: Still Image

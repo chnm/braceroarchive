@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.16.jpg
     thumb: /files/thumbnails/NAD-200401383616.jpg
     url: /files/original/NAD-200401383616.jpg
+    alt:
+      en: "Black-and-white photo of a row of wooden barracks at a labor camp, with men standing and leaning against the buildings in a dirt pathway, mountains visible in the background."
 geo:
 id: 2348
 item_type: Still Image

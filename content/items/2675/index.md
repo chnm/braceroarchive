@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.08.jpg
     thumb: /files/thumbnails/NAD-200401384508.jpg
     url: /files/original/NAD-200401384508.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on blankets at a field's edge, while a group of men stand near a parked truck in the background."
 geo:
 id: 2675
 item_type: Still Image

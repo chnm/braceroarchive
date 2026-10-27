@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.30.jpg
     thumb: /files/thumbnails/NAD-200401382230.jpg
     url: /files/original/NAD-200401382230.jpg
+    alt:
+      en: "A bracero sits on a bunk examining his belongings in a dimly lit camp dormitory, with rows of beds, hanging laundry, and a sunlit window in the background."
 geo:
 id: 2386
 item_type: Still Image

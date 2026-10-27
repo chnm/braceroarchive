@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.25.jpg
     thumb: /files/thumbnails/NAD-200401380425.jpg
     url: /files/original/NAD-200401380425.jpg
+    alt:
+      en: "A long line of braceros, many wearing straw hats and carrying bundles, waits to board a bus at the Monterrey Processing Center, with long low buildings and mountains in the background."
 geo:
 id: 1355
 item_type: Still Image

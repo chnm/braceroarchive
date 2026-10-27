@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.21.jpg
     thumb: /files/thumbnails/NAD-200401383221.jpg
     url: /files/original/NAD-200401383221.jpg
+    alt:
+      en: "Black-and-white photo of a man reclining on a cot in a sparse dormitory room, with a desk, chair, folded towels, and a jacket hanging on the wall nearby."
 geo:
 id: 2226
 item_type: Still Image

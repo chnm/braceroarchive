@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.28.jpg
     thumb: /files/thumbnails/NAD-200401381528.jpg
     url: /files/original/NAD-200401381528.jpg
+    alt:
+      en: "Black-and-white photo of a man in glasses and suit seated at an office desk, smoking a cigarette, with a telephone, papers, and ashtray nearby."
 geo:
 id: 1714
 item_type: Still Image

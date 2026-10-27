@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.26.jpg
     thumb: /files/thumbnails/NAD-200401381426.jpg
     url: /files/original/NAD-200401381426.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in hats and work clothes standing under a covered structure, facing an agent in a light shirt and slacks selecting workers."
 geo:
 id: 1679
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.33.jpg
     thumb: /files/thumbnails/NAD-200401381333.jpg
     url: /files/original/NAD-200401381333.jpg
+    alt:
+      en: "Aerial view of a narrow street in San Mateo, Mexico, lined with stone walls and corrugated metal roofs; children sit in a doorway while a woman walks down the road."
 geo:
 id: 1661
 item_type: Still Image

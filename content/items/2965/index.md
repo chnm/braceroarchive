@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.04.jpg
     thumb: /files/thumbnails/NAD-200401385604.jpg
     url: /files/original/NAD-200401385604.jpg
+    alt:
+      en: "Group of braceros wearing straw hats, crouched and seated along the edge of a furrowed pepper field, sharing a lunch of bottled drinks and food on plates."
 geo:
 id: 2965
 item_type: Still Image

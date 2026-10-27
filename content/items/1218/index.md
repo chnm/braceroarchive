@@ -46,6 +46,8 @@ files:
     original_filename: Velez de Cervantes, Estela3.jpg
     thumb: /files/thumbnails/velez-de-cervantes,-estela3_e794cd653f.jpg
     url: /files/original/velez-de-cervantes,-estela3_e794cd653f.jpg
+    alt:
+      en: "Certificate of Baptism from St. Anthony's Church, Reedley, California, certifying Maria Estrela, child of Elpidio Velez and Carmen Bernal, born in Del Rey on November 20, 1924, and baptized November 23, 1924."
 geo:
 id: 1218
 item_type: Document

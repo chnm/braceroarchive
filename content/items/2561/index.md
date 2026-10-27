@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.13.jpg
     thumb: /files/thumbnails/NAD-200401384113.jpg
     url: /files/original/NAD-200401384113.jpg
+    alt:
+      en: "Black-and-white photo of a man standing by a wash basin, shaving with a razor while holding a small mirror up to check his reflection, in a sparse wooden room."
 geo:
 id: 2561
 item_type: Still Image

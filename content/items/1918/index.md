@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.18.jpg
     thumb: /files/thumbnails/NAD-200401382218.jpg
     url: /files/original/NAD-200401382218.jpg
+    alt:
+      en: "Rows of metal-framed beds line a long wooden barracks, with braceros seated on their bunks near the windows in this California labor camp."
 geo:
 id: 1918
 item_type: Still Image

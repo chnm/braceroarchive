@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.14.jpg
     thumb: /files/thumbnails/NAD-200401385014.jpg
     url: /files/original/NAD-200401385014.jpg
+    alt:
+      en: "Men ride in the bed of a GMC pickup truck pulling another truck, parked outside the \"Horseshoe Club\" restaurant with its \"Dancing\" neon sign visible in the background."
 geo:
 id: 2829
 item_type: Still Image

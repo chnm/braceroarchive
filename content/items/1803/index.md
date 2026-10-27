@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.26.jpg
     thumb: /files/thumbnails/NAD-200401381926.jpg
     url: /files/original/NAD-200401381926.jpg
+    alt:
+      en: "Black-and-white photo of a man wearing glasses seated in a small aircraft cockpit, viewed from behind, with instrument gauges and farmland visible through the window."
 geo:
 id: 1803
 item_type: Still Image

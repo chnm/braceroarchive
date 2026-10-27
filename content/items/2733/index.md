@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.04.jpg
     thumb: /files/thumbnails/NAD-200401384704.jpg
     url: /files/original/NAD-200401384704.jpg
+    alt:
+      en: "A bracero sits in a doctor's office as a nurse in uniform writes notes nearby, with medicine cabinets and shelves of bottles in the background."
 geo:
 id: 2733
 item_type: Still Image

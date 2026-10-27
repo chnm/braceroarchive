@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.04.jpg
     thumb: /files/thumbnails/NAD-200401380404.jpg
     url: /files/original/NAD-200401380404.jpg
+    alt:
+      en: "A large crowd of men wearing straw hats gathers closely together in an open yard, with buildings and vehicles visible in the background at the Monterrey Processing Center."
 geo:
 id: 1364
 item_type: Still Image

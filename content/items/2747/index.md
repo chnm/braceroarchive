@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.19.jpg
     thumb: /files/thumbnails/NAD-200401384719.jpg
     url: /files/original/NAD-200401384719.jpg
+    alt:
+      en: "Black-and-white photo of a dining hall where men line up with stacked plates near a serving counter and metal food tray, while others sit eating at long tables in the background."
 geo:
 id: 2747
 item_type: Still Image

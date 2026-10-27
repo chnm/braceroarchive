@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.27.03.jpg
     thumb: /files/thumbnails/NAD-200401382703.jpg
     url: /files/original/NAD-200401382703.jpg
+    alt:
+      en: "Payroll check No. 201 N from J.J. Crosetti Co., Watsonville, California, made out to Antonio Garcia for \"the sum of $32 and 88 cts,\" drawn on Pajaro Valley National Bank, lying on a wooden surface."
 geo:
 id: 2086
 item_type: Still Image

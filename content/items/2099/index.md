@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.09.jpg
     thumb: /files/thumbnails/NAD-200401382809.jpg
     url: /files/original/NAD-200401382809.jpg
+    alt:
+      en: "Black-and-white photo framed through a dark doorway: braceros sit on a doorstep of a wooden barracks while another man walks across the sunlit yard toward them."
 geo:
 id: 2099
 item_type: Still Image

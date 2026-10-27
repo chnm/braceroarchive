@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.24.jpg
     thumb: /files/thumbnails/NAD-200401383724.jpg
     url: /files/original/NAD-200401383724.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on bare earth at a field's edge in Salinas Valley, eating lunch from plates and containers, with rows of crops and farm workers in the background."
 geo:
 id: 2424
 item_type: Still Image

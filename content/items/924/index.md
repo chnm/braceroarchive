@@ -46,6 +46,8 @@ files:
     original_filename: espino-5copy.jpg
     thumb: /files/thumbnails/espino-5copy_3742d56db5.jpg
     url: /files/original/espino-5copy_3742d56db5.jpg
+    alt:
+      en: "Identification card with a green wavy-line border, printed with \"THIS IS TO CERTIFY THAT: JOSE ESPINO O.\" and personal details including birth date, birthplace, height, hair, eyes, and a photo of a man."
 geo:
 id: 924
 item_type: Document

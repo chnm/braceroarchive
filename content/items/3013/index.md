@@ -44,6 +44,8 @@ files:
     original_filename: Carmen Quezada 3 rotated.jpg
     thumb: /files/thumbnails/carmen-quezada-3-rotated_e6da58b646.jpg
     url: /files/original/carmen-quezada-3-rotated_e6da58b646.jpg
+    alt:
+      en: "Certificate of Merit from Holly Sugar Corporation, serial No. 1134, with green decorative border, issued to J. Carmen Quezada Morales, listing age, height, weight, work details, and signed with postal address Worland, Wyoming, 1952."
 geo:
 id: 3013
 item_type: Document

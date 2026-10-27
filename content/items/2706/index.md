@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.11.jpg
     thumb: /files/thumbnails/NAD-200401384611.jpg
     url: /files/original/NAD-200401384611.jpg
+    alt:
+      en: "Large group of braceros gathered outdoors between barracks buildings for a religious service, standing around a table with a man in a dark shirt facing them."
 geo:
 id: 2706
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: RomanGaxiolaMaJesus1957Contractcopy.jpg
     thumb: /files/thumbnails/romangaxiolamajesus1957contractcopy_c836242cad.jpg
     url: /files/original/romangaxiolamajesus1957contractcopy_c836242cad.jpg
+    alt:
+      en: "Typed and handwritten \"Continuation of Standard Work Contract\" for Manuel de Jesus Roman Gaxiola, dated 1957, listing wife Reyna Lopez as dependent and Imperial Valley Farmers' Association as employer, with signatures below."
 geo:
 id: 1172
 item_type: Document

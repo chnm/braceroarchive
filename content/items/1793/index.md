@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.18.40.jpg
     thumb: /files/thumbnails/NAD-200401381840.jpg
     url: /files/original/NAD-200401381840.jpg
+    alt:
+      en: "Black-and-white photo of a bracero carrying a large cotton sack on his shoulder across a field, with other workers nearby and a wooden tripod structure, near McAllen, Texas."
 geo:
 id: 1793
 item_type: Still Image

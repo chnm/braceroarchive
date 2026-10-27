@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.16.jpg
     thumb: /files/thumbnails/NAD-200401381216.jpg
     url: /files/original/NAD-200401381216.jpg
+    alt:
+      en: "Black-and-white photo of a crowd of braceros gathered beside a canal and under an open-sided shelter, with belongings laid on the ground, waiting to be processed at the Hidalgo Processing Center, Texas."
 geo:
 id: 1621
 item_type: Still Image

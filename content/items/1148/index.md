@@ -46,6 +46,8 @@ files:
     original_filename: NavarroFedericoBracero Form1.jpg
     thumb: /files/thumbnails/navarrofedericobracero-form1_b99885d4b2.jpg
     url: /files/original/navarrofedericobracero-form1_b99885d4b2.jpg
+    alt:
+      en: "Spanish-language \"Formato de Documentacion Faltante\" form marked \"1947-1964,\" listing checkboxes for Beneficiario, Cónyuge, and Hijos documents, with handwritten entries for Federico Navarro Duran, dated 07-Marzo-06 in Mexicali."
 geo:
 id: 1148
 item_type: Document

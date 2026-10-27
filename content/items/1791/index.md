@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.18.38.jpg
     thumb: /files/thumbnails/NAD-200401381838.jpg
     url: /files/original/NAD-200401381838.jpg
+    alt:
+      en: "Silhouetted figures in wide-brimmed hats gather beneath a covered structure at the Hidalgo Processing Center, Texas, waiting in line to board trucks."
 geo:
 id: 1791
 item_type: Still Image

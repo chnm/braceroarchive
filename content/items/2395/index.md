@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.21.jpg
     thumb: /files/thumbnails/NAD-200401383021.jpg
     url: /files/original/NAD-200401383021.jpg
+    alt:
+      en: "Black-and-white view from a bracero camp rooftop, with corrugated barracks roofs and windows in the foreground and rows of cultivated farmland stretching to the horizon beyond."
 geo:
 id: 2395
 item_type: Still Image

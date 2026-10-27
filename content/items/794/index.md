@@ -44,6 +44,8 @@ files:
     original_filename: Jul28_03.jpg
     thumb: /files/thumbnails/jul28_03_c0161d0eeb.jpg
     url: /files/original/jul28_03_c0161d0eeb.jpg
+    alt:
+      en: "Interior passport pages with handwritten personal details on the left and a family photograph under \"FOTOGRAFIAS\" on the right, overlaid with a red wax seal and signature reading \"Maria Isabel Ruelas de Magallon.\""
 geo:
 id: 794
 item_type: Document

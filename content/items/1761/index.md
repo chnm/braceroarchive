@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.12.jpg
     thumb: /files/thumbnails/NAD-200401381712.jpg
     url: /files/original/NAD-200401381712.jpg
+    alt:
+      en: "A man in a white shirt examines the mouth of a shirtless bracero with a small flashlight, as a line of other shirtless men wait against the wall at the Monterrey Processing Center."
 geo:
 id: 1761
 item_type: Still Image

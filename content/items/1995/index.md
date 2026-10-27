@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.31.jpg
     thumb: /files/thumbnails/NAD-200401382431.jpg
     url: /files/original/NAD-200401382431.jpg
+    alt:
+      en: "Black-and-white photo of a peddlar holding up a small container of liquid for a group of braceros gathered around a car with merchandise displayed on its open trunk lid."
 geo:
 id: 1995
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.15.jpg
     thumb: /files/thumbnails/NAD-200401383015.jpg
     url: /files/original/NAD-200401383015.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat walks along a dirt path between rows of wooden barracks, with puddles of water in the foreground and a long shadow cast beside him."
 geo:
 id: 2166
 item_type: Still Image

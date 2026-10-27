@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.06.36.jpg
     thumb: /files/thumbnails/NAD-200401380636.jpg
     url: /files/original/NAD-200401380636.jpg
+    alt:
+      en: "A uniformed officer carrying a truncheon walks beside a long line of men in hats standing along a wire fence at the Monterrey Processing Center, with a large crowd gathered beyond."
 geo:
 id: 1446
 item_type: Still Image

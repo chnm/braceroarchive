@@ -43,6 +43,8 @@ files:
     original_filename: Venegas Apolonio - datos generales1 copy.jpg
     thumb: /files/thumbnails/venegas-apolonio---datos-generales1-copy_b8407bfc20.jpg
     url: /files/original/venegas-apolonio---datos-generales1-copy_b8407bfc20.jpg
+    alt:
+      en: "Mexican government inquiry form for ex-bracero Apolonio Guzman Venegas, listing personal data, birthplace Guadalajara, and a separate section for a promoter or representative's information."
 geo:
 id: 1017
 item_type: Document

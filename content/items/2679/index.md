@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.12.jpg
     thumb: /files/thumbnails/NAD-200401384512.jpg
     url: /files/original/NAD-200401384512.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on the ground at a field's edge eating lunch, with large metal containers nearby, while others stand near a truck parked along the dirt road."
 geo:
 id: 2679
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.37.jpg
     thumb: /files/thumbnails/NAD-200401383137.jpg
     url: /files/original/NAD-200401383137.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered in the shade outside a two-story building in Watsonville, California, with a truck and vintage car parked nearby."
 geo:
 id: 2180
 item_type: Still Image

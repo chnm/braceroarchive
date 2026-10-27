@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.20.jpg
     thumb: /files/thumbnails/NAD-200401380520.jpg
     url: /files/original/NAD-200401380520.jpg
+    alt:
+      en: "Braceros wearing wide-brimmed hats gather along a row of stovetops and a long wooden table inside a crowded bunkhouse, preparing and cooking their own food near McAllen, Texas."
 geo:
 id: 1401
 item_type: Still Image

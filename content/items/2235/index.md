@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.30.jpg
     thumb: /files/thumbnails/NAD-200401383230.jpg
     url: /files/original/NAD-200401383230.jpg
+    alt:
+      en: "Two braceros play dominoes at a wooden table in sparse living quarters, with a bunk bed and hanging clothes visible in the background."
 geo:
 id: 2235
 item_type: Still Image

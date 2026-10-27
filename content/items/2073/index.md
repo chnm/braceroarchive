@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.14.jpg
     thumb: /files/thumbnails/NAD-200401382714.jpg
     url: /files/original/NAD-200401382714.jpg
+    alt:
+      en: "Black-and-white photo of a roadside sign reading \"GONDO LABOR CAMP BRANCH 2 WATSONVILLE,\" with rolling hills and camp buildings visible in the background."
 geo:
 id: 2073
 item_type: Still Image

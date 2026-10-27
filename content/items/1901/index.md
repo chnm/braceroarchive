@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.01.jpg
     thumb: /files/thumbnails/NAD-200401382201.jpg
     url: /files/original/NAD-200401382201.jpg
+    alt:
+      en: "Black-and-white photo of a dim barracks room with rows of metal-frame beds, rumpled blankets, and clothing hung on a brick wall; two men sit hunched on beds near the back."
 geo:
 id: 1901
 item_type: Still Image

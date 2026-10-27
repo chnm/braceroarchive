@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.16.jpg
     thumb: /files/thumbnails/NAD-200401380516.jpg
     url: /files/original/NAD-200401380516.jpg
+    alt:
+      en: "Black-and-white photo of a shed-like bracero camp near McAllen, Texas, with men seated at long wooden tables preparing food, including tortillas, while others stand and move about the room."
 geo:
 id: 1397
 item_type: Still Image

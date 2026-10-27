@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.08.jpg
     thumb: /files/thumbnails/NAD-200401380608.jpg
     url: /files/original/NAD-200401380608.jpg
+    alt:
+      en: "Long line of men wearing hats and work clothes stretches across a dirt field, leading toward a large multi-story building in the background, at the Monterrey Processing Center."
 geo:
 id: 1426
 item_type: Still Image

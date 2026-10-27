@@ -46,6 +46,8 @@ files:
     original_filename: FigueroaEncinasLuisbraceroletter1.jpg
     thumb: /files/thumbnails/figueroaencinasluisbraceroletter1_79aa7a0300.jpg
     url: /files/original/figueroaencinasluisbraceroletter1_79aa7a0300.jpg
+    alt:
+      en: "Notarized Spanish-language testimony letter dated Mexicali, Baja California, September 19, 1960s, with handwritten signatures of two witnesses, a red official seal, and \"COTEJADO\" stamped along the margin."
 geo:
 id: 1023
 item_type: Document

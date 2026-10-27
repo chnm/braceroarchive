@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.17.jpg
     thumb: /files/thumbnails/NAD-200401385617.jpg
     url: /files/original/NAD-200401385617.jpg
+    alt:
+      en: "Workers harvest lettuce in long rows across a field, with stacked cardboard crates lining the furrows and a barn visible in the background."
 geo:
 id: 2977
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.02.jpg
     thumb: /files/thumbnails/NAD-200401383502.jpg
     url: /files/original/NAD-200401383502.jpg
+    alt:
+      en: "Black-and-white photograph of a converted bus interior, with long wooden benches and a central plank table running the length of the vehicle, empty of passengers."
 geo:
 id: 2308
 item_type: Still Image

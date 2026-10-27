@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.04.jpg
     thumb: /files/thumbnails/NAD-200401383004.jpg
     url: /files/original/NAD-200401383004.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a wide-brimmed hat hoeing a row in a pepper field, with other workers visible in the rows behind him near Salinas, California."
 geo:
 id: 2174
 item_type: Still Image

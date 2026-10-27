@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.13.jpg
     thumb: /files/thumbnails/NAD-200401382213.jpg
     url: /files/original/NAD-200401382213.jpg
+    alt:
+      en: "Small wooden hut with a single window stands on a dirt lot, with a Pennsylvania Railroad train visible passing in the background alongside power lines and other makeshift structures."
 geo:
 id: 1913
 item_type: Still Image

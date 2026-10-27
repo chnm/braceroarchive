@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.10.jpg
     thumb: /files/thumbnails/NAD-200401380210.jpg
     url: /files/original/NAD-200401380210.jpg
+    alt:
+      en: "Men stand in line beside a mobile trailer labeled \"CHEST X-RAY HERE\" at the Hidalgo Processing Center, waiting to undergo the required physical examination."
 geo:
 id: 1299
 item_type: Still Image

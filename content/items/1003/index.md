@@ -41,6 +41,8 @@ files:
     original_filename: Marcial5.jpg
     thumb: /files/thumbnails/marcial5_a3cc5c93d0.jpg
     url: /files/original/marcial5_a3cc5c93d0.jpg
+    alt:
+      en: "Two men sit together on a leather couch, each holding a beverage bottle; one is shirtless, the other wears glasses and a short-sleeved shirt, with curtains visible behind them."
 geo:
 id: 1003
 item_type: Still Image

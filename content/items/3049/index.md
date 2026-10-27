@@ -44,6 +44,8 @@ files:
     original_filename: belen playing softball.jpg
     thumb: /files/thumbnails/belen-playing-softball_32b55c1735.jpg
     url: /files/original/belen-playing-softball_32b55c1735.jpg
+    alt:
+      en: "Four girls in shorts and blouses stand together on grass in front of a brick building, two holding softball mitts, in this black-and-white photograph."
 geo:
 id: 3049
 item_type: Still Image

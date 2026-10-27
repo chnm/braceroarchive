@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.22.03.jpg
     thumb: /files/thumbnails/NAD-200401382203.jpg
     url: /files/original/NAD-200401382203.jpg
+    alt:
+      en: "Black-and-white photo of a dim, slatted wooden barn converted into bracero housing, with rows of cots bearing thin mattresses and blankets, and a few men resting or sitting among them."
 geo:
 id: 1903
 item_type: Still Image

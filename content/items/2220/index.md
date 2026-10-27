@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.15.jpg
     thumb: /files/thumbnails/NAD-200401383215.jpg
     url: /files/original/NAD-200401383215.jpg
+    alt:
+      en: "A man bends over a wash basin doing laundry in a worn, puddled room with doors, a window, and large tubs in the foreground."
 geo:
 id: 2220
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: espino13copy.jpg
     thumb: /files/thumbnails/espino13copy_67055dca49.jpg
     url: /files/original/espino13copy_67055dca49.jpg
+    alt:
+      en: "Weathered page titled \"INSTRUCTIONS\" with numbered rules for using the War Ration Book, ending with the bolded reminder \"If you don't need it, DON'T BUY IT.\""
 geo:
 id: 935
 item_type: Document

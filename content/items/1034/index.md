@@ -46,6 +46,8 @@ files:
     original_filename: Bautista, Agustine, 1968, military id1.jpg
     thumb: /files/thumbnails/bautista,-agustine,-1968,-military-id1_9a78083aee.jpg
     url: /files/original/bautista,-agustine,-1968,-military-id1_9a78083aee.jpg
+    alt:
+      en: "Printed page titled \"Articulos de la Ley del S.M.N. y su Reglamento\" listing military service articles (1 and 5) on aged green paper, facing a blank rose-colored page."
 geo:
 id: 1034
 item_type: Document

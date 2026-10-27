@@ -41,6 +41,8 @@ files:
     original_filename: GonzalezLorenzoYubaCity.jpg
     thumb: /files/thumbnails/gonzalezlorenzoyubacity_4be5ddacf8.jpg
     url: /files/original/gonzalezlorenzoyubacity_4be5ddacf8.jpg
+    alt:
+      en: "A man in a cap pours a bucket of plums into a large wooden \"Sunsweet\" crate, with additional buckets of fruit nearby and orchard trees in the background."
 geo:
 id: 990
 item_type: Still Image

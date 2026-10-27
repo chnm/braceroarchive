@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.21.jpg
     thumb: /files/thumbnails/NAD-200401384421.jpg
     url: /files/original/NAD-200401384421.jpg
+    alt:
+      en: "Black-and-white photo of two braceros resting on cots in a bunkhouse, one lying with hands behind his head, the other reclining nearby; clothes and a hat hang on wall hooks."
 geo:
 id: 2653
 item_type: Still Image

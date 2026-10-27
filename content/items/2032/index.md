@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.09.jpg
     thumb: /files/thumbnails/NAD-200401382609.jpg
     url: /files/original/NAD-200401382609.jpg
+    alt:
+      en: "Black-and-white photo of workers crouched in long rows of strawberry plants, pushing wheeled crates labeled \"California Strawberries\" as they harvest the field."
 geo:
 id: 2032
 item_type: Still Image

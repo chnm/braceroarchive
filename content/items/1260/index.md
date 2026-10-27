@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio13.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio13_1174fb3fa2.jpg
     url: /files/original/lopez-leon,-asterio13_1174fb3fa2.jpg
+    alt:
+      en: "Pages 10-11 of a Mexican passport with \"VISAS\" headers, Mexican eagle emblems, and a stamped U.S. Immigration & Naturalization Service entry at Calexico, CA dated May 9, 1963, with handwritten name \"Ana Maria Vázquez de León.\""
 geo:
 id: 1260
 item_type: Document

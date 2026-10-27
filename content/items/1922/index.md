@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.22.jpg
     thumb: /files/thumbnails/NAD-200401382222.jpg
     url: /files/original/NAD-200401382222.jpg
+    alt:
+      en: "A seated man draped in a cloth receives a haircut from another man outside wooden living quarters, with broken concrete rubble in the foreground."
 geo:
 id: 1922
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Silve, Alejo, 1956, mica1.jpg
     thumb: /files/thumbnails/lopez-silve,-alejo,-1956,-mica1_3dd9d5ffd7.jpg
     url: /files/original/lopez-silve,-alejo,-1956,-mica1_3dd9d5ffd7.jpg
+    alt:
+      en: "An \"Alien Laborer's Identification Card\" with a photograph of a man, numbered \"15,\" issued by the United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)."
 geo:
 id: 956
 item_type: Document

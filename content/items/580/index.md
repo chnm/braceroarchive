@@ -46,6 +46,8 @@ files:
     original_filename: continuation of standard work contract.jpg
     thumb: /files/thumbnails/continuation-of-standard-work-contract_9babf205ba.jpg
     url: /files/original/continuation-of-standard-work-contract_9babf205ba.jpg
+    alt:
+      en: "Typed and stamped continuation work contract for Juan Lozano Gonzales, dated July 21–Sept. 1, 1961, for farm labor near Lubbock, Texas, signed in Hidalgo, Texas with official stamps and signatures."
 geo:
 id: 580
 item_type: Document

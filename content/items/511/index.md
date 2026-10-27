@@ -44,6 +44,8 @@ files:
     original_filename: CastañedaAaron-03.jpg
     thumb: /files/thumbnails/castañedaaaron-03_e6836cf9a2.jpg
     url: /files/original/castañedaaaron-03_e6836cf9a2.jpg
+    alt:
+      en: "Black-and-white photo of a man seated on a vintage tractor in a rural yard, with bare trees, patchy snow, and a shed visible in the background."
 geo:
 id: 511
 item_type: Still Image

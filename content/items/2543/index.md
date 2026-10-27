@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.32.jpg
     thumb: /files/thumbnails/NAD-200401384032.jpg
     url: /files/original/NAD-200401384032.jpg
+    alt:
+      en: "Aerial view of a lettuce field in the Salinas Valley with two long rows of stacked produce boxes, as workers harvest and carry crates among the crop rows."
 geo:
 id: 2543
 item_type: Still Image

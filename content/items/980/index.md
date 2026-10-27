@@ -43,6 +43,8 @@ files:
     original_filename: Garcia Roberto - passport111.jpg
     thumb: /files/thumbnails/garcia-roberto---passport111_a9b9d067dc.jpg
     url: /files/original/garcia-roberto---passport111_a9b9d067dc.jpg
+    alt:
+      en: "Passport page with a round official stamp, handwritten \"VISADA\" text, and a signature reading Enrique Morales, dated San Juan... mayo 1960, beside a blank text box."
 geo:
 id: 980
 item_type: Document

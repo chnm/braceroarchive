@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.26.jpg
     thumb: /files/thumbnails/NAD-200401383126.jpg
     url: /files/original/NAD-200401383126.jpg
+    alt:
+      en: "Black-and-white photo of two men leaning against wooden cabins in a row of worker housing, with power lines and hills visible in the background at a bracero camp in Gonzalez, California."
 geo:
 id: 2187
 item_type: Still Image

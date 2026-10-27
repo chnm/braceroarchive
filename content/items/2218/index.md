@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.13.jpg
     thumb: /files/thumbnails/NAD-200401383213.jpg
     url: /files/original/NAD-200401383213.jpg
+    alt:
+      en: "Black-and-white photo of braceros standing and walking in front of wooden barracks-style living quarters at a California labor camp, with a parked car and utility pole in the background."
 geo:
 id: 2218
 item_type: Still Image

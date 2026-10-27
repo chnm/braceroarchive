@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.30.jpg
     thumb: /files/thumbnails/NAD-200401381230.jpg
     url: /files/original/NAD-200401381230.jpg
+    alt:
+      en: "Black-and-white photo of men in hats boarding large flatbed trucks at an outdoor processing center, with a bus and parked cars visible in the background."
 geo:
 id: 1611
 item_type: Still Image

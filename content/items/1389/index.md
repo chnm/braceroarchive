@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.08.jpg
     thumb: /files/thumbnails/NAD-200401380508.jpg
     url: /files/original/NAD-200401380508.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing wide-brimmed hats gathered around long wooden tables in an open-sided shed, some preparing tortillas while others sit and talk near a stove."
 geo:
 id: 1389
 item_type: Still Image

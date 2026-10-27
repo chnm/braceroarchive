@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.24.jpg
     thumb: /files/thumbnails/NAD-200401383324.jpg
     url: /files/original/NAD-200401383324.jpg
+    alt:
+      en: "Black-and-white portrait of a young man wearing a cap and short-sleeved button-up shirt, glancing over his shoulder while standing in an open agricultural field."
 geo:
 id: 2252
 item_type: Still Image

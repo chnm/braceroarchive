@@ -41,6 +41,8 @@ files:
     original_filename: Marcial4.jpg
     thumb: /files/thumbnails/marcial4_c94fc7b60c.jpg
     url: /files/original/marcial4_c94fc7b60c.jpg
+    alt:
+      en: "Wedding photo of a bride in a lace gown and veil holding a cascading bouquet, flanked by a groom and three others in formal attire, with a stone wall and floral arrangement in the background."
 geo:
 id: 1002
 item_type: Still Image

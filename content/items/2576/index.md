@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.28.jpg
     thumb: /files/thumbnails/NAD-200401384128.jpg
     url: /files/original/NAD-200401384128.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on metal-frame beds in a sparse camp room, with jackets hanging on wall hooks above them."
 geo:
 id: 2576
 item_type: Still Image

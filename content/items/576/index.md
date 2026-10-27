@@ -44,6 +44,8 @@ files:
     original_filename: on tractor.jpg
     thumb: /files/thumbnails/on-tractor_287f106d3e.jpg
     url: /files/original/on-tractor_287f106d3e.jpg
+    alt:
+      en: "Black-and-white photo of a man wearing a wide-brimmed hat seated on a tractor with a wagon attached behind, parked on a dirt road beside farm fields."
 geo:
 id: 576
 item_type: Still Image

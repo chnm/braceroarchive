@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.04.jpg
     thumb: /files/thumbnails/NAD-200401385004.jpg
     url: /files/original/NAD-200401385004.jpg
+    alt:
+      en: "Black-and-white photo of two braceros resting on the bare ground at a field's edge, wearing straw hats, one lying on folded cloth with a worn boot in the foreground."
 geo:
 id: 2819
 item_type: Still Image

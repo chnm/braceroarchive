@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.31.jpg
     thumb: /files/thumbnails/NAD-200401381231.jpg
     url: /files/original/NAD-200401381231.jpg
+    alt:
+      en: "Black-and-white photo of a large open-bed truck crowded with braceros parked in a lot, with a second truck and a covered walkway visible near low buildings at the Hidalgo Processing Center, Texas."
 geo:
 id: 1612
 item_type: Still Image

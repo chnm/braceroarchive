@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.13.jpg
     thumb: /files/thumbnails/NAD-200401383913.jpg
     url: /files/original/NAD-200401383913.jpg
+    alt:
+      en: "Men rest and sit with luggage under a covered walkway near a large tree, with several buses parked in the lot behind them in Stockton, California."
 geo:
 id: 2491
 item_type: Still Image

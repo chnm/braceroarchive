@@ -46,6 +46,8 @@ files:
     original_filename: Mica El Paso, TX 1957 (back).jpg
     thumb: /files/thumbnails/mica-el-paso,-tx-1957-(back)_b3fb59a9e9.jpg
     url: /files/original/mica-el-paso,-tx-1957-(back)_b3fb59a9e9.jpg
+    alt:
+      en: "Bracero ID card back for Heriberto Cortez-Cortez, listing birth date Nov. 22, 1937, birthplace Coxoxotlan, Oax., Mexico, home address in San Isidro Monjas, issued June 12, 1957 in El Paso, Texas, number L-2573002."
 geo:
 id: 820
 item_type: Document

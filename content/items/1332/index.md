@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.44.jpg
     thumb: /files/thumbnails/NAD-200401380344.jpg
     url: /files/original/NAD-200401380344.jpg
+    alt:
+      en: "A bracero wearing a hat gestures while speaking to a seated official at a table, as other men in hats wait in line behind him near tall windows."
 geo:
 id: 1332
 item_type: Still Image

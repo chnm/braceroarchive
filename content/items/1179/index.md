@@ -46,6 +46,8 @@ files:
     original_filename: ArredondoAlexandroapplicationbackwages2.jpg
     thumb: /files/thumbnails/arredondoalexandroapplicationbackwages2_89d48292a5.jpg
     url: /files/original/arredondoalexandroapplicationbackwages2_89d48292a5.jpg
+    alt:
+      en: "Registration form page listing employment periods and employers (Desert Corp., Agricultura Co.) from 1954–1964, with a checklist of required bracero program documents and signature lines below."
 geo:
 id: 1179
 item_type: Document

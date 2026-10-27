@@ -46,6 +46,8 @@ files:
     original_filename: NavarroFedericoPassport3.jpg
     thumb: /files/thumbnails/navarrofedericopassport3_cf46b7dc8a.jpg
     url: /files/original/navarrofedericopassport3_cf46b7dc8a.jpg
+    alt:
+      en: "Passport pages showing printed personal details (height, color, eyes, hair, birthplace, birthdate, occupation, marital status) alongside a photograph, fingerprint, and signature of the holder."
 geo:
 id: 1157
 item_type: Document

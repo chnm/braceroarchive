@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.21.jpg
     thumb: /files/thumbnails/NAD-200401382421.jpg
     url: /files/original/NAD-200401382421.jpg
+    alt:
+      en: "Men gather in a Stockton office beside a chalkboard reading \"NOTICE: NO REPAIRS ON FRI, SAT OR SUN. NO MEX LABOR SHALL BE USED ON MECHANIZED EQUIP,\" with rows of handwritten labor rates below."
 geo:
 id: 1985
 item_type: Still Image

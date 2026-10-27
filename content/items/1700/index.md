@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.14.jpg
     thumb: /files/thumbnails/NAD-200401381514.jpg
     url: /files/original/NAD-200401381514.jpg
+    alt:
+      en: "Black-and-white photo of a large stone archway and wooden doors, with a man in a hat leaning against the wall and another standing nearby, beneath a posted notice about certificate authorization."
 geo:
 id: 1700
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.23.jpg
     thumb: /files/thumbnails/NAD-200401382823.jpg
     url: /files/original/NAD-200401382823.jpg
+    alt:
+      en: "Braceros gather around tables in a dining hall, with women serving food from large bowls in a bustling kitchen setting lit by hanging bulbs."
 geo:
 id: 2113
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.10.jpg
     thumb: /files/thumbnails/NAD-200401384510.jpg
     url: /files/original/NAD-200401384510.jpg
+    alt:
+      en: "Several men wearing hats rest and lie down at the edge of a cultivated field, while another worker continues laboring among the crop rows in the background."
 geo:
 id: 2677
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.12.jpg
     thumb: /files/thumbnails/NAD-200401384912.jpg
     url: /files/original/NAD-200401384912.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in long rows of a pepper field, performing stoop labor under an open sky with distant hills."
 geo:
 id: 2791
 item_type: Still Image

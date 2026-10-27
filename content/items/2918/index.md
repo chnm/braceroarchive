@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.54.02.jpg
     thumb: /files/thumbnails/NAD-200401385402.jpg
     url: /files/original/NAD-200401385402.jpg
+    alt:
+      en: "Several men kneel on the ground while a man in dark clothing leans over them, as a larger group of onlookers stands behind in front of a wooden barrack building."
 geo:
 id: 2918
 item_type: Still Image

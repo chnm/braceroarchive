@@ -44,6 +44,8 @@ files:
     original_filename: Winnemucca Nevada, 1953 (second left to right) (Cuando traba.jpg
     thumb: /files/thumbnails/winnemucca-nevada,-1953-(second-left-to-right)-(cuando-traba_aef9855938.jpg
     url: /files/original/winnemucca-nevada,-1953-(second-left-to-right)-(cuando-traba_aef9855938.jpg
+    alt:
+      en: "Four men crouch together outdoors near a ball, with a truck and wooden buildings behind them; this vintage sepia-toned photo has decorative scalloped edges."
 geo:
 id: 858
 item_type: Still Image

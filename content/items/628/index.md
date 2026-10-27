@@ -44,6 +44,8 @@ files:
     original_filename: Carrilo1.jpg
     thumb: /files/thumbnails/carrilo1_f0ae3a8847.jpg
     url: /files/original/carrilo1_f0ae3a8847.jpg
+    alt:
+      en: "Handwritten Spanish-language letter signed by Martin Lucero, dated 1945, paired with a printed postcard-style illustration of a cowboy by a campfire with a donkey and mountain landscape."
 geo:
 id: 628
 item_type: Still Image

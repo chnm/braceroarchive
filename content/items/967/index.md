@@ -46,6 +46,8 @@ files:
     original_filename: BautistaRodriguezJesus - mica2.jpg
     thumb: /files/thumbnails/bautistarodriguezjesus---mica2_4743537162.jpg
     url: /files/original/bautistarodriguezjesus---mica2_4743537162.jpg
+    alt:
+      en: "Back of a Bracero ID card for Jesus Bautista-Rodriguez, born 11/17/23 in El Limon, Jal., Mexico, issued in Calexico, Calif. on 5/1/56, with ID number L-2065132 and \"MICA\" printed at bottom."
 geo:
 id: 967
 item_type: Document

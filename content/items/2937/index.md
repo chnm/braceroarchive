@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.10.jpg
     thumb: /files/thumbnails/NAD-200401385510.jpg
     url: /files/original/NAD-200401385510.jpg
+    alt:
+      en: "Rows of farmworkers bent over harvesting lettuce in a vast field, with wooden \"Toro\" lettuce boxes scattered throughout; power lines and distant trees line the horizon."
 geo:
 id: 2937
 item_type: Still Image

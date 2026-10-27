@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.24.jpg
     thumb: /files/thumbnails/NAD-200401380924.jpg
     url: /files/original/NAD-200401380924.jpg
+    alt:
+      en: "A long line of men, many wearing hats, stretches across a dirt field toward several buses parked near trees and buildings at the Monterrey Processing Center."
 geo:
 id: 1531
 item_type: Still Image

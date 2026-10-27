@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.12.jpg
     thumb: /files/thumbnails/NAD-200401383012.jpg
     url: /files/original/NAD-200401383012.jpg
+    alt:
+      en: "A man in a hat stands beside a long wooden barracks-style building in a labor camp, with a tire and cloth hanging near the entrance and open fields beyond."
 geo:
 id: 2163
 item_type: Still Image

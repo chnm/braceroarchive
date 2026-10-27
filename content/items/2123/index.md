@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.33.jpg
     thumb: /files/thumbnails/NAD-200401382833.jpg
     url: /files/original/NAD-200401382833.jpg
+    alt:
+      en: "Black-and-white photo of men in a dining hall serving beans from a large pot onto plates, with one man wearing a straw hat in the foreground and others lined up behind him."
 geo:
 id: 2123
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.04.jpg
     thumb: /files/thumbnails/NAD-200401384804.jpg
     url: /files/original/NAD-200401384804.jpg
+    alt:
+      en: "Rows of cots with folded blankets line a wood-paneled bunkhouse wall, sunlight streaming through a window, with a hat and clothing hanging on hooks nearby."
 geo:
 id: 2763
 item_type: Still Image

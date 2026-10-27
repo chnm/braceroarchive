@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.44.jpg
     thumb: /files/thumbnails/NAD-200401381644.jpg
     url: /files/original/NAD-200401381644.jpg
+    alt:
+      en: "A crowd of men in wide-brimmed hats gathers in a circle outdoors near a corrugated metal roof structure, with a woman standing among them in the center beside seated figures."
 geo:
 id: 1718
 item_type: Still Image

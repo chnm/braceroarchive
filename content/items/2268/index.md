@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.33.04.jpg
     thumb: /files/thumbnails/NAD-200401383304.jpg
     url: /files/original/NAD-200401383304.jpg
+    alt:
+      en: "Black-and-white photo of long, freshly plowed furrows stretching across a large California field, with distant trees, hills, and a line of small figures near the horizon."
 geo:
 id: 2268
 item_type: Still Image

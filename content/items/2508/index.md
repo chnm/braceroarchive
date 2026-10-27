@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.30.jpg
     thumb: /files/thumbnails/NAD-200401383930.jpg
     url: /files/original/NAD-200401383930.jpg
+    alt:
+      en: "A man hands out paychecks to a group of hatted braceros gathered outdoors, with buildings and vehicles visible in the background."
 geo:
 id: 2508
 item_type: Still Image

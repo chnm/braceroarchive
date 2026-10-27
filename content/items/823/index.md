@@ -46,6 +46,8 @@ files:
     original_filename: __hr_SamuelChavira-Mencion Honorifica1953.jpg
     thumb: /files/thumbnails/__hr_samuelchavira-mencion-honorifica1953_87b1386cd5.jpg
     url: /files/original/__hr_samuelchavira-mencion-honorifica1953_87b1386cd5.jpg
+    alt:
+      en: "Bilingual U.S. Department of Labor \"Mención Honorífica\" certificate, numbered 872389, recognizing Samuel Chavira Medrano's completion of his 1951 bracero labor contract, dated December 28, 1953."
 geo:
 id: 823
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.33.jpg
     thumb: /files/thumbnails/NAD-200401384433.jpg
     url: /files/original/NAD-200401384433.jpg
+    alt:
+      en: "Black-and-white photo of a bracero resting on a cot in a dormitory-style camp room, with other men on beds, hanging clothes, and storage trunks visible in the background."
 geo:
 id: 2665
 item_type: Still Image

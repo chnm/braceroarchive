@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.24.jpg
     thumb: /files/thumbnails/NAD-200401384924.jpg
     url: /files/original/NAD-200401384924.jpg
+    alt:
+      en: "Black-and-white photo of a bracero kneeling in a pepper field wearing a wide-brimmed hat, with other workers bending among the rows in the background."
 geo:
 id: 2803
 item_type: Still Image

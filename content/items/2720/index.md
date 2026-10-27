@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.27.jpg
     thumb: /files/thumbnails/NAD-200401384627.jpg
     url: /files/original/NAD-200401384627.jpg
+    alt:
+      en: "Vintage photograph, partially obscured by dark film border, showing a long brick building with several doors and figures crouched near a water spigot in a grassy yard at a labor camp."
 geo:
 id: 2720
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.25.jpg
     thumb: /files/thumbnails/NAD-200401380925.jpg
     url: /files/original/NAD-200401380925.jpg
+    alt:
+      en: "A long line of men, many wearing straw hats, stretches across a dusty field toward parked buses, with city buildings and palm trees visible in the background."
 geo:
 id: 1532
 item_type: Still Image

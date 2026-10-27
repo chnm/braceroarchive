@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.26.jpg
     thumb: /files/thumbnails/NAD-200401383626.jpg
     url: /files/original/NAD-200401383626.jpg
+    alt:
+      en: "Black-and-white aerial view of a lettuce field in the Salinas Valley, with rows of harvested lettuce boxes lined up, workers in the distance, and a car parked along the field's edge."
 geo:
 id: 2346
 item_type: Still Image

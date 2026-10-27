@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.07.jpg
     thumb: /files/thumbnails/NAD-200401380607.jpg
     url: /files/original/NAD-200401380607.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up outside a long low building at the Monterrey Processing Center, with a bare hill rising in the background and a man in a hat in the foreground."
 geo:
 id: 1425
 item_type: Still Image

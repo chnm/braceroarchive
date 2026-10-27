@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.39.jpg
     thumb: /files/thumbnails/NAD-200401380139.jpg
     url: /files/original/NAD-200401380139.jpg
+    alt:
+      en: "A long line of men in hats and work clothes queue outdoors near a pickup truck and long buildings, with one man walking along the line in the foreground."
 geo:
 id: 1282
 item_type: Still Image

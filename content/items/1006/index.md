@@ -43,6 +43,8 @@ files:
     original_filename: Renteria Rosario - dad\'s marriage certificate1.jpg
     thumb: /files/thumbnails/renteria-rosario---dads-marriage-certificate1_51c05038cc.jpg
     url: /files/original/renteria-rosario---dads-marriage-certificate1_51c05038cc.jpg
+    alt:
+      en: "Scanned Mexican civil registry document headed \"Estado Libre y Soberano de Nayarit\" with an emblem, recording the 1938 marriage certificate of Eugenio Rentería and María Refugio Gómez in dense typed Spanish script."
 geo:
 id: 1006
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.12.jpg
     thumb: /files/thumbnails/NAD-200401381912.jpg
     url: /files/original/NAD-200401381912.jpg
+    alt:
+      en: "Black-and-white photo of braceros carrying suitcases and bundles, lined up in a dirt lot near a bus and truck, waiting to board transportation to a Stockton, California labor camp."
 geo:
 id: 1825
 item_type: Still Image

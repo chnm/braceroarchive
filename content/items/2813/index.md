@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.36.jpg
     thumb: /files/thumbnails/NAD-200401384936.jpg
     url: /files/original/NAD-200401384936.jpg
+    alt:
+      en: "A bracero bends low over rows of plants, using a short-handled hoe to loosen soil in a California pepper field, with other workers faintly visible in the distant background."
 geo:
 id: 2813
 item_type: Still Image

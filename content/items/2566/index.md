@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.18.jpg
     thumb: /files/thumbnails/NAD-200401384118.jpg
     url: /files/original/NAD-200401384118.jpg
+    alt:
+      en: "A man leans over a row of large basin sinks doing laundry in a camp bathroom, with a hose draped across the nearest basin and a \"FAB\" detergent sign visible on the wall."
 geo:
 id: 2566
 item_type: Still Image

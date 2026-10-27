@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.11.jpg
     thumb: /files/thumbnails/NAD-200401381911.jpg
     url: /files/original/NAD-200401381911.jpg
+    alt:
+      en: "Men with hats and luggage stand in line beside a bus, waiting to board for transport to a labor camp in Stockton, California."
 geo:
 id: 1824
 item_type: Still Image

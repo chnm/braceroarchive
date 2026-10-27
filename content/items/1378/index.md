@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.38.jpg
     thumb: /files/thumbnails/NAD-200401380438.jpg
     url: /files/original/NAD-200401380438.jpg
+    alt:
+      en: "Aerial view of a large crowd of braceros gathered in a dirt yard near a two-story building, with mountains visible in the background at the Monterrey Processing Center."
 geo:
 id: 1378
 item_type: Still Image

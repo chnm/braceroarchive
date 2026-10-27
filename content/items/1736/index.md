@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.29.jpg
     thumb: /files/thumbnails/NAD-200401381629.jpg
     url: /files/original/NAD-200401381629.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in straw hats seated and crouched along a wall inside a large hall, waiting to be processed at the Monterrey Processing Center."
 geo:
 id: 1736
 item_type: Still Image

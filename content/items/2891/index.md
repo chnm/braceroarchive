@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.01.jpg
     thumb: /files/thumbnails/NAD-200401385101.jpg
     url: /files/original/NAD-200401385101.jpg
+    alt:
+      en: "Two braceros rest on metal-frame beds in a camp dormitory, clothing hanging on the wall above shelves of canned goods, with shoes and boots scattered on the floor nearby."
 geo:
 id: 2891
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: ayonmaria backID.jpg
     thumb: /files/thumbnails/ayonmaria-backid_ca3a67ef33.jpg
     url: /files/original/ayonmaria-backid_ca3a67ef33.jpg
+    alt:
+      en: "Worn bracero ID card back for AYON-Luna, Vicente, born 4/22/29 in San Martin de Los Bolanos, Jal., Mex., listing a Tijuana home address, issued in Calexico, Calif. on 4/5/56, numbered L-2074308, marked MICA."
 geo:
 id: 965
 item_type: Document

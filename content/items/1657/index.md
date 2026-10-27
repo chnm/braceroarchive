@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.29.jpg
     thumb: /files/thumbnails/NAD-200401381329.jpg
     url: /files/original/NAD-200401381329.jpg
+    alt:
+      en: "Rows of men in hats wait at long tables while officials and a seated woman at a typewriter review documents inside a large, column-lined hall at the Monterrey Processing Center."
 geo:
 id: 1657
 item_type: Still Image

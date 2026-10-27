@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.05.34.jpg
     thumb: /files/thumbnails/NAD-200401380534.jpg
     url: /files/original/NAD-200401380534.jpg
+    alt:
+      en: "A line of men wearing wide-brimmed hats walks single file along the railing of a suspension bridge, with a lone figure crossing the roadway ahead and trees lining the riverbank below."
 geo:
 id: 1415
 item_type: Still Image

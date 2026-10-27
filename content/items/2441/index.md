@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.41.jpg
     thumb: /files/thumbnails/NAD-200401383741.jpg
     url: /files/original/NAD-200401383741.jpg
+    alt:
+      en: "A bracero kneels in a lettuce field, trimming bad leaves from a lettuce head, while other workers labor among the rows and a truck waits on the roadside in the background."
 geo:
 id: 2441
 item_type: Still Image

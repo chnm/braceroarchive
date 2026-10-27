@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.07.jpg
     thumb: /files/thumbnails/NAD-200401381207.jpg
     url: /files/original/NAD-200401381207.jpg
+    alt:
+      en: "A line of men wearing hats walks single file across a bridge spanning a river lined with trees, with overhead wires and lamps stretching into the distance."
 geo:
 id: 1608
 item_type: Still Image

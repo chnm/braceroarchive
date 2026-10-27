@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.06.jpg
     thumb: /files/thumbnails/NAD-200401385106.jpg
     url: /files/original/NAD-200401385106.jpg
+    alt:
+      en: "Black-and-white photo of a bracero camp room: a man reclines on a bed in the foreground while others sit and write at a table, with coats hung on wall pegs and shoes on the floor."
 geo:
 id: 2847
 item_type: Still Image

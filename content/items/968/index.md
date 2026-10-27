@@ -43,6 +43,8 @@ files:
     original_filename: Garcia Roberto - (brother\'s mica2).jpg
     thumb: /files/thumbnails/garcia-roberto---(brothers-mica2)_6e7f7b2980.jpg
     url: /files/original/garcia-roberto---(brothers-mica2)_6e7f7b2980.jpg
+    alt:
+      en: "Alien Laborer's Identification Card featuring a black-and-white photo of a young man, headed \"United States Department of Justice, Immigration and Naturalization Service - I - 100D (12-7-55).\""
 geo:
 id: 968
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.06.jpg
     thumb: /files/thumbnails/NAD-200401384606.jpg
     url: /files/original/NAD-200401384606.jpg
+    alt:
+      en: "Large group of braceros gathered closely together between buildings in a camp, with buses and distant hills visible in the background, as a man addresses the crowd."
 geo:
 id: 2701
 item_type: Still Image

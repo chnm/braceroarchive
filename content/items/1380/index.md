@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.40.jpg
     thumb: /files/thumbnails/NAD-200401380440.jpg
     url: /files/original/NAD-200401380440.jpg
+    alt:
+      en: "A long line of men in wide-brimmed hats and plaid shirts waits outdoors at the Monterrey Processing Center while a woman in a plaid dress stands nearby offering food for sale."
 geo:
 id: 1380
 item_type: Still Image

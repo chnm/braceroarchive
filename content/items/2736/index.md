@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.08.jpg
     thumb: /files/thumbnails/NAD-200401384708.jpg
     url: /files/original/NAD-200401384708.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated around a fireplace in a waiting room, with a man and woman standing near a table of file boxes in the foreground."
 geo:
 id: 2736
 item_type: Still Image

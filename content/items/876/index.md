@@ -44,6 +44,8 @@ files:
     original_filename: Foto en Plaza de la Ciudadela, 2 junio 2002 (2).JPG
     thumb: /files/thumbnails/foto-en-plaza-de-la-ciudadela,-2-junio-2002-(2)_e00e4838c2.jpg
     url: /files/original/foto-en-plaza-de-la-ciudadela,-2-junio-2002-(2)_e00e4838c2.jpg
+    alt:
+      en: "Older man in a light gray suit smiling while seated outdoors in a park, with manicured hedges, trees, and a stone fountain visible in the background."
 geo:
 id: 876
 item_type: Still Image

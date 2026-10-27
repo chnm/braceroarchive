@@ -41,6 +41,8 @@ files:
     original_filename: LorenzoGonzalezSpreckels.jpg
     thumb: /files/thumbnails/lorenzogonzalezspreckels_e5ba44f10f.jpg
     url: /files/original/lorenzogonzalezspreckels_e5ba44f10f.jpg
+    alt:
+      en: "Aged, damaged sepia photo of a man standing behind tall shrubbery in front of a long stalled building with a peaked roof, trees visible in the background."
 geo:
 id: 991
 item_type: Still Image

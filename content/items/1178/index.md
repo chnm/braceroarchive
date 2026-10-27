@@ -46,6 +46,8 @@ files:
     original_filename: ArredondoAlexandroapplicationbackwages1.jpg
     thumb: /files/thumbnails/arredondoalexandroapplicationbackwages1_af235cba78.jpg
     url: /files/original/arredondoalexandroapplicationbackwages1_af235cba78.jpg
+    alt:
+      en: "Registration form for former bracero Alexandro Arredondo Salas, listing personal details like address in Orange, CA, birthplace Amaculi, Durango, Mexico, and birthdate 4-24-35, with a blank promoter section below."
 geo:
 id: 1178
 item_type: Document

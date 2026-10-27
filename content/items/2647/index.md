@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.14.jpg
     thumb: /files/thumbnails/NAD-200401384414.jpg
     url: /files/original/NAD-200401384414.jpg
+    alt:
+      en: "A man reclines on a bunk bed in a wood-paneled room, reading a book with American and Mexican flags on its cover; clothing hangs on hooks above him and a shelf holds toiletries."
 geo:
 id: 2647
 item_type: Still Image

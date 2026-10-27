@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1954, Contract1.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1954,-contract1_e8bcc9baea.jpg
     url: /files/original/santacruz,-melitona,-1954,-contract1_e8bcc9baea.jpg
+    alt:
+      en: "Typed bilingual \"Continuation of Standard Work Contract\" (No. L 973864) for Guadalupe Santa Cruz-Rangel, listing employer Imperial Valley Farmers Assn., 1954 contract dates, work locations, and wage rate of 70¢ per hour."
 geo:
 id: 1062
 item_type: Document

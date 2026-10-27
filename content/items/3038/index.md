@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3446.JPG
     thumb: /files/thumbnails/img_3446_cbea91276a.jpg
     url: /files/original/img_3446_cbea91276a.jpg
+    alt:
+      en: "Older man wearing glasses and a striped shirt holds a vintage radio while seated near a decorated window with string lights and a floral arrangement."
 geo:
 id: 3038
 item_type: Still Image

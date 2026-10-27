@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.02.jpg
     thumb: /files/thumbnails/NAD-200401381902.jpg
     url: /files/original/NAD-200401381902.jpg
+    alt:
+      en: "A long line of men in hats and work clothes stands under a tree-lined, covered walkway, with crates of packaged goods in the foreground, in this black-and-white photo of braceros waiting to board a bus in Stockton, California."
 geo:
 id: 1827
 item_type: Still Image

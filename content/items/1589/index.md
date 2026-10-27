@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.03.jpg
     thumb: /files/thumbnails/NAD-200401381103.jpg
     url: /files/original/NAD-200401381103.jpg
+    alt:
+      en: "Long line of braceros wearing hats walks across an open dirt field toward buildings, with a mountain and utility poles visible in the background at the Monterrey Processing Center."
 geo:
 id: 1589
 item_type: Still Image

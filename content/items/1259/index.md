@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio12.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio12_d8851667a9.jpg
     url: /files/original/lopez-leon,-asterio12_d8851667a9.jpg
+    alt:
+      en: "Two passport pages titled \"REFRENDOS\" with official stamps; the right page shows handwritten entries for Calexico, California, dated April 20, 1969, and May 11, 1967, signed by Ignacio Romo Porchas, Canciller."
 geo:
 id: 1259
 item_type: Document

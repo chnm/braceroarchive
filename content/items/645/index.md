@@ -49,6 +49,8 @@ files:
     original_filename: Jul27_17.JPG
     thumb: /files/thumbnails/jul27_17_1f5fa0514e.jpg
     url: /files/original/jul27_17_1f5fa0514e.jpg
+    alt:
+      en: "Handwritten letter in Spanish dated \"Abril - 25/57\" from San Fernando, Calif., addressed \"Querida esposa,\" written in cursive blue ink on lined paper with visible fold creases."
 geo:
 id: 645
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.24.01.jpg
     thumb: /files/thumbnails/NAD-200401382401.jpg
     url: /files/original/NAD-200401382401.jpg
+    alt:
+      en: "Two braceros stand before an office chalkboard in Stockton, California, one pointing to handwritten labor figures beneath a printed notice reading \"No Mex labor shall be used on mechanized equip.\""
 geo:
 id: 1965
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Roman Gaxiola, Manuel de Jesus, 1954, Contract1.jpg
     thumb: /files/thumbnails/roman-gaxiola,-manuel-de-jesus,-1954,-contract1_79642168c1.jpg
     url: /files/original/roman-gaxiola,-manuel-de-jesus,-1954,-contract1_79642168c1.jpg
+    alt:
+      en: "Typed \"Continuation of Standard Work Contract\" form for Manuel Roman Gaxiola, dated 1954, listing employer Growers Farm Labor Ass'n, work locations in California, wage rates, and contract duration details."
 geo:
 id: 1167
 item_type: Document

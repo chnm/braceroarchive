@@ -46,6 +46,8 @@ files:
     original_filename: Contrato Abril-mayo Calfornia 1958.jpg
     thumb: /files/thumbnails/contrato--abril-mayo-calfornia-1958_7ca3454433.jpg
     url: /files/original/contrato--abril-mayo-calfornia-1958_7ca3454433.jpg
+    alt:
+      en: "A typed and stamped \"Continuation of Standard Work Contract\" form for Francisco Delgado Soto, dated April 10, 1958, with \"EMPLOYMENT TERMINATED\" stamped in red across the top."
 geo:
 id: 851
 item_type: Document

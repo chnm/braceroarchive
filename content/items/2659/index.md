@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.27.jpg
     thumb: /files/thumbnails/NAD-200401384427.jpg
     url: /files/original/NAD-200401384427.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered on and around a bed playing cards in a crowded camp dormitory, with cots, hanging clothes, and a radio visible in the background."
 geo:
 id: 2659
 item_type: Still Image

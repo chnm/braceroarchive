@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.13.jpg
     thumb: /files/thumbnails/NAD-200401385613.jpg
     url: /files/original/NAD-200401385613.jpg
+    alt:
+      en: "Black-and-white photo of a bracero stooping to pick peppers in a California field, with rows of other workers bent over crops in the distance under a wide open sky."
 geo:
 id: 2973
 item_type: Still Image

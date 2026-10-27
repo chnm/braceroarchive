@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.31.jpg
     thumb: /files/thumbnails/NAD-200401381431.jpg
     url: /files/original/NAD-200401381431.jpg
+    alt:
+      en: "Interior of a large processing hall with rows of desks where typists complete paperwork for braceros, many wearing hats, as lines of men wait throughout the room."
 geo:
 id: 1684
 item_type: Still Image

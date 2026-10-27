@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 23.jpg
     thumb: /files/thumbnails/velasco-patino-23_54e6139b3b.jpg
     url: /files/original/velasco-patino-23_54e6139b3b.jpg
+    alt:
+      en: "Two Western Union telegraph money order receipts from Indio, Calif., dated 1956 and 1957, recording payments sent to Rosario De Velasco in Guadalajara, Mexico, with handwritten amounts and addresses."
 geo:
 id: 1143
 item_type: Document

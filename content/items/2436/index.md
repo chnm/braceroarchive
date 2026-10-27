@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.36.jpg
     thumb: /files/thumbnails/NAD-200401383736.jpg
     url: /files/original/NAD-200401383736.jpg
+    alt:
+      en: "Black-and-white photo taken from inside a vehicle showing braceros boarding a truck beside a field in the Salinas Valley, with workers and crates gathered on the dirt road and a bus parked nearby."
 geo:
 id: 2436
 item_type: Still Image

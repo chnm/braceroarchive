@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.29.01.jpg
     thumb: /files/thumbnails/NAD-200401382901.jpg
     url: /files/original/NAD-200401382901.jpg
+    alt:
+      en: "Black-and-white street scene of a group of men walking along a sidewalk toward the State Theater marquee, which reads \"MIÉRCOLES CANTINFLITAS EN PERSONA,\" with parked cars and an American flag nearby."
 geo:
 id: 2124
 item_type: Still Image

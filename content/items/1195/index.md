@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 36.jpg
     thumb: /files/thumbnails/velasco-patino-36_4611564149.jpg
     url: /files/original/velasco-patino-36_4611564149.jpg
+    alt:
+      en: "Three stacked bank money order receipts from The First National Bank in Coachella, California, issued to M. Gonzalez, payable to Sra. Rosario R. de Velasco and Francisca Rodriguez, dated 1948–1950."
 geo:
 id: 1195
 item_type: Document

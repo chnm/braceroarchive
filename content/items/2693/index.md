@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.26.jpg
     thumb: /files/thumbnails/NAD-200401384526.jpg
     url: /files/original/NAD-200401384526.jpg
+    alt:
+      en: "Two braceros stand in a California field pouring crops from a can into a bag, with filled sacks and a metal bucket nearby; other workers are visible in the background rows."
 geo:
 id: 2693
 item_type: Still Image

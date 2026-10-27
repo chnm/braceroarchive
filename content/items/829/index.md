@@ -46,6 +46,8 @@ files:
     original_filename: MariaLuz-front.jpg
     thumb: /files/thumbnails/marialuz-front_2bea45233e.jpg
     url: /files/original/marialuz-front_2bea45233e.jpg
+    alt:
+      en: "U.S. Citizen's Identification Card for Maria Luz Armendaris-Concha, issued 1935, with photograph, physical description, signature, and \"Immigrant Inspector\" Harrison Church's signature stamped \"U.S. Citizen.\""
 geo:
 id: 829
 item_type: Document

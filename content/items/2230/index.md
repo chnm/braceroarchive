@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.25.jpg
     thumb: /files/thumbnails/NAD-200401383225.jpg
     url: /files/original/NAD-200401383225.jpg
+    alt:
+      en: "A man reclines on a bed in a dimly lit room, smoking a cigarette, with shelves and equipment visible in the shadowed background."
 geo:
 id: 2230
 item_type: Still Image

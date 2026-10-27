@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.08.jpg
     thumb: /files/thumbnails/NAD-200401384908.jpg
     url: /files/original/NAD-200401384908.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat bends low performing stoop labor in a row of a pepper field, with other workers bent over in rows stretching toward distant hills."
 geo:
 id: 2787
 item_type: Still Image

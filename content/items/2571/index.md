@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.23.jpg
     thumb: /files/thumbnails/NAD-200401384123.jpg
     url: /files/original/NAD-200401384123.jpg
+    alt:
+      en: "A bracero stands in a doorway of a wooden barracks while three others sit resting on the steps below, with a row of similar buildings and hills visible in the background."
 geo:
 id: 2571
 item_type: Still Image

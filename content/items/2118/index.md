@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.28.jpg
     thumb: /files/thumbnails/NAD-200401382828.jpg
     url: /files/original/NAD-200401382828.jpg
+    alt:
+      en: "A line of men stand at a serving counter in a dining hall, with one reaching for food on plates as another waits behind the counter, under a single overhead light."
 geo:
 id: 2118
 item_type: Still Image

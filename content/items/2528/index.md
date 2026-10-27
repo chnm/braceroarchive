@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.17.jpg
     thumb: /files/thumbnails/NAD-200401384017.jpg
     url: /files/original/NAD-200401384017.jpg
+    alt:
+      en: "Stacked cardboard boxes printed \"TORO LETTUCE\" fill the foreground of a truck bed, with a worker in a straw hat loading them as rows of braceros work the lettuce field beyond, hills on the horizon."
 geo:
 id: 2528
 item_type: Still Image

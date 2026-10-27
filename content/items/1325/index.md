@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.03.05.jpg
     thumb: /files/thumbnails/NAD-200401380305.jpg
     url: /files/original/NAD-200401380305.jpg
+    alt:
+      en: "A standing official examines the hands of a seated man at a table while others wait nearby in a large hall with tall windows, part of processing at the Monterrey Processing Center."
 geo:
 id: 1325
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.02.jpg
     thumb: /files/thumbnails/NAD-200401385302.jpg
     url: /files/original/NAD-200401385302.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated at long tables eating in a crowded dining hall, with an American flag and signage on the back wall and a worker carrying trays near the kitchen area."
 geo:
 id: 2893
 item_type: Still Image

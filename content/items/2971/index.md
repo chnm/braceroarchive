@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.11.jpg
     thumb: /files/thumbnails/NAD-200401385611.jpg
     url: /files/original/NAD-200401385611.jpg
+    alt:
+      en: "Black-and-white photo of a person's legs and handmade sandals standing in a furrowed field among low pepper plants, with bare soil and rows visible in the background."
 geo:
 id: 2971
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.11.jpg
     thumb: /files/thumbnails/NAD-200401384711.jpg
     url: /files/original/NAD-200401384711.jpg
+    alt:
+      en: "A nurse inserts a thermometer into the mouth of a standing bracero, while other men wait seated in rows behind them in a plain institutional room."
 geo:
 id: 2739
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: Jul27_02.JPG
     thumb: /files/thumbnails/jul27_02_55a87cdb39.jpg
     url: /files/original/jul27_02_55a87cdb39.jpg
+    alt:
+      en: "Photo album page with four black-and-white snapshots: a man, woman, and child posed outside a wooden building; a person lying under farm machinery; and two sideways-oriented photos showing a train car accident scene."
 geo:
 id: 634
 item_type: Still Image

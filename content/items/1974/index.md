@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.10.jpg
     thumb: /files/thumbnails/NAD-200401382410.jpg
     url: /files/original/NAD-200401382410.jpg
+    alt:
+      en: "Large crowd of braceros, many wearing wide-brimmed hats, gathered outside a single-story building; vintage cars are parked in the gravel foreground and a bus sits in the background."
 geo:
 id: 1974
 item_type: Still Image

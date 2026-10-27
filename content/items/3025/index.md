@@ -44,6 +44,8 @@ files:
     original_filename: Dionisio Hernandez 3.JPG
     thumb: /files/thumbnails/dionisio-hernandez-3_caaf06e8b9.jpg
     url: /files/original/dionisio-hernandez-3_caaf06e8b9.jpg
+    alt:
+      en: "Bracero paycheck No. 23719 from Monterey County Trust & Savings Bank, Gonzales, California, dated March 1953, payable to J. Jesus Hernandez R. for $100.00, drawn on The National City Bank of New York."
 geo:
 id: 3025
 item_type: Document

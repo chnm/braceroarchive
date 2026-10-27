@@ -46,6 +46,8 @@ files:
     original_filename: Moreno Sandoval, Cipreano, 1956, military id1.jpg
     thumb: /files/thumbnails/moreno-sandoval,-cipreano,-1956,-military-id1_c69ab07cfc.jpg
     url: /files/original/moreno-sandoval,-cipreano,-1956,-military-id1_c69ab07cfc.jpg
+    alt:
+      en: "Mexican military ID document with \"MATRICULA No. 3141187\" printed at top, featuring three circular stamps with visa dates 1961, 1963, and 1965, tucked inside a worn brown paper envelope."
 geo:
 id: 1052
 item_type: Document

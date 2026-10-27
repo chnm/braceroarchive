@@ -46,6 +46,8 @@ files:
     original_filename: espino-8.jpg
     thumb: /files/thumbnails/espino-8_9a24ca1dd8.jpg
     url: /files/original/espino-8_9a24ca1dd8.jpg
+    alt:
+      en: "Back of a driver's license listing restriction codes A–W and vehicle class descriptions (Class A, B, C, M), with a notice to place an organ donor emblem at the bottom."
 geo:
 id: 927
 item_type: Document

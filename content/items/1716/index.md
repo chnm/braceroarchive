@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.02.jpg
     thumb: /files/thumbnails/NAD-200401381602.jpg
     url: /files/original/NAD-200401381602.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men in wide-brimmed hats gathered under a shelter, encircling a man playing guitar and a woman standing beside him singing."
 geo:
 id: 1716
 item_type: Still Image

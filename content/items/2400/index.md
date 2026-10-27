@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.10.jpg
     thumb: /files/thumbnails/NAD-200401383110.jpg
     url: /files/original/NAD-200401383110.jpg
+    alt:
+      en: "Black-and-white photo of a bracero bent over hoeing a long furrowed row in a California field, with another worker's arm visible at upper left."
 geo:
 id: 2400
 item_type: Still Image

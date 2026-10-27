@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.27.jpg
     thumb: /files/thumbnails/NAD-200401380627.jpg
     url: /files/original/NAD-200401380627.jpg
+    alt:
+      en: "A long line of men stretches across an open dirt field at the Monterrey Processing Center, with sparse trees, scattered buildings, and a water tower visible in the background."
 geo:
 id: 1449
 item_type: Still Image

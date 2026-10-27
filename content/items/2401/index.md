@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.11.jpg
     thumb: /files/thumbnails/NAD-200401383111.jpg
     url: /files/original/NAD-200401383111.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over hoeing rows of crops in a California field, with parked cars and a tree-lined hillside in the background."
 geo:
 id: 2401
 item_type: Still Image

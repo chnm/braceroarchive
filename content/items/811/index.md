@@ -46,6 +46,8 @@ files:
     original_filename: contrato mayo-junio 1960, CA.jpg
     thumb: /files/thumbnails/contrato-mayo-junio-1960,-ca_5f3911be1f.jpg
     url: /files/original/contrato-mayo-junio-1960,-ca_5f3911be1f.jpg
+    alt:
+      en: "Printed bilingual continuation contract form for Guadalupe Cano-Quiroz, employed by San Joaquin Farm Production Association, with typed details, official stamps, and signatures dated May 12, 1960."
 geo:
 id: 811
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: Mica Calexico, California 1956 (back).jpg
     thumb: /files/thumbnails/mica-calexico,-california-1956-(back)_ec8210164e.jpg
     url: /files/original/mica-calexico,-california-1956-(back)_ec8210164e.jpg
+    alt:
+      en: "Identification card listing name Penalosa-Munoz, Servando, birth date 7/15/30, birthplace Sirandaro, Gro., Mexico, issued at Calexico, Calif. on July 9, 1956, with number L-2153199 and \"MICA\" printed below."
 geo:
 id: 880
 item_type: Document

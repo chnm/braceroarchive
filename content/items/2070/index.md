@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.23.jpg
     thumb: /files/thumbnails/NAD-200401382723.jpg
     url: /files/original/NAD-200401382723.jpg
+    alt:
+      en: "Group of men wearing wide-brimmed hats stand before a wall-mounted mail slot board at the Gondo Labor Camp, with trash cans and industrial structures visible in the background."
 geo:
 id: 2070
 item_type: Still Image

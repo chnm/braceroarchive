@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.35.jpg
     thumb: /files/thumbnails/NAD-200401384135.jpg
     url: /files/original/NAD-200401384135.jpg
+    alt:
+      en: "A bracero reclines on a cot, pen and paper in hand, beneath hanging laundry, with a wooden \"Butler's Best Apples\" crate on the floor nearby."
 geo:
 id: 2583
 item_type: Still Image

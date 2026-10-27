@@ -44,6 +44,8 @@ files:
     original_filename: Belen soto moreno family.jpg
     thumb: /files/thumbnails/belen-soto-moreno-family_9c8bb76805.jpg
     url: /files/original/belen-soto-moreno-family_9c8bb76805.jpg
+    alt:
+      en: "Vintage portrait of three young children dressed in formal attire, with a girl in a bow-topped dress on the left, a toddler perched on a draped pedestal in the center, and a boy in suspenders on the right."
 geo:
 id: 3057
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.35.jpg
     thumb: /files/thumbnails/NAD-200401383235.jpg
     url: /files/original/NAD-200401383235.jpg
+    alt:
+      en: "A man reclines on a bed smoking a cigarette, with jackets and a patterned robe hanging above him and a suitcase and shelf visible in the dimly lit room."
 geo:
 id: 2402
 item_type: Still Image

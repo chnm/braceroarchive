@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.24.jpg
     thumb: /files/thumbnails/NAD-200401382124.jpg
     url: /files/original/NAD-200401382124.jpg
+    alt:
+      en: "A bracero sits cross-legged on a bed reading a newspaper in a wood-paneled camp room, with a hat and jacket hanging on the wall behind him."
 geo:
 id: 1890
 item_type: Still Image

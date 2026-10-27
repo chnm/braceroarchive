@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.42.jpg
     thumb: /files/thumbnails/NAD-200401380642.jpg
     url: /files/original/NAD-200401380642.jpg
+    alt:
+      en: "Long line of braceros wearing hats winds across an open dirt yard toward processing buildings, with a crowd gathered near a fence and a mountain rising in the background."
 geo:
 id: 1440
 item_type: Still Image

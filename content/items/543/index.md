@@ -46,6 +46,8 @@ files:
     original_filename: 4of6 copy.jpg
     thumb: /files/thumbnails/4of6-copy_d154bfb39d.jpg
     url: /files/original/4of6-copy_d154bfb39d.jpg
+    alt:
+      en: "Interior of a Mexican Military Identification card, with printed regulations on the left page and a \"MATRICULA\" stamp with official seal and date \"4 FEB. 1965\" on the right page."
 geo:
 id: 543
 item_type: Document

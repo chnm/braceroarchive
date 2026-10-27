@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.07.jpg
     thumb: /files/thumbnails/NAD-200401382707.jpg
     url: /files/original/NAD-200401382707.jpg
+    alt:
+      en: "Vintage sedan parked outside a building labeled \"PAJARO STEAM BATH,\" with a man standing near the entrance and a truck visible at the edge of the frame."
 geo:
 id: 2090
 item_type: Still Image

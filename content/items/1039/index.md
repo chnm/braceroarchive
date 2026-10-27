@@ -46,6 +46,8 @@ files:
     original_filename: Bautista,Agustin5.jpg
     thumb: /files/thumbnails/bautista,agustin5_eabe1f871b.jpg
     url: /files/original/bautista,agustin5_eabe1f871b.jpg
+    alt:
+      en: "Spanish-language \"Acta de Matrimonio\" document with typed and handwritten details, an official stamp, and a signature, recording the 1947 marriage of Agustín Bautista and Isabel Bautista Zamano in Jiquilpan, Michoacán."
 geo:
 id: 1039
 item_type: Document

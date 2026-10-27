@@ -41,6 +41,8 @@ files:
     original_filename: GonzalezLorenzoImperial2.jpg
     thumb: /files/thumbnails/gonzalezlorenzoimperial2_0992bb59b2.jpg
     url: /files/original/gonzalezlorenzoimperial2_0992bb59b2.jpg
+    alt:
+      en: "Two men in hats stand in front of a large military tank, one wearing light-colored pants, in this worn black-and-white photograph."
 geo:
 id: 982
 item_type: Still Image

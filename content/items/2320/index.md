@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.36.jpg
     thumb: /files/thumbnails/NAD-200401383536.jpg
     url: /files/original/NAD-200401383536.jpg
+    alt:
+      en: "A man rests on a cot in a sparse dormitory room, with other beds, blankets, and a hat nearby, and a shirt hanging on the wall above."
 geo:
 id: 2320
 item_type: Still Image

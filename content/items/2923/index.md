@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.54.08.jpg
     thumb: /files/thumbnails/NAD-200401385408.jpg
     url: /files/original/NAD-200401385408.jpg
+    alt:
+      en: "A man in a dark jacket places his hand on a kneeling worker's head in blessing, as a group of men in undershirts gather around in front of a corrugated metal building."
 geo:
 id: 2923
 item_type: Still Image

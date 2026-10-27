@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3335.JPG
     thumb: /files/thumbnails/img_3335_fcfaa04511.jpg
     url: /files/original/img_3335_fcfaa04511.jpg
+    alt:
+      en: "Woman with curly hair wearing a purple shirt stands beside a weathered stone wall, with green lawns, trees, and ancient ruins visible in the background."
 geo:
 id: 3034
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.05.35.jpg
     thumb: /files/thumbnails/NAD-200401380535.jpg
     url: /files/original/NAD-200401380535.jpg
+    alt:
+      en: "Black-and-white photo of a long suspension bridge spanning a wide river, with a line of people walking across it; sandbars and sparse trees line the riverbanks below."
 geo:
 id: 1416
 item_type: Still Image

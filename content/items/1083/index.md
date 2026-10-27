@@ -44,6 +44,8 @@ files:
     original_filename: rafael hernandez picture1 copy.jpg
     thumb: /files/thumbnails/rafael-hernandez-picture1-copy_f9383f3fc4.jpg
     url: /files/original/rafael-hernandez-picture1-copy_f9383f3fc4.jpg
+    alt:
+      en: "Black-and-white photo of Rafael Hernandez standing in a freshly tilled field, holding a jumper tool with both hands, tire tracks visible in the soil around him."
 geo:
 id: 1083
 item_type: Still Image

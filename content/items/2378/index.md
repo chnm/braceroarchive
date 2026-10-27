@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.52.16.jpg
     thumb: /files/thumbnails/NAD-200401385216.jpg
     url: /files/original/NAD-200401385216.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in rows of a lettuce field, using short-handled hoes for stoop labor, with open farmland and trees in the distance."
 geo:
 id: 2378
 item_type: Still Image

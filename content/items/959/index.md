@@ -46,6 +46,8 @@ files:
     original_filename: joseramirez13.jpg
     thumb: /files/thumbnails/joseramirez13_9cb7ca08ec.jpg
     url: /files/original/joseramirez13_9cb7ca08ec.jpg
+    alt:
+      en: "A worn, creased typed letter dated March 14, 1960, from Mrs. Jesse B. Gilmer, with a folded crease pattern forming a cross, stamped text, and a signature at the bottom."
 geo:
 id: 959
 item_type: Document

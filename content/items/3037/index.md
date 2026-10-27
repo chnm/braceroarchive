@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3443.JPG
     thumb: /files/thumbnails/img_3443_dea281a7cb.jpg
     url: /files/original/img_3443_dea281a7cb.jpg
+    alt:
+      en: "Older man wearing a white straw hat and striped short-sleeve shirt seated at a table, speaking with a woman beside him in a restaurant with \"La Laguna\" signage visible in the background."
 geo:
 id: 3037
 item_type: Still Image

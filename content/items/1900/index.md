@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.34.jpg
     thumb: /files/thumbnails/NAD-200401382134.jpg
     url: /files/original/NAD-200401382134.jpg
+    alt:
+      en: "A man sits on a metal-frame cot smoking and reading a Spanish-language newspaper, \"Revista del...,\" in a wood-paneled barracks room, with a hat and jacket beside him."
 geo:
 id: 1900
 item_type: Still Image

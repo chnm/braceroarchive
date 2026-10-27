@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.11.jpg
     thumb: /files/thumbnails/NAD-200401385111.jpg
     url: /files/original/NAD-200401385111.jpg
+    alt:
+      en: "Black-and-white photo of a bracero seated on a stool writing a letter, while another man reclines behind him reading a magazine, in a cluttered camp living quarters with clothes hanging above."
 geo:
 id: 2852
 item_type: Still Image

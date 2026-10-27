@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 29.jpg
     thumb: /files/thumbnails/velasco-patino-29_484aa7e894.jpg
     url: /files/original/velasco-patino-29_484aa7e894.jpg
+    alt:
+      en: "Three stacked \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank, Coachella, California, dated 1947–1949, showing amounts of $63.00, $40.00, and $30.00 sent by M. Gonzales."
 geo:
 id: 1150
 item_type: Document

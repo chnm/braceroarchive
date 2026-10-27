@@ -46,6 +46,8 @@ files:
     original_filename: Mica Calexico CA 1956 (back).jpg
     thumb: /files/thumbnails/mica-calexico-ca-1956-(back)_42c840347f.jpg
     url: /files/original/mica-calexico-ca-1956-(back)_42c840347f.jpg
+    alt:
+      en: "Back of a worn ID card reading \"CORRALES-Rojas, Gregorio,\" birth date 4/20/33, birthplace Xochimilco, Mex. D.F., home address in Xochimilco, issued in Calexico, Calif. on 4/30/56, numbered L-2081784, labeled MICA."
 geo:
 id: 815
 item_type: Document

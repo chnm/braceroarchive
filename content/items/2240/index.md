@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.33.13.jpg
     thumb: /files/thumbnails/NAD-200401383313.jpg
     url: /files/original/NAD-200401383313.jpg
+    alt:
+      en: "Black-and-white photo of two braceros bent over performing stoop labor in a large pepper field, picking sacks slung over their shoulders, under an open sky."
 geo:
 id: 2240
 item_type: Still Image

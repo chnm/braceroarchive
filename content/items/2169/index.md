@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.18.jpg
     thumb: /files/thumbnails/NAD-200401383018.jpg
     url: /files/original/NAD-200401383018.jpg
+    alt:
+      en: "Black-and-white photo of wooden barracks-style buildings at a bracero camp, with a dirt yard, water spigot, and a person seated on a bench near an open window in the background."
 geo:
 id: 2169
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.05.jpg
     thumb: /files/thumbnails/NAD-200401384405.jpg
     url: /files/original/NAD-200401384405.jpg
+    alt:
+      en: "Black-and-white photo of a tall wooden building with an exterior staircase, where a man stands near a wash basin doing laundry outside the ground-floor entrance."
 geo:
 id: 2638
 item_type: Still Image

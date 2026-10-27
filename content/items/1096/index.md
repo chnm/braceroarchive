@@ -46,6 +46,8 @@ files:
     original_filename: Hernandez Arreola, Raul - Alien Laborers ID Card2.jpg
     thumb: /files/thumbnails/hernandez-arreola,-raul---alien-laborers-id-card2_faa8a24c44.jpg
     url: /files/original/hernandez-arreola,-raul---alien-laborers-id-card2_faa8a24c44.jpg
+    alt:
+      en: "Worn identification card titled \"Alien Laborer's Identification Card\" with a black-and-white photo of a man, printed below: \"United States Department of Justice, Immigration and Naturalization Service — I-100D (Rev. 8-1-59).\""
 geo:
 id: 1096
 item_type: Document

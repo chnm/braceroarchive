@@ -43,6 +43,8 @@ files:
     original_filename: Venegas Apolonio - birth certificate copy.jpg
     thumb: /files/thumbnails/venegas-apolonio---birth-certificate-copy_4960377925.jpg
     url: /files/original/venegas-apolonio---birth-certificate-copy_4960377925.jpg
+    alt:
+      en: "Official Mexican birth certificate from the Estado Libre y Soberano de Jalisco for Apolonio Venegas Guzman, born April 10, 1930, with registry details, parents' names, and government seals."
 geo:
 id: 1015
 item_type: Document

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.31.17.jpg
     thumb: /files/thumbnails/NAD-200401383117.jpg
     url: /files/original/NAD-200401383117.jpg
+    alt:
+      en: "Black-and-white photo of two men standing in a freshly tilled field, one wearing a cap and plaid shirt, the other in glasses and a sweater, conversing while overseeing onion field work."
 geo:
 id: 2205
 item_type: Still Image

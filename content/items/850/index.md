@@ -46,6 +46,8 @@ files:
     original_filename: Certificado antecedentes penales, Michoacan 1958.jpg
     thumb: /files/thumbnails/certificado-antecedentes-penales,-michoacan-1958_bb5811533e.jpg
     url: /files/original/certificado-antecedentes-penales,-michoacan-1958_bb5811533e.jpg
+    alt:
+      en: "Certificate with a small photo portrait of Francisco Delgado Soto, bearing official purple municipal seals and a signature, stamped \"APR-8 1958\" at the top, from Villa Jiménez, Michoacán."
 geo:
 id: 850
 item_type: Document

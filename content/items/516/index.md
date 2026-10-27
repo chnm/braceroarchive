@@ -46,6 +46,8 @@ files:
     original_filename: SantosNuñez-01.jpg
     thumb: /files/thumbnails/santosnuñez-01_c63ff0f8dc.jpg
     url: /files/original/santosnuñez-01_c63ff0f8dc.jpg
+    alt:
+      en: "Alien Laborer's Permit and Identification Card for Santos Nunez Sotelo, with photograph and fingerprint, showing admission under PL 78 to Lepanto Growers Assn. in Poinsett & Miss. Co., Arkansas, dated Oct. 27, 1954."
 geo:
 id: 516
 item_type: Document

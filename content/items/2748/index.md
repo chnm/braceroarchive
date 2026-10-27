@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.20.jpg
     thumb: /files/thumbnails/NAD-200401384720.jpg
     url: /files/original/NAD-200401384720.jpg
+    alt:
+      en: "Black-and-white photo of a crowded dining hall where men line up at a serving counter with stacked plates and a tray of food, while others sit eating at long tables in the background."
 geo:
 id: 2748
 item_type: Still Image

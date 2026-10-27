@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.10.32.jpg
     thumb: /files/thumbnails/NAD-200401381032.jpg
     url: /files/original/NAD-200401381032.jpg
+    alt:
+      en: "Men in hats walk along railroad tracks beside a barbed-wire fence, one carrying a box labeled \"AYASA,\" with a cross-marked grave visible among the gravel ahead."
 geo:
 id: 1578
 item_type: Still Image

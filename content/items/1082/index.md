@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1974, Registro Civil2.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1974,-registro-civil2_f7ea8ae680.jpg
     url: /files/original/santacruz,-melitona,-1974,-registro-civil2_f7ea8ae680.jpg
+    alt:
+      en: "Back of a Spanish-language marriage certificate with typed text, listing witness names, a municipal seal stamp, and signatures of the Secretary and Municipal President/Judge of the Civil Registry."
 geo:
 id: 1082
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.14.jpg
     thumb: /files/thumbnails/NAD-200401382514.jpg
     url: /files/original/NAD-200401382514.jpg
+    alt:
+      en: "A doctor examines a seated man's mouth and teeth under a lamp, while a nurse stands nearby observing; medical instruments are laid out on a table in the foreground."
 geo:
 id: 2013
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.18.jpg
     thumb: /files/thumbnails/NAD-200401381418.jpg
     url: /files/original/NAD-200401381418.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in hats and work clothes standing under an open-sided shed, waiting as seated agents at tables review documents in Hidalgo, Texas."
 geo:
 id: 1671
 item_type: Still Image

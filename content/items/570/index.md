@@ -44,6 +44,8 @@ files:
     original_filename: buddy braceros.jpg
     thumb: /files/thumbnails/buddy-braceros_4a9a83e0d4.jpg
     url: /files/original/buddy-braceros_4a9a83e0d4.jpg
+    alt:
+      en: "Two braceros pose arm-in-arm in front of a weathered stucco wall, one shirtless in gray trousers, the other in a cowboy hat and white shirt with jeans, kicking up a leg."
 geo:
 id: 570
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.34.jpg
     thumb: /files/thumbnails/NAD-200401382634.jpg
     url: /files/original/NAD-200401382634.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat walks along a furrow in a pepper field, with other workers bent over crops in the rows behind him, Salinas Valley, California."
 geo:
 id: 2057
 item_type: Still Image

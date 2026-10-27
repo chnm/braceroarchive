@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.08.jpg
     thumb: /files/thumbnails/NAD-200401381308.jpg
     url: /files/original/NAD-200401381308.jpg
+    alt:
+      en: "A seated official reviews paperwork at a desk while a line of men in cowboy hats wait behind a man standing at the desk, inside the Monterrey Processing Center."
 geo:
 id: 1636
 item_type: Still Image

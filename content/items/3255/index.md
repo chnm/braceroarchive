@@ -29,6 +29,8 @@ files:
     original_filename: photo 1.JPG
     thumb: /files/thumbnails/photo-1_df833ac773.jpg
     url: /files/original/photo-1_df833ac773.jpg
+    alt:
+      en: "Black-and-white passport photo of a young man with combed-back dark hair and a mustache, wearing a collared shirt; partial embossed seal reading \"EXTERIORES\" and purple ink stamps appear at the edges."
 geo:
 id: 3255
 item_type: Still Image

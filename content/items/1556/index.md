@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.01.jpg
     thumb: /files/thumbnails/NAD-200401380901.jpg
     url: /files/original/NAD-200401380901.jpg
+    alt:
+      en: "Black-and-white photo of men carrying bags and suitcases walking along railroad tracks beside a chain-link fence, with trees and utility poles lining the horizon."
 geo:
 id: 1556
 item_type: Still Image

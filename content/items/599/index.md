@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.30-31.jpg
     thumb: /files/thumbnails/instructivo-p30-31_87c0b635df.jpg
     url: /files/original/instructivo-p30-31_87c0b635df.jpg
+    alt:
+      en: "Page 30 of a bracero instruction booklet, printed in Spanish, detailing workers' rights regarding accident claims, compensation for disability, and death benefits (numbered sections 13–15)."
 geo:
 id: 599
 item_type: Still Image

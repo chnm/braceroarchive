@@ -46,6 +46,8 @@ files:
     original_filename: Antonio-back.jpg
     thumb: /files/thumbnails/antonio-back_d990418f39.jpg
     url: /files/original/antonio-back_d990418f39.jpg
+    alt:
+      en: "Aged U.S. Citizen's Identification Card from the Immigration and Naturalization Service, listing an address of 615 S. Virginia St., El Paso, Texas, and issued at El Paso, Texas on Dec. 9, 1936, with a circular embossed seal."
 geo:
 id: 828
 item_type: Document

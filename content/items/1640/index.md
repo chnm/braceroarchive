@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.12.jpg
     thumb: /files/thumbnails/NAD-200401381312.jpg
     url: /files/original/NAD-200401381312.jpg
+    alt:
+      en: "Rows of seated women typing at desks with typewriters while bare-chested men in wide-brimmed hats stand alongside, dictating information inside a large hall at the Monterrey Processing Center."
 geo:
 id: 1640
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.43.jpg
     thumb: /files/thumbnails/NAD-200401380643.jpg
     url: /files/original/NAD-200401380643.jpg
+    alt:
+      en: "A long line of men winds across a dusty field toward distant buildings and a large crowd gathered at the Monterrey Processing Center, with mountains visible in the background."
 geo:
 id: 1428
 item_type: Still Image

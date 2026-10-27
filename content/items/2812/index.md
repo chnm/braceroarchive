@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.35.jpg
     thumb: /files/thumbnails/NAD-200401384935.jpg
     url: /files/original/NAD-200401384935.jpg
+    alt:
+      en: "A bracero bends low using a short-handled hoe to work the soil between rows of young pepper plants, with long cultivated furrows stretching toward distant hills."
 geo:
 id: 2812
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.20.14.jpg
     thumb: /files/thumbnails/NAD-200401382014.jpg
     url: /files/original/NAD-200401382014.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over harvesting lettuce in long furrowed rows, with a standing supervisor nearby and farm buildings and trucks in the background."
 geo:
 id: 1842
 item_type: Still Image

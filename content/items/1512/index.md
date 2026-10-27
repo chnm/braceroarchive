@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.25.jpg
     thumb: /files/thumbnails/NAD-200401380825.jpg
     url: /files/original/NAD-200401380825.jpg
+    alt:
+      en: "A group of men, many wearing hats, gather outdoors as an official in a suit collects papers from braceros, with a large multi-story building in the background."
 geo:
 id: 1512
 item_type: Still Image

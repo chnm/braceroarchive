@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.24.jpg
     thumb: /files/thumbnails/NAD-200401380724.jpg
     url: /files/original/NAD-200401380724.jpg
+    alt:
+      en: "Large group of men in cowboy hats line up with bundled belongings outside stucco buildings at the Monterrey Processing Center, a ladder leaning against a wall nearby."
 geo:
 id: 1460
 item_type: Still Image

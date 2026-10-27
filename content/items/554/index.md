@@ -46,6 +46,8 @@ files:
     original_filename: Porter2.JPG
     thumb: /files/thumbnails/porter2_12022fa5c6.jpg
     url: /files/original/porter2_12022fa5c6.jpg
+    alt:
+      en: "Two Spanish-language pages from a bilingual phrase book, including a dedication and publication details by Sra. Amelia Montes Skaggs, with instructions titled \"COMO USAR ESTE LIBRITO PARA APRENDER EL INGLES.\""
 geo:
 id: 554
 item_type: Document

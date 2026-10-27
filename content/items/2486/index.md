@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.08.jpg
     thumb: /files/thumbnails/NAD-200401383908.jpg
     url: /files/original/NAD-200401383908.jpg
+    alt:
+      en: "Black-and-white photo of a group of men carrying suitcases and bags as they walk across a street toward a bus, with trees and a small building visible in the background."
 geo:
 id: 2486
 item_type: Still Image

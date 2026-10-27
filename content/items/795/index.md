@@ -44,6 +44,8 @@ files:
     original_filename: Jul28_04.jpg
     thumb: /files/thumbnails/jul28_04_013fd38d61.jpg
     url: /files/original/jul28_04_013fd38d61.jpg
+    alt:
+      en: "Interior passport pages with \"FILIACIONES\" details including estatura, color, ojos, pelo, and birth information, alongside \"FOTOGRAFIAS\" page showing a man's photo, fingerprint, and signature."
 geo:
 id: 795
 item_type: Document

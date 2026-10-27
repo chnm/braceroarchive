@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.25.jpg
     thumb: /files/thumbnails/NAD-200401383425.jpg
     url: /files/original/NAD-200401383425.jpg
+    alt:
+      en: "Workers bend over rows of lettuce in a large field, placing produce into crates marked \"TORO,\" with mountains and farm buildings visible in the distance."
 geo:
 id: 2286
 item_type: Still Image

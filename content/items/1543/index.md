@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.12.jpg
     thumb: /files/thumbnails/NAD-200401380912.jpg
     url: /files/original/NAD-200401380912.jpg
+    alt:
+      en: "Men wearing hats and carrying bags gather in line outside a small wooden shed with a corrugated metal roof, presenting documents to officials at a processing window."
 geo:
 id: 1543
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.14.jpg
     thumb: /files/thumbnails/NAD-200401385314.jpg
     url: /files/original/NAD-200401385314.jpg
+    alt:
+      en: "Black-and-white photo of braceros lining up along a serving counter in a dining hall, holding trays while workers in aprons dish out food from large bowls."
 geo:
 id: 2905
 item_type: Still Image

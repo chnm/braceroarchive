@@ -44,6 +44,8 @@ files:
     original_filename: PlutarcoChavez1cropped.jpg
     thumb: /files/thumbnails/plutarcochavez1cropped_7bd73f724c.jpg
     url: /files/original/plutarcochavez1cropped_7bd73f724c.jpg
+    alt:
+      en: "Weathered color photo of a man in a black leather jacket, white shirt, and white trousers standing on a dirt path beside rows of crops, with farm buildings visible in the distance."
 geo:
 id: 3019
 item_type: Still Image

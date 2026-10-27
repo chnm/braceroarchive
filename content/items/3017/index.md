@@ -44,6 +44,8 @@ files:
     original_filename: Back of Photo 1952 rotated.jpg
     thumb: /files/thumbnails/back-of-photo-1952-rotated_a043e28a6d.jpg
     url: /files/original/back-of-photo-1952-rotated_a043e28a6d.jpg
+    alt:
+      en: "Backside of a photograph with handwritten Spanish text: \"Recuerdo de su madre\" centered at top, a date \"Noviembre 26 de 1952\" in the upper left, and names with ages listed along the right edge."
 geo:
 id: 3017
 item_type: Still Image

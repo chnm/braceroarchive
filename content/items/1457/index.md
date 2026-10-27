@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.32.jpg
     thumb: /files/thumbnails/NAD-200401380732.jpg
     url: /files/original/NAD-200401380732.jpg
+    alt:
+      en: "Black-and-white aerial view of a long line of men winding across a dirt lot toward a crowd and tents, with a two-story building and vehicles in the background at the Monterrey Processing Center."
 geo:
 id: 1457
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: RomanGaxiolaMaJesus1957Article7Transportcopy.jpg
     thumb: /files/thumbnails/romangaxiolamajesus1957article7transportcopy_22b61d11ed.jpg
     url: /files/original/romangaxiolamajesus1957article7transportcopy_22b61d11ed.jpg
+    alt:
+      en: "A typed and annotated page titled \"Article 7—Transportation,\" detailing contract terms for braceros' travel, lodging, and expenses, with handwritten edits and strikethroughs throughout."
 geo:
 id: 1169
 item_type: Document

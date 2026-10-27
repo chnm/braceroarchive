@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.32.jpg
     thumb: /files/thumbnails/NAD-200401384932.jpg
     url: /files/original/NAD-200401384932.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over with short-handled hoes along long crop rows in a pepper field, mountains visible in the hazy distance."
 geo:
 id: 2811
 item_type: Still Image

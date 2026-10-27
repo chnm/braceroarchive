@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.31.jpg
     thumb: /files/thumbnails/NAD-200401385631.jpg
     url: /files/original/NAD-200401385631.jpg
+    alt:
+      en: "Black-and-white photo of workers bent over picking lettuce in long rows, with flatbed trucks marked \"23\" and \"5\" parked alongside the field and a house in the background."
 geo:
 id: 2991
 item_type: Still Image

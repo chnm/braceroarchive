@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.23.jpg
     thumb: /files/thumbnails/NAD-200401381723.jpg
     url: /files/original/NAD-200401381723.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in straw hats inside a hall, as an official seated at a table examines one worker's hand for callouses during processing."
 geo:
 id: 1772
 item_type: Still Image

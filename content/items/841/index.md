@@ -46,6 +46,8 @@ files:
     original_filename: Contrato California Sept-Oct 1956.jpg
     thumb: /files/thumbnails/contrato-california-sept-oct-1956_d083e01b7d.jpg
     url: /files/original/contrato-california-sept-oct-1956_d083e01b7d.jpg
+    alt:
+      en: "Standard work contract continuation form for Rodolofo Cruz-Figueroa, listing employer Imperial Valley Farmers Association, El Centro, California, with contract dates Sept 10–Oct 22, 1956, and official stamps and signatures."
 geo:
 id: 841
 item_type: Document

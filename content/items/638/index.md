@@ -44,6 +44,8 @@ files:
     original_filename: Jul27_09.JPG
     thumb: /files/thumbnails/jul27_09_79ad487c48.jpg
     url: /files/original/jul27_09_79ad487c48.jpg
+    alt:
+      en: "Handwritten letter on lined yellow paper, dated \"Rocky Ford, Colo. Marzo 3/19/57,\" addressed \"Dear Cleo,\" with cursive Spanish text and signed \"Roberto.\""
 geo:
 id: 638
 item_type: Still Image

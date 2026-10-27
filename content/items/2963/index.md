@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.02.jpg
     thumb: /files/thumbnails/NAD-200401385602.jpg
     url: /files/original/NAD-200401385602.jpg
+    alt:
+      en: "Braceros pause for lunch at the edge of a pepper field, one man drinking from a bottle while holding a plate of food, others seated nearby in the rows of crops."
 geo:
 id: 2963
 item_type: Still Image

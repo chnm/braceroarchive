@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.14.jpg
     thumb: /files/thumbnails/NAD-200401381914.jpg
     url: /files/original/NAD-200401381914.jpg
+    alt:
+      en: "Two cardboard boxes, tied with string, sit on dirt ground amid several pairs of legs and feet; one box has wires and a small object visible through its open top."
 geo:
 id: 1815
 item_type: Still Image

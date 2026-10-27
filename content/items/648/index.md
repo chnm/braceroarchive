@@ -47,6 +47,8 @@ files:
     original_filename: Jul27_21.JPG
     thumb: /files/thumbnails/jul27_21_f7733533b8.jpg
     url: /files/original/jul27_21_f7733533b8.jpg
+    alt:
+      en: "Handwritten letter dated \"Sept. 22 — 1954,\" addressed to Mr. y Mrs. Roberto Carrillo, filling two lined pages with cursive Spanish text."
 geo:
 id: 648
 item_type: Still Image

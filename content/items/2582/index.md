@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.34.jpg
     thumb: /files/thumbnails/NAD-200401384134.jpg
     url: /files/original/NAD-200401384134.jpg
+    alt:
+      en: "A bracero sits on a bare bunk bed writing a letter, with clothing hanging above and a wooden \"Butler's Best Apples\" crate on the floor nearby."
 geo:
 id: 2582
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Roman Gaxiola, Manuel de Jesus, Alianza Bracero Proa id1.jpg
     thumb: /files/thumbnails/roman-gaxiola,-manuel-de-jesus,-alianza-bracero-proa-id1_fcd487481c.jpg
     url: /files/original/roman-gaxiola,-manuel-de-jesus,-alianza-bracero-proa-id1_fcd487481c.jpg
+    alt:
+      en: "Identification card with a man's photograph and printed text reading \"Manuel de Jesus Roman Gaxiola, Clz. Independencia #617, Col. Esperanza Mexicali, B.C.\" above a stamped seal reading \"Alianza Bracero PROA, 1942-1964, Cooperacion Voluntaria, Grupo Ex-Bracero.\""
 geo:
 id: 1173
 item_type: Document

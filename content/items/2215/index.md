@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.32.10.jpg
     thumb: /files/thumbnails/NAD-200401383210.jpg
     url: /files/original/NAD-200401383210.jpg
+    alt:
+      en: "A man in an apron stirs a large pot on a commercial stove in a kitchen, with steel countertops, steam rising from a tray, and a large sink in the foreground."
 geo:
 id: 2215
 item_type: Still Image

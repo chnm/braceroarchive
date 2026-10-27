@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.15.jpg
     thumb: /files/thumbnails/NAD-200401381715.jpg
     url: /files/original/NAD-200401381715.jpg
+    alt:
+      en: "Long line of shirtless men wearing wide-brimmed hats and carrying bundled clothing queue in a hallway lined with windows and columns at the Monterrey Processing Center."
 geo:
 id: 1764
 item_type: Still Image

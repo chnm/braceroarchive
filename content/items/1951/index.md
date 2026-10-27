@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.22.jpg
     thumb: /files/thumbnails/NAD-200401382322.jpg
     url: /files/original/NAD-200401382322.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered around a bunk bed in a barracks, playing a game on a board, with rows of bunks and hanging clothes in the background."
 geo:
 id: 1951
 item_type: Still Image

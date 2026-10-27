@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.38.jpg
     thumb: /files/thumbnails/NAD-200401381038.jpg
     url: /files/original/NAD-200401381038.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing hats, crouched along a creek washing clothes, with trees, open fields, and distant buildings in the background."
 geo:
 id: 1572
 item_type: Still Image

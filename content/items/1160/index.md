@@ -46,6 +46,8 @@ files:
     original_filename: RiveraPedro Birth1.jpg
     thumb: /files/thumbnails/riverapedro-birth1_3fb9901f6a.jpg
     url: /files/original/riverapedro-birth1_3fb9901f6a.jpg
+    alt:
+      en: "Mexican civil registry birth certificate form for Pedro Rivera Duran, with typed and handwritten details, official stamps, and signatures, headed \"Registro Civil - Acta de Nacimiento.\""
 geo:
 id: 1160
 item_type: Document

@@ -44,6 +44,8 @@ files:
     original_filename: FigueroaEncinasLuisregistrationexbraceros3.jpg
     thumb: /files/thumbnails/figueroaencinasluisregistrationexbraceros3_31ae229df3.jpg
     url: /files/original/figueroaencinasluisregistrationexbraceros3_31ae229df3.jpg
+    alt:
+      en: "Handwritten interview form page with numbered questions 16–25 about Bracero work history, answers in cursive Spanish, including details on location, wages, housing, and reasons for supporting a new Bracero Program."
 geo:
 id: 1051
 item_type: Document

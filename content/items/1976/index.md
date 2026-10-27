@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.12.jpg
     thumb: /files/thumbnails/NAD-200401382412.jpg
     url: /files/original/NAD-200401382412.jpg
+    alt:
+      en: "An official leans over a desk stamping paperwork while a bracero wearing a wide-brimmed hat waits beside him, with other men standing in line behind them."
 geo:
 id: 1976
 item_type: Still Image

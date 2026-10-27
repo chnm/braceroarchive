@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.10.jpg
     thumb: /files/thumbnails/NAD-200401384410.jpg
     url: /files/original/NAD-200401384410.jpg
+    alt:
+      en: "Group of braceros gathered outside a wooden building in Watsonville, California, as paychecks are distributed among them."
 geo:
 id: 2643
 item_type: Still Image

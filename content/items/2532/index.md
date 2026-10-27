@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.21.jpg
     thumb: /files/thumbnails/NAD-200401384021.jpg
     url: /files/original/NAD-200401384021.jpg
+    alt:
+      en: "A man leans against stacked \"Toro Lettuce\" boxes on a truck bed, with rows of crops and distant fieldworkers visible in the Salinas Valley farmland behind him."
 geo:
 id: 2532
 item_type: Still Image

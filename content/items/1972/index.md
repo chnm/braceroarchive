@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.08.jpg
     thumb: /files/thumbnails/NAD-200401382408.jpg
     url: /files/original/NAD-200401382408.jpg
+    alt:
+      en: "A man in a white shirt hands out paychecks to a crowd of hatted braceros gathered outside a building, with trees and a small structure visible in the background."
 geo:
 id: 1972
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.33.08.jpg
     thumb: /files/thumbnails/NAD-200401383308.jpg
     url: /files/original/NAD-200401383308.jpg
+    alt:
+      en: "A man wearing a wide-brimmed hat crouches beside a large metal water canister, drinking from a tin cup, with a row of tall trees and workers in a field visible behind him."
 geo:
 id: 2248
 item_type: Still Image

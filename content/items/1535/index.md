@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.16.jpg
     thumb: /files/thumbnails/NAD-200401380916.jpg
     url: /files/original/NAD-200401380916.jpg
+    alt:
+      en: "Large crowd of men, mostly wearing hats, gathered behind a wire fence outside a building, with trucks and additional structures visible in the background."
 geo:
 id: 1535
 item_type: Still Image

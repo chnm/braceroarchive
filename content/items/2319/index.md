@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.35.jpg
     thumb: /files/thumbnails/NAD-200401383535.jpg
     url: /files/original/NAD-200401383535.jpg
+    alt:
+      en: "A bracero reclines on a bed between two other cots in a sparse dormitory room, with a shirt hanging from an overhead cabinet and clothes piled on a nearby bunk."
 geo:
 id: 2319
 item_type: Still Image

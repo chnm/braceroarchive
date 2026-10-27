@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.34.jpg
     thumb: /files/thumbnails/NAD-200401381434.jpg
     url: /files/original/NAD-200401381434.jpg
+    alt:
+      en: "Rows of seated typists at desks fill out documents for men wearing cowboy hats standing in line inside a large warehouse-like building at the Hidalgo Processing Center, Texas."
 geo:
 id: 1686
 item_type: Still Image

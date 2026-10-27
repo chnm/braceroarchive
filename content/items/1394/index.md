@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.13.jpg
     thumb: /files/thumbnails/NAD-200401380513.jpg
     url: /files/original/NAD-200401380513.jpg
+    alt:
+      en: "Braceros wearing hats line up along a long wooden table inside a shed-like building, holding pots and pans as they prepare and serve food in close, communal quarters."
 geo:
 id: 1394
 item_type: Still Image

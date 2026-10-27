@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.12.jpg
     thumb: /files/thumbnails/NAD-200401381512.jpg
     url: /files/original/NAD-200401381512.jpg
+    alt:
+      en: "A man in a double-breasted suit stands behind a desk, speaking, with telephones, papers, and an ashtray on its surface, in a sparsely furnished office."
 geo:
 id: 1698
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.10.02.jpg
     thumb: /files/thumbnails/NAD-200401381002.jpg
     url: /files/original/NAD-200401381002.jpg
+    alt:
+      en: "A long line of men wearing hats and carrying bundles stretches along a gravel path toward low buildings, with a mountain visible in the distant background."
 geo:
 id: 1568
 item_type: Still Image

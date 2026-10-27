@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.11.42.jpg
     thumb: /files/thumbnails/NAD-200401381142.jpg
     url: /files/original/NAD-200401381142.jpg
+    alt:
+      en: "A seated official examines a bracero's extended hand at a wooden table, while a line of men in hats and collared shirts wait nearby inside the processing center."
 geo:
 id: 1596
 item_type: Still Image

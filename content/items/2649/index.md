@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.16.jpg
     thumb: /files/thumbnails/NAD-200401384416.jpg
     url: /files/original/NAD-200401384416.jpg
+    alt:
+      en: "A man sits cross-legged on a bunk bed, reading an English grammar book, with shirts hanging on hooks against a paneled wall behind him."
 geo:
 id: 2649
 item_type: Still Image

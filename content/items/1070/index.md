@@ -46,6 +46,8 @@ files:
     original_filename: rafael hernandez passaport3.jpg
     thumb: /files/thumbnails/rafael-hernandez-passaport3_cdfc991f1d.jpg
     url: /files/original/rafael-hernandez-passaport3_cdfc991f1d.jpg
+    alt:
+      en: "Mexican passport page with printed \"FILIACIONES\" personal details (height, color, eyes, hair, birthplace Guadalcazar, San Luis Potosi) and facing page \"FOTOGRAFIAS\" with a man's photo, fingerprint, and signature of Rafael Hernandez."
 geo:
 id: 1070
 item_type: Document

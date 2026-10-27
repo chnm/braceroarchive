@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.31.jpg
     thumb: /files/thumbnails/NAD-200401382831.jpg
     url: /files/original/NAD-200401382831.jpg
+    alt:
+      en: "A man leans against a concrete block wall, reading a letter in an alleyway lined with small houses and a wooden fence."
 geo:
 id: 2121
 item_type: Still Image

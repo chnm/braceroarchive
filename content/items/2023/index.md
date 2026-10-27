@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.24.jpg
     thumb: /files/thumbnails/NAD-200401382524.jpg
     url: /files/original/NAD-200401382524.jpg
+    alt:
+      en: "Interior of a bracero living quarters with metal-frame beds, wooden storage boxes, clothing hanging on hooks, and shelves lined with personal items along the walls."
 geo:
 id: 2023
 item_type: Still Image

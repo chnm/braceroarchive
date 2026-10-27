@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.25.jpg
     thumb: /files/thumbnails/NAD-200401382625.jpg
     url: /files/original/NAD-200401382625.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat bends to harvest in a vast pepper field, with other workers scattered in the distance under a cloudy sky."
 geo:
 id: 2048
 item_type: Still Image

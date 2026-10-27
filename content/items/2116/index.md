@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.26.jpg
     thumb: /files/thumbnails/NAD-200401382826.jpg
     url: /files/original/NAD-200401382826.jpg
+    alt:
+      en: "Black-and-white photo of braceros serving themselves beans from a large pot in a camp dining hall, with workers lined up at a counter in the background."
 geo:
 id: 2116
 item_type: Still Image

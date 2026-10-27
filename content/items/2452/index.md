@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.08.jpg
     thumb: /files/thumbnails/NAD-200401383808.jpg
     url: /files/original/NAD-200401383808.jpg
+    alt:
+      en: "Black-and-white photo of men washing up at a row of large metal sinks with multiple faucets under a covered outdoor structure at a California labor camp."
 geo:
 id: 2452
 item_type: Still Image

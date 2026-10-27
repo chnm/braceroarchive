@@ -44,6 +44,8 @@ files:
     original_filename: SantosNuñez-05 copy.jpg
     thumb: /files/thumbnails/santosnuñez-05-copy_9bd7da738c.jpg
     url: /files/original/santosnuñez-05-copy_9bd7da738c.jpg
+    alt:
+      en: "Decorative Social Security card with Mexican and U.S. flags flanking an eagle emblem, reading \"U.S. Social Security,\" \"Account Number,\" and \"Name: Santos Nunez Sotelo.\""
 geo:
 id: 520
 item_type: Document

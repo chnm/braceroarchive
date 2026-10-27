@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.26.jpg
     thumb: /files/thumbnails/NAD-200401384426.jpg
     url: /files/original/NAD-200401384426.jpg
+    alt:
+      en: "Black-and-white photo of braceros in a dormitory-style camp room, three men seated on a bed playing cards while others rest on nearby bunks, with clothing hanging on the walls."
 geo:
 id: 2658
 item_type: Still Image

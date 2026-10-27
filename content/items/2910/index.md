@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.19.jpg
     thumb: /files/thumbnails/NAD-200401385319.jpg
     url: /files/original/NAD-200401385319.jpg
+    alt:
+      en: "A bracero reclines on a bed smoking a cigarette in a dormitory-style camp room, with clothing hanging on lines and other bunks visible in the background."
 geo:
 id: 2910
 item_type: Still Image

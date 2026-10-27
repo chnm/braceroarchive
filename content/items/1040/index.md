@@ -46,6 +46,8 @@ files:
     original_filename: FigueroaEncinasLuisdocumentacionfaltante.jpg
     thumb: /files/thumbnails/figueroaencinasluisdocumentacionfaltante_50493f4d37.jpg
     url: /files/original/figueroaencinasluisdocumentacionfaltante_50493f4d37.jpg
+    alt:
+      en: "Spanish government form titled \"Formato de Documentacion Faltante\" for the Fondo de Apoyo Social para Extrabajadores Migratorios Mexicanos, with checkboxes for missing documents and handwritten entries for Luis Figueroa Encinas, dated Mexicali, Baja California, February 2006."
 geo:
 id: 1040
 item_type: Document

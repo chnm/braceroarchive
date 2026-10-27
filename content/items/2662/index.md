@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.30.jpg
     thumb: /files/thumbnails/NAD-200401384430.jpg
     url: /files/original/NAD-200401384430.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered on and around a bunk bed playing cards in a dormitory room, with clothes hanging to dry overhead and other men visible in the background."
 geo:
 id: 2662
 item_type: Still Image

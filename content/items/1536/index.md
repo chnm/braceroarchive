@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.17.jpg
     thumb: /files/thumbnails/NAD-200401380917.jpg
     url: /files/original/NAD-200401380917.jpg
+    alt:
+      en: "A large crowd of men in straw hats waits outside a barbed wire enclosure, while a few individuals pass through a gated entry point at the Monterrey Processing Center."
 geo:
 id: 1536
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.11.jpg
     thumb: /files/thumbnails/NAD-200401384811.jpg
     url: /files/original/NAD-200401384811.jpg
+    alt:
+      en: "Black-and-white photo of two men smiling near a doorway in a California labor camp, one wearing a denim jacket and the other a cap and button-down shirt."
 geo:
 id: 2769
 item_type: Still Image

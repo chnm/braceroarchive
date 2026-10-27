@@ -46,6 +46,8 @@ files:
     original_filename: Mica Eagle Pass, TX, 1956 (back).jpg
     thumb: /files/thumbnails/mica-eagle-pass,-tx,-1956-(back)_c7ece28131.jpg
     url: /files/original/mica-eagle-pass,-tx,-1956-(back)_c7ece28131.jpg
+    alt:
+      en: "Typed identification card back for Zavala-Lopez Miguel, born 6-15-36 in Cuenco, Mich., listing home address and Eagle Pass, Tex. issue date 9-12-56, with number L-2378594 and \"MICA\" stamped below."
 geo:
 id: 911
 item_type: Document

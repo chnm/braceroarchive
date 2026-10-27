@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.34.jpg
     thumb: /files/thumbnails/NAD-200401383134.jpg
     url: /files/original/NAD-200401383134.jpg
+    alt:
+      en: "Black-and-white street view of Castroville, California, with a banner sign reading \"CASTROVILLE THE ARTICHOKE CENTER OF THE WORLD\" spanning the road, flanked by storefronts, parked cars, and utility poles."
 geo:
 id: 2192
 item_type: Still Image

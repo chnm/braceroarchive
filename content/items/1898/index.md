@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.32.jpg
     thumb: /files/thumbnails/NAD-200401382132.jpg
     url: /files/original/NAD-200401382132.jpg
+    alt:
+      en: "A bracero sits on a bed in a wooden camp room, writing at a small makeshift table, with jackets hanging on the wall and a shelf of personal items visible nearby."
 geo:
 id: 1898
 item_type: Still Image

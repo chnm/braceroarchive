@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.31.jpg
     thumb: /files/thumbnails/NAD-200401381731.jpg
     url: /files/original/NAD-200401381731.jpg
+    alt:
+      en: "Long interior hall with rows of desks where seated clerks type at typewriters while shirtless and hatted braceros stand in line, dictating information to be processed at the Monterrey Processing Center."
 geo:
 id: 1780
 item_type: Still Image

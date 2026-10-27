@@ -44,6 +44,8 @@ files:
     original_filename: Carrilo4.jpg
     thumb: /files/thumbnails/carrilo4_f8df0145c7.jpg
     url: /files/original/carrilo4_f8df0145c7.jpg
+    alt:
+      en: "State of New Mexico Bureau of Public Health birth certificate for Cenada Lucero, born June 4, 1924 in Raton, with parents' names and a certified copy stamp from Santa Fe dated 1980."
 geo:
 id: 631
 item_type: Still Image

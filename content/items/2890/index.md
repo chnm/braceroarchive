@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.25.jpg
     thumb: /files/thumbnails/NAD-200401385225.jpg
     url: /files/original/NAD-200401385225.jpg
+    alt:
+      en: "Freshly plowed furrows stretch across a large field toward distant farm buildings, with tree-covered hills rising behind the camp in the background."
 geo:
 id: 2890
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.19.jpg
     thumb: /files/thumbnails/NAD-200401383219.jpg
     url: /files/original/NAD-200401383219.jpg
+    alt:
+      en: "Two braceros sit on bunk beds in a sparse room, one resting with arms crossed and the other writing on paper, with clothing hung on wall hooks behind them."
 geo:
 id: 2224
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.11.jpg
     thumb: /files/thumbnails/NAD-200401381711.jpg
     url: /files/original/NAD-200401381711.jpg
+    alt:
+      en: "Rows of men sit along the walls of a tiled room with hats placed on the floor before them, while an official stands in the center examining them at the Monterrey Processing Center."
 geo:
 id: 1760
 item_type: Still Image

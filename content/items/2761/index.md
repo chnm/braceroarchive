@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.01.jpg
     thumb: /files/thumbnails/NAD-200401384801.jpg
     url: /files/original/NAD-200401384801.jpg
+    alt:
+      en: "A man in a collared shirt stands smoking in a wooden living quarter, with a hat and clothing hanging on the wall and a table holding various objects nearby."
 geo:
 id: 2761
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.13.jpg
     thumb: /files/thumbnails/NAD-200401382313.jpg
     url: /files/original/NAD-200401382313.jpg
+    alt:
+      en: "A man rests shirtless on a cot in a sparsely furnished camp room, one hand behind his head, with a straw hat on the floor nearby and another on a shelf above."
 geo:
 id: 1942
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.21.jpg
     thumb: /files/thumbnails/NAD-200401383121.jpg
     url: /files/original/NAD-200401383121.jpg
+    alt:
+      en: "Black-and-white photo of a bracero wearing a cap, gathering harvested onions into a wooden crate in a field, with hills and other workers visible in the background."
 geo:
 id: 2197
 item_type: Still Image

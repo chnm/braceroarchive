@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.29.30.jpg
     thumb: /files/thumbnails/NAD-200401382930.jpg
     url: /files/original/NAD-200401382930.jpg
+    alt:
+      en: "Black-and-white street scene of men entering a taxi cab near the Fox Theatre marquee, with the Capitol Department Store sign visible in the background, Watsonville, California."
 geo:
 id: 2138
 item_type: Still Image

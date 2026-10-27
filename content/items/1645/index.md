@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.17.jpg
     thumb: /files/thumbnails/NAD-200401381317.jpg
     url: /files/original/NAD-200401381317.jpg
+    alt:
+      en: "Large hall filled with men in hats, many waiting in lines, as officials at tables check documents and inspect hands at the Monterrey Processing Center."
 geo:
 id: 1645
 item_type: Still Image

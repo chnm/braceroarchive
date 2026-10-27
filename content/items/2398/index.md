@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.08.jpg
     thumb: /files/thumbnails/NAD-200401383108.jpg
     url: /files/original/NAD-200401383108.jpg
+    alt:
+      en: "A fan-shaped stack of punched tally cards rests on bare, tilled soil beside a cluster of strawberry plants at the edge of a field."
 geo:
 id: 2398
 item_type: Still Image

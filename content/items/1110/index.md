@@ -46,6 +46,8 @@ files:
     original_filename: MartinezFaustinoBraceroTestamentLettercopy.jpg
     thumb: /files/thumbnails/martinezfaustinobracerotestamentlettercopy_efa3420244.jpg
     url: /files/original/martinezfaustinobracerotestamentlettercopy_efa3420244.jpg
+    alt:
+      en: "Notarized Spanish-language testimony letter with two handwritten witness statements affirming Faustino B. Martinez worked as a bracero from 1957-1962, signed by affiants with a California notary seal below."
 geo:
 id: 1110
 item_type: Document

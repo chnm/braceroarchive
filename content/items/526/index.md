@@ -46,6 +46,8 @@ files:
     original_filename: C.Casillas Rodriguez 15.JPG
     thumb: /files/thumbnails/ccasillas-rodriguez-15_f37d1bc347.jpg
     url: /files/original/ccasillas-rodriguez-15_f37d1bc347.jpg
+    alt:
+      en: "Ornate green and copper-toned savings book cover embossed with an eagle emblem, reading \"Savings Department\" and \"The Peoples State Bank, Wauseon, Ohio, Member F.D.I.C.\""
 geo:
 id: 526
 item_type: Still Image

@@ -43,6 +43,8 @@ files:
     original_filename: Renteria Rosario - formato de documentacion faltante.jpg
     thumb: /files/thumbnails/renteria-rosario---formato-de-documentacion-faltante_2e753fc024.jpg
     url: /files/original/renteria-rosario---formato-de-documentacion-faltante_2e753fc024.jpg
+    alt:
+      en: "Spanish-language form titled \"Documentación Faltante\" for the Fondo de Apoyo Social para Extrabajadores Migratorios Mexicanos 1942-1964, listing checkboxes for missing documents and handwritten applicant details for Rosario R. Rusell."
 geo:
 id: 1010
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: Moreno Sandoval, Cipreano, 1956, id4.jpg
     thumb: /files/thumbnails/moreno-sandoval,-cipreano,-1956,-id4_53718c3c1a.jpg
     url: /files/original/moreno-sandoval,-cipreano,-1956,-id4_53718c3c1a.jpg
+    alt:
+      en: "Mexican military ID booklet with printed Articles 163 and 164 on the left page; right page shows Matricula No. 3141187, \"Bola Negra,\" a date stamped X-7-56, a Junta Municipal de Reclutamiento seal for Irapuato, Gto., and handwritten signatures."
 geo:
 id: 1049
 item_type: Document

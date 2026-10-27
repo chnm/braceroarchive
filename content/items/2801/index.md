@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.22.jpg
     thumb: /files/thumbnails/NAD-200401384922.jpg
     url: /files/original/NAD-200401384922.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat bends over to loosen soil with a short-handled hoe in a pepper field, with other workers visible in the rows behind him and hills in the distance."
 geo:
 id: 2801
 item_type: Still Image

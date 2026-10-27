@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.12censored.jpg
     thumb: /files/thumbnails/NAD-200401381212censored.jpg
     url: /files/original/NAD-200401381212censored.jpg
+    alt:
+      en: "Black-and-white photo of shirtless braceros lined up under a corrugated metal lean-to at the Hidalgo Processing Center, Texas, as men in hats and striped shirts assist with processing."
 geo:
 id: 2998
 item_type: Still Image

@@ -47,6 +47,8 @@ files:
     original_filename: ARivera003.jpg
     thumb: /files/thumbnails/arivera003_40600aeca9.jpg
     url: /files/original/arivera003_40600aeca9.jpg
+    alt:
+      en: "Mexican government \"Trabajador Emigrante\" ID card for Antonio Rivera López, 48, with photo, fingerprint, wife's name Luisa López de Rivera, address in Jalisco, and date 14/10/53."
 geo:
 id: 605
 item_type: Document

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.07.44.jpg
     thumb: /files/thumbnails/NAD-200401380744.jpg
     url: /files/original/NAD-200401380744.jpg
+    alt:
+      en: "Long line of braceros stretches across an open dirt yard at the Monterrey Processing Center, with two men walking in the foreground and a low building visible in the background."
 geo:
 id: 1484
 item_type: Still Image

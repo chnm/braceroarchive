@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.09.jpg
     thumb: /files/thumbnails/NAD-200401385209.jpg
     url: /files/original/NAD-200401385209.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers stooped over rows in a strawberry field, with one man in the foreground filling a wooden crate with picked berries; farm buildings and hills line the horizon."
 geo:
 id: 2875
 item_type: Still Image

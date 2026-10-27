@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.31.jpg
     thumb: /files/thumbnails/NAD-200401383331.jpg
     url: /files/original/NAD-200401383331.jpg
+    alt:
+      en: "Black-and-white photo of a smiling man in a cowboy hat, plaid shirt, and jacket leaning against a bus, with another man visible smiling through the window behind him."
 geo:
 id: 2270
 item_type: Still Image

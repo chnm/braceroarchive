@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.19.jpg
     thumb: /files/thumbnails/NAD-200401380719.jpg
     url: /files/original/NAD-200401380719.jpg
+    alt:
+      en: "Large crowd of men wearing straw and felt cowboy hats gathered closely together along a covered walkway beside a building, waiting in line during processing at the Monterrey Processing Center."
 geo:
 id: 1467
 item_type: Still Image

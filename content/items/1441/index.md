@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.31.jpg
     thumb: /files/thumbnails/NAD-200401380631.jpg
     url: /files/original/NAD-200401380631.jpg
+    alt:
+      en: "A bracero leans against a barbed wire fence post, hat tilted back, as a large crowd of hatted men wait behind him at the Monterrey Processing Center, Mexico."
 geo:
 id: 1441
 item_type: Still Image

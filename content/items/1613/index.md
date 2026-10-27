@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.32.jpg
     thumb: /files/thumbnails/NAD-200401381232.jpg
     url: /files/original/NAD-200401381232.jpg
+    alt:
+      en: "A flatbed truck loaded with braceros departs the Hidalgo Processing Center, with parked cars and buildings visible under a cloudy sky."
 geo:
 id: 1613
 item_type: Still Image

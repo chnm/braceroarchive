@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.03.jpg
     thumb: /files/thumbnails/NAD-200401380103.jpg
     url: /files/original/NAD-200401380103.jpg
+    alt:
+      en: "A line of men in hats and work clothes stand along railroad tracks with bundled belongings at their feet, waiting near the Monterrey Processing Center."
 geo:
 id: 1278
 item_type: Still Image

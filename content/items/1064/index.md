@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1958, contract3.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1958,-contract3_15bdc04306.jpg
     url: /files/original/santacruz,-melitona,-1958,-contract3_15bdc04306.jpg
+    alt:
+      en: "Typed English and Spanish wage schedule from Imperial Valley Farmers Association listing crop rates by county (Imperial, Riverside, San Diego, Monterey) with handwritten corrections, headed \"ES 366 #1025.\""
 geo:
 id: 1064
 item_type: Document

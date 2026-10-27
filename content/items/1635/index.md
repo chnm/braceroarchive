@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.07.jpg
     thumb: /files/thumbnails/NAD-200401381307.jpg
     url: /files/original/NAD-200401381307.jpg
+    alt:
+      en: "A man in a wide-brimmed hat hands documents to a seated official at a desk, with other workers and officials visible in the background hall."
 geo:
 id: 1635
 item_type: Still Image

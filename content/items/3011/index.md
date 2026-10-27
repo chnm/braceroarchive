@@ -41,6 +41,8 @@ files:
     original_filename: Carmen Quezada 1.JPG
     thumb: /files/thumbnails/carmen-quezada-1_a5f502638f.jpg
     url: /files/original/carmen-quezada-1_a5f502638f.jpg
+    alt:
+      en: "Printed Spanish-language \"Secretaría del Trabajo de los E.E.U.U.\" certificate for bracero J.C. Quezada Morales, dated Nov 28, 1952, with a signature and a right index finger fingerprint impression."
 geo:
 id: 3011
 item_type: Document

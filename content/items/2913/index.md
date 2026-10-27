@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.23.jpg
     thumb: /files/thumbnails/NAD-200401385323.jpg
     url: /files/original/NAD-200401385323.jpg
+    alt:
+      en: "Rows of cots line both sides of a long barracks-style room, with braceros resting under blankets; clothing hangs along the walls and sunlight streams through windows."
 geo:
 id: 2913
 item_type: Still Image

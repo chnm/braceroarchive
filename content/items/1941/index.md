@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.12.jpg
     thumb: /files/thumbnails/NAD-200401382312.jpg
     url: /files/original/NAD-200401382312.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered around a cot playing dominoes, with rows of beds and hanging clothes in a California camp dormitory."
 geo:
 id: 1941
 item_type: Still Image

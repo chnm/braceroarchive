@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.32.jpg
     thumb: /files/thumbnails/NAD-200401383232.jpg
     url: /files/original/NAD-200401383232.jpg
+    alt:
+      en: "Two braceros play dominoes at a small table in a dormitory room, surrounded by bunk beds, with shelving and a curtained window in the background."
 geo:
 id: 2237
 item_type: Still Image

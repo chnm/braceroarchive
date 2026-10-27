@@ -44,6 +44,8 @@ files:
     original_filename: Mex copy.jpg
     thumb: /files/thumbnails/mex-copy_b97e617752.jpg
     url: /files/original/mex-copy_b97e617752.jpg
+    alt:
+      en: "Worn military service card with \"MATRICULA\" header and typed Spanish text certifying completed service, dated Agosto de 1960, bearing official stamps and signatures; reverse side lists printed warnings about falsification."
 geo:
 id: 550
 item_type: Document

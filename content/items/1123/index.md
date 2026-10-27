@@ -46,6 +46,8 @@ files:
     original_filename: MontesRoblesManuelGobernacionWorkerID1.jpg
     thumb: /files/thumbnails/montesroblesmanuelgobernacionworkerid1_1e023fe8b8.jpg
     url: /files/original/montesroblesmanuelgobernacionworkerid1_1e023fe8b8.jpg
+    alt:
+      en: "Mexican Agricultural Laborer's identification card No. 43985 for Manuel Montes Robles, dated June 21, 1948, with printed personal details, a fingerprint, and signatures at the bottom."
 geo:
 id: 1123
 item_type: Document

@@ -41,6 +41,8 @@ files:
     original_filename: Marcial1.jpg
     thumb: /files/thumbnails/marcial1_9d8c87b597.jpg
     url: /files/original/marcial1_9d8c87b597.jpg
+    alt:
+      en: "Alberto Miguel Marcial smiles while standing outdoors in a tan suit with a patterned tie and pocket square, a suburban street and white house with red roof visible behind him."
 geo:
 id: 999
 item_type: Still Image

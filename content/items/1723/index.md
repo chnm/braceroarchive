@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.40.jpg
     thumb: /files/thumbnails/NAD-200401381640.jpg
     url: /files/original/NAD-200401381640.jpg
+    alt:
+      en: "Black-and-white photo of men in straw hats and light clothing, carrying striped bags, lining up outdoors as one shows documents to an official seated at a small table."
 geo:
 id: 1723
 item_type: Still Image

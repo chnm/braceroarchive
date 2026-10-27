@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.06.jpg
     thumb: /files/thumbnails/NAD-200401384306.jpg
     url: /files/original/NAD-200401384306.jpg
+    alt:
+      en: "Black-and-white photo of workers bent over in long rows of a lettuce field, with a flatbed truck parked nearby and utility poles lining the horizon."
 geo:
 id: 2614
 item_type: Still Image

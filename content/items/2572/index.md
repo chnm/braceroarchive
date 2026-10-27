@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.24.jpg
     thumb: /files/thumbnails/NAD-200401384124.jpg
     url: /files/original/NAD-200401384124.jpg
+    alt:
+      en: "A bracero stands in a doorway while three others sit resting on wooden crates outside a row of wood-sided living quarters at a California labor camp."
 geo:
 id: 2572
 item_type: Still Image

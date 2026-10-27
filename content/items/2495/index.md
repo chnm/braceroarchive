@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.17.jpg
     thumb: /files/thumbnails/NAD-200401383917.jpg
     url: /files/original/NAD-200401383917.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting under a shade tree beside a parked bus labeled \"Immigration and Naturalization Service,\" with men crouched and standing nearby in Stockton, California."
 geo:
 id: 2495
 item_type: Still Image

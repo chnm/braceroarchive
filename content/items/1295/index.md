@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.06.jpg
     thumb: /files/thumbnails/NAD-200401380206.jpg
     url: /files/original/NAD-200401380206.jpg
+    alt:
+      en: "A man stands shirtless beside an X-ray machine at the Hidalgo Processing Center, positioned for a chest X-ray during his physical examination as part of the bracero application process."
 geo:
 id: 1295
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.26.jpg
     thumb: /files/thumbnails/NAD-200401384926.jpg
     url: /files/original/NAD-200401384926.jpg
+    alt:
+      en: "Black-and-white photo of workers bent over in a crop field, one in the foreground using a short-handled hoe to loosen soil, others visible working in rows behind him."
 geo:
 id: 2805
 item_type: Still Image

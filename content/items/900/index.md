@@ -46,6 +46,8 @@ files:
     original_filename: Recibos Envio dinero Western Union 1962 (4).jpg
     thumb: /files/thumbnails/recibos-envio-dinero-western-union-1962-(4)_bbfb44a6a5.jpg
     url: /files/original/recibos-envio-dinero-western-union-1962-(4)_bbfb44a6a5.jpg
+    alt:
+      en: "Two Western Union Telegraph Company money order receipts from Seminole, Texas, received from Liborio Santiago, dated March 9, 1962 and June 18, 1962, for $16.00 and $32.00 respectively."
 geo:
 id: 900
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: NavarroFedericobirth2.jpg
     thumb: /files/thumbnails/navarrofedericobirth2_889175f576.jpg
     url: /files/original/navarrofedericobirth2_889175f576.jpg
+    alt:
+      en: "Back of a Mexican birth certificate with a green \"Poder Ejecutivo, Estado de Guanajuato\" seal, repeated faint letterhead text, and a certification statement dated November 3, 1992, Cueramaro, Gto., signed by the civil registry officer."
 geo:
 id: 1130
 item_type: Document

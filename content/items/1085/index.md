@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 2000, Copy of Birth Certificate.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-2000,-copy-of-birth-certificate_2d6fb815e4.jpg
     url: /files/original/santacruz,-melitona,-2000,-copy-of-birth-certificate_2d6fb815e4.jpg
+    alt:
+      en: "Official Mexican birth certificate (Acta de Nacimiento) from Estado de Zacatecas Registro Civil, No. de Control 1703299, recording Melitona Martinez Becerra's 1928 birth, with seals and signatures."
 geo:
 id: 1085
 item_type: Document

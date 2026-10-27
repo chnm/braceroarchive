@@ -46,6 +46,8 @@ files:
     original_filename: MartinezFaustinoBraceroTestament.jpg
     thumb: /files/thumbnails/martinezfaustinobracerotestament_e846cbf51c.jpg
     url: /files/original/martinezfaustinobracerotestament_e846cbf51c.jpg
+    alt:
+      en: "Duplicated Spanish-language form titled \"Formato de Documentación Faltante\" for the Fondo de Apoyo Social para Extrabajadores Migratorios Mexicanos, with checkboxes for missing documents and handwritten applicant details, dated February 2006."
 geo:
 id: 1108
 item_type: Document

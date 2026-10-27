@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.42.jpg
     thumb: /files/thumbnails/NAD-200401380742.jpg
     url: /files/original/NAD-200401380742.jpg
+    alt:
+      en: "Large crowd gathered in an open dirt lot at the Monterrey Processing Center, with trucks and cars parked nearby and mountains rising in the background."
 geo:
 id: 1482
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.22.jpg
     thumb: /files/thumbnails/NAD-200401380822.jpg
     url: /files/original/NAD-200401380822.jpg
+    alt:
+      en: "A man stands on a stone, holding and reviewing a stack of papers, surrounded by a crowd of men in hats and work shirts under leafy trees in Mexico City."
 geo:
 id: 1509
 item_type: Still Image

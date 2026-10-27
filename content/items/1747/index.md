@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.16.jpg
     thumb: /files/thumbnails/NAD-200401381616.jpg
     url: /files/original/NAD-200401381616.jpg
+    alt:
+      en: "A nurse administers a vaccination to a shirtless man holding a card, as a line of other men wait their turn under a \"Vaccination\" sign in a large hall."
 geo:
 id: 1747
 item_type: Still Image

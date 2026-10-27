@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.24.jpg
     thumb: /files/thumbnails/NAD-200401385524.jpg
     url: /files/original/NAD-200401385524.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with men walking past the El Zarape Cafe and Bar-B-Q sign, parked cars, a taxi, and parking meters lining the sidewalk."
 geo:
 id: 2951
 item_type: Still Image

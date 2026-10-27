@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.19.jpg
     thumb: /files/thumbnails/NAD-200401384219.jpg
     url: /files/original/NAD-200401384219.jpg
+    alt:
+      en: "Black-and-white view over a plowed field toward rolling hills, with rows of low buildings forming a labor camp visible in the distance and a dirt path leading toward them."
 geo:
 id: 2593
 item_type: Still Image

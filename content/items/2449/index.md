@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.05.jpg
     thumb: /files/thumbnails/NAD-200401383805.jpg
     url: /files/original/NAD-200401383805.jpg
+    alt:
+      en: "Interior of a wooden barracks with a corrugated metal roof, where a central support beam holds a small shelf with glasses, a round decorative object, and clotheslines strung across the room."
 geo:
 id: 2449
 item_type: Still Image

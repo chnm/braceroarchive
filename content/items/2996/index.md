@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.12.08.jpg
     thumb: /files/thumbnails/NAD-200401381208.jpg
     url: /files/original/NAD-200401381208.jpg
+    alt:
+      en: "A line of hat-wearing braceros walks single file across a pedestrian bridge spanning a river, with a town and trees visible in the background."
 geo:
 id: 2996
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 45.jpg
     thumb: /files/thumbnails/velasco-patino-45_427d3e7c3f.jpg
     url: /files/original/velasco-patino-45_427d3e7c3f.jpg
+    alt:
+      en: "Purchaser's Receipt of Bank Money Order No. 33330, dated Coachella, Calif., Nov. 28, 1950, for $58.91, purchased by M. Gonzalez and drawn to the order of Jesus Ramirez, from The First National Bank."
 geo:
 id: 1209
 item_type: Document

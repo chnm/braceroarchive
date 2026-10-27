@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.18.jpg
     thumb: /files/thumbnails/NAD-200401381618.jpg
     url: /files/original/NAD-200401381618.jpg
+    alt:
+      en: "Rows of seated typists record information dictated by shirtless braceros standing at desks in a large hall, with a \"DATE TIME\" sign visible in the background at the Monterrey Processing Center."
 geo:
 id: 1749
 item_type: Still Image

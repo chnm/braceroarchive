@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.11.jpg
     thumb: /files/thumbnails/NAD-200401382811.jpg
     url: /files/original/NAD-200401382811.jpg
+    alt:
+      en: "A man leans over a long wash basin to drink water from a faucet, while two other men stand nearby talking in a camp bathroom with pipes and fixtures along the wall."
 geo:
 id: 2101
 item_type: Still Image

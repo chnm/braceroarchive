@@ -46,6 +46,8 @@ files:
     original_filename: contrato marzo-junio 1956 Ca(parte superior document.jpg
     thumb: /files/thumbnails/contrato-marzo-junio-1956-ca(parte-superior-document_fd4053608f.jpg
     url: /files/original/contrato-marzo-junio-1956-ca(parte-superior-document_fd4053608f.jpg
+    alt:
+      en: "Printed bilingual contract form titled \"Continuation of Standard Work Contract, As Amended,\" listing worker Miguel Zavala Lopez, employer California Packing Corporation, wage rates, and signatures dated March 22, 1956."
 geo:
 id: 907
 item_type: Document

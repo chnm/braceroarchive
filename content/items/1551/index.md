@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.08.jpg
     thumb: /files/thumbnails/NAD-200401380908.jpg
     url: /files/original/NAD-200401380908.jpg
+    alt:
+      en: "Black-and-white photo of a line of men wearing hats walking single file across an open dirt field, with trees in the foreground and utility poles in the hazy background."
 geo:
 id: 1551
 item_type: Still Image

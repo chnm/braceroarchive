@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.06.jpg
     thumb: /files/thumbnails/NAD-200401380906.jpg
     url: /files/original/NAD-200401380906.jpg
+    alt:
+      en: "Large group of braceros wearing straw hats sit and wait along railroad tracks near a fenced area, with one man standing holding a bag in the foreground."
 geo:
 id: 1549
 item_type: Still Image

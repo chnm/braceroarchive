@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.06.jpg
     thumb: /files/thumbnails/NAD-200401382606.jpg
     url: /files/original/NAD-200401382606.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing straw hats lined up along a dirt road beside a field, serving food from large metal pots onto plates in the Salinas Valley, California."
 geo:
 id: 2029
 item_type: Still Image

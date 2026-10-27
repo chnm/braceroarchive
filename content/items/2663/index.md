@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.31.jpg
     thumb: /files/thumbnails/NAD-200401384431.jpg
     url: /files/original/NAD-200401384431.jpg
+    alt:
+      en: "Black-and-white photo of a bracero camp dormitory with rows of metal cots, several men resting or lying on their beds, and clothing hung to dry near a window."
 geo:
 id: 2663
 item_type: Still Image

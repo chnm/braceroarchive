@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.31.jpg
     thumb: /files/thumbnails/NAD-200401380331.jpg
     url: /files/original/NAD-200401380331.jpg
+    alt:
+      en: "Black-and-white photo of several young men standing around a large table covered with rows of sandwiches, preparing food for braceros at the Monterrey Processing Center, with light streaming through a window above."
 geo:
 id: 1343
 item_type: Still Image

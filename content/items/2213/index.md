@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.08.jpg
     thumb: /files/thumbnails/NAD-200401383208.jpg
     url: /files/original/NAD-200401383208.jpg
+    alt:
+      en: "A shirtless man sits on a bench in a locker room, putting on his shoes, with shower stalls lining the hallway and hooks and coats hanging on the wall nearby."
 geo:
 id: 2213
 item_type: Still Image

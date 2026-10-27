@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.14.jpg
     thumb: /files/thumbnails/NAD-200401384614.jpg
     url: /files/original/NAD-200401384614.jpg
+    alt:
+      en: "A group of men in hats stand in a line near a parked car beside a wooden building, with trees and another vehicle in the background."
 geo:
 id: 2709
 item_type: Still Image

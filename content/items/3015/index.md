@@ -44,6 +44,8 @@ files:
     original_filename: Carmen Quezada 5 rotated.jpg
     thumb: /files/thumbnails/carmen-quezada-5-rotated_e7f4ecda41.jpg
     url: /files/original/carmen-quezada-5-rotated_e7f4ecda41.jpg
+    alt:
+      en: "Backside of a MICA identification card for Quezada Morales, J. Carmen, listing home address, birthdate, birthplace, U.S. admission at Hidalgo, Texas on May 16, 1960, and ID number L3435796."
 geo:
 id: 3015
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: Mica El Paso, TX 1957 (front w. picture).jpg
     thumb: /files/thumbnails/mica-el-paso,-tx-1957-(front-w-picture)_d3633f9657.jpg
     url: /files/original/mica-el-paso,-tx-1957-(front-w-picture)_d3633f9657.jpg
+    alt:
+      en: "Worn ID card titled \"Alien Laborer's Identification Card\" with a man's portrait photo, issued by the U.S. Department of Justice, Immigration and Naturalization Service, form I-100D (12-7-55)."
 geo:
 id: 821
 item_type: Document

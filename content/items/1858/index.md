@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.24.jpg
     thumb: /files/thumbnails/NAD-200401382024.jpg
     url: /files/original/NAD-200401382024.jpg
+    alt:
+      en: "Black-and-white photo of a worker arranging a \"Cookie\" brand lettuce box in a furrowed field, with other laborers carrying boxes and more crates lined up in rows toward the horizon."
 geo:
 id: 1858
 item_type: Still Image

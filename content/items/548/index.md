@@ -44,6 +44,8 @@ files:
     original_filename: ID card back.jpg
     thumb: /files/thumbnails/id-card-back_4301acb494.jpg
     url: /files/original/id-card-back_4301acb494.jpg
+    alt:
+      en: "Identification card issued at Fabens, Texas, dated Feb. 1, 1949, bearing the signature \"Robert F. Covington\" and printed conditions of entry, stamped twice with matching dates."
 geo:
 id: 548
 item_type: Document

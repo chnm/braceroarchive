@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.01.jpg
     thumb: /files/thumbnails/NAD-200401381101.jpg
     url: /files/original/NAD-200401381101.jpg
+    alt:
+      en: "Black-and-white photo of a large group of men in hats sitting and standing along the arched facade of a railroad station in Monterrey, Mexico, waiting outside the building."
 geo:
 id: 1587
 item_type: Still Image

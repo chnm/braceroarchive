@@ -46,6 +46,8 @@ files:
     original_filename: Mica Calexico CA 1956 (front with picture).jpg
     thumb: /files/thumbnails/mica-calexico-ca-1956-(front-with-picture)_900bd7568a.jpg
     url: /files/original/mica-calexico-ca-1956-(front-with-picture)_900bd7568a.jpg
+    alt:
+      en: "Worn identification card with a photo of a man's face, titled \"Alien Laborer's Identification Card,\" issued by the U.S. Department of Justice, Immigration and Naturalization Service, Form I-100D (12-7-55)."
 geo:
 id: 814
 item_type: Document

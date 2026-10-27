@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.06.jpg
     thumb: /files/thumbnails/NAD-200401381206.jpg
     url: /files/original/NAD-200401381206.jpg
+    alt:
+      en: "Black-and-white photo of a flatbed trailer truck crowded with braceros riding along a rural road, followed closely by a station wagon, with utility poles and open fields lining the roadside near Hidalgo, Texas."
 geo:
 id: 1607
 item_type: Still Image

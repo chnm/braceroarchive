@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.42.jpg
     thumb: /files/thumbnails/NAD-200401381042.jpg
     url: /files/original/NAD-200401381042.jpg
+    alt:
+      en: "Black-and-white photo of men resting along a railroad embankment beside a mound of earth marked with a small cross, with distant hills and a fenced tree line visible."
 geo:
 id: 1576
 item_type: Still Image

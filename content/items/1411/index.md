@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.30.jpg
     thumb: /files/thumbnails/NAD-200401380530.jpg
     url: /files/original/NAD-200401380530.jpg
+    alt:
+      en: "Four men wearing wide-brimmed hats gather around a table preparing food in a bare, cinder-block barracks, with pots, pans, and a long bench visible nearby."
 geo:
 id: 1411
 item_type: Still Image

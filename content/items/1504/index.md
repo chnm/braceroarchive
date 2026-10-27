@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.17.jpg
     thumb: /files/thumbnails/NAD-200401380817.jpg
     url: /files/original/NAD-200401380817.jpg
+    alt:
+      en: "Black-and-white photo of a narrow dirt road in San Mateo, Mexico, lined with stone walls, where men walk and ride animals as a dog stands nearby."
 geo:
 id: 1504
 item_type: Still Image

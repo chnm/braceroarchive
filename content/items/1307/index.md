@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.24.jpg
     thumb: /files/thumbnails/NAD-200401380224.jpg
     url: /files/original/NAD-200401380224.jpg
+    alt:
+      en: "Men in wide-brimmed hats line a long table covered with clothing and personal belongings laid out for inspection at the Hidalgo Processing Center, with a trash can and wooden support beam nearby."
 geo:
 id: 1307
 item_type: Still Image

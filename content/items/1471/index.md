@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.11.jpg
     thumb: /files/thumbnails/NAD-200401380711.jpg
     url: /files/original/NAD-200401380711.jpg
+    alt:
+      en: "Black-and-white photo of braceros, many wearing straw hats, lined up along a barbed wire enclosure showing documents to an official, with a large crowd waiting beyond the fence."
 geo:
 id: 1471
 item_type: Still Image

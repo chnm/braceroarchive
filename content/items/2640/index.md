@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.07.jpg
     thumb: /files/thumbnails/NAD-200401384407.jpg
     url: /files/original/NAD-200401384407.jpg
+    alt:
+      en: "Overhead view of a crowd of men gathered outside a wooden building in Watsonville, California, several holding papers, as paychecks are distributed among braceros."
 geo:
 id: 2640
 item_type: Still Image

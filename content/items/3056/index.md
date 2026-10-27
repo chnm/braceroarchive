@@ -44,6 +44,8 @@ files:
     original_filename: belen soto moreno 8.jpg
     thumb: /files/thumbnails/belen-soto-moreno-8_d3495244e0.jpg
     url: /files/original/belen-soto-moreno-8_d3495244e0.jpg
+    alt:
+      en: "Black-and-white photo of two young men standing side by side in front of trees, both wearing light-colored shirts and dark trousers, posing with hands on their hips."
 geo:
 id: 3056
 item_type: Still Image

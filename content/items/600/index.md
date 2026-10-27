@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.32.jpg
     thumb: /files/thumbnails/instructivo-p32_742fb9f757.jpg
     url: /files/original/instructivo-p32_742fb9f757.jpg
+    alt:
+      en: "Blank inside covers of a worn instruction booklet, with tan paper on the left and faded green paper on the right, both showing stains and age spots."
 geo:
 id: 600
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.09.jpg
     thumb: /files/thumbnails/NAD-200401383609.jpg
     url: /files/original/NAD-200401383609.jpg
+    alt:
+      en: "Rows of lettuce stretch across a cultivated field in Gonzales, California, with a line of simple barrack-style buildings forming a bracero camp along the horizon, mountains faintly visible beyond."
 geo:
 id: 2353
 item_type: Still Image

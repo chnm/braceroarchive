@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.30.jpg
     thumb: /files/thumbnails/NAD-200401382030.jpg
     url: /files/original/NAD-200401382030.jpg
+    alt:
+      en: "Braceros stand atop a truck stacked with \"Cookie Head Lettuce\" boxes, with farmworkers visible in rows of crops stretching toward a distant barn in the Salinas Valley."
 geo:
 id: 1852
 item_type: Still Image

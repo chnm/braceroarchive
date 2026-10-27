@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.13.jpg
     thumb: /files/thumbnails/NAD-200401385113.jpg
     url: /files/original/NAD-200401385113.jpg
+    alt:
+      en: "A bracero swallows pills with his head tilted back while a nurse in a white uniform and cap holds a glass of water for him in a clinic room."
 geo:
 id: 2854
 item_type: Still Image

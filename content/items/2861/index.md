@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.20.jpg
     thumb: /files/thumbnails/NAD-200401385120.jpg
     url: /files/original/NAD-200401385120.jpg
+    alt:
+      en: "Black-and-white photo of a seated man, shirtless from the waist up, bent forward while a doctor examines his back; a table with medical bottles and instruments stands nearby in a carpeted room."
 geo:
 id: 2861
 item_type: Still Image

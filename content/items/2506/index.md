@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.28.jpg
     thumb: /files/thumbnails/NAD-200401383928.jpg
     url: /files/original/NAD-200401383928.jpg
+    alt:
+      en: "Black-and-white photo of a brick building with a sign reading \"SAN JOAQUIN COUNTY FARM PRODUCTION ASSN,\" with a crowd of people gathered near its side entrance and parked cars nearby."
 geo:
 id: 2506
 item_type: Still Image

@@ -47,6 +47,8 @@ files:
     original_filename: ARivera004.jpg
     thumb: /files/thumbnails/arivera004_b3ea85c0f8.jpg
     url: /files/original/arivera004_b3ea85c0f8.jpg
+    alt:
+      en: "Back of an identification card featuring the official seal of the Estados Unidos Mexicanos above printed text reading \"Secretaria de Gobernacion, Oficina de Contratacion.\""
 geo:
 id: 606
 item_type: Document

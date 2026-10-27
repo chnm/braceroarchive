@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.43.jpg
     thumb: /files/thumbnails/NAD-200401380443.jpg
     url: /files/original/NAD-200401380443.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in hats waiting outside a building at the Monterrey Processing Center, with a man leaning on a ladder in the foreground."
 geo:
 id: 1371
 item_type: Still Image

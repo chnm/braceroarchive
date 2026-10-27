@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.54.09.jpg
     thumb: /files/thumbnails/NAD-200401385409.jpg
     url: /files/original/NAD-200401385409.jpg
+    alt:
+      en: "A group of braceros kneel outdoors beside a corrugated metal barracks, heads bowed, as a man stands before them during a religious blessing at a California labor camp."
 geo:
 id: 2924
 item_type: Still Image

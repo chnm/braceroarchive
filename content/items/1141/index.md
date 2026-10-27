@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 22.1.jpg
     thumb: /files/thumbnails/velasco-patino-221_0f9136ae01.jpg
     url: /files/original/velasco-patino-221_0f9136ae01.jpg
+    alt:
+      en: "Newspaper clipping headlined \"On the Record\" with the obituary of James T. Hiroto, 65, a 22-year farm worker from Santa Ana, detailing his services, background, survivors, and memorial donation information."
 geo:
 id: 1141
 item_type: Document

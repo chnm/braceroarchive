@@ -46,6 +46,8 @@ files:
     original_filename: Hernandez Arreola, Raul - Syphilis test card.jpg
     thumb: /files/thumbnails/hernandez-arreola,-raul---syphilis-test-card_feac26b3b1.jpg
     url: /files/original/hernandez-arreola,-raul---syphilis-test-card_feac26b3b1.jpg
+    alt:
+      en: "Bracero Reception Center card certifying Raul Arreola Hernandez's July 1, 1960 blood test, listing results as positive, diagnosis latent, with treatment and physician signature fields filled in."
 geo:
 id: 1095
 item_type: Document

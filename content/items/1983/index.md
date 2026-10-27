@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.19.jpg
     thumb: /files/thumbnails/NAD-200401382419.jpg
     url: /files/original/NAD-200401382419.jpg
+    alt:
+      en: "Interior of a quonset-style dining hall with long wooden tables and benches; one man sits at a table near the entrance while a counter at the far end holds dishes, containers, and supplies."
 geo:
 id: 1983
 item_type: Still Image

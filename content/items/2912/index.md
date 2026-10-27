@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.21.jpg
     thumb: /files/thumbnails/NAD-200401385321.jpg
     url: /files/original/NAD-200401385321.jpg
+    alt:
+      en: "Rows of cots with blankets fill a long barracks-style tent, clothing hangs along the left wall, and a few figures rest or sit in the dim interior."
 geo:
 id: 2912
 item_type: Still Image

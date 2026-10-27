@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.13.jpg
     thumb: /files/thumbnails/NAD-200401384913.jpg
     url: /files/original/NAD-200401384913.jpg
+    alt:
+      en: "Black-and-white photo of a vast California pepper field with an irrigation ditch running through it, as a line of braceros perform stoop labor in the distance."
 geo:
 id: 2792
 item_type: Still Image

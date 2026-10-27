@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.19.jpg
     thumb: /files/thumbnails/NAD-200401380519.jpg
     url: /files/original/NAD-200401380519.jpg
+    alt:
+      en: "Men in cowboy hats gather along a row of small camp stoves on a covered porch, preparing food together in close quarters at a bracero labor camp near McAllen, Texas."
 geo:
 id: 1400
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.18.jpg
     thumb: /files/thumbnails/NAD-200401385618.jpg
     url: /files/original/NAD-200401385618.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing hats, bent over picking lettuce in a large field and packing it into \"Cookie\" brand lettuce boxes, with a loaded flatbed truck in the background."
 geo:
 id: 2978
 item_type: Still Image

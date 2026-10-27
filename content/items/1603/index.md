@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.37.jpg
     thumb: /files/thumbnails/NAD-200401381137.jpg
     url: /files/original/NAD-200401381137.jpg
+    alt:
+      en: "A bracero wearing a straw hat stands at a counter speaking with a seated official, while a line of other men in hats waits behind him under tall windows."
 geo:
 id: 1603
 item_type: Still Image

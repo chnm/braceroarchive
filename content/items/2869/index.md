@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.03.jpg
     thumb: /files/thumbnails/NAD-200401385203.jpg
     url: /files/original/NAD-200401385203.jpg
+    alt:
+      en: "A bracero crouches to punch tally cards beside stacked wooden strawberry crates, as workers stand nearby and others harvest in rows stretching across the Salinas Valley field behind them."
 geo:
 id: 2869
 item_type: Still Image

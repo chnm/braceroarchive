@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.10.jpg
     thumb: /files/thumbnails/NAD-200401381110.jpg
     url: /files/original/NAD-200401381110.jpg
+    alt:
+      en: "Silhouetted figures, one wearing a wide-brimmed hat, are visible through a train window in dim evening light near the Monterrey Processing Center, Mexico."
 geo:
 id: 2370
 item_type: Still Image

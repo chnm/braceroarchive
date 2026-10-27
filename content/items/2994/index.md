@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.33.jpg
     thumb: /files/thumbnails/NAD-200401385633.jpg
     url: /files/original/NAD-200401385633.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing wide-brimmed hats, bending over rows of lettuce in a Salinas Valley field, filling and packing crates labeled with printed text."
 geo:
 id: 2994
 item_type: Still Image

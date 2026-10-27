@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.33.jpg
     thumb: /files/thumbnails/NAD-200401382733.jpg
     url: /files/original/NAD-200401382733.jpg
+    alt:
+      en: "Black-and-white photo of a crowd of men wearing hats gathered near a building marked \"PARKING\" at the Gondo Labor Camp, with a truck and dirt mound nearby and hills in the background."
 geo:
 id: 2059
 item_type: Still Image

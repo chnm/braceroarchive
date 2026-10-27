@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.28.jpg
     thumb: /files/thumbnails/NAD-200401384628.jpg
     url: /files/original/NAD-200401384628.jpg
+    alt:
+      en: "Black-and-white photo of braceros standing and crouching outside a brick building marked \"FED... PITT...\" with laundry hanging and a car parked nearby amid large trees."
 geo:
 id: 2721
 item_type: Still Image

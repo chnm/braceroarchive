@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.36.jpg
     thumb: /files/thumbnails/NAD-200401381636.jpg
     url: /files/original/NAD-200401381636.jpg
+    alt:
+      en: "Black-and-white photo of a large hall with rows of men in hats queued at a counter, as seated officials review documents at desks under tall windows."
 geo:
 id: 1731
 item_type: Still Image

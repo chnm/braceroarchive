@@ -46,6 +46,8 @@ files:
     original_filename: Contrato Texas Jul-Ago 1960.jpg
     thumb: /files/thumbnails/contrato-texas-jul-ago-1960_e5ce96bd90.jpg
     url: /files/original/contrato-texas-jul-ago-1960_e5ce96bd90.jpg
+    alt:
+      en: "Printed bracero work contract form for Cruz Figueroa Rodolfo, employed by Sebastian Farmers Coop Society in Hidalgo, Texas, dated July 16, 1960, with signatures and contract number 11308323."
 geo:
 id: 845
 item_type: Document

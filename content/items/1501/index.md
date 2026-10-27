@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.14.jpg
     thumb: /files/thumbnails/NAD-200401380814.jpg
     url: /files/original/NAD-200401380814.jpg
+    alt:
+      en: "Two men travel a dirt road beside a stone wall, one riding a horse and the other a donkey, with trees lining the path in San Mateo, Mexico."
 geo:
 id: 1501
 item_type: Still Image

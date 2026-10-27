@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.04.jpg
     thumb: /files/thumbnails/NAD-200401381504.jpg
     url: /files/original/NAD-200401381504.jpg
+    alt:
+      en: "A large crowd of men wearing wide-brimmed hats stand in line in an outdoor courtyard, with a man in a suit walking past them near a brick building."
 geo:
 id: 1690
 item_type: Still Image

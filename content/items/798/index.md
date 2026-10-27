@@ -44,6 +44,8 @@ files:
     original_filename: Jul28_03.jpg
     thumb: /files/thumbnails/jul28_03_6eea0e6ecf.jpg
     url: /files/original/jul28_03_6eea0e6ecf.jpg
+    alt:
+      en: "Pay stub from Snohomish Farm Labor Committee, Inc. for Nicolas Ismael Osorio, listing wages from 11-2 to 11-14-45, gross earnings of $34.12, deductions, and an amount paid of $24.46."
 geo:
 id: 798
 item_type: Still Image

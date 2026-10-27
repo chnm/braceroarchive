@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.02.jpg
     thumb: /files/thumbnails/NAD-200401381502.jpg
     url: /files/original/NAD-200401381502.jpg
+    alt:
+      en: "A long line of men, many wearing wide-brimmed hats, stand and sit along a stone building's base on a sidewalk, waiting outside in Mexico City."
 geo:
 id: 1688
 item_type: Still Image

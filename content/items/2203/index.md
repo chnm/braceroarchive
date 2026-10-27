@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.15.jpg
     thumb: /files/thumbnails/NAD-200401383115.jpg
     url: /files/original/NAD-200401383115.jpg
+    alt:
+      en: "Black-and-white photo of two men wearing wide-brimmed hats crouched in a field, picking onions and placing them into wooden crates amid tall grass."
 geo:
 id: 2203
 item_type: Still Image

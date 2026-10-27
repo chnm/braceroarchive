@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.02.jpg
     thumb: /files/thumbnails/NAD-200401382102.jpg
     url: /files/original/NAD-200401382102.jpg
+    alt:
+      en: "A man rests on a metal-frame bed in a wooden-walled bunkhouse, sunlight streaming through a window, with jackets, bags, and a hat hanging on the wall beside him."
 geo:
 id: 1869
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Tafolla Melendez, Vidal.jpg
     thumb: /files/thumbnails/tafolla-melendez,-vidal_dc0ad0bb5c.jpg
     url: /files/original/tafolla-melendez,-vidal_dc0ad0bb5c.jpg
+    alt:
+      en: "Official Mexican worker ID card No. 33811 for Vidal Tafolla Melendez, with photo, issued in Empalme, Sonora on September 26, 1967, listing birthplace El Tarengo, Jalisco and beneficiary Petra Melendres Jasso."
 geo:
 id: 1093
 item_type: Document

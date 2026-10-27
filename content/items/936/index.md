@@ -46,6 +46,8 @@ files:
     original_filename: Guerrero-Nava, Juan- mica card1.jpg
     thumb: /files/thumbnails/guerrero-nava,-juan--mica-card1_5d451b2922.jpg
     url: /files/original/guerrero-nava,-juan--mica-card1_5d451b2922.jpg
+    alt:
+      en: "Worn ID card titled \"Alien Laborer's Identification Card,\" featuring a black-and-white mugshot-style photo, with printed text reading \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-5)\"."
 geo:
 id: 936
 item_type: Document

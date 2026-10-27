@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.24.jpg
     thumb: /files/thumbnails/NAD-200401383124.jpg
     url: /files/original/NAD-200401383124.jpg
+    alt:
+      en: "Black-and-white photo of a roadside sign reading \"CHUALAR\" beside a field, with a row of low buildings, utility poles, and hills in the background."
 geo:
 id: 2185
 item_type: Still Image

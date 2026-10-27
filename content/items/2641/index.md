@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.08.jpg
     thumb: /files/thumbnails/NAD-200401384408.jpg
     url: /files/original/NAD-200401384408.jpg
+    alt:
+      en: "Group of braceros gathered outside a building in Watsonville, California, examining paychecks, with a horse and vintage cars visible on the street in the background."
 geo:
 id: 2641
 item_type: Still Image

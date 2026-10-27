@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1993, Death Certificatecopy.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1993,-death-certificatecopy_7c16113572.jpg
     url: /files/original/santacruz,-melitona,-1993,-death-certificatecopy_7c16113572.jpg
+    alt:
+      en: "Certified Abstract of Death from San Diego County Recorder for Guadalupe Jose Santacruz, male, born December 15, 1925, died February 25, 1993, of natural causes; issued March 23, 1993."
 geo:
 id: 1087
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 32.jpg
     thumb: /files/thumbnails/velasco-patino-32_f2634cb2c8.jpg
     url: /files/original/velasco-patino-32_f2634cb2c8.jpg
+    alt:
+      en: "Three bank money order receipts from The First National Bank in Coachella, California, purchased by M. Gonzalez, dated March 13, 1950, June 3, 1948, and May 10, 1949, each stamped \"NOT NEGOTIABLE.\""
 geo:
 id: 1191
 item_type: Document

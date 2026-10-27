@@ -46,6 +46,8 @@ files:
     original_filename: NavarroFedericowifebirthcertificate2.jpg
     thumb: /files/thumbnails/navarrofedericowifebirthcertificate2_87a07b1d8f.jpg
     url: /files/original/navarrofedericowifebirthcertificate2_87a07b1d8f.jpg
+    alt:
+      en: "Back of a birth certificate with a large circular green seal reading \"Poder Ejecutivo, Estado de Guanajuato,\" repeated watermark text, and a handwritten certification section signed by Flaviano Pantoja Saldaña."
 geo:
 id: 1132
 item_type: Document

@@ -41,6 +41,8 @@ files:
     original_filename: GonzalezLorenzoYubaCity2.jpg
     thumb: /files/thumbnails/gonzalezlorenzoyubacity2_9f286ba80a.jpg
     url: /files/original/gonzalezlorenzoyubacity2_9f286ba80a.jpg
+    alt:
+      en: "A man in a cap and striped shirt stands beside a wooden crate and five buckets filled with freshly picked fruit, trees and a white fence visible in the background."
 geo:
 id: 989
 item_type: Still Image

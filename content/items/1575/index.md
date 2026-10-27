@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.41.jpg
     thumb: /files/thumbnails/NAD-200401381041.jpg
     url: /files/original/NAD-200401381041.jpg
+    alt:
+      en: "Black-and-white photo of men in wide-brimmed hats sitting and crouching along multiple railroad tracks, with mountains in the distance, near the Monterrey Processing Center, Mexico."
 geo:
 id: 1575
 item_type: Still Image

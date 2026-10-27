@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.11.jpg
     thumb: /files/thumbnails/NAD-200401385311.jpg
     url: /files/original/NAD-200401385311.jpg
+    alt:
+      en: "A line of men in work clothes stands beside a truck labeled \"GONDO LABOR CAMP WATSONVILLE,\" with a row of barracks-style buildings in the background."
 geo:
 id: 2902
 item_type: Still Image

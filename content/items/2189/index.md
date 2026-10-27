@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.29.jpg
     thumb: /files/thumbnails/NAD-200401383129.jpg
     url: /files/original/NAD-200401383129.jpg
+    alt:
+      en: "Rows of small wooden cabins line a dirt path in a bracero camp, with several men standing in doorways and along the walkway, power lines and hills visible in the background."
 geo:
 id: 2189
 item_type: Still Image

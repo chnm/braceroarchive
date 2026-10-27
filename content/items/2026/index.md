@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.03.jpg
     thumb: /files/thumbnails/NAD-200401382603.jpg
     url: /files/original/NAD-200401382603.jpg
+    alt:
+      en: "Two braceros in cowboy hats count and tally full crates of strawberries stacked at a field's edge near Watsonville, California, with workers visible in the rows behind them."
 geo:
 id: 2026
 item_type: Still Image

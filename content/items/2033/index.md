@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.10.jpg
     thumb: /files/thumbnails/NAD-200401382610.jpg
     url: /files/original/NAD-200401382610.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers wearing wide-brimmed hats harvesting strawberries in long rows, with one man crouched beside a wheeled cart holding a \"California Strawberries\" crate."
 geo:
 id: 2033
 item_type: Still Image

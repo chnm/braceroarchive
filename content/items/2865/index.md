@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.24.jpg
     thumb: /files/thumbnails/NAD-200401385124.jpg
     url: /files/original/NAD-200401385124.jpg
+    alt:
+      en: "Black-and-white photo of a seated man in a jacket speaking with a uniformed nurse while another man looks on, in a small clinic room with a desk, lamp, and window."
 geo:
 id: 2865
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.02.28.jpg
     thumb: /files/thumbnails/NAD-200401380228.jpg
     url: /files/original/NAD-200401380228.jpg
+    alt:
+      en: "A long line of men in light-colored work clothes stands under an open-air shelter, while an agent in a straw hat examines one worker's arm muscles at the Hidalgo Processing Center."
 geo:
 id: 1311
 item_type: Still Image

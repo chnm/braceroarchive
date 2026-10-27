@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.32.jpg
     thumb: /files/thumbnails/NAD-200401380932.jpg
     url: /files/original/NAD-200401380932.jpg
+    alt:
+      en: "A shirtless man wearing a cowboy hat receives a vaccination in his upper arm from a uniformed nurse, with other men and staff visible in the background hall."
 geo:
 id: 1528
 item_type: Still Image

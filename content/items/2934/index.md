@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.07.jpg
     thumb: /files/thumbnails/NAD-200401385507.jpg
     url: /files/original/NAD-200401385507.jpg
+    alt:
+      en: "Rows of farmworkers bent over picking lettuce in a vast field, with some carrying crates labeled \"Toro\" lettuce boxes; rolling hills visible in the background under a hazy sky."
 geo:
 id: 2934
 item_type: Still Image

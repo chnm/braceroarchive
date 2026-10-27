@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.29.jpg
     thumb: /files/thumbnails/NAD-200401385629.jpg
     url: /files/original/NAD-200401385629.jpg
+    alt:
+      en: "Black-and-white photo of a man in a cowboy hat standing in a lettuce field, with farm trucks and rows of crops visible in the background, Salinas Valley, California."
 geo:
 id: 2989
 item_type: Still Image

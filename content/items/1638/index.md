@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.10.jpg
     thumb: /files/thumbnails/NAD-200401381310.jpg
     url: /files/original/NAD-200401381310.jpg
+    alt:
+      en: "Black-and-white photo of a large group of men in hats lined up inside a sparse hall, waiting near a desk and large wall fan at the Monterrey Processing Center."
 geo:
 id: 1638
 item_type: Still Image

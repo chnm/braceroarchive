@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.28.jpg
     thumb: /files/thumbnails/NAD-200401382428.jpg
     url: /files/original/NAD-200401382428.jpg
+    alt:
+      en: "Row of toilets along a wall-mounted trough in a wood-paneled room, with two wooden chairs placed near a doorway on the opposite side."
 geo:
 id: 1992
 item_type: Still Image

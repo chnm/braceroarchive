@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.13.jpg
     thumb: /files/thumbnails/NAD-200401384813.jpg
     url: /files/original/NAD-200401384813.jpg
+    alt:
+      en: "A man lies on a narrow bunk in a small wooden sleeping quarters, cap on and arms raised behind his head, with a box of FAB detergent nearby and a calendar reading \"Hoffman\" pinned to the wall above."
 geo:
 id: 2771
 item_type: Still Image

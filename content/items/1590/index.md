@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.04.jpg
     thumb: /files/thumbnails/NAD-200401381104.jpg
     url: /files/original/NAD-200401381104.jpg
+    alt:
+      en: "A long line of men in hats and work clothes winds across an open dirt field toward low buildings, with a hill rising in the background at the Monterrey Processing Center."
 geo:
 id: 1590
 item_type: Still Image

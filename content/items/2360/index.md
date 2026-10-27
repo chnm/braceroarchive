@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.04.jpg
     thumb: /files/thumbnails/NAD-200401383604.jpg
     url: /files/original/NAD-200401383604.jpg
+    alt:
+      en: "Black-and-white photograph of long, even rows of an onion field stretching toward distant hills, with grassy foreground vegetation and a hazy sky above the valley."
 geo:
 id: 2360
 item_type: Still Image

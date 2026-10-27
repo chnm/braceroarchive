@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.08.jpg
     thumb: /files/thumbnails/NAD-200401381708.jpg
     url: /files/original/NAD-200401381708.jpg
+    alt:
+      en: "Two rows of shirtless men stand with backs to the wall, arms raised overhead, as an official walks between them inspecting their physiques at the Monterrey Processing Center."
 geo:
 id: 1757
 item_type: Still Image

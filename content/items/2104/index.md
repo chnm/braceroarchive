@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.14.jpg
     thumb: /files/thumbnails/NAD-200401382814.jpg
     url: /files/original/NAD-200401382814.jpg
+    alt:
+      en: "Black-and-white photo of two braceros brushing their teeth at a wall-mounted trough sink with multiple faucets in a camp bathroom; one man wears a wide-brimmed hat."
 geo:
 id: 2104
 item_type: Still Image

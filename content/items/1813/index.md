@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.24.jpg
     thumb: /files/thumbnails/NAD-200401381924.jpg
     url: /files/original/NAD-200401381924.jpg
+    alt:
+      en: "Black-and-white photo of braceros standing and sitting outside a wooden barracks in Stockton, California; men appear in a doorway, a window, and on the dirt yard nearby."
 geo:
 id: 1813
 item_type: Still Image

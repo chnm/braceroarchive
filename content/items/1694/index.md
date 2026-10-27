@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.08.jpg
     thumb: /files/thumbnails/NAD-200401381508.jpg
     url: /files/original/NAD-200401381508.jpg
+    alt:
+      en: "A woman serves filled tortillas from a street cart to men wearing hats, as a crowd of braceros lines up outside a building in the background, Mexico City."
 geo:
 id: 1694
 item_type: Still Image

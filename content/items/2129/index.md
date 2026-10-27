@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.29.39.jpg
     thumb: /files/thumbnails/NAD-200401382939.jpg
     url: /files/original/NAD-200401382939.jpg
+    alt:
+      en: "Black-and-white photo of five men standing by parked cars, viewed from behind, facing the State Theater marquee advertising a \"Spanish Program Every Friday, Saturday and Sunday,\" flanked by Insurance and Real Estate storefronts."
 geo:
 id: 2129
 item_type: Still Image

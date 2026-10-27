@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.23.jpg
     thumb: /files/thumbnails/NAD-200401382423.jpg
     url: /files/original/NAD-200401382423.jpg
+    alt:
+      en: "Black-and-white photo of officials at a cluttered desk reviewing documents while a group of braceros in hats gather closely around, waiting in a Stockton, California office; a wall map hangs above."
 geo:
 id: 1987
 item_type: Still Image

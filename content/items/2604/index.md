@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.03.jpg
     thumb: /files/thumbnails/NAD-200401384203.jpg
     url: /files/original/NAD-200401384203.jpg
+    alt:
+      en: "Black-and-white photo of a dilapidated shower stall with exposed, corroded piping along a wood-paneled ceiling and torn, stained sheets of material hanging on the walls below."
 geo:
 id: 2604
 item_type: Still Image

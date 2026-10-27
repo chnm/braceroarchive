@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.13.jpg
     thumb: /files/thumbnails/NAD-200401381413.jpg
     url: /files/original/NAD-200401381413.jpg
+    alt:
+      en: "Black-and-white photo of a seated official reviewing a bracero's documents at a table under a covered shelter, while long lines of men in hats wait to be processed at the Hidalgo Processing Center."
 geo:
 id: 1666
 item_type: Still Image

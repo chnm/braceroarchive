@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.39.jpg
     thumb: /files/thumbnails/NAD-200401380639.jpg
     url: /files/original/NAD-200401380639.jpg
+    alt:
+      en: "Black-and-white photo of a long line of braceros, many wearing wide-brimmed hats, queued along a colonnaded building at the Monterrey Processing Center, Mexico."
 geo:
 id: 1437
 item_type: Still Image

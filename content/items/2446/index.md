@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.02.jpg
     thumb: /files/thumbnails/NAD-200401383802.jpg
     url: /files/original/NAD-200401383802.jpg
+    alt:
+      en: "Rows of metal cots with blankets fill a barracks-style room under a corrugated roof; hats hang on the wall and a man sits amid small items on a bed."
 geo:
 id: 2446
 item_type: Still Image

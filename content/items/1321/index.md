@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.13.jpg
     thumb: /files/thumbnails/NAD-200401380313.jpg
     url: /files/original/NAD-200401380313.jpg
+    alt:
+      en: "Black-and-white photo of an official seated at a desk reviewing documents with a bracero wearing a straw hat, as a line of other men in hats waits behind him in Monterrey."
 geo:
 id: 1321
 item_type: Still Image

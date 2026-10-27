@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.24.jpg
     thumb: /files/thumbnails/NAD-200401382824.jpg
     url: /files/original/NAD-200401382824.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered around a table in a dimly lit dining hall kitchen, with large pots, basins, and cookware in the foreground."
 geo:
 id: 2114
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: AMarin002.jpg
     thumb: /files/thumbnails/amarin002_9bac79950c.jpg
     url: /files/original/amarin002_9bac79950c.jpg
+    alt:
+      en: "Worn Mexican military service ID booklet with national emblem on the cover, open to reveal a printed yellow form filled with handwritten service details and official stamps."
 geo:
 id: 610
 item_type: Document

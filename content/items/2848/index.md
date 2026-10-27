@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.07.jpg
     thumb: /files/thumbnails/NAD-200401385107.jpg
     url: /files/original/NAD-200401385107.jpg
+    alt:
+      en: "Black-and-white photo of braceros in a camp living quarter: one man reclines on a cot in the foreground while others sit at a table writing or reading in an adjoining room, with clothes hanging and toiletries on a shelf."
 geo:
 id: 2848
 item_type: Still Image

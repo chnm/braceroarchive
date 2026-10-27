@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.17.jpg
     thumb: /files/thumbnails/NAD-200401383317.jpg
     url: /files/original/NAD-200401383317.jpg
+    alt:
+      en: "A wide-brimmed hat shields a bracero bent over in stoop labor, hands working among low pepper plants in a furrowed field."
 geo:
 id: 2244
 item_type: Still Image

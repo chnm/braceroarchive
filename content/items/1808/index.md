@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.31.jpg
     thumb: /files/thumbnails/NAD-200401381931.jpg
     url: /files/original/NAD-200401381931.jpg
+    alt:
+      en: "Black-and-white aerial photograph of cultivated fields bordered by a winding river lined with trees, with part of the airplane's wing visible in the upper left corner."
 geo:
 id: 1808
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.35.jpg
     thumb: /files/thumbnails/NAD-200401381735.jpg
     url: /files/original/NAD-200401381735.jpg
+    alt:
+      en: "Rows of seated typists process paperwork for braceros at desks inside a large hall, while a long line of men in hats waits beneath a \"Gate Time\" sign at the Monterrey Processing Center."
 geo:
 id: 1784
 item_type: Still Image

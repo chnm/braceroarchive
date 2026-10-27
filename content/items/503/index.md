@@ -49,6 +49,8 @@ files:
     original_filename: Mica front.jpg
     thumb: /files/thumbnails/mica-front_b76f9cc1ab.jpg
     url: /files/original/mica-front_b76f9cc1ab.jpg
+    alt:
+      en: "Worn identification card featuring a black-and-white photograph of a young man, with printed text reading \"United States Department of Justice, Immigration and Naturalization Service\" below the image."
 geo:
 id: 503
 item_type: Document

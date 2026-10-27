@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.12.jpg
     thumb: /files/thumbnails/NAD-200401382112.jpg
     url: /files/original/NAD-200401382112.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on cots in a wooden bunkhouse, with clothing and hats hung on the wall, as one man stands in a doorway and others sit talking nearby."
 geo:
 id: 1878
 item_type: Still Image

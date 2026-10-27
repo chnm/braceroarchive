@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.05.33.jpg
     thumb: /files/thumbnails/NAD-200401380533.jpg
     url: /files/original/NAD-200401380533.jpg
+    alt:
+      en: "A line of men wearing hats walks single file along the grated walkway of the Reynosa-Hidalgo bridge, with overhead cables and a cityscape visible in the distance."
 geo:
 id: 1414
 item_type: Still Image

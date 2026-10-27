@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.15.jpg
     thumb: /files/thumbnails/NAD-200401381615.jpg
     url: /files/original/NAD-200401381615.jpg
+    alt:
+      en: "Shirtless men in hats line up as a nurse administers vaccinations at a long table, with a \"VACCINATION\" sign hanging overhead in the hall."
 geo:
 id: 1746
 item_type: Still Image

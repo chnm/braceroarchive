@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.35.jpg
     thumb: /files/thumbnails/NAD-200401381135.jpg
     url: /files/original/NAD-200401381135.jpg
+    alt:
+      en: "Black-and-white photo of a seated official reviewing a document at a table while a man in a straw hat stands waiting; others in hats line up in the background hall."
 geo:
 id: 1601
 item_type: Still Image

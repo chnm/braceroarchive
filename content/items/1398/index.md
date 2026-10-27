@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.17.jpg
     thumb: /files/thumbnails/NAD-200401380517.jpg
     url: /files/original/NAD-200401380517.jpg
+    alt:
+      en: "Black-and-white photo of braceros preparing food at long wooden tables inside an open-sided shed, with pots, bowls, and tortillas visible under a corrugated metal roof."
 geo:
 id: 1398
 item_type: Still Image

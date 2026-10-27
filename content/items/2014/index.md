@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.15.jpg
     thumb: /files/thumbnails/NAD-200401382515.jpg
     url: /files/original/NAD-200401382515.jpg
+    alt:
+      en: "A doctor examines the mouth of a seated man under a round overhead lamp, with medical instruments and bottles arranged on a table in the foreground."
 geo:
 id: 2014
 item_type: Still Image

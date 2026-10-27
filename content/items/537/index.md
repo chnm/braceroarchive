@@ -44,6 +44,8 @@ files:
     original_filename: __hr_RioVista-1999.jpg
     thumb: /files/thumbnails/__hr_riovista-1999_6c450d902e.jpg
     url: /files/original/__hr_riovista-1999_6c450d902e.jpg
+    alt:
+      en: "Low, white-washed buildings with sloped roofs stand behind a chain-link fence, surrounded by trees, power poles, and patchy grass on a sandy lot under a partly cloudy sky."
 geo:
 id: 537
 item_type: Still Image

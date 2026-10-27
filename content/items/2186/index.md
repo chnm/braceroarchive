@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.25.jpg
     thumb: /files/thumbnails/NAD-200401383125.jpg
     url: /files/original/NAD-200401383125.jpg
+    alt:
+      en: "Rows of an onion field stretch toward distant hills and mountains under overhead power lines, with small figures and vehicles visible in the mid-ground, Salinas Valley, California."
 geo:
 id: 2186
 item_type: Still Image

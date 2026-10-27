@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.18.jpg
     thumb: /files/thumbnails/NAD-200401384518.jpg
     url: /files/original/NAD-200401384518.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over harvesting crops in long furrowed rows of a California field, with buckets collecting produce and a transmission tower visible in the distance."
 geo:
 id: 2685
 item_type: Still Image

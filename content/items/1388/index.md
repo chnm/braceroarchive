@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.07.jpg
     thumb: /files/thumbnails/NAD-200401380507.jpg
     url: /files/original/NAD-200401380507.jpg
+    alt:
+      en: "Black-and-white photo of a long bunkhouse lined with double-deck canvas beds and hanging clothes, where two braceros in hats stand near the foreground amid rows of bedding."
 geo:
 id: 1388
 item_type: Still Image

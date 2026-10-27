@@ -46,6 +46,8 @@ files:
     original_filename: Certificado antecedentes penales, Oaxaca, 1962.jpg
     thumb: /files/thumbnails/certificado-antecedentes-penales,-oaxaca,-1962_d7470d3b97.jpg
     url: /files/original/certificado-antecedentes-penales,-oaxaca,-1962_d7470d3b97.jpg
+    alt:
+      en: "Aged typewritten Spanish document with official seals, headed \"H. Ayuntamiento Constitucional, Etla, Oax.\" certifying Liborio Santiago Pérez has no criminal record, dated October 1962, with signatures and purple stamps."
 geo:
 id: 888
 item_type: Document

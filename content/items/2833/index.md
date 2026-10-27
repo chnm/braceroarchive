@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.18.jpg
     thumb: /files/thumbnails/NAD-200401385018.jpg
     url: /files/original/NAD-200401385018.jpg
+    alt:
+      en: "An official in a white shirt hands documents to a man in a wide-brimmed hat, as a large crowd of braceros wearing hats gathers under trees in Stockton, California."
 geo:
 id: 2833
 item_type: Still Image

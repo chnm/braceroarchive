@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.19.jpg
     thumb: /files/thumbnails/NAD-200401382019.jpg
     url: /files/original/NAD-200401382019.jpg
+    alt:
+      en: "A man in a wide-brimmed hat packs lettuce into a cardboard \"Cookie\" head lettuce box on a trolley cart, surrounded by rows of leafy lettuce in a Salinas Valley field."
 geo:
 id: 1865
 item_type: Still Image

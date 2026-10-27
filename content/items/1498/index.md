@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.11.jpg
     thumb: /files/thumbnails/NAD-200401380811.jpg
     url: /files/original/NAD-200401380811.jpg
+    alt:
+      en: "Black-and-white photo of a family in a sparse room with a bare bulb and framed pictures on the wall; a woman tends a small child while others sit nearby, including a man holding an infant."
 geo:
 id: 1498
 item_type: Still Image

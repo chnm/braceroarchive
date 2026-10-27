@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.04.jpg
     thumb: /files/thumbnails/NAD-200401384404.jpg
     url: /files/original/NAD-200401384404.jpg
+    alt:
+      en: "Black-and-white photo of a man bent over a washbasin doing laundry on a wooden platform outside a bracero camp living quarter, with scaffolding and timber structures above."
 geo:
 id: 2637
 item_type: Still Image

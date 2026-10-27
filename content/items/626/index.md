@@ -47,6 +47,8 @@ files:
     original_filename: FLORES07.jpg
     thumb: /files/thumbnails/flores07_c99ce1a403.jpg
     url: /files/original/flores07_c99ce1a403.jpg
+    alt:
+      en: "Printed continuation of a standard work contract for Timoteo Flores-Soto, employed by Citrus Growers Inc., listing worker details, employer location, contract dates, and wage terms, with signatures at the bottom."
 geo:
 id: 626
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.46.20.jpg
     thumb: /files/thumbnails/NAD-200401384620.jpg
     url: /files/original/NAD-200401384620.jpg
+    alt:
+      en: "Rows of bare metal bunk beds with exposed springs fill a dim barracks room, some topped with suitcases, folded clothing, and a straw hat, a bright doorway visible in the background."
 geo:
 id: 2714
 item_type: Still Image

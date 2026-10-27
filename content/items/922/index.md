@@ -46,6 +46,8 @@ files:
     original_filename: espino3copy.jpg
     thumb: /files/thumbnails/espino3copy_2b4cf6d5aa.jpg
     url: /files/original/espino3copy_2b4cf6d5aa.jpg
+    alt:
+      en: "Bilingual printed form titled \"Individual Work Agreement / Contrato Individual de Trabajo\" for Jose Espino Ortiz, listing name, address, age, marital status, and dependents, with contract number 5 4638 at top."
 geo:
 id: 922
 item_type: Document

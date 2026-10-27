@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.05.02.jpg
     thumb: /files/thumbnails/NAD-200401380502.jpg
     url: /files/original/NAD-200401380502.jpg
+    alt:
+      en: "Black-and-white photo of a group of men in hats walking across the suspension-style Reynosa-Hidalgo bridge, with steel towers and cables overhead and chain-link fencing along the sides."
 geo:
 id: 1383
 item_type: Still Image

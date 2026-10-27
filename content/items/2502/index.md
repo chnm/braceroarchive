@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.24.jpg
     thumb: /files/thumbnails/NAD-200401383924.jpg
     url: /files/original/NAD-200401383924.jpg
+    alt:
+      en: "A man in glasses holds papers and a pen while distributing documents to a group of braceros gathered outside, one wearing a wide-brimmed hat, in this black-and-white photograph."
 geo:
 id: 2502
 item_type: Still Image

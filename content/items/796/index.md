@@ -44,6 +44,8 @@ files:
     original_filename: Jul28_01.JPG
     thumb: /files/thumbnails/jul28_01_7c696c0de6.jpg
     url: /files/original/jul28_01_7c696c0de6.jpg
+    alt:
+      en: "Large group of braceros posed in rows outside a wooden building at Harden Camp, 1946, with one man on a bicycle at far left and a man in a white cap standing among them."
 geo:
 id: 796
 item_type: Still Image

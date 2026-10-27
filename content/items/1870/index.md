@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.03.jpg
     thumb: /files/thumbnails/NAD-200401382103.jpg
     url: /files/original/NAD-200401382103.jpg
+    alt:
+      en: "A bracero reclines on a metal-framed bed with hands behind his head, gazing toward a sunlit window; hats, jackets, and bags hang on wall pegs beside rows of bunks."
 geo:
 id: 1870
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.17.jpg
     thumb: /files/thumbnails/NAD-200401380717.jpg
     url: /files/original/NAD-200401380717.jpg
+    alt:
+      en: "Large crowd of men wearing hats stand in lines outdoors, some holding handwritten signs, with a brick building and hills visible in the background at the Monterrey Processing Center."
 geo:
 id: 1465
 item_type: Still Image

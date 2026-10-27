@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.19.jpg
     thumb: /files/thumbnails/NAD-200401380919.jpg
     url: /files/original/NAD-200401380919.jpg
+    alt:
+      en: "Large crowd of men in straw hats and cowboy hats stand behind a barbed wire fence at the Monterrey Processing Center, with railcars and a mountain visible in the background."
 geo:
 id: 1538
 item_type: Still Image

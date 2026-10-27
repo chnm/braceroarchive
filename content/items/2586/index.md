@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.05.jpg
     thumb: /files/thumbnails/NAD-200401384205.jpg
     url: /files/original/NAD-200401384205.jpg
+    alt:
+      en: "Black-and-white photo of a dilapidated shower stall with stained walls, a hanging curtain, and worn wooden partitions, illustrating poor sanitation at a bracero labor camp."
 geo:
 id: 2586
 item_type: Still Image

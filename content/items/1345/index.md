@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.33.jpg
     thumb: /files/thumbnails/NAD-200401380333.jpg
     url: /files/original/NAD-200401380333.jpg
+    alt:
+      en: "Black-and-white photo of several young men standing around a long table arranging rows of bread rolls, with boxes and baskets nearby in a dimly lit room."
 geo:
 id: 1345
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.01.01.jpg
     thumb: /files/thumbnails/nad-200401380101_65bc6c8558.jpg
     url: /files/original/nad-200401380101_65bc6c8558.jpg
+    alt:
+      en: "Large crowd gathers near railroad tracks and partially built buildings, with stacked rails and ties in the foreground and workers standing along the fenced track area."
 geo:
 id: 494
 item_type: Still Image

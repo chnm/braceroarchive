@@ -46,6 +46,8 @@ files:
     original_filename: Moreno Sandoval, Cipreano, 1956, id3.jpg
     thumb: /files/thumbnails/moreno-sandoval,-cipreano,-1956,-id3_6ce64d01a0.jpg
     url: /files/original/moreno-sandoval,-cipreano,-1956,-id3_6ce64d01a0.jpg
+    alt:
+      en: "Mexican military ID card for Cipriano Moreno Sandoval, \"Clase\" 1937, with printed personal details, a purple official stamp, signatures, a photo of a young man, and a fingerprint."
 geo:
 id: 1048
 item_type: Document

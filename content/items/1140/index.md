@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 21.jpg
     thumb: /files/thumbnails/velasco-patino-21_302d87c10b.jpg
     url: /files/original/velasco-patino-21_302d87c10b.jpg
+    alt:
+      en: "Western Union Telegraph Company receipt from Indio, Calif., dated June 5, 1945, recording $42.00 sent by Salvador Velasco P. to Cornulfo Velasco P. in Guadalajara, Jal."
 geo:
 id: 1140
 item_type: Document

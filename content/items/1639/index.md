@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.11.jpg
     thumb: /files/thumbnails/NAD-200401381311.jpg
     url: /files/original/NAD-200401381311.jpg
+    alt:
+      en: "Black-and-white photo of a large hall with a hanging \"IMMIGRATION\" sign, men in hats standing at tables while officials review documents and others wait in line."
 geo:
 id: 1639
 item_type: Still Image

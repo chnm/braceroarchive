@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.33.jpg
     thumb: /files/thumbnails/NAD-200401382433.jpg
     url: /files/original/NAD-200401382433.jpg
+    alt:
+      en: "Group of men gathered around the open rear of a van in a labor camp, with a peddler displaying small appliances on the tailgate as one bracero examines an electric razor."
 geo:
 id: 1997
 item_type: Still Image

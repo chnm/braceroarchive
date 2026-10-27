@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.24.jpg
     thumb: /files/thumbnails/NAD-200401385024.jpg
     url: /files/original/NAD-200401385024.jpg
+    alt:
+      en: "A row of men in hats and work clothes stand beside a line of suitcases on a street, with trees and vehicles visible in the background, Stockton, California."
 geo:
 id: 2839
 item_type: Still Image

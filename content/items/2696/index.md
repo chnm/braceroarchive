@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.01.jpg
     thumb: /files/thumbnails/NAD-200401384601.jpg
     url: /files/original/NAD-200401384601.jpg
+    alt:
+      en: "A large group of braceros kneels outdoors in a camp courtyard, heads bowed and hands clasped in prayer during a divine service, with wooden buildings in the background."
 geo:
 id: 2696
 item_type: Still Image

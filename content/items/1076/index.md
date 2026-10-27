@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1963, Passport2.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1963,-passport2_65704387fb.jpg
     url: /files/original/santacruz,-melitona,-1963,-passport2_65704387fb.jpg
+    alt:
+      en: "Mexican passport pages for Jose Guadalupe Santacruz Rangel, with a red wax seal, issued in Mexico City on 4 Feb 1961, valid for travel to the United States, expiring 3 Feb 1963."
 geo:
 id: 1076
 item_type: Document

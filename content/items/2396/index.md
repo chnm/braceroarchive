@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.06.jpg
     thumb: /files/thumbnails/NAD-200401383106.jpg
     url: /files/original/NAD-200401383106.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat crouches beside stacked wooden crates of strawberries, punching a tally card, with the crate labeled \"BEST QUAL FROZEN\" and numbers like 71 and 96 chalked on the boxes."
 geo:
 id: 2396
 item_type: Still Image

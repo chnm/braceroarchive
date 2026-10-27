@@ -46,6 +46,8 @@ files:
     original_filename: filomeno burciago 3copy.jpg
     thumb: /files/thumbnails/filomeno-burciago-3copy_6b40f69319.jpg
     url: /files/original/filomeno-burciago-3copy_6b40f69319.jpg
+    alt:
+      en: "Typed and handwritten bilingual contract page titled \"Continuation of Standard Work Contract, as Amended,\" naming Burciaga Jaime Filomeno, dated Sept. 15, 1960, with signatures, stamps, and a contract number 13323799."
 geo:
 id: 905
 item_type: Document

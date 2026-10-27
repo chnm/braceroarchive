@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.15.jpg
     thumb: /files/thumbnails/NAD-200401381215.jpg
     url: /files/original/NAD-200401381215.jpg
+    alt:
+      en: "Large crowd of men with bundled belongings gathered near a covered pavilion and a reflecting pool, waiting outdoors at the Hidalgo Processing Center in Texas."
 geo:
 id: 3001
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.25.jpg
     thumb: /files/thumbnails/NAD-200401381425.jpg
     url: /files/original/NAD-200401381425.jpg
+    alt:
+      en: "Large crowd of men wearing hats and holding papers wait in line under an open-air shelter at the Hidalgo Processing Center, while an official reviews documents at a desk, Texas."
 geo:
 id: 1678
 item_type: Still Image

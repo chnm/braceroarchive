@@ -46,6 +46,8 @@ files:
     original_filename: contrato abril-mayo1960 Chico California.jpg
     thumb: /files/thumbnails/contrato-abril-mayo1960-chico-california_e42f33fd89.jpg
     url: /files/original/contrato-abril-mayo1960-chico-california_e42f33fd89.jpg
+    alt:
+      en: "Typed bilingual contract continuation form titled \"Continuation of Standard Work Contract, as Amended\" for Homero Lopez Ortiz, dated April 6, 1960, with contract number L-1-3254221 and signatures at bottom."
 geo:
 id: 869
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.02.jpg
     thumb: /files/thumbnails/NAD-200401385502.jpg
     url: /files/original/NAD-200401385502.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros wearing wide-brimmed hats, bent over in rows of a lettuce field, harvesting crops by hand across a California farm."
 geo:
 id: 2929
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.04.jpg
     thumb: /files/thumbnails/NAD-200401384904.jpg
     url: /files/original/NAD-200401384904.jpg
+    alt:
+      en: "Black-and-white photo of long furrowed rows in a pepper field stretching toward distant hills, with a group of braceros working in the far background."
 geo:
 id: 2783
 item_type: Still Image

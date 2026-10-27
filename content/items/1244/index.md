@@ -46,6 +46,8 @@ files:
     original_filename: Flores,Jesus1A.jpg
     thumb: /files/thumbnails/flores,jesus1a_1f120ed60f.jpg
     url: /files/original/flores,jesus1a_1f120ed60f.jpg
+    alt:
+      en: "Aged tan cover reading \"U.S. Department of Labor — Mención Honorífica,\" with a worker emblem on the left and the Department of Labor seal on the right."
 geo:
 id: 1244
 item_type: Document

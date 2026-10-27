@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.15.jpg
     thumb: /files/thumbnails/NAD-200401380915.jpg
     url: /files/original/NAD-200401380915.jpg
+    alt:
+      en: "Black-and-white aerial view of men in hats walking along a dirt pathway lined with makeshift vendor stalls and crates, with trees and a building visible nearby."
 geo:
 id: 1546
 item_type: Still Image

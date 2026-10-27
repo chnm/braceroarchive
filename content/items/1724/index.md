@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.41.jpg
     thumb: /files/thumbnails/NAD-200401381641.jpg
     url: /files/original/NAD-200401381641.jpg
+    alt:
+      en: "A chalkboard sign mounted on a concrete pillar reads \"TODAY E.P. 200 HGO. 4,300, ORDERS for July Hgo. 78,000 Bal. due 19,000, Entrada: Señoritas 7:30 A.M. Caballeros 7:00 A.M.\" in a large open hall."
 geo:
 id: 1724
 item_type: Still Image

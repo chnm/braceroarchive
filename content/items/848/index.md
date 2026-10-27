@@ -46,6 +46,8 @@ files:
     original_filename: Contrato Wyoming May-Jul 1964.jpg
     thumb: /files/thumbnails/contrato-wyoming-may-jul-1964_49e68664c5.jpg
     url: /files/original/contrato-wyoming-may-jul-1964_49e68664c5.jpg
+    alt:
+      en: "Typed continuation of a standard work contract for Cruz Figueroa Rodolfo, contract number 172851, employed by The Great Western Sugar Company in Wyoming, signed and dated May 20, 1964."
 geo:
 id: 848
 item_type: Document

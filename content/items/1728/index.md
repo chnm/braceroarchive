@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.33.jpg
     thumb: /files/thumbnails/NAD-200401381633.jpg
     url: /files/original/NAD-200401381633.jpg
+    alt:
+      en: "A large crowd of men, many wearing straw hats, stand closely packed in a long, column-lined hall with tall windows, waiting to be processed at the Monterrey Processing Center."
 geo:
 id: 1728
 item_type: Still Image

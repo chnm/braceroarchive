@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.12.jpg
     thumb: /files/thumbnails/NAD-200401382712.jpg
     url: /files/original/NAD-200401382712.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with vintage cars and a pickup truck parked near wooden buildings, including a sign reading \"LOS G...\" (Los Gatitos); an unpaved road with a large puddle in the foreground."
 geo:
 id: 2083
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: antonio maese goodyear farm.jpg
     thumb: /files/thumbnails/antonio-maese-goodyear-farm_7d88190246.jpg
     url: /files/original/antonio-maese-goodyear-farm_7d88190246.jpg
+    alt:
+      en: "A man wearing a hat uses a shovel to release crop material from an elevated storage bin, the contents spilling down onto a platform below a corrugated metal building."
 geo:
 id: 3044
 item_type: Still Image

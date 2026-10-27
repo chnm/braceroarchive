@@ -44,6 +44,8 @@ files:
     original_filename: RosalesRios-04.jpg
     thumb: /files/thumbnails/rosalesrios-04_d2c70d2773.jpg
     url: /files/original/rosalesrios-04_d2c70d2773.jpg
+    alt:
+      en: "Vintage black-and-white photo of three braceros crouched in a crop field with harvest buckets, a truck and wagon visible in the background; date stamp \"Nov 58\" at left edge."
 geo:
 id: 524
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.13.jpg
     thumb: /files/thumbnails/NAD-200401383113.jpg
     url: /files/original/NAD-200401383113.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in stoop labor, hoeing crop rows in a California field, with farm buildings and hills visible in the background."
 geo:
 id: 2201
 item_type: Still Image

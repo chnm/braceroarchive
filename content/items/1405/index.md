@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.05.24.jpg
     thumb: /files/thumbnails/NAD-200401380524.jpg
     url: /files/original/NAD-200401380524.jpg
+    alt:
+      en: "A blurred, low-light interior scene with rows of indistinct shapes under a paneled ceiling with a single illuminated light fixture."
 geo:
 id: 1405
 item_type: Still Image

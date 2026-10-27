@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3438.JPG
     thumb: /files/thumbnails/img_3438_0b1c008100.jpg
     url: /files/original/img_3438_0b1c008100.jpg
+    alt:
+      en: "Woman with curly dark hair wears a light blue top and dark pants, standing outdoors near palm trees and sandy ground; the photo appears rotated sideways."
 geo:
 id: 3035
 item_type: Still Image

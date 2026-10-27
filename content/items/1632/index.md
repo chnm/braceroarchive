@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.04.jpg
     thumb: /files/thumbnails/NAD-200401381304.jpg
     url: /files/original/NAD-200401381304.jpg
+    alt:
+      en: "Black-and-white photo of women washing clothes in metal tubs beside a stone wall, while children stand nearby in a dirt courtyard with a thatched shed and corrugated roofing in the background."
 geo:
 id: 1632
 item_type: Still Image

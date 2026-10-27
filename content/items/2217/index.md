@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.12.jpg
     thumb: /files/thumbnails/NAD-200401383212.jpg
     url: /files/original/NAD-200401383212.jpg
+    alt:
+      en: "A man reclines on a simple metal-framed bed in a sparsely furnished room, with a jacket hanging on a wall hook and a small table holding cups nearby."
 geo:
 id: 2217
 item_type: Still Image

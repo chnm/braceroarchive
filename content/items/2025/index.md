@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.02.jpg
     thumb: /files/thumbnails/NAD-200401382602.jpg
     url: /files/original/NAD-200401382602.jpg
+    alt:
+      en: "Black-and-white photo of workers wearing wide-brimmed hats crouched among strawberry rows, picking fruit into crates, with open farmland stretching to the horizon."
 geo:
 id: 2025
 item_type: Still Image

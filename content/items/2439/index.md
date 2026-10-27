@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.39.jpg
     thumb: /files/thumbnails/NAD-200401383739.jpg
     url: /files/original/NAD-200401383739.jpg
+    alt:
+      en: "Black-and-white photo of a large group of braceros bent over in stoop labor across a lettuce field, with power lines, poles, and distant trucks visible under a pale sky."
 geo:
 id: 2439
 item_type: Still Image

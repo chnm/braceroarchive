@@ -46,6 +46,8 @@ files:
     original_filename: Velez de Cervantes, Estela4.jpg
     thumb: /files/thumbnails/velez-de-cervantes,-estela4_787d41cf20.jpg
     url: /files/original/velez-de-cervantes,-estela4_787d41cf20.jpg
+    alt:
+      en: "Back of a baptism certificate titled \"Notations,\" with handwritten entries for First Communion, Confirmation, Marriage(s), Diaconate, and Religious Profession, listing dates, churches, and places in Guanajuato, Mexico."
 geo:
 id: 1220
 item_type: Document

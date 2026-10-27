@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.09.jpg
     thumb: /files/thumbnails/NAD-200401385009.jpg
     url: /files/original/NAD-200401385009.jpg
+    alt:
+      en: "A group of men in cowboy hats stand in line outside a wooden building while an official in glasses reviews paperwork, preparing to distribute documents to them."
 geo:
 id: 2824
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.18.07.jpg
     thumb: /files/thumbnails/NAD-200401381807.jpg
     url: /files/original/NAD-200401381807.jpg
+    alt:
+      en: "Silhouetted spectators under a covered structure watch as a flatbed truck loaded with braceros passes by outside the Hidalgo Processing Center, Texas."
 geo:
 id: 1797
 item_type: Still Image

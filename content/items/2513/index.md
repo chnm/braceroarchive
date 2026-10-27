@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.36.jpg
     thumb: /files/thumbnails/NAD-200401383936.jpg
     url: /files/original/NAD-200401383936.jpg
+    alt:
+      en: "A man wearing sunglasses and a hat sits on a suitcase amid a group of men gathered on a tree-lined street, with luggage and boxes stacked beside him."
 geo:
 id: 2513
 item_type: Still Image

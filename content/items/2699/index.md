@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.04.jpg
     thumb: /files/thumbnails/NAD-200401384604.jpg
     url: /files/original/NAD-200401384604.jpg
+    alt:
+      en: "A large group of braceros kneel in rows on the dirt path between barracks buildings, heads bowed in prayer during an outdoor religious service."
 geo:
 id: 2699
 item_type: Still Image

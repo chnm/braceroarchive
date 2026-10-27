@@ -44,6 +44,8 @@ files:
     original_filename: e santiago3.jpg
     thumb: /files/thumbnails/e-santiago3_c4ad88d6c6.jpg
     url: /files/original/e-santiago3_c4ad88d6c6.jpg
+    alt:
+      en: "Black-and-white photo of a man in a wide-brimmed hat standing in a cotton field, holding tools; \"NOV. 1957\" is printed along the right edge."
 geo:
 id: 914
 item_type: Still Image

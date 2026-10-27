@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.07.jpg
     thumb: /files/thumbnails/NAD-200401382507.jpg
     url: /files/original/NAD-200401382507.jpg
+    alt:
+      en: "A doctor in a white coat examines a reclining bracero on an exam table/cabinet unit, with medical bottles, a wooden chair, and sunlit windows in the background."
 geo:
 id: 2006
 item_type: Still Image

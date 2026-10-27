@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.18.jpg
     thumb: /files/thumbnails/NAD-200401382818.jpg
     url: /files/original/NAD-200401382818.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on benches at long tables in a California camp dining hall, eating plates of food with bottled drinks amid plain walls and windows."
 geo:
 id: 2108
 item_type: Still Image

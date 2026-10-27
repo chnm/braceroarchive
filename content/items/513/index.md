@@ -46,6 +46,8 @@ files:
     original_filename: CastañedaAaron-05.jpg
     thumb: /files/thumbnails/castañedaaaron-05_a7c2fd8958.jpg
     url: /files/original/castañedaaaron-05_a7c2fd8958.jpg
+    alt:
+      en: "Worn card back with fingerprint smudges and printed text reading \"Pennsylvania Railroad,\" stating the alien is admitted for six months as a track laborer, with conditions on employment termination or departure."
 geo:
 id: 513
 item_type: Document

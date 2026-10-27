@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.14.jpg
     thumb: /files/thumbnails/NAD-200401385114.jpg
     url: /files/original/NAD-200401385114.jpg
+    alt:
+      en: "A bracero stands beside a seated Dr. Stanley Savoy, who smokes a cigar, in a clinical examination room with a table holding medical bottles and an exam table nearby."
 geo:
 id: 2855
 item_type: Still Image

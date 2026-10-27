@@ -46,6 +46,8 @@ files:
     original_filename: Jul28_02_back.jpg
     thumb: /files/thumbnails/jul28_02_back_2162db59aa.jpg
     url: /files/original/jul28_02_back_2162db59aa.jpg
+    alt:
+      en: "Identification card for Jose Hernandez-Romero, born 11/11/29 in Tepatitlan, Jal., listing Rcho. El Comal as home address, issued 8/22/55 in Calexico, Calif., with number L-2516138 and \"MICA\" printed at bottom."
 geo:
 id: 789
 item_type: Document

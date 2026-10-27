@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.34.jpg
     thumb: /files/thumbnails/NAD-200401381934.jpg
     url: /files/original/NAD-200401381934.jpg
+    alt:
+      en: "Black-and-white aerial photo of furrowed farmland with scattered workers bent over in stoop labor; the shadow of the airplane's wing and tail appears in the lower right corner."
 geo:
 id: 1800
 item_type: Still Image

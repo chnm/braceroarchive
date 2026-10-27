@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.23.jpg
     thumb: /files/thumbnails/NAD-200401383523.jpg
     url: /files/original/NAD-200401383523.jpg
+    alt:
+      en: "A bracero wearing a white hat stands atop a truck loaded with wooden crates, overlooking rows of empty crates scattered across a field in the Salinas Valley, with hills in the distance."
 geo:
 id: 2331
 item_type: Still Image

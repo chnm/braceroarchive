@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.34.jpg
     thumb: /files/thumbnails/NAD-200401385634.jpg
     url: /files/original/NAD-200401385634.jpg
+    alt:
+      en: "A man wearing a wide-brimmed hat and long-sleeved shirt pushes a trolley loaded with \"Cookie\" brand head lettuce boxes through a lettuce field in Salinas Valley, California."
 geo:
 id: 2995
 item_type: Still Image

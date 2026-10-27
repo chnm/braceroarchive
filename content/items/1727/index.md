@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.32.jpg
     thumb: /files/thumbnails/NAD-200401381632.jpg
     url: /files/original/NAD-200401381632.jpg
+    alt:
+      en: "Large group of men in hats sit and wait on the floor of a spacious, column-lined hall at the Monterrey Processing Center, with scattered papers on the concrete floor."
 geo:
 id: 1727
 item_type: Still Image

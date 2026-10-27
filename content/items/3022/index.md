@@ -44,6 +44,8 @@ files:
     original_filename: Plutarco Chavez 4.JPG
     thumb: /files/thumbnails/plutarco-chavez-4_2bbae3c64a.jpg
     url: /files/original/plutarco-chavez-4_2bbae3c64a.jpg
+    alt:
+      en: "Aged, stained photo backing with handwritten inscription reading \"Recuerdo de Salinas Cal. 1959,\" along with scattered ink spots and small discoloration marks across the paper."
 geo:
 id: 3022
 item_type: Still Image

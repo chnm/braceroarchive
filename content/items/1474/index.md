@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.14.jpg
     thumb: /files/thumbnails/NAD-200401380714.jpg
     url: /files/original/NAD-200401380714.jpg
+    alt:
+      en: "Large crowd of men wearing hats gathers behind a fence in a gravel lot at the Monterrey Processing Center, with a few individuals and a tree in the foreground and industrial buildings in the background."
 geo:
 id: 1474
 item_type: Still Image

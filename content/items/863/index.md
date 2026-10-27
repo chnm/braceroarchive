@@ -46,6 +46,8 @@ files:
     original_filename: mica egp, julio 1964 (front with picture).jpg
     thumb: /files/thumbnails/mica-egp,-julio-1964-(front-with-picture)_8f8356cea7.jpg
     url: /files/original/mica-egp,-julio-1964-(front-with-picture)_8f8356cea7.jpg
+    alt:
+      en: "An \"Alien Laborer's Identification Card\" issued by the U.S. Department of Justice, Immigration and Naturalization Service (Form 1-100D, Rev. 8-1-59), featuring a man's photograph."
 geo:
 id: 863
 item_type: Document

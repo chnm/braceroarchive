@@ -44,6 +44,8 @@ files:
     original_filename: DSC00513.JPG
     thumb: /files/thumbnails/dsc00513_311658d4fa.jpg
     url: /files/original/dsc00513_311658d4fa.jpg
+    alt:
+      en: "Man in white cowboy hat and shirt holding a dark binder, standing outdoors near a weathered wooden pergola structure and fence, with a white building visible to the right."
 geo:
 id: 950
 item_type: Still Image

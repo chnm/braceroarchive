@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.20.jpg
     thumb: /files/thumbnails/NAD-200401381720.jpg
     url: /files/original/NAD-200401381720.jpg
+    alt:
+      en: "Long line of men in hats waiting in a large hall while seated officials at tables review documents at the Monterrey Processing Center, Mexico."
 geo:
 id: 1769
 item_type: Still Image

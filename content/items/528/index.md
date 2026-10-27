@@ -46,6 +46,8 @@ files:
     original_filename: C.CasillasRodriguez16copy.JPG
     thumb: /files/thumbnails/ccasillasrodriguez16copy_ad9a2da32c.jpg
     url: /files/original/ccasillasrodriguez16copy_ad9a2da32c.jpg
+    alt:
+      en: "Savings account passbook page for Catarino Casillas with The Peoples State Bank, Wauseon, Ohio, listing dates, deposits, and balances from May to September 1944, with faint handwritten notes below."
 geo:
 id: 528
 item_type: Still Image

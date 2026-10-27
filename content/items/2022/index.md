@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.23.jpg
     thumb: /files/thumbnails/NAD-200401382523.jpg
     url: /files/original/NAD-200401382523.jpg
+    alt:
+      en: "Black-and-white photo of a bracero camp sleeping quarters with cots, wooden storage crates, shelving, hanging clothes, and a window, floor drain visible in foreground."
 geo:
 id: 2022
 item_type: Still Image

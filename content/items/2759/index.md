@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.31.jpg
     thumb: /files/thumbnails/NAD-200401384731.jpg
     url: /files/original/NAD-200401384731.jpg
+    alt:
+      en: "Black-and-white photo of braceros lining up along a row of barracks in a California camp, waiting to enter the dining hall, with cars and utility poles visible in the background."
 geo:
 id: 2759
 item_type: Still Image

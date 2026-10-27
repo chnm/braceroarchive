@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.21.jpg
     thumb: /files/thumbnails/NAD-200401383321.jpg
     url: /files/original/NAD-200401383321.jpg
+    alt:
+      en: "Black-and-white side profile of a man in a wide-brimmed hat and jacket, standing in an open field with hills visible in the distant background."
 geo:
 id: 2261
 item_type: Still Image

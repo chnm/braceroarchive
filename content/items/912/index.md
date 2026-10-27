@@ -46,6 +46,8 @@ files:
     original_filename: Mica Eagle Pass, tx, 1956 (front w. picture).jpg
     thumb: /files/thumbnails/mica-eagle-pass,-tx,-1956-(front-w-picture)_c5fd378613.jpg
     url: /files/original/mica-eagle-pass,-tx,-1956-(front-w-picture)_c5fd378613.jpg
+    alt:
+      en: "Worn identification card titled \"Alien Laborer's Identification Card\" with a man's photograph, issued by the U.S. Department of Justice, Immigration and Naturalization Service, Form I-100D (12-7-55)."
 geo:
 id: 912
 item_type: Document

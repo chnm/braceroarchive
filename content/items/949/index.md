@@ -44,6 +44,8 @@ files:
     original_filename: DSC00511.JPG
     thumb: /files/thumbnails/dsc00511_dd1cf5f528.jpg
     url: /files/original/dsc00511_dd1cf5f528.jpg
+    alt:
+      en: "Older man in a white cowboy hat and shirt holding a dark binder with a chain attached, standing beneath a long wooden pergola-style structure with empty livestock pens."
 geo:
 id: 949
 item_type: Still Image

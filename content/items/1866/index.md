@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.20.jpg
     thumb: /files/thumbnails/NAD-200401382020.jpg
     url: /files/original/NAD-200401382020.jpg
+    alt:
+      en: "Black-and-white photo of workers in wide-brimmed hats bending to harvest lettuce in a large field, packing heads into a \"Cookie Head Lettuce\" box marked \"3 Dozen Lettuce.\""
 geo:
 id: 1866
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: MartinezFaustinobirth1.jpg
     thumb: /files/thumbnails/martinezfaustinobirth1_6fca9aa970.jpg
     url: /files/original/martinezfaustinobirth1_6fca9aa970.jpg
+    alt:
+      en: "Mexican civil registry \"Acta de Nacimiento\" for Faustino Martinez Balmaceda, born August 13, 1926, in Cruz Grande, Guerrero, listing parents, grandparents, and witnesses, with official stamps and signatures."
 geo:
 id: 1101
 item_type: Document

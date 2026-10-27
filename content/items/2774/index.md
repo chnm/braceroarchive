@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.16.jpg
     thumb: /files/thumbnails/NAD-200401384816.jpg
     url: /files/original/NAD-200401384816.jpg
+    alt:
+      en: "A man wearing a hat sits on a metal-framed bed reading a letter inside a sparse wooden room, with clothing hanging on a line overhead and sunlight streaming through a small window."
 geo:
 id: 2774
 item_type: Still Image

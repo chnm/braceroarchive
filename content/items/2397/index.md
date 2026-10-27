@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.07.jpg
     thumb: /files/thumbnails/NAD-200401383107.jpg
     url: /files/original/NAD-200401383107.jpg
+    alt:
+      en: "Stacked wooden crates labeled \"Watsonville\" with handwritten numbers, one filled with strawberries, sit on dirt ground near a field."
 geo:
 id: 2397
 item_type: Still Image

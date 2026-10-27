@@ -44,6 +44,8 @@ files:
     original_filename: Contrato California Abr-Sept 1957(atras).jpg
     thumb: /files/thumbnails/contrato-california-abr-sept-1957(atras)_86bd7ef0a7.jpg
     url: /files/original/contrato-california-abr-sept-1957(atras)_86bd7ef0a7.jpg
+    alt:
+      en: "Typed English and Spanish wage sheet listing farm task rates—general work, irrigating, broccoli cutting and packing, lettuce cutting, thinning, hoeing, and strawberry picking—with a note that truck or tractor driving is prohibited."
 geo:
 id: 838
 item_type: Document

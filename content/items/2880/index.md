@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.14.jpg
     thumb: /files/thumbnails/NAD-200401385214.jpg
     url: /files/original/NAD-200401385214.jpg
+    alt:
+      en: "Black-and-white photo of a bracero kneeling in a furrowed field, sharpening a short-handled hoe with a knife, while other workers bend over rows in the background."
 geo:
 id: 2880
 item_type: Still Image

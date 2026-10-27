@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.20.jpg
     thumb: /files/thumbnails/NAD-200401385520.jpg
     url: /files/original/NAD-200401385520.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with men walking past storefronts beneath signs reading \"Palace Grill\" and \"Second,\" a vintage car parked nearby."
 geo:
 id: 2947
 item_type: Still Image

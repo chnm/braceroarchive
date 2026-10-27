@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.10.jpg
     thumb: /files/thumbnails/NAD-200401385010.jpg
     url: /files/original/NAD-200401385010.jpg
+    alt:
+      en: "Black-and-white street scene with a pickup truck carrying several men in its bed, driving past utility poles, trees, and low buildings, with another truck and car visible on the road."
 geo:
 id: 2825
 item_type: Still Image

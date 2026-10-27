@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio4B.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio4b_ad3100d5dd.jpg
     url: /files/original/lopez-leon,-asterio4b_ad3100d5dd.jpg
+    alt:
+      en: "Mexican government document \"Forma 115-A\" for the Servicio Exterior Mexicano, Consulado en Calexico, Cal., showing Certificado de Matricula No. 2374, with official seals, signatures, and dates including Jun 7 1976 and Oct 26 1974."
 geo:
 id: 1253
 item_type: Document

@@ -43,6 +43,8 @@ files:
     original_filename: Renteria Rosario - (eugenio) mica2.jpg
     thumb: /files/thumbnails/renteria-rosario---(eugenio)-mica2_1b52efc426.jpg
     url: /files/original/renteria-rosario---(eugenio)-mica2_1b52efc426.jpg
+    alt:
+      en: "Alien Laborer's Identification Card with a black-and-white photo of a man, issued by the U.S. Department of Justice, Immigration and Naturalization Service — Form 1-100D (Rev. 8-1-59)."
 geo:
 id: 1005
 item_type: Document

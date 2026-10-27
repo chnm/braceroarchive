@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.23.jpg
     thumb: /files/thumbnails/NAD-200401382223.jpg
     url: /files/original/NAD-200401382223.jpg
+    alt:
+      en: "Three small wooden huts line a dirt path, with scattered garbage and boxes nearby, a chicken in the foreground, and power lines stretching across an open field."
 geo:
 id: 1923
 item_type: Still Image

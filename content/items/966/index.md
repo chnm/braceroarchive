@@ -46,6 +46,8 @@ files:
     original_filename: BautistaRodriguezJesus - mica1.jpg
     thumb: /files/thumbnails/bautistarodriguezjesus---mica1_bbd9ef8e2a.jpg
     url: /files/original/bautistarodriguezjesus---mica1_bbd9ef8e2a.jpg
+    alt:
+      en: "Aged identification card titled \"Alien Laborer's Identification Card\" with a man's photograph, issued by the U.S. Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)."
 geo:
 id: 966
 item_type: Document

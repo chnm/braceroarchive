@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.14.15.jpg
     thumb: /files/thumbnails/NAD-200401381415.jpg
     url: /files/original/NAD-200401381415.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in work clothes and hats standing under a covered shelter, with a man in a cowboy hat conversing with one worker at the front of the line."
 geo:
 id: 1668
 item_type: Still Image

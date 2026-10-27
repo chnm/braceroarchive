@@ -44,6 +44,8 @@ files:
     original_filename: bracero pose.jpg
     thumb: /files/thumbnails/bracero-pose_acf41a7dae.jpg
     url: /files/original/bracero-pose_acf41a7dae.jpg
+    alt:
+      en: "Two braceros wearing straw cowboy hats pose near an adobe building's window, one seated and one standing with hand on the other's shoulder."
 geo:
 id: 566
 item_type: Still Image

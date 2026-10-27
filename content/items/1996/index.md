@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.32.jpg
     thumb: /files/thumbnails/NAD-200401382432.jpg
     url: /files/original/NAD-200401382432.jpg
+    alt:
+      en: "Black-and-white photo of a group of men standing around an open car trunk displaying small items for sale, with a peddler demonstrating a product to the gathered braceros."
 geo:
 id: 1996
 item_type: Still Image

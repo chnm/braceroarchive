@@ -46,6 +46,8 @@ files:
     original_filename: RosalesRios-03.jpg
     thumb: /files/thumbnails/rosalesrios-03_de25fc7414.jpg
     url: /files/original/rosalesrios-03_de25fc7414.jpg
+    alt:
+      en: "Back of an identification card with Spanish-language permit conditions on the left and an \"Extensions and Recontracts\" column on the right showing stamped dates \"SEP 30 1960\" and \"DEC 15 1960.\""
 geo:
 id: 523
 item_type: Document

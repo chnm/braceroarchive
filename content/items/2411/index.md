@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.03.jpg
     thumb: /files/thumbnails/NAD-200401383703.jpg
     url: /files/original/NAD-200401383703.jpg
+    alt:
+      en: "A man stands atop a flatbed truck assembling lettuce boxes using a machine, while rows of workers in a Salinas Valley field fill crates with harvested lettuce under an open sky."
 geo:
 id: 2411
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.14.jpg
     thumb: /files/thumbnails/NAD-200401380514.jpg
     url: /files/original/NAD-200401380514.jpg
+    alt:
+      en: "Black-and-white photo of braceros, many wearing hats, gathered around long wooden tables and benches preparing food with pots and bowls in a sunlit, window-lined communal kitchen."
 geo:
 id: 1395
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.25.jpg
     thumb: /files/thumbnails/NAD-200401385025.jpg
     url: /files/original/NAD-200401385025.jpg
+    alt:
+      en: "Black-and-white photograph of long rows of crops stretching across a California field, with dust or spray visible rising near a worker among the plants, utility poles on the horizon."
 geo:
 id: 2840
 item_type: Still Image

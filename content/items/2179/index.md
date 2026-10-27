@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.31.jpg
     thumb: /files/thumbnails/NAD-200401383131.jpg
     url: /files/original/NAD-200401383131.jpg
+    alt:
+      en: "A mostly black, blank frame with a few faint scattered specks and small bright dots scattered across the dark background, with no discernible subject or scene."
 geo:
 id: 2179
 item_type: Still Image

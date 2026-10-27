@@ -44,6 +44,8 @@ files:
     original_filename: lerma4.jpg
     thumb: /files/thumbnails/lerma4_230586afcf.jpg
     url: /files/original/lerma4_230586afcf.jpg
+    alt:
+      en: "Vintage photo of women and children gathered around a table with craft materials, including fluffy pom-pom decorations in pink, blue, and yellow, inside a sunlit room with large windows."
 geo:
 id: 541
 item_type: Still Image

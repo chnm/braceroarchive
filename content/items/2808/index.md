@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.29.jpg
     thumb: /files/thumbnails/NAD-200401384929.jpg
     url: /files/original/NAD-200401384929.jpg
+    alt:
+      en: "A bracero bends over with a short-handled hoe in rows of pepper plants, while other workers and distant hills are visible in the background field."
 geo:
 id: 2808
 item_type: Still Image

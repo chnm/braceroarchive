@@ -46,6 +46,8 @@ files:
     original_filename: AMarin005.jpg
     thumb: /files/thumbnails/amarin005_5cfb6fe323.jpg
     url: /files/original/amarin005_5cfb6fe323.jpg
+    alt:
+      en: "Document photograph showing a Mexican consulate identification booklet with \"MATRICULA 440824\" stamped at top, handwritten notes dated April 15, 1961, Phoenix, AZ, and Spanish printed text on facing pages."
 geo:
 id: 613
 item_type: Document

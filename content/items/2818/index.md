@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.03.jpg
     thumb: /files/thumbnails/NAD-200401385003.jpg
     url: /files/original/NAD-200401385003.jpg
+    alt:
+      en: "Black-and-white photo of several braceros wearing straw hats and button-up shirts standing at the edge of a cultivated field, with trees lining the horizon."
 geo:
 id: 2818
 item_type: Still Image

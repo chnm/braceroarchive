@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.07.jpg
     thumb: /files/thumbnails/NAD-200401382307.jpg
     url: /files/original/NAD-200401382307.jpg
+    alt:
+      en: "A man bends over an outdoor wooden washing trough near canvas tents, with scattered tools and debris on the dirt ground and trees lining a field in the background."
 geo:
 id: 1936
 item_type: Still Image

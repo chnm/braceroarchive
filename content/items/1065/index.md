@@ -46,6 +46,8 @@ files:
     original_filename: rafael hernandez passaport2.jpg
     thumb: /files/thumbnails/rafael-hernandez-passaport2_22030a6724.jpg
     url: /files/original/rafael-hernandez-passaport2_22030a6724.jpg
+    alt:
+      en: "Mexican consular passport pages for Rafael Hernandez Orozco, issued in San Diego, California on June 23, 1960, featuring a red wax seal, consul's signature, and validity details for travel to the United States."
 geo:
 id: 1065
 item_type: Document

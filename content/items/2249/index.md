@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.33.09.jpg
     thumb: /files/thumbnails/NAD-200401383309.jpg
     url: /files/original/NAD-200401383309.jpg
+    alt:
+      en: "A bracero in a hat crouches beside a large metal water canister, drinking from a tin cup, as fellow workers bend over crop rows in a field behind him."
 geo:
 id: 2249
 item_type: Still Image

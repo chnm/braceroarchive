@@ -44,6 +44,8 @@ files:
     original_filename: bracero hanging out.jpg
     thumb: /files/thumbnails/bracero-hanging-out_7de25d7277.jpg
     url: /files/original/bracero-hanging-out_7de25d7277.jpg
+    alt:
+      en: "Two braceros wearing light-colored hats sit together on a low wall beside two windows of a stucco building, casting long shadows in the sunlight."
 geo:
 id: 563
 item_type: Still Image

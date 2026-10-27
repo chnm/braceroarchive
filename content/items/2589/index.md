@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.15.jpg
     thumb: /files/thumbnails/NAD-200401384215.jpg
     url: /files/original/NAD-200401384215.jpg
+    alt:
+      en: "Unpaved street leading to a two-story wooden building with a balcony, parked truck, and the \"Los Gatitos\" cafe sign visible nearby in Watsonville, California."
 geo:
 id: 2589
 item_type: Still Image

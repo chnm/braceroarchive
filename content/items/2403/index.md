@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.33.jpg
     thumb: /files/thumbnails/NAD-200401383433.jpg
     url: /files/original/NAD-200401383433.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over rows of lettuce in a Salinas Valley field, picking and packing heads into boxes stacked on a wheeled trolley cart."
 geo:
 id: 2403
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.18.04.jpg
     thumb: /files/thumbnails/NAD-200401381804.jpg
     url: /files/original/NAD-200401381804.jpg
+    alt:
+      en: "Black-and-white photo of braceros standing near a wooden truck loaded with cotton, with sacks and a tripod-like pole in a field near McAllen, Texas, workers visible in the distance."
 geo:
 id: 1790
 item_type: Still Image

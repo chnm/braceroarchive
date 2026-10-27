@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.4-5.jpg
     thumb: /files/thumbnails/instructivo-p4-5_1ac8e8213b.jpg
     url: /files/original/instructivo-p4-5_1ac8e8213b.jpg
+    alt:
+      en: "Open book pages 4-5 with aged, stained paper; page 5 contains printed Spanish text advising braceros to pack lightly, listing essential items like a towel, cleaning supplies, and a hidden wallet."
 geo:
 id: 586
 item_type: Still Image

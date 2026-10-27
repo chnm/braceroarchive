@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3384.JPG
     thumb: /files/thumbnails/img_3384_eea090cec9.jpg
     url: /files/original/img_3384_eea090cec9.jpg
+    alt:
+      en: "Man with gray hair wearing a white T-shirt and dark jeans stands on a grassy hillside overlooking a lush, tree-covered valley, with a small stone structure visible in the distance."
 geo:
 id: 3033
 item_type: Still Image

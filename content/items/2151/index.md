@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.29.19.jpg
     thumb: /files/thumbnails/NAD-200401382919.jpg
     url: /files/original/NAD-200401382919.jpg
+    alt:
+      en: "Black-and-white street scene in Salinas, California, with men walking past storefronts including Hirsh Jewelers, a clock, and a U.S. Mail box on the sidewalk; cars line the curb."
 geo:
 id: 2151
 item_type: Still Image

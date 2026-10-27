@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.39.jpg
     thumb: /files/thumbnails/NAD-200401380439.jpg
     url: /files/original/NAD-200401380439.jpg
+    alt:
+      en: "A long line of men in cowboy hats and work clothes stands outside the Monterrey Processing Center while a woman crouches on the ground preparing food to sell nearby."
 geo:
 id: 1379
 item_type: Still Image

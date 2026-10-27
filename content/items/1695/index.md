@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.09.jpg
     thumb: /files/thumbnails/NAD-200401381509.jpg
     url: /files/original/NAD-200401381509.jpg
+    alt:
+      en: "A mostly black, underexposed frame with faint scattered specks of light and a thin horizontal line near the center; no discernible figures or scene details are visible."
 geo:
 id: 1695
 item_type: Still Image

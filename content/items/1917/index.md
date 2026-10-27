@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.17.jpg
     thumb: /files/thumbnails/NAD-200401382217.jpg
     url: /files/original/NAD-200401382217.jpg
+    alt:
+      en: "A bracero walks past two large tents in a California labor camp, with a wooden building to the left and a ladder leaning against a utility pole nearby."
 geo:
 id: 1917
 item_type: Still Image

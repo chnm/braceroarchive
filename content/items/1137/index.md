@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 19.2.jpg
     thumb: /files/thumbnails/velasco-patino-192_7dbe4efcef.jpg
     url: /files/original/velasco-patino-192_7dbe4efcef.jpg
+    alt:
+      en: "Handwritten Spanish note endorsing a receipt from Lopez Hardware Co., signed N. Gonzalez, Guadalajara, Jalisco, August 14, 1958, overlaying a faint printed invoice form."
 geo:
 id: 1137
 item_type: Document

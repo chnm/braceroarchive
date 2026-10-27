@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.29.jpg
     thumb: /files/thumbnails/NAD-200401383429.jpg
     url: /files/original/NAD-200401383429.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers bent among long rows of lettuce in a Salinas Valley field, with wooden harvest crates and a metal funnel in the foreground."
 geo:
 id: 2278
 item_type: Still Image

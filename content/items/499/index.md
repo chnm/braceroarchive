@@ -49,6 +49,8 @@ files:
     original_filename: id card back.jpg
     thumb: /files/thumbnails/id-card-back_ccfe08419a.jpg
     url: /files/original/id-card-back_ccfe08419a.jpg
+    alt:
+      en: "Identification card for Parra Lucero Jose, born 12-29-31 in Sahuarichic, Chihuahua, issued in El Paso, Texas on Sept 14, 1956, with card number L-2535799 and \"MICA\" stamp."
 geo:
 id: 499
 item_type: Document

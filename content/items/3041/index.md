@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3451.JPG
     thumb: /files/thumbnails/img_3451_fd1923e77f.jpg
     url: /files/original/img_3451_fd1923e77f.jpg
+    alt:
+      en: "A young woman and an older man stand outside at night, both holding a vintage portable radio between them, with flowering plants visible in the background."
 geo:
 id: 3041
 item_type: Still Image

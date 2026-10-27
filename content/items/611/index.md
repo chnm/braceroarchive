@@ -46,6 +46,8 @@ files:
     original_filename: AMarin003.jpg
     thumb: /files/thumbnails/amarin003_83851fc4cc.jpg
     url: /files/original/amarin003_83851fc4cc.jpg
+    alt:
+      en: "Mexican Military Service identification card for Aurelio Marin Luna, showing a photo of a man in uniform, official stamps, signatures, and printed personal data fields under \"Secretaria de la Defensa Nacional.\""
 geo:
 id: 611
 item_type: Document

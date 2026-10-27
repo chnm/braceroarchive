@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.21.jpg
     thumb: /files/thumbnails/NAD-200401380521.jpg
     url: /files/original/NAD-200401380521.jpg
+    alt:
+      en: "Braceros in a shared living quarter near McAllen, Texas, gather around a stove with coffee pots and pans, preparing food beside long wooden tables and bunk beds."
 geo:
 id: 1402
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.32.jpg
     thumb: /files/thumbnails/NAD-200401382032.jpg
     url: /files/original/NAD-200401382032.jpg
+    alt:
+      en: "Two men stand atop a truck loaded with \"Cookie California Head Lettuce\" boxes, with rows of crops and distant field workers visible in the Salinas Valley background."
 geo:
 id: 1854
 item_type: Still Image

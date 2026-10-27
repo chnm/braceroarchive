@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.27.jpg
     thumb: /files/thumbnails/NAD-200401384227.jpg
     url: /files/original/NAD-200401384227.jpg
+    alt:
+      en: "Black-and-white photo of braceros at an outdoor washing station near a tent, with two men working at a table and a third bending over a basin, camp buildings and trees in the background."
 geo:
 id: 2598
 item_type: Still Image

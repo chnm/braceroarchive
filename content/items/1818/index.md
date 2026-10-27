@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.17.jpg
     thumb: /files/thumbnails/NAD-200401381917.jpg
     url: /files/original/NAD-200401381917.jpg
+    alt:
+      en: "A long line of braceros wearing hats stands beside a bus in Stockton, California, with luggage and crates on the ground and trees lining the street."
 geo:
 id: 1818
 item_type: Still Image

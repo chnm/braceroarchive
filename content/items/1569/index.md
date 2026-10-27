@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.03.jpg
     thumb: /files/thumbnails/NAD-200401381003.jpg
     url: /files/original/NAD-200401381003.jpg
+    alt:
+      en: "Black-and-white photo of braceros in hats standing behind a barbed wire fence near railroad tracks at the Monterrey Processing Center, Mexico, with hazy hills in the background."
 geo:
 id: 1569
 item_type: Still Image

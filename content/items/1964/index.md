@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.35.jpg
     thumb: /files/thumbnails/NAD-200401382335.jpg
     url: /files/original/NAD-200401382335.jpg
+    alt:
+      en: "Black-and-white photo of two men resting on cots inside a tent, with jackets hanging on a line and a single bare bulb lighting the interior."
 geo:
 id: 1964
 item_type: Still Image

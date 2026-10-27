@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.01.jpg
     thumb: /files/thumbnails/NAD-200401384301.jpg
     url: /files/original/NAD-200401384301.jpg
+    alt:
+      en: "Black-and-white photo of workers packing lettuce boxes on a harvesting machine labeled \"ARENA CO. OF SALINAS\" in a field, with crates of lettuce and farmland stretching into the background."
 geo:
 id: 2609
 item_type: Still Image

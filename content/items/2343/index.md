@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.23.jpg
     thumb: /files/thumbnails/NAD-200401383623.jpg
     url: /files/original/NAD-200401383623.jpg
+    alt:
+      en: "A man wearing a cap stands in a doorway numbered \"17\" of a wooden building, with a bucket, flattened boxes, and bottles scattered on the ground nearby."
 geo:
 id: 2343
 item_type: Still Image

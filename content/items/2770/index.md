@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.12.jpg
     thumb: /files/thumbnails/NAD-200401384812.jpg
     url: /files/original/NAD-200401384812.jpg
+    alt:
+      en: "A bracero sits on a cot in a sparse camp room, reading a letter, with clothing hung to dry on a line above him."
 geo:
 id: 2770
 item_type: Still Image

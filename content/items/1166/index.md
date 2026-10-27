@@ -46,6 +46,8 @@ files:
     original_filename: RiveraPedroPassport5.jpg
     thumb: /files/thumbnails/riverapedropassport5_72ffb27bfe.jpg
     url: /files/original/riverapedropassport5_72ffb27bfe.jpg
+    alt:
+      en: "Passport pages 12-13 with faint \"Estados Unidos Mexicanos\" eagle emblems, and a stamped entry reading \"IMM. & NATZ. SERVICE, SAN YSIDRO, CAL., ADMITTED AUG 12 1960, CLASS O-1\" with handwritten notations."
 geo:
 id: 1166
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.09.jpg
     thumb: /files/thumbnails/NAD-200401380609.jpg
     url: /files/original/NAD-200401380609.jpg
+    alt:
+      en: "Long line of men wearing straw hats stretches diagonally across a dusty courtyard toward a multi-story building, as braceros wait in queue at the Monterrey Processing Center, Mexico."
 geo:
 id: 1427
 item_type: Still Image

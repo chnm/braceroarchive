@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.14.jpg
     thumb: /files/thumbnails/NAD-200401382314.jpg
     url: /files/original/NAD-200401382314.jpg
+    alt:
+      en: "Rows of metal-frame beds line a long dormitory room in a bracero camp, with men resting or sitting on the cots and jackets hanging on wall hooks along the far wall."
 geo:
 id: 1943
 item_type: Still Image

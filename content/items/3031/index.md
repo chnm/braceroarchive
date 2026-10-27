@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3171rotated.JPG
     thumb: /files/thumbnails/img_3171rotated_5bc0363c1d.jpg
     url: /files/original/img_3171rotated_5bc0363c1d.jpg
+    alt:
+      en: "Man wearing a straw hat and plaid shirt sits at a table being interviewed, as a woman holds a microphone toward him; papers and a recorder lie on the table."
 geo:
 id: 3031
 item_type: Still Image

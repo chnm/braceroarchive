@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.17.jpg
     thumb: /files/thumbnails/NAD-200401385217.jpg
     url: /files/original/NAD-200401385217.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in stoop labor, using short-handled hoes along straight crop rows in a Salinas Valley field, with trees on the horizon."
 geo:
 id: 2882
 item_type: Still Image

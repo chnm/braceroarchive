@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.02.jpg
     thumb: /files/thumbnails/NAD-200401384802.jpg
     url: /files/original/NAD-200401384802.jpg
+    alt:
+      en: "Black-and-white photo of a man walking along a dirt path beside a row of small wooden housing units, with hills visible in the background."
 geo:
 id: 2762
 item_type: Still Image

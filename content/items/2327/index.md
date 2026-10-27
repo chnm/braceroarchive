@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.19.jpg
     thumb: /files/thumbnails/NAD-200401383519.jpg
     url: /files/original/NAD-200401383519.jpg
+    alt:
+      en: "Black-and-white photo of wooden crates lined along a furrowed agricultural field, with several workers bent over picking onions in the Salinas Valley."
 geo:
 id: 2327
 item_type: Still Image

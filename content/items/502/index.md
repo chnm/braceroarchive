@@ -49,6 +49,8 @@ files:
     original_filename: contrato.jpg
     thumb: /files/thumbnails/contrato_4ccd608ccc.jpg
     url: /files/original/contrato_4ccd608ccc.jpg
+    alt:
+      en: "Typed and handwritten continuation of a Standard Work Contract for Cresenciano Perez Vasquez, dated 1957, with details on employer, wages, and signatures of worker and officials."
 geo:
 id: 502
 item_type: Document

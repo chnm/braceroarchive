@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.30.10.jpg
     thumb: /files/thumbnails/NAD-200401383010.jpg
     url: /files/original/NAD-200401383010.jpg
+    alt:
+      en: "A large two-story farmhouse with a gabled roof stands beside scattered lumber and a smaller shed, set along a dirt road under an open sky."
 geo:
 id: 2161
 item_type: Still Image

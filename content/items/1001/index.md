@@ -41,6 +41,8 @@ files:
     original_filename: Marcial3.jpg
     thumb: /files/thumbnails/marcial3_51342aad1b.jpg
     url: /files/original/marcial3_51342aad1b.jpg
+    alt:
+      en: "Vintage black-and-white portrait of a man with dark combed-back hair, wearing a suit and striped tie, set against a worn, creased photographic background."
 geo:
 id: 1001
 item_type: Still Image

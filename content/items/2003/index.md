@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.04.jpg
     thumb: /files/thumbnails/NAD-200401382504.jpg
     url: /files/original/NAD-200401382504.jpg
+    alt:
+      en: "A doctor examines a seated bracero with a stethoscope in a small clinic room, surrounded by medical supplies, bottles, and furniture near a window."
 geo:
 id: 2003
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.30.jpg
     thumb: /files/thumbnails/NAD-200401380230.jpg
     url: /files/original/NAD-200401380230.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men wearing wide-brimmed hats walking single file across a suspension bridge, with a river and trees visible below."
 geo:
 id: 1313
 item_type: Still Image

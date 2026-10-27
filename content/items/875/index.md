@@ -44,6 +44,8 @@ files:
     original_filename: Foto brazos enyesados accidente CA.jpg
     thumb: /files/thumbnails/foto-brazos-enyesados-accidente-ca_631d912dea.jpg
     url: /files/original/foto-brazos-enyesados-accidente-ca_631d912dea.jpg
+    alt:
+      en: "Man with bandaged forearms and hands stands outdoors in a short-sleeved shirt and slacks, with a building, window air conditioner unit, and a wooden crate visible behind him."
 geo:
 id: 875
 item_type: Still Image

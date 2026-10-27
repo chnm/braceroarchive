@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.37.jpg
     thumb: /files/thumbnails/NAD-200401383537.jpg
     url: /files/original/NAD-200401383537.jpg
+    alt:
+      en: "A man in an apron slices onions on a cutting board in a kitchen, with plates of chopped food nearby and rows of dining tables visible through a large window behind him."
 geo:
 id: 2309
 item_type: Still Image

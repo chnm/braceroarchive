@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.06.jpg
     thumb: /files/thumbnails/NAD-200401384106.jpg
     url: /files/original/NAD-200401384106.jpg
+    alt:
+      en: "Black-and-white photo taken through a doorway of three braceros seated on a bed and chair playing cards in a sparse wood-paneled room, with clothes hanging above and shoes on the floor."
 geo:
 id: 2554
 item_type: Still Image

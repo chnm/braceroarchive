@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.27.jpg
     thumb: /files/thumbnails/NAD-200401381527.jpg
     url: /files/original/NAD-200401381527.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and glasses seated at a desk, gesturing with a cigarette while speaking, with two telephones, papers, and ashtrays nearby."
 geo:
 id: 1713
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.30.jpg
     thumb: /files/thumbnails/NAD-200401380930.jpg
     url: /files/original/NAD-200401380930.jpg
+    alt:
+      en: "A man in a white shirt examines a bracero's shoulder and arm while other men in hats wait in line nearby, inside a room with a fan and open door at the Monterrey Processing Center."
 geo:
 id: 1526
 item_type: Still Image

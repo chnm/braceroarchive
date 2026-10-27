@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.03.jpg
     thumb: /files/thumbnails/NAD-200401380303.jpg
     url: /files/original/NAD-200401380303.jpg
+    alt:
+      en: "A man in a hat adjusts his collar while standing before seated officials at a table, with a line of men in hats waiting behind him in a large hall with tall windows."
 geo:
 id: 1323
 item_type: Still Image

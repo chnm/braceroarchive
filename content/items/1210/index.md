@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 46.jpg
     thumb: /files/thumbnails/velasco-patino-46_ddc31bf8e6.jpg
     url: /files/original/velasco-patino-46_ddc31bf8e6.jpg
+    alt:
+      en: "Purchaser's Receipt of Bank Money Order No. 33618 from The First National Bank in Coachella, dated Dec. 11, 1950, purchased by M. Gonzalez for $25.00, payable to Francisca Rodriguez, stamped \"NOT NEGOTIABLE.\""
 geo:
 id: 1210
 item_type: Document

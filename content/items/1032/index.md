@@ -44,6 +44,8 @@ files:
     original_filename: Bautista, Agustine, 1943, railroad photo.jpg
     thumb: /files/thumbnails/bautista,-agustine,-1943,-railroad-photo_7d520f7ce9.jpg
     url: /files/original/bautista,-agustine,-1943,-railroad-photo_7d520f7ce9.jpg
+    alt:
+      en: "Sepia-toned 1943 photograph of a group of braceros posed on railroad tracks, many holding tools, with handwritten text above reading \"Agustin Bautista\" and an arrow pointing to a man in the back row."
 geo:
 id: 1032
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Romero Carvajal, Manuel - Alien Laborers ID Card2.jpg
     thumb: /files/thumbnails/romero-carvajal,-manuel---alien-laborers-id-card2_68bfcdf58a.jpg
     url: /files/original/romero-carvajal,-manuel---alien-laborers-id-card2_68bfcdf58a.jpg
+    alt:
+      en: "Printed identification card for Manuel Romero-Carvajal, listing home address in Mexicali, B.C., birth date 10-5-15, birthplace San Jose de Gracia, Sin., and issue date 8-28-57 in Calexico, Calif., with ID number L-2805641 and \"MICA\" label."
 geo:
 id: 1177
 item_type: Document

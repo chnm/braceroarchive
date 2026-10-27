@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.20.jpg
     thumb: /files/thumbnails/NAD-200401381520.jpg
     url: /files/original/NAD-200401381520.jpg
+    alt:
+      en: "Man in suit and glasses sits at a desk reaching for a telephone, with papers, an ashtray, and a second phone on a side table nearby."
 geo:
 id: 1706
 item_type: Still Image

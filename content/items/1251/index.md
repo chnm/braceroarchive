@@ -44,6 +44,8 @@ files:
     original_filename: Lopez Leon, Asterio3B.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio3b_0c46edc1c0.jpg
     url: /files/original/lopez-leon,-asterio3b_0c46edc1c0.jpg
+    alt:
+      en: "Typed baptismal certificate on aged paper, with handwritten name and dates, an official purple stamp, and the signature of José Roberto Zamora Campos, dated Bacubirito, Sinaloa, May 19, 1989."
 geo:
 id: 1251
 item_type: Document

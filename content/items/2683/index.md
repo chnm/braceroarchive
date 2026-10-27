@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.16.jpg
     thumb: /files/thumbnails/NAD-200401384516.jpg
     url: /files/original/NAD-200401384516.jpg
+    alt:
+      en: "Black-and-white photo of a man in a wide-brimmed hat crouched at a field's edge, filling a sack with produce; more workers and crop rows stretch into the distance."
 geo:
 id: 2683
 item_type: Still Image

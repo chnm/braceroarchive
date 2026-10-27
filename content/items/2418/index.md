@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.18.jpg
     thumb: /files/thumbnails/NAD-200401383718.jpg
     url: /files/original/NAD-200401383718.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on the ground eating lunch beside railroad tracks, with a parked truck and utility poles in the background, Salinas Valley, California."
 geo:
 id: 2418
 item_type: Still Image

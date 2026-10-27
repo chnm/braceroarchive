@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.36.29.jpg
     thumb: /files/thumbnails/NAD-200401383629.jpg
     url: /files/original/NAD-200401383629.jpg
+    alt:
+      en: "Black-and-white photo of a row of small wooden cabins of bracero housing lining a dirt lot beside a road, with cars parked near a storefront and trees in the background."
 geo:
 id: 2338
 item_type: Still Image

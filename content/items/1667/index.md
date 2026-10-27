@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.14.jpg
     thumb: /files/thumbnails/NAD-200401381414.jpg
     url: /files/original/NAD-200401381414.jpg
+    alt:
+      en: "Black-and-white photo of a line of men in hats and work clothes standing under a covered structure, with an agent in the foreground interacting with them, as others wait nearby."
 geo:
 id: 1667
 item_type: Still Image

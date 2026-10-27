@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.21.jpg
     thumb: /files/thumbnails/NAD-200401381321.jpg
     url: /files/original/NAD-200401381321.jpg
+    alt:
+      en: "A man in a cowboy hat stands with hands extended over a table as a seated official inspects them for callouses, with a line of men waiting behind in a large hall."
 geo:
 id: 1649
 item_type: Still Image

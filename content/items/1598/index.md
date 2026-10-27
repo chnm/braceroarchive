@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.32.jpg
     thumb: /files/thumbnails/NAD-200401381132.jpg
     url: /files/original/NAD-200401381132.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat leans over a desk to speak with a seated official filling out paperwork, as a line of men in cowboy hats wait behind them at the Monterrey Processing Center."
 geo:
 id: 1598
 item_type: Still Image

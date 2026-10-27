@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.03.40.jpg
     thumb: /files/thumbnails/NAD-200401380340.jpg
     url: /files/original/NAD-200401380340.jpg
+    alt:
+      en: "Aerial view of a long line of hat-wearing braceros stretching across a dirt lot at the Monterrey Processing Center, with a few men walking alongside the queue and buildings visible in the background."
 geo:
 id: 1340
 item_type: Still Image

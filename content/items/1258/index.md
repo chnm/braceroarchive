@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio11.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio11_d216f2aa60.jpg
     url: /files/original/lopez-leon,-asterio11_d216f2aa60.jpg
+    alt:
+      en: "Two \"Refrendos\" passport pages with printed Mexican eagle seals, a \"JUN 8 1965\" date stamp, handwritten entries, and a signature reading \"Ruben Garcia, Jr., Consul de Mexico\" at bottom left."
 geo:
 id: 1258
 item_type: Document

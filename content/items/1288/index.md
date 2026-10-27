@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.11.jpg
     thumb: /files/thumbnails/NAD-200401380211.jpg
     url: /files/original/NAD-200401380211.jpg
+    alt:
+      en: "A shirtless man stands at a chest X-ray machine while another man assists him, inside the Hidalgo Processing Center examination room."
 geo:
 id: 1288
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Guerrero-Nava, Juan- mica card2.jpg
     thumb: /files/thumbnails/guerrero-nava,-juan--mica-card2_da9e431d07.jpg
     url: /files/original/guerrero-nava,-juan--mica-card2_da9e431d07.jpg
+    alt:
+      en: "Back of a Bracero ID card for Juan Guerrero-Nava, born 1932 in Tocumbo, Mich., issued at Calexico, Calif. on 8/23/57, card number L-2 800200, labeled MICA."
 geo:
 id: 933
 item_type: Document

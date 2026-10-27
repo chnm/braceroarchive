@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 43.jpg
     thumb: /files/thumbnails/velasco-patino-43_1910a58a76.jpg
     url: /files/original/velasco-patino-43_1910a58a76.jpg
+    alt:
+      en: "Bank money order receipt from The First National Bank in Coachella, California, dated Nov. 8, 1950, purchased by M. Gonzalez for Jesus Ramirez, stamped \"NOT NEGOTIABLE\" with fee paid of $.25 and amount $20.80."
 geo:
 id: 1205
 item_type: Document

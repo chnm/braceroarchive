@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 41.jpg
     thumb: /files/thumbnails/velasco-patino-41_38488f01cc.jpg
     url: /files/original/velasco-patino-41_38488f01cc.jpg
+    alt:
+      en: "Purchaser's Receipt of Bank Money Order No. 31757 from The First National Bank of Coachella, California, dated Oct. 2, 1950, showing M. Gonzalez paying Sra. Francisca Rodriguez $25.00, stamped \"NOT NEGOTIABLE.\""
 geo:
 id: 1200
 item_type: Document

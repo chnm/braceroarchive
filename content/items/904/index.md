@@ -44,6 +44,8 @@ files:
     original_filename: Contrato abril-mayo 1964, California (back).jpg
     thumb: /files/thumbnails/contrato-abril-mayo-1964,-california-(back)_ef07632345.jpg
     url: /files/original/contrato-abril-mayo-1964,-california-(back)_ef07632345.jpg
+    alt:
+      en: "Typed English and Spanish wage schedules for Ventura Co. Citrus Growers Committee, listing piece rates by crop and task, on a worn, creased sheet of paper."
 geo:
 id: 904
 item_type: Document

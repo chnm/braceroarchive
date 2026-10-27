@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.26.jpg
     thumb: /files/thumbnails/NAD-200401383726.jpg
     url: /files/original/NAD-200401383726.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros wearing wide-brimmed hats standing and seated along a dirt path beside a large cultivated field in the Salinas Valley, California, with trucks parked in the distance."
 geo:
 id: 2426
 item_type: Still Image

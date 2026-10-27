@@ -43,6 +43,8 @@ files:
     original_filename: Garcia Roberto - passport6.jpg
     thumb: /files/thumbnails/garcia-roberto---passport6_4c76272aef.jpg
     url: /files/original/garcia-roberto---passport6_4c76272aef.jpg
+    alt:
+      en: "Open booklet page from a Mexican military document with printed Spanish text, a boxed instruction stamped \"ESTE DOCUMENTO DEBE FORMAR PARTE DE LA CARTILLA DE IDENTIDAD,\" and a handwritten entry dated San Juan de los Lagos, Jalisco, August 22, 1953, with an official signature and stamp."
 geo:
 id: 975
 item_type: Document

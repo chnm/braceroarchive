@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 33.jpg
     thumb: /files/thumbnails/velasco-patino-33_78cc9e5bc6.jpg
     url: /files/original/velasco-patino-33_78cc9e5bc6.jpg
+    alt:
+      en: "Three \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank in Coachilla, California, issued to M. Gonzalez for Francisca Rodriguez (1949, 1950) and Rosario Ramirez (1948), each stamped \"INSURED.\""
 geo:
 id: 1192
 item_type: Document

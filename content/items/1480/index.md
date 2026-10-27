@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.08.jpg
     thumb: /files/thumbnails/NAD-200401380708.jpg
     url: /files/original/NAD-200401380708.jpg
+    alt:
+      en: "A line of hatted braceros, casting long shadows, walks across a dusty yard at the Monterrey Processing Center while a large crowd waits behind a barbed wire fence in the background."
 geo:
 id: 1480
 item_type: Still Image

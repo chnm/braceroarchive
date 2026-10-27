@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.11.18.jpg
     thumb: /files/thumbnails/NAD-200401381118.jpg
     url: /files/original/NAD-200401381118.jpg
+    alt:
+      en: "Black-and-white photo of small roadside buildings with signs, including one reading \"Insurance,\" lined with parked cars under an open sky in Hidalgo, Texas."
 geo:
 id: 2375
 item_type: Still Image

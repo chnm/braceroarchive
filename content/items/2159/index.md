@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.30.08.jpg
     thumb: /files/thumbnails/NAD-200401383008.jpg
     url: /files/original/NAD-200401383008.jpg
+    alt:
+      en: "Black-and-white photo of a two-story farmhouse with exterior stairs, surrounded by small outbuildings, parked vehicles, and flat open land stretching to the horizon."
 geo:
 id: 2159
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.18.jpg
     thumb: /files/thumbnails/NAD-200401383818.jpg
     url: /files/original/NAD-200401383818.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on beds in a dormitory-style living quarter, with clothing hanging from lines above and bunks lining the room."
 geo:
 id: 2462
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1958, contract2.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1958,-contract2_7f60329d5b.jpg
     url: /files/original/santacruz,-melitona,-1958,-contract2_7f60329d5b.jpg
+    alt:
+      en: "Typed and handwritten bilingual work contract form titled \"Continuation of Standard Work Contract, As Amended,\" dated 1958, naming Guadalupe Santa Cruz-Rangel and Imperial Valley Farmers Association."
 geo:
 id: 1063
 item_type: Document

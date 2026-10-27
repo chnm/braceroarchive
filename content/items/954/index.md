@@ -44,12 +44,16 @@ files:
     original_filename: j delgado 3.jpg
     thumb: /files/thumbnails/j-delgado-3_4b165f749d.jpg
     url: /files/original/j-delgado-3_4b165f749d.jpg
+    alt:
+      en: "Aged, creased studio portrait of three men standing before an arched curtain backdrop; one wears a hat and one wears sunglasses, all dressed in long-sleeve shirts and dark trousers."
   - fullsize: /files/fullsize/j-delgado-3_f843c46b88.jpg
     id: 0
     mime: image/jpeg
     original_filename: j delgado 3.jpg
     thumb: /files/thumbnails/j-delgado-3_f843c46b88.jpg
     url: /files/original/j-delgado-3_f843c46b88.jpg
+    alt:
+      en: "Three men stand in a row before an arched curtain backdrop; the man in the center wears a fedora, the man on the right wears sunglasses, all dressed in sweaters and dark trousers."
 geo:
 id: 954
 item_type: Still Image

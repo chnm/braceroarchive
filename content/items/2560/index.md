@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.12.jpg
     thumb: /files/thumbnails/NAD-200401384112.jpg
     url: /files/original/NAD-200401384112.jpg
+    alt:
+      en: "A man rests on a cot in a sparse, dimly lit bunkhouse room, viewed through an open doorway lined with wood paneling, a towel hanging nearby."
 geo:
 id: 2560
 item_type: Still Image

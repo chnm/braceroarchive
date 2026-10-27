@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.26.jpg
     thumb: /files/thumbnails/NAD-200401380726.jpg
     url: /files/original/NAD-200401380726.jpg
+    alt:
+      en: "Black-and-white photo of a guard directing a group of braceros toward a long line of men waiting outdoors at the Monterrey Processing Center, with mountains visible in the distance."
 geo:
 id: 1462
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.32.jpg
     thumb: /files/thumbnails/NAD-200401383432.jpg
     url: /files/original/NAD-200401383432.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over rows of lettuce in a Salinas Valley field, picking and packing heads into cardboard boxes, one labeled \"TORO,\" with a truck parked in the background."
 geo:
 id: 2281
 item_type: Still Image

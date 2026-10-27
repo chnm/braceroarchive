@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.09.jpg
     thumb: /files/thumbnails/NAD-200401384709.jpg
     url: /files/original/NAD-200401384709.jpg
+    alt:
+      en: "A nurse at a desk files paperwork while a bracero stands before her; other braceros sit along the walls of a waiting room with checkered flooring."
 geo:
 id: 2737
 item_type: Still Image

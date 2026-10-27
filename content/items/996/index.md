@@ -46,6 +46,8 @@ files:
     original_filename: Voting Card 2 front copy.jpg
     thumb: /files/thumbnails/voting-card-2-front-copy_6abf9bb0d3.jpg
     url: /files/original/voting-card-2-front-copy_6abf9bb0d3.jpg
+    alt:
+      en: "Mexican voter ID card (\"Credencial para Votar\") for Guadalupe Becerra Topete, age 68, issued 1991, with a photo, address in Mexicali, B.C., and official seal of Estados Unidos Mexicanos."
 geo:
 id: 996
 item_type: Document

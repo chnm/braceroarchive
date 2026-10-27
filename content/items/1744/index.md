@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.13.jpg
     thumb: /files/thumbnails/NAD-200401381613.jpg
     url: /files/original/NAD-200401381613.jpg
+    alt:
+      en: "Rows of shirtless men in cowboy hats line up inside a large hall as medical staff in white coats administer vaccinations at tables, with more workers waiting in the background."
 geo:
 id: 1744
 item_type: Still Image

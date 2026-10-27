@@ -44,6 +44,8 @@ files:
     original_filename: IMG_3448.JPG
     thumb: /files/thumbnails/img_3448_41096beb9b.jpg
     url: /files/original/img_3448_41096beb9b.jpg
+    alt:
+      en: "Older man wearing glasses and a striped short-sleeve shirt holds up a vintage radio, standing near string lights and a decorative metal gate at night."
 geo:
 id: 3040
 item_type: Still Image

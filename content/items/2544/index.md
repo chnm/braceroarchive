@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.33.jpg
     thumb: /files/thumbnails/NAD-200401384033.jpg
     url: /files/original/NAD-200401384033.jpg
+    alt:
+      en: "Black-and-white photo of a lettuce field in the Salinas Valley, with two rows of \"Toro\" produce boxes stretching into the distance and workers visible along the rows."
 geo:
 id: 2544
 item_type: Still Image

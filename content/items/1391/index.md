@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.10.jpg
     thumb: /files/thumbnails/NAD-200401380510.jpg
     url: /files/original/NAD-200401380510.jpg
+    alt:
+      en: "Men wearing wide-brimmed hats cook tortillas on a long row of griddles over gas burners, with another man standing in the background near wooden crates."
 geo:
 id: 1391
 item_type: Still Image

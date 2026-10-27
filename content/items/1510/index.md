@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.23.jpg
     thumb: /files/thumbnails/NAD-200401380823.jpg
     url: /files/original/NAD-200401380823.jpg
+    alt:
+      en: "A black-and-white photo of a large crowd of men wearing straw hats and work clothes gathered in a Mexico City street, with an official partially visible among them collecting documents, near a car and building."
 geo:
 id: 1510
 item_type: Still Image

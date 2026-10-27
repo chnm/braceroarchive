@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.15.jpg
     thumb: /files/thumbnails/NAD-200401380415.jpg
     url: /files/original/NAD-200401380415.jpg
+    alt:
+      en: "Two braceros crouch drinking coffee in a dirt yard while others in hats walk past toward a large building at the Monterrey Processing Center."
 geo:
 id: 1363
 item_type: Still Image

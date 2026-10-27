@@ -44,6 +44,8 @@ files:
     original_filename: Contrato Julio-agosto, Fresno California 1962 (back).jpg
     thumb: /files/thumbnails/contrato-julio-agosto,-fresno-california-1962-(back)_82cb2ccdfc.jpg
     url: /files/original/contrato-julio-agosto,-fresno-california-1962-(back)_82cb2ccdfc.jpg
+    alt:
+      en: "Typed document listing agricultural labor wages by county and crop, including piece rates and hourly rates for crops like melons, cotton, tomatoes, and lettuce, with Spanish translations below each entry."
 geo:
 id: 872
 item_type: Document

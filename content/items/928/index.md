@@ -44,6 +44,8 @@ files:
     original_filename: espino-9.jpg
     thumb: /files/thumbnails/espino-9_819cebe866.jpg
     url: /files/original/espino-9_819cebe866.jpg
+    alt:
+      en: "Worn, creased paper document stamped \"724-05-4638\" with the name Espino, Jose Ortiz, headed \"INSTRUCCIONES\" and \"IMPORTANTE,\" detailing bracero travel and luggage instructions to Buenavista station."
 geo:
 id: 928
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.03.jpg
     thumb: /files/thumbnails/NAD-200401383303.jpg
     url: /files/original/NAD-200401383303.jpg
+    alt:
+      en: "A man wearing a cowboy hat and vest stacks \"Toro Lettuce\" boxes onto a truck bed already loaded with similar crates, in black and white."
 geo:
 id: 2267
 item_type: Still Image

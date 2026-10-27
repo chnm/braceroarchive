@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.07.jpg
     thumb: /files/thumbnails/NAD-200401382207.jpg
     url: /files/original/NAD-200401382207.jpg
+    alt:
+      en: "Row of canvas tents with laundry hanging to dry along a dirt path, a wooden barn visible at left and utility poles lining the camp under an overcast sky."
 geo:
 id: 1907
 item_type: Still Image

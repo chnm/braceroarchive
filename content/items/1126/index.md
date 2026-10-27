@@ -46,6 +46,8 @@ files:
     original_filename: Montes-Robles, Manuel - Alien Labor ID 2 copy.jpg
     thumb: /files/thumbnails/montes-robles,-manuel---alien-labor-id-2-copy_1700809cd0.jpg
     url: /files/original/montes-robles,-manuel---alien-labor-id-2-copy_1700809cd0.jpg
+    alt:
+      en: "Back of alien laborer's ID card for Manuel Montes-Robles, listing home address in Mexicali, B.C., birthplace Magdalena, Jal., and issue date 7-20-59 at Calexico, Calif., stamped \"MICA.\""
 geo:
 id: 1126
 item_type: Document

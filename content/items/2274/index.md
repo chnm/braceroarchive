@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.37.jpg
     thumb: /files/thumbnails/NAD-200401383437.jpg
     url: /files/original/NAD-200401383437.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat stands in a lettuce field, trimming bad leaves from a head of lettuce, with other workers visible in the rows behind him."
 geo:
 id: 2274
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.10.08.jpg
     thumb: /files/thumbnails/NAD-200401381008.jpg
     url: /files/original/NAD-200401381008.jpg
+    alt:
+      en: "Black-and-white photo of a long line of braceros carrying bundles and bags, walking across an open dirt field toward the Monterrey Processing Center under a hazy sky."
 geo:
 id: 1562
 item_type: Still Image

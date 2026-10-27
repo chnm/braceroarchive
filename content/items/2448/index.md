@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.04.jpg
     thumb: /files/thumbnails/NAD-200401383804.jpg
     url: /files/original/NAD-200401383804.jpg
+    alt:
+      en: "Rows of cots line a long dormitory hall at a California labor camp, with braceros resting on their beds amid scattered belongings and clothing hung along the walls."
 geo:
 id: 2448
 item_type: Still Image

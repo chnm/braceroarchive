@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.49.05.jpg
     thumb: /files/thumbnails/NAD-200401384905.jpg
     url: /files/original/NAD-200401384905.jpg
+    alt:
+      en: "Braceros bend low over rows in a pepper field, using short-handled hoes to cultivate the soil, with a line of trees and hills visible in the background."
 geo:
 id: 2784
 item_type: Still Image

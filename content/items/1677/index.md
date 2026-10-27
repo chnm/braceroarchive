@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.24.jpg
     thumb: /files/thumbnails/NAD-200401381424.jpg
     url: /files/original/NAD-200401381424.jpg
+    alt:
+      en: "A long line of men in hats and work clothes waits under an open-air shelter at the Hidalgo Processing Center, while an official in uniform reviews documents at a small table."
 geo:
 id: 1677
 item_type: Still Image

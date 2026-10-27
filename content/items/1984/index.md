@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.20.jpg
     thumb: /files/thumbnails/NAD-200401382420.jpg
     url: /files/original/NAD-200401382420.jpg
+    alt:
+      en: "Black-and-white photo taken through a car window, looking across a gravel lot toward a wooden barn-like building with trees and power lines in the background."
 geo:
 id: 1984
 item_type: Still Image

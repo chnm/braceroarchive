@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.06.jpg
     thumb: /files/thumbnails/NAD-200401383806.jpg
     url: /files/original/NAD-200401383806.jpg
+    alt:
+      en: "A bracero reclines on a striped cushioned chair reading a magazine, with shirts and clothing hanging above him in a dimly lit living quarters at a California camp."
 geo:
 id: 2450
 item_type: Still Image

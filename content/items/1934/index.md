@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.05.jpg
     thumb: /files/thumbnails/NAD-200401382305.jpg
     url: /files/original/NAD-200401382305.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on stacked bunk beds in a crowded camp barracks, with bedding and clothing hanging nearby."
 geo:
 id: 1934
 item_type: Still Image

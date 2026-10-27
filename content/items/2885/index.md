@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.20.jpg
     thumb: /files/thumbnails/NAD-200401385220.jpg
     url: /files/original/NAD-200401385220.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in long furrowed rows, using short-handled hoes to loosen soil in a Salinas Valley field, with a bus and more workers visible in the background."
 geo:
 id: 2885
 item_type: Still Image

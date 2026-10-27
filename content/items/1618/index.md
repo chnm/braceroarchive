@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.25.jpg
     thumb: /files/thumbnails/NAD-200401381225.jpg
     url: /files/original/NAD-200401381225.jpg
+    alt:
+      en: "Bundles of clothing and belongings scattered across the ground at the Hidalgo Processing Center, with a long line of braceros waiting near a chain-link fence and small buildings in the background."
 geo:
 id: 1618
 item_type: Still Image

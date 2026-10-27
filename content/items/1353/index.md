@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.23.jpg
     thumb: /files/thumbnails/NAD-200401380423.jpg
     url: /files/original/NAD-200401380423.jpg
+    alt:
+      en: "A long line of men wearing hats and carrying bags stretches across a dusty lot toward parked buses, with a building visible on the right at the Monterrey Processing Center."
 geo:
 id: 1353
 item_type: Still Image

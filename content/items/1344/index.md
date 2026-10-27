@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.32.jpg
     thumb: /files/thumbnails/NAD-200401380332.jpg
     url: /files/original/NAD-200401380332.jpg
+    alt:
+      en: "Black-and-white photo of men gathered around a long table covered with rows of bread rolls, one wearing a cowboy hat, preparing sandwiches and pan dulce for braceros at the Monterrey Processing Center."
 geo:
 id: 1344
 item_type: Still Image

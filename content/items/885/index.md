@@ -46,6 +46,8 @@ files:
     original_filename: Carta enviada a empleador, Lamesa TX, 1953 (procedemiento.jpg
     thumb: /files/thumbnails/carta-enviada-a-empleador,-lamesa-tx,-1953-(procedemiento_619eb5d918.jpg
     url: /files/original/carta-enviada-a-empleador,-lamesa-tx,-1953-(procedemiento_619eb5d918.jpg
+    alt:
+      en: "Typed letter from Dawson County Cotton Growers Association, Lamesa, Texas, dated July 17, 1953, addressed to Mr. W. E. Archer regarding extension of bracero contracts, signed by Wright G. Boyd, President."
 geo:
 id: 885
 item_type: Document

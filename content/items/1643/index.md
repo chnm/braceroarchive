@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.15.jpg
     thumb: /files/thumbnails/NAD-200401381315.jpg
     url: /files/original/NAD-200401381315.jpg
+    alt:
+      en: "A man in a wide-brimmed hat extends his hands across a table to an official checking for calluses, with other people and tables visible in a large hall behind them."
 geo:
 id: 1643
 item_type: Still Image

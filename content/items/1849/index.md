@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.20.39.jpg
     thumb: /files/thumbnails/NAD-200401382039.jpg
     url: /files/original/NAD-200401382039.jpg
+    alt:
+      en: "A man on a truck uses a box-assembly machine to construct \"Cookie\" brand lettuce crates, while nearby workers stack boxes and others harvest lettuce in the field beyond."
 geo:
 id: 1849
 item_type: Still Image

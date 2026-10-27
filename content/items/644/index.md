@@ -49,6 +49,8 @@ files:
     original_filename: Jul27_16.JPG
     thumb: /files/thumbnails/jul27_16_0e16bf50ef.jpg
     url: /files/original/jul27_16_0e16bf50ef.jpg
+    alt:
+      en: "Handwritten letter in Spanish-accented cursive on lined paper, dated Feb. 22, 1960, signed \"Your Daddy that loves you, Roberto,\" addressed to \"My darling sons & daughters.\""
 geo:
 id: 644
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.09.jpg
     thumb: /files/thumbnails/NAD-200401384109.jpg
     url: /files/original/NAD-200401384109.jpg
+    alt:
+      en: "Black-and-white photo of a bracero standing silhouetted in a doorway of a California labor camp room, with others seated on beds and clothing hanging on a line in the background."
 geo:
 id: 2557
 item_type: Still Image

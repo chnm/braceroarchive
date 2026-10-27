@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.22.jpg
     thumb: /files/thumbnails/NAD-200401380522.jpg
     url: /files/original/NAD-200401380522.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up along a long counter with pots and basins in a shed-like camp kitchen near McAllen, Texas, preparing food together."
 geo:
 id: 1403
 item_type: Still Image

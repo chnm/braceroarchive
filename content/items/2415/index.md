@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.07.jpg
     thumb: /files/thumbnails/NAD-200401383707.jpg
     url: /files/original/NAD-200401383707.jpg
+    alt:
+      en: "A man stands on a truck assembling \"TORO\" lettuce boxes with a machine, while workers in a vast field fill boxes with harvested lettuce in the Salinas Valley, California."
 geo:
 id: 2415
 item_type: Still Image

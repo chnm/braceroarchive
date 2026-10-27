@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.01.jpg
     thumb: /files/thumbnails/NAD-200401382801.jpg
     url: /files/original/NAD-200401382801.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered in a bunkhouse room, some seated on a bed playing cards while others look on, with jackets hung on wall hooks nearby."
 geo:
 id: 2091
 item_type: Still Image

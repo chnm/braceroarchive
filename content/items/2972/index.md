@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.12.jpg
     thumb: /files/thumbnails/NAD-200401385612.jpg
     url: /files/original/NAD-200401385612.jpg
+    alt:
+      en: "A bracero bends low over crop rows, a tool strapped across his back, as he picks peppers in a California field."
 geo:
 id: 2972
 item_type: Still Image

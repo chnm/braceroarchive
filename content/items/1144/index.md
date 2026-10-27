@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 25.jpg
     thumb: /files/thumbnails/velasco-patino-25_286cdeaed6.jpg
     url: /files/original/velasco-patino-25_286cdeaed6.jpg
+    alt:
+      en: "Two Western Union telegraph money order receipts, dated Oct. 31, 1958 and Jan. 17, 1959, recording $42 payments sent by Nepomuceno Gonzalez of Coachella, Cal. to Esperanza Velasco and Rosario De Velasco in Jalisco, Mexico."
 geo:
 id: 1144
 item_type: Document

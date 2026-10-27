@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.05.jpg
     thumb: /files/thumbnails/NAD-200401380405.jpg
     url: /files/original/NAD-200401380405.jpg
+    alt:
+      en: "A large crowd of braceros wearing hats gathers near a train labeled \"Nacionales de Mexico, Correo\" at the Monterrey Processing Center, with hills visible in the background."
 geo:
 id: 1365
 item_type: Still Image

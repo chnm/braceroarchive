@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.09.jpg
     thumb: /files/thumbnails/NAD-200401383409.jpg
     url: /files/original/NAD-200401383409.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over harvesting lettuce in a large field, packing crates labeled with text, with a truck and distant hills in the background."
 geo:
 id: 2294
 item_type: Still Image

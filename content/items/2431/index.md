@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.31.jpg
     thumb: /files/thumbnails/NAD-200401383731.jpg
     url: /files/original/NAD-200401383731.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on a dirt roadside eating lunch beside pots, crates, and bottles, with a large truck and a parked pickup nearby in the Salinas Valley."
 geo:
 id: 2431
 item_type: Still Image

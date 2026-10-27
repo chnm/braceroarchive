@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.30.jpg
     thumb: /files/thumbnails/NAD-200401382130.jpg
     url: /files/original/NAD-200401382130.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on a bed playing cards in a sparse living quarter, with jackets hanging on the wall and a man standing in the doorway."
 geo:
 id: 1896
 item_type: Still Image

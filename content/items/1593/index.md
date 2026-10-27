@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.11.39.jpg
     thumb: /files/thumbnails/NAD-200401381139.jpg
     url: /files/original/NAD-200401381139.jpg
+    alt:
+      en: "An official seated at a table examines a bracero's hands for calluses at the Monterrey Processing Center, while a line of men in straw hats waits behind him."
 geo:
 id: 1593
 item_type: Still Image

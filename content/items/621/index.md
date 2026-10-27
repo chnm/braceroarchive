@@ -47,6 +47,8 @@ files:
     original_filename: FLORES02.jpg
     thumb: /files/thumbnails/flores02_66f1d59b8f.jpg
     url: /files/original/flores02_66f1d59b8f.jpg
+    alt:
+      en: "Official letterhead document from Presidencia Municipal de Tapalpa, Jal., dated July 24, 1957, with an attached passport-style photo, fingerprint, stamps, and signatures certifying good conduct for a bracero applicant."
 geo:
 id: 621
 item_type: Still Image

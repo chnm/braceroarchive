@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.04.jpg
     thumb: /files/thumbnails/NAD-200401384504.jpg
     url: /files/original/NAD-200401384504.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on the bare edge of a plowed California field, with two men seated in the foreground and others further back in the furrows."
 geo:
 id: 2671
 item_type: Still Image

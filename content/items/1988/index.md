@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.24.jpg
     thumb: /files/thumbnails/NAD-200401382424.jpg
     url: /files/original/NAD-200401382424.jpg
+    alt:
+      en: "Two braceros sit on metal-frame bunk beds in a long barracks-style living quarter, rows of bunks lining both walls beneath a paneled ceiling and small windows."
 geo:
 id: 1988
 item_type: Still Image

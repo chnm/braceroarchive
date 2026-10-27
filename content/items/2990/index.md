@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.30.jpg
     thumb: /files/thumbnails/NAD-200401385630.jpg
     url: /files/original/NAD-200401385630.jpg
+    alt:
+      en: "A bracero bends to harvest lettuce in a field while a man in a wide-brimmed hat observes nearby, with farm equipment visible in the background."
 geo:
 id: 2990
 item_type: Still Image

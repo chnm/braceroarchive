@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.31.jpg
     thumb: /files/thumbnails/NAD-200401384631.jpg
     url: /files/original/NAD-200401384631.jpg
+    alt:
+      en: "Man wearing a hat stands beside rows of wooden bunk beds piled with folded clothing and belongings inside a dimly lit barracks at a California labor camp."
 geo:
 id: 2724
 item_type: Still Image

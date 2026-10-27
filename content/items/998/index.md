@@ -46,6 +46,8 @@ files:
     original_filename: voting card 1 front.jpg
     thumb: /files/thumbnails/voting-card-1-front_f279a2444b.jpg
     url: /files/original/voting-card-1-front_f279a2444b.jpg
+    alt:
+      en: "Baja California voter ID card for Guadalupe Becerra Topete, featuring his photo, a map of the Baja California peninsula, and printed personal details including birth date, address, and voter registration information."
 geo:
 id: 998
 item_type: Document

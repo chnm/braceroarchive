@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.23.jpg
     thumb: /files/thumbnails/NAD-200401385023.jpg
     url: /files/original/NAD-200401385023.jpg
+    alt:
+      en: "Black-and-white photo of a man with a mustache leaning out of a bus window, with partial lettering \"OS AN\" visible on the bus exterior above him."
 geo:
 id: 2838
 item_type: Still Image

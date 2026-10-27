@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.18.42.jpg
     thumb: /files/thumbnails/NAD-200401381842.jpg
     url: /files/original/NAD-200401381842.jpg
+    alt:
+      en: "A bracero empties a sack of harvested cotton into a truck bed already piled high, with open farmland and distant workers visible in the background."
 geo:
 id: 1795
 item_type: Still Image

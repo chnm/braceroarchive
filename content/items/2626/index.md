@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.19.jpg
     thumb: /files/thumbnails/NAD-200401384319.jpg
     url: /files/original/NAD-200401384319.jpg
+    alt:
+      en: "Black-and-white photo of a lettuce field in the Salinas Valley, with workers loading crates onto a flatbed truck while others harvest lettuce in rows nearby."
 geo:
 id: 2626
 item_type: Still Image

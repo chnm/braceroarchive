@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.34.jpg
     thumb: /files/thumbnails/NAD-200401383834.jpg
     url: /files/original/NAD-200401383834.jpg
+    alt:
+      en: "Elevated view of flat farmland with rows of long barracks-style buildings in the middle distance, a wooden fence post in the foreground, and overcast sky above, Gondo Labor Camp, Watsonville."
 geo:
 id: 2478
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.03.37.jpg
     thumb: /files/thumbnails/NAD-200401380337.jpg
     url: /files/original/NAD-200401380337.jpg
+    alt:
+      en: "Rows of men wearing wide-brimmed hats sit closely together at long tables eating from plates in a large dining hall with tall windows and concrete pillars."
 geo:
 id: 1337
 item_type: Still Image

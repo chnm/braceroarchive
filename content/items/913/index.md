@@ -46,6 +46,8 @@ files:
     original_filename: e santiago 3copy.jpg
     thumb: /files/thumbnails/e-santiago-3copy_06fced629f.jpg
     url: /files/original/e-santiago-3copy_06fced629f.jpg
+    alt:
+      en: "Newspaper page from the El Paso Times (Jan. 14, 2005) continuing a \"Braceros\" article, featuring a photo of Eduardo De Santiago holding his own 1958 portrait, alongside a second article on security for a presidential swearing-in."
 geo:
 id: 913
 item_type: Document

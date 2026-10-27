@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.06.jpg
     thumb: /files/thumbnails/NAD-200401380106.jpg
     url: /files/original/NAD-200401380106.jpg
+    alt:
+      en: "An official seated at a wooden counter reviews documents while braceros in hats gather around under a thatched shed roof, with more men waiting in line outside at the Monterrey Processing Center."
 geo:
 id: 1270
 item_type: Still Image

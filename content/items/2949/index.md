@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.55.22.jpg
     thumb: /files/thumbnails/NAD-200401385522.jpg
     url: /files/original/NAD-200401385522.jpg
+    alt:
+      en: "Black-and-white photo of three men sitting together on a park bench beneath a large tree, with a cannon display, street, and buildings visible in the background."
 geo:
 id: 2949
 item_type: Still Image

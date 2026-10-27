@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.16.jpg
     thumb: /files/thumbnails/NAD-200401382516.jpg
     url: /files/original/NAD-200401382516.jpg
+    alt:
+      en: "Black-and-white photo of a bare wooden barracks room with several metal-frame cots, clothing hanging on the walls and a line, a small suitcase, and a bare bulb lighting the space."
 geo:
 id: 2015
 item_type: Still Image

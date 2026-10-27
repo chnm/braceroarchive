@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.09.20.jpg
     thumb: /files/thumbnails/NAD-200401380920.jpg
     url: /files/original/NAD-200401380920.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men in hats walking alongside and along railroad tracks, with utility poles, trees, and distant hills visible in the background."
 geo:
 id: 1539
 item_type: Still Image

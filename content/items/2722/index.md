@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.29.jpg
     thumb: /files/thumbnails/NAD-200401384629.jpg
     url: /files/original/NAD-200401384629.jpg
+    alt:
+      en: "Black-and-white photo of a bracero crouched doing laundry on a wooden platform at an outdoor camp, with three men standing nearby and small buildings and trees in the background."
 geo:
 id: 2722
 item_type: Still Image

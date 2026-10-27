@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.25.jpg
     thumb: /files/thumbnails/NAD-200401385325.jpg
     url: /files/original/NAD-200401385325.jpg
+    alt:
+      en: "Rows of metal-frame cots with rolled bedding line a barracks-style room, with clothing hung on wall hooks and lines strung across windows, trunks placed between beds on a concrete floor."
 geo:
 id: 2915
 item_type: Still Image

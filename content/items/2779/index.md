@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.48.21.jpg
     thumb: /files/thumbnails/NAD-200401384821.jpg
     url: /files/original/NAD-200401384821.jpg
+    alt:
+      en: "A man wearing a hat sits on a bed in a small, sparse room, reading a letter, with clothes hanging above him and a broom leaning against the doorway outside."
 geo:
 id: 2779
 item_type: Still Image

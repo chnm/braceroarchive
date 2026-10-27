@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.04.jpg
     thumb: /files/thumbnails/NAD-200401385304.jpg
     url: /files/original/NAD-200401385304.jpg
+    alt:
+      en: "Black-and-white photo of a dining hall at a California bracero camp, with workers lined up at a serving counter in back and long tables set with cups, pitchers, and food in front."
 geo:
 id: 2895
 item_type: Still Image

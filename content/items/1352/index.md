@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.22.jpg
     thumb: /files/thumbnails/NAD-200401380422.jpg
     url: /files/original/NAD-200401380422.jpg
+    alt:
+      en: "A long line of men winds across an open dirt lot toward four parked buses at the Monterrey Processing Center, with low buildings and trees in the background."
 geo:
 id: 1352
 item_type: Still Image

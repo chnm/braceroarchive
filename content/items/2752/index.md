@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.24.jpg
     thumb: /files/thumbnails/NAD-200401384724.jpg
     url: /files/original/NAD-200401384724.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up at a serving counter in a dining hall, receiving plates of food from a server, with stacked dishes and workers in the background."
 geo:
 id: 2752
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.19.jpg
     thumb: /files/thumbnails/NAD-200401383119.jpg
     url: /files/original/NAD-200401383119.jpg
+    alt:
+      en: "Black-and-white photo of workers harvesting onions in a long field, with numerous wooden crates lined up in rows and houses and trees visible in the background."
 geo:
 id: 2195
 item_type: Still Image

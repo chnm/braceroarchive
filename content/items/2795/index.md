@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.16.jpg
     thumb: /files/thumbnails/NAD-200401384916.jpg
     url: /files/original/NAD-200401384916.jpg
+    alt:
+      en: "Black-and-white photograph of a wide California field with scattered workers performing stoop labor, bordered by a tall tree line and distant hills under a hazy sky."
 geo:
 id: 2795
 item_type: Still Image

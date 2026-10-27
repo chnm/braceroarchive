@@ -44,6 +44,8 @@ files:
     original_filename: baby photo belen soto moren (dup).jpg
     thumb: /files/thumbnails/baby-photo-belen-soto-moren-(dup)_54f868ea26.jpg
     url: /files/original/baby-photo-belen-soto-moren-(dup)_54f868ea26.jpg
+    alt:
+      en: "Black-and-white photo of a young child standing on an outdoor armchair in a yard, with a wooden house, bushes, and power lines visible in the background."
 geo:
 id: 3045
 item_type: Still Image

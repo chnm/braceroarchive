@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.29.jpg
     thumb: /files/thumbnails/NAD-200401380729.jpg
     url: /files/original/NAD-200401380729.jpg
+    alt:
+      en: "Black-and-white aerial view of a long line of men snaking across an open dirt field toward a crowd near buildings, with a mountain range in the background."
 geo:
 id: 1454
 item_type: Still Image

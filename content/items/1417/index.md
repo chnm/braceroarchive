@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.11.jpg
     thumb: /files/thumbnails/NAD-200401380611.jpg
     url: /files/original/NAD-200401380611.jpg
+    alt:
+      en: "A long line of men wearing hats walks across an open dirt area toward the camera, with two-story buildings and mountains in the background at the Monterrey Processing Center."
 geo:
 id: 1417
 item_type: Still Image

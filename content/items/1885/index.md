@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.19.jpg
     thumb: /files/thumbnails/NAD-200401382119.jpg
     url: /files/original/NAD-200401382119.jpg
+    alt:
+      en: "Two straw hats, clothing, striped bags, and a folded blanket hang on pegs above a bed with a patterned pillow in a wood-paneled bracero living quarter."
 geo:
 id: 1885
 item_type: Still Image

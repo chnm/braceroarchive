@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.34.jpg
     thumb: /files/thumbnails/NAD-200401382434.jpg
     url: /files/original/NAD-200401382434.jpg
+    alt:
+      en: "Black-and-white photo of a peddlar holding up a bottle of liquid beside an open car trunk, surrounded by a group of braceros in a Salinas Valley camp."
 geo:
 id: 1998
 item_type: Still Image

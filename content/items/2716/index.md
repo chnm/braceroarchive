@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.23.jpg
     thumb: /files/thumbnails/NAD-200401384623.jpg
     url: /files/original/NAD-200401384623.jpg
+    alt:
+      en: "Rows of bunk beds fill a high-ceilinged barracks, with clothing hanging from lines strung overhead near the brick walls and windows."
 geo:
 id: 2716
 item_type: Still Image

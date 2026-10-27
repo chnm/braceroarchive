@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.19.jpg
     thumb: /files/thumbnails/NAD-200401383819.jpg
     url: /files/original/NAD-200401383819.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on cots in a long dormitory barracks, with clothing hanging overhead and rows of beds lining both sides of the room."
 geo:
 id: 2463
 item_type: Still Image

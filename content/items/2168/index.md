@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.17.jpg
     thumb: /files/thumbnails/NAD-200401383017.jpg
     url: /files/original/NAD-200401383017.jpg
+    alt:
+      en: "Black-and-white photo of a long, barrack-style wooden building with a pitched roof and multiple small windows, set in a dirt yard with scattered debris and power lines overhead."
 geo:
 id: 2168
 item_type: Still Image

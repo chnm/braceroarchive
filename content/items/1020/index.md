@@ -46,6 +46,8 @@ files:
     original_filename: FigueroaEncinasLuisbackwages2copy.jpg
     thumb: /files/thumbnails/figueroaencinasluisbackwages2copy_9ff66ca462.jpg
     url: /files/original/figueroaencinasluisbackwages2copy_9ff66ca462.jpg
+    alt:
+      en: "Spanish-language application form with section headers \"ANTECEDENTES LABORALES\" and \"DOCUMENTOS PROBATORIOS,\" listing handwritten employment dates (1957-1958) in Valley Imperial and a checklist of required identification documents."
 geo:
 id: 1020
 item_type: Document

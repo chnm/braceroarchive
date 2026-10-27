@@ -44,6 +44,8 @@ files:
     original_filename: NSaldana012.JPG
     thumb: /files/thumbnails/nsaldana012_b5d08d02e0.jpg
     url: /files/original/nsaldana012_b5d08d02e0.jpg
+    alt:
+      en: "Black-and-white photo of a man standing with hands on hips in front of a large pear tree, wearing a light shirt and dark trousers, with open fields and scattered trees in the background."
 geo:
 id: 807
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.05.jpg
     thumb: /files/thumbnails/NAD-200401385205.jpg
     url: /files/original/NAD-200401385205.jpg
+    alt:
+      en: "Workers wearing wide-brimmed hats bend over rows of strawberry plants in a large field, with wooden crates on a cart in the foreground and hills visible in the distance."
 geo:
 id: 2871
 item_type: Still Image

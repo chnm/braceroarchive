@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.06.16.jpg
     thumb: /files/thumbnails/NAD-200401380616.jpg
     url: /files/original/NAD-200401380616.jpg
+    alt:
+      en: "Black-and-white photo of men wearing hats walking along railroad tracks in a rural landscape, with a wire fence running parallel on the left and utility poles lining the right."
 geo:
 id: 1422
 item_type: Still Image

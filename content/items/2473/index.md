@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.29.jpg
     thumb: /files/thumbnails/NAD-200401383829.jpg
     url: /files/original/NAD-200401383829.jpg
+    alt:
+      en: "Black-and-white photo of a dirt road lined with long barracks-style buildings, with groups of men standing and walking outside; a metal trash can sits in the foreground."
 geo:
 id: 2473
 item_type: Still Image

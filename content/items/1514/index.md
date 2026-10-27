@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.08.27.jpg
     thumb: /files/thumbnails/NAD-200401380827.jpg
     url: /files/original/NAD-200401380827.jpg
+    alt:
+      en: "A group of men wearing wide-brimmed hats and carrying bundles and bags stand in a line outdoors, with trees and buildings in the background."
 geo:
 id: 1514
 item_type: Still Image

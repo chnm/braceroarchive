@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.32.jpg
     thumb: /files/thumbnails/NAD-200401383932.jpg
     url: /files/original/NAD-200401383932.jpg
+    alt:
+      en: "A bracero sits on the ground near a cardboard box marked \"GLASS\" and bundled canvas bags, while another man stands beside him near a tree and building wall."
 geo:
 id: 2479
 item_type: Still Image

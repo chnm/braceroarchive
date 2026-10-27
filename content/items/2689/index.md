@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.22.jpg
     thumb: /files/thumbnails/NAD-200401384522.jpg
     url: /files/original/NAD-200401384522.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in stoop labor across rows of a California field, with cracked irrigation furrows, scattered melons, and power lines on the horizon."
 geo:
 id: 2689
 item_type: Still Image

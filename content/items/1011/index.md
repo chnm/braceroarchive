@@ -46,6 +46,8 @@ files:
     original_filename: Voting Card 1 back.jpg
     thumb: /files/thumbnails/voting-card-1-back_c7844e80ec.jpg
     url: /files/original/voting-card-1-back_c7844e80ec.jpg
+    alt:
+      en: "Back of a Baja California voter ID card with printed Spanish text, a signature, \"No. Cred. 91,\" a fingerprint, and the signature line \"Firma Del Elector\" with handwritten name."
 geo:
 id: 1011
 item_type: Document

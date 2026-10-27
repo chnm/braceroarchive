@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.13.jpg
     thumb: /files/thumbnails/NAD-200401382813.jpg
     url: /files/original/NAD-200401382813.jpg
+    alt:
+      en: "Two braceros stand at a row of sinks in a camp bathroom; one wearing a wide-brimmed hat leans over a faucet while the other brushes his teeth nearby."
 geo:
 id: 2103
 item_type: Still Image

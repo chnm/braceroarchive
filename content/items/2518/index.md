@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.41.jpg
     thumb: /files/thumbnails/NAD-200401384041.jpg
     url: /files/original/NAD-200401384041.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and tie seated at a desk covered with papers, with a cabinet, clock, and framed picture visible in the office behind him."
 geo:
 id: 2518
 item_type: Still Image

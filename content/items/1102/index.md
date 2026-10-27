@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 3.1.jpg
     thumb: /files/thumbnails/velasco-patino-31_eef0185696.jpg
     url: /files/original/velasco-patino-31_eef0185696.jpg
+    alt:
+      en: "Handwritten Spanish civil registry document recording the birth of Salvador Velasco Patiño, stamped with an official seal and signed, with \"No 391717\" printed at the top."
 geo:
 id: 1102
 item_type: Document

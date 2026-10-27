@@ -46,6 +46,8 @@ files:
     original_filename: carta recomendacion arizona, 1955.jpg
     thumb: /files/thumbnails/carta-recomendacion-arizona,-1955_32915b84da.jpg
     url: /files/original/carta-recomendacion-arizona,-1955_32915b84da.jpg
+    alt:
+      en: "Handwritten letter on letterhead reading \"H.S. Casey Abbott, Box 1629, Avondale, Arizona,\" dated 4-4-55, recommending a worker, with a signature at the bottom."
 geo:
 id: 873
 item_type: Document

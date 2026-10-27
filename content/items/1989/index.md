@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.25.jpg
     thumb: /files/thumbnails/NAD-200401382425.jpg
     url: /files/original/NAD-200401382425.jpg
+    alt:
+      en: "Black and white photo of a long dormitory barracks lined with metal bunk beds, where two braceros sit among bedding and blankets, with windows along the wall."
 geo:
 id: 1989
 item_type: Still Image

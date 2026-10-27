@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.27.jpg
     thumb: /files/thumbnails/NAD-200401384527.jpg
     url: /files/original/NAD-200401384527.jpg
+    alt:
+      en: "Black-and-white photo of braceros performing stoop labor across a California field, with filled sacks piled at the field's edge and trees lining the horizon."
 geo:
 id: 2694
 item_type: Still Image

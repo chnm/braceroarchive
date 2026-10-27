@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.11.jpg
     thumb: /files/thumbnails/NAD-200401382411.jpg
     url: /files/original/NAD-200401382411.jpg
+    alt:
+      en: "Black-and-white photo of men in hats gathered around a counter in an office as an official signs paychecks, with paperwork spread across the surface and a doorway visible behind them."
 geo:
 id: 1975
 item_type: Still Image

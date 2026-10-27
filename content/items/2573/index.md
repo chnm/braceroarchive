@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.25.jpg
     thumb: /files/thumbnails/NAD-200401384125.jpg
     url: /files/original/NAD-200401384125.jpg
+    alt:
+      en: "Black-and-white photo of a man resting on a bed in a sparsely furnished wooden room, seen through an open doorway, with a towel hanging on the wall nearby."
 geo:
 id: 2573
 item_type: Still Image

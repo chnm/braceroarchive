@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.54.03.jpg
     thumb: /files/thumbnails/NAD-200401385403.jpg
     url: /files/original/NAD-200401385403.jpg
+    alt:
+      en: "Silhouettes of three braceros walking across a field at dusk, with power lines and a utility pole crossing a glowing twilight sky above a flat horizon."
 geo:
 id: 2919
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Certificado antecedentes penales (upper part).jpg
     thumb: /files/thumbnails/certificado-antecedentes-penales-(upper-part)_1af18d0796.jpg
     url: /files/original/certificado-antecedentes-penales-(upper-part)_1af18d0796.jpg
+    alt:
+      en: "Official Mexican document titled \"Jefatura de Policía del Distrito Federal, Certificado de Antecedentes,\" numbered 105582, with a passport photo, typed text, purple stamps, and a large orange eagle seal."
 geo:
 id: 816
 item_type: Document

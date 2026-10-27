@@ -46,6 +46,8 @@ files:
     original_filename: documento para recontratacion, noviembre 1956.jpg
     thumb: /files/thumbnails/documento-para-recontratacion,-noviembre-1956_a6d501fb97.jpg
     url: /files/original/documento-para-recontratacion,-noviembre-1956_a6d501fb97.jpg
+    alt:
+      en: "Typed letter on Ventura County Citrus Growers Committee letterhead, dated November 8, 1956, certifying Carlos Rosario-Rosario's satisfactory work and willingness to rehire him after January 8, 1957, signed by William H. Tolbert."
 geo:
 id: 884
 item_type: Document

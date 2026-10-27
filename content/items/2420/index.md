@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.20.jpg
     thumb: /files/thumbnails/NAD-200401383720.jpg
     url: /files/original/NAD-200401383720.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered around large pots and trays on a dirt road beside a field, with a truck and bus parked nearby and workers visible in the distant rows."
 geo:
 id: 2420
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: Jul27_04.JPG
     thumb: /files/thumbnails/jul27_04_022fb0e808.jpg
     url: /files/original/jul27_04_022fb0e808.jpg
+    alt:
+      en: "Official Mexican birth certificate from the State of Chihuahua, headed \"Estados Unidos Mexicanos\" with an eagle emblem, registering the birth of Roberto Ramon Carrillo in typed Spanish text."
 geo:
 id: 636
 item_type: Still Image

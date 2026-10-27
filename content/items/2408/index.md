@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.36.03.jpg
     thumb: /files/thumbnails/NAD-200401383603.jpg
     url: /files/original/NAD-200401383603.jpg
+    alt:
+      en: "Black-and-white photograph of rows of crops in a cultivated onion field stretching toward distant hills, with low brush and grasses in the foreground under a hazy sky."
 geo:
 id: 2408
 item_type: Still Image

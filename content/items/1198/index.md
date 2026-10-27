@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 39.jpg
     thumb: /files/thumbnails/velasco-patino-39_411e941a43.jpg
     url: /files/original/velasco-patino-39_411e941a43.jpg
+    alt:
+      en: "Two Purchaser's Receipts of Bank Money Order from The First National Bank, Coachella, California, dated August 28, 1950 and November 15, 1949, purchased by M. Gonzalez for Francisca Rodriguez, each for $25.00."
 geo:
 id: 1198
 item_type: Document

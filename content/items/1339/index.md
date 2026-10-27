@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.03.39.jpg
     thumb: /files/thumbnails/NAD-200401380339.jpg
     url: /files/original/NAD-200401380339.jpg
+    alt:
+      en: "A long line of men wearing straw hats winds across a dirt lot at the Monterrey Processing Center, with buses and a building visible in the background."
 geo:
 id: 1339
 item_type: Still Image

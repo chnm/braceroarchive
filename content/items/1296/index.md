@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.07.jpg
     thumb: /files/thumbnails/NAD-200401380207.jpg
     url: /files/original/NAD-200401380207.jpg
+    alt:
+      en: "Black-and-white photo of a shirtless man standing before a chest X-ray machine while another man in a short-sleeved shirt operates the equipment inside the Hidalgo Processing Center, Texas."
 geo:
 id: 1296
 item_type: Still Image

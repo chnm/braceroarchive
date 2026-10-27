@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.18.jpg
     thumb: /files/thumbnails/NAD-200401382718.jpg
     url: /files/original/NAD-200401382718.jpg
+    alt:
+      en: "Black-and-white photo of a Ford truck with men riding on the back, driving down a dirt road toward Gondo Labor Camp, with rolling hills in the background."
 geo:
 id: 2077
 item_type: Still Image

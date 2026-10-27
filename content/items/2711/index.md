@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.16.jpg
     thumb: /files/thumbnails/NAD-200401384616.jpg
     url: /files/original/NAD-200401384616.jpg
+    alt:
+      en: "Interior view through a doorway into a wooden bracero camp bunkhouse, showing rows of bunk beds with bedding and a bare light bulb hanging from the ceiling."
 geo:
 id: 2711
 item_type: Still Image

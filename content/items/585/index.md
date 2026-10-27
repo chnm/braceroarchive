@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.2-3.jpg
     thumb: /files/thumbnails/instructivo-p2-3_34d3839f74.jpg
     url: /files/original/instructivo-p2-3_34d3839f74.jpg
+    alt:
+      en: "Open book pages showing aged, stained paper with visible staple marks down the center fold; right page reads \"RECOMENDACIONES GENERALES A LOS TRABAJADORES MEXICANOS DURANTE SU ESTANCIA EN LOS ESTADOS UNIDOS DE AMERICA.\""
 geo:
 id: 585
 item_type: Still Image

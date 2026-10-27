@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.03.jpg
     thumb: /files/thumbnails/NAD-200401384103.jpg
     url: /files/original/NAD-200401384103.jpg
+    alt:
+      en: "Viewed through a doorway, a bracero reclines on a bed reading a magazine while another man sits beside him; a third figure crouches nearby and clothing hangs drying on a line."
 geo:
 id: 2551
 item_type: Still Image

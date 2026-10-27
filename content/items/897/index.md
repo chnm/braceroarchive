@@ -46,6 +46,8 @@ files:
     original_filename: Recibos Envio dinero Western Union 1962 (2).jpg
     thumb: /files/thumbnails/recibos-envio-dinero-western-union-1962-(2)_463eb7fdfb.jpg
     url: /files/original/recibos-envio-dinero-western-union-1962-(2)_463eb7fdfb.jpg
+    alt:
+      en: "Two Western Union Telegraph Company receipts from Seminole, Texas, dated Feb 20 and Mar 26, 1962, recording money orders sent by Liborio Santiago to Sra. Victoria Diaz in Mexico, with amounts, charges, and signatures."
 geo:
 id: 897
 item_type: Document

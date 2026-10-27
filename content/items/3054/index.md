@@ -44,6 +44,8 @@ files:
     original_filename: belen soto moreno 3 (dup).jpg
     thumb: /files/thumbnails/belen-soto-moreno-3-(dup)_7c2543fe65.jpg
     url: /files/original/belen-soto-moreno-3-(dup)_7c2543fe65.jpg
+    alt:
+      en: "Sepia-toned photograph of a small wooden building mounted on wheels, being pulled by a team of horses and mules, with two men standing on the structure's platform."
 geo:
 id: 3054
 item_type: Still Image

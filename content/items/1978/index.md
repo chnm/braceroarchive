@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.14.jpg
     thumb: /files/thumbnails/NAD-200401382414.jpg
     url: /files/original/NAD-200401382414.jpg
+    alt:
+      en: "Black-and-white photo of a crowded office in Stockton, California, with two officials conversing at a cluttered desk while braceros in hats and work shirts stand and wait nearby, lockers lining the wall."
 geo:
 id: 1978
 item_type: Still Image

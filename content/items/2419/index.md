@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.19.jpg
     thumb: /files/thumbnails/NAD-200401383719.jpg
     url: /files/original/NAD-200401383719.jpg
+    alt:
+      en: "Braceros in wide-brimmed hats sit and crouch along a dirt road beside a farm field, eating lunch near large cooking pots, with a truck and tractor parked nearby."
 geo:
 id: 2419
 item_type: Still Image

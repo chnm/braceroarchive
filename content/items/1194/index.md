@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 35.jpg
     thumb: /files/thumbnails/velasco-patino-35_4cc7c59ede.jpg
     url: /files/original/velasco-patino-35_4cc7c59ede.jpg
+    alt:
+      en: "Three stacked First National Bank \"Purchaser's Receipt of Bank Money Order\" stubs from Coachella, California, dated 1948–1950, each stamped \"INSURED,\" listing M. Gonzales as purchaser and Francisca Rodriguez as payee."
 geo:
 id: 1194
 item_type: Document

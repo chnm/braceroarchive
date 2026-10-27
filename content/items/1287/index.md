@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.03.jpg
     thumb: /files/thumbnails/NAD-200401380203.jpg
     url: /files/original/NAD-200401380203.jpg
+    alt:
+      en: "Men lean over tables covered with small identification photographs at the Hidalgo Processing Center, while a line of braceros waits behind them in a covered walkway."
 geo:
 id: 1287
 item_type: Still Image

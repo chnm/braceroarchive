@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.09.jpg
     thumb: /files/thumbnails/NAD-200401380909.jpg
     url: /files/original/NAD-200401380909.jpg
+    alt:
+      en: "Black-and-white aerial view of a large crowd of braceros gathered and standing in lines at the Monterrey Processing Center, with a vintage car and distant mountains in the background."
 geo:
 id: 1552
 item_type: Still Image

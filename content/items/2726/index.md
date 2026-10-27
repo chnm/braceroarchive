@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.33.jpg
     thumb: /files/thumbnails/NAD-200401384633.jpg
     url: /files/original/NAD-200401384633.jpg
+    alt:
+      en: "Black-and-white photo of a barracks room with rows of wooden bunk beds holding folded clothing and belongings; workers stand near the beds under tall windows."
 geo:
 id: 2726
 item_type: Still Image

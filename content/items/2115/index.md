@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.25.jpg
     thumb: /files/thumbnails/NAD-200401382825.jpg
     url: /files/original/NAD-200401382825.jpg
+    alt:
+      en: "Black-and-white photo of braceros serving beans from a large pot into their plates in a dining hall kitchen, with shelves and stacked trays visible in the background."
 geo:
 id: 2115
 item_type: Still Image

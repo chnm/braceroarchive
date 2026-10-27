@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.15.jpg
     thumb: /files/thumbnails/NAD-200401382315.jpg
     url: /files/original/NAD-200401382315.jpg
+    alt:
+      en: "Black-and-white photo of a bracero lying on a cot in a dormitory, arm resting on windowsill, gazing outside; metal bunk beds fill the sparse room."
 geo:
 id: 1944
 item_type: Still Image

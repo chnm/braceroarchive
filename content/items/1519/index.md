@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.32.jpg
     thumb: /files/thumbnails/NAD-200401380832.jpg
     url: /files/original/NAD-200401380832.jpg
+    alt:
+      en: "A man in a suit collects papers from a line of braceros wearing straw hats, with trees and buildings in the background, Mexico City, Mexico."
 geo:
 id: 1519
 item_type: Still Image

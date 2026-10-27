@@ -46,6 +46,8 @@ files:
     original_filename: Certificado antecedentes penales, Distrito Federal, 1961.jpg
     thumb: /files/thumbnails/certificado-antecedentes-penales,-distrito-federal,-1961_e70dd52d78.jpg
     url: /files/original/certificado-antecedentes-penales,-distrito-federal,-1961_e70dd52d78.jpg
+    alt:
+      en: "Official Mexican certificate titled \"Jefatura de Policia del Distrito Federal, Certificado de Antecedentes,\" dated March 16, 1961, with stamps, seals, and signatures certifying no criminal record for Homero Lopez Ortiz."
 geo:
 id: 868
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.29.jpg
     thumb: /files/thumbnails/NAD-200401381429.jpg
     url: /files/original/NAD-200401381429.jpg
+    alt:
+      en: "Row of women seated at typewriters along a long counter, typing documents as men in hats stand before them, inside the Hidalgo Processing Center in Texas."
 geo:
 id: 1682
 item_type: Still Image

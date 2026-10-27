@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio8.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio8_ce1ffb6fe0.jpg
     url: /files/original/lopez-leon,-asterio8_ce1ffb6fe0.jpg
+    alt:
+      en: "Interior page of a Mexican passport, No. 268527, issued to Asterio Leon Lopez, with his wife Ana Maria Vazquez de Leon listed, featuring an official eagle seal stamp."
 geo:
 id: 1255
 item_type: Document

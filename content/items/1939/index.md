@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.10.jpg
     thumb: /files/thumbnails/NAD-200401382310.jpg
     url: /files/original/NAD-200401382310.jpg
+    alt:
+      en: "A man in a cowboy hat stands at an outdoor wooden washing trough doing laundry, with tents and sparse farmland visible in the background."
 geo:
 id: 1939
 item_type: Still Image

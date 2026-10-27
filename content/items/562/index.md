@@ -44,6 +44,8 @@ files:
     original_filename: bracero field shot.jpg
     thumb: /files/thumbnails/bracero-field-shot_2ccd1466c8.jpg
     url: /files/original/bracero-field-shot_2ccd1466c8.jpg
+    alt:
+      en: "Vintage black-and-white photo of a man in a wide-brimmed hat and jacket standing alone in an open field under a vast, hazy sky, with sparse brush visible in the distance."
 geo:
 id: 562
 item_type: Still Image

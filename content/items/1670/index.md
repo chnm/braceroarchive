@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.17.jpg
     thumb: /files/thumbnails/NAD-200401381417.jpg
     url: /files/original/NAD-200401381417.jpg
+    alt:
+      en: "A man in a straw hat and overalls speaks with workers wearing hats under a covered outdoor structure, while a line of men wait near a table where a clerk sits writing."
 geo:
 id: 1670
 item_type: Still Image

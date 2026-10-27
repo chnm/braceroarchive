@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.30.14.jpg
     thumb: /files/thumbnails/NAD-200401383014.jpg
     url: /files/original/NAD-200401383014.jpg
+    alt:
+      en: "Black-and-white photo of a bracero wearing a hat, walking between wooden barrack-style living quarters, with large muddy puddles covering the dirt ground in the foreground."
 geo:
 id: 2165
 item_type: Still Image

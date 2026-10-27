@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.22.jpg
     thumb: /files/thumbnails/NAD-200401383522.jpg
     url: /files/original/NAD-200401383522.jpg
+    alt:
+      en: "Black-and-white photo of braceros stacking wooden crates of green onions onto a flatbed truck beside rows of crops in a Salinas Valley field, with hills in the distance."
 geo:
 id: 2330
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: Belen Soto 1.jpg
     thumb: /files/thumbnails/belen-soto-1_d44e501cf8.jpg
     url: /files/original/belen-soto-1_d44e501cf8.jpg
+    alt:
+      en: "A man drives a John Deere tractor pulling a trailer stacked with hay bales toward a barn, while another man stands in the barn doorway stacking bales."
 geo:
 id: 3050
 item_type: Still Image

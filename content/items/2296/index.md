@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.11.jpg
     thumb: /files/thumbnails/NAD-200401383411.jpg
     url: /files/original/NAD-200401383411.jpg
+    alt:
+      en: "A bracero bends over to close a full \"Toro\" lettuce box with a special tool, as other workers harvest lettuce across the expansive field in the Salinas Valley, California."
 geo:
 id: 2296
 item_type: Still Image

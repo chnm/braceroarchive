@@ -46,6 +46,8 @@ files:
     original_filename: Estrada E, Luis, id card of father2.jpg
     thumb: /files/thumbnails/estrada-e,-luis,-id-card-of-father2_fa124b7134.jpg
     url: /files/original/estrada-e,-luis,-id-card-of-father2_fa124b7134.jpg
+    alt:
+      en: "Back of an alien laborer's identification card with printed English and Spanish text about the Bracero Program and the 1959 F.I.P.A. agricultural congress, with \"815216\" handwritten in blue ink at the bottom."
 geo:
 id: 921
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: Recibos Envio dinero Western Union 1961 (2).jpg
     thumb: /files/thumbnails/recibos-envio-dinero-western-union-1961-(2)_6f1c7268d2.jpg
     url: /files/original/recibos-envio-dinero-western-union-1961-(2)_6f1c7268d2.jpg
+    alt:
+      en: "Western Union Telegraph Company receipt dated July 25, 1961, Harlingen, Texas, for $20.00 sent by Liborio Santiago Perez to Sra. Victoria Diaz in Etla, Oaxaca, Mexico; total charges $3.90."
 geo:
 id: 896
 item_type: Document

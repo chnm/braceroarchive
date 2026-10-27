@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.14.21.jpg
     thumb: /files/thumbnails/NAD-200401381421.jpg
     url: /files/original/NAD-200401381421.jpg
+    alt:
+      en: "An agent examines a bracero's arm beneath an open-sided shelter as a line of men in hats and work clothes waits nearby at the Hidalgo Processing Center, Texas."
 geo:
 id: 1674
 item_type: Still Image

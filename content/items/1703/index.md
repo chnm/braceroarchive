@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.17.jpg
     thumb: /files/thumbnails/NAD-200401381517.jpg
     url: /files/original/NAD-200401381517.jpg
+    alt:
+      en: "Black-and-white photo of men in hats gathered under trees and along a stone building's facade on a city street, Mexico City, Mexico."
 geo:
 id: 1703
 item_type: Still Image

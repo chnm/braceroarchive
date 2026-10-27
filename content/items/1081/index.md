@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1974, Registro Civil.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1974,-registro-civil_d8ad3eaab3.jpg
     url: /files/original/santacruz,-melitona,-1974,-registro-civil_d8ad3eaab3.jpg
+    alt:
+      en: "Official Mexican civil registry marriage certificate with embossed seal and printed header \"Papel Especial Para Certificados de las Actas del Registro Civil,\" filled with handwritten text recording the marriage details."
 geo:
 id: 1081
 item_type: Document

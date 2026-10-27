@@ -44,6 +44,8 @@ files:
     original_filename: father and daughter.jpg
     thumb: /files/thumbnails/father-and-daughter_9cdb821f45.jpg
     url: /files/original/father-and-daughter_9cdb821f45.jpg
+    alt:
+      en: "Aged, creased photograph of a man in a hat and white shirt with a child beside him, seated before a wire fence and sparse brush, set against a hillside and open sky."
 geo:
 id: 941
 item_type: Still Image

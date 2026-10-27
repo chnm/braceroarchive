@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.17.jpg
     thumb: /files/thumbnails/NAD-200401385017.jpg
     url: /files/original/NAD-200401385017.jpg
+    alt:
+      en: "A man in a pith helmet and sunglasses sits on a suitcase amid luggage and bundles, while other men in hats gather nearby on a tree-lined street in Stockton, California."
 geo:
 id: 2832
 item_type: Still Image

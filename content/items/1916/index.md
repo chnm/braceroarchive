@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.16.jpg
     thumb: /files/thumbnails/NAD-200401382216.jpg
     url: /files/original/NAD-200401382216.jpg
+    alt:
+      en: "Black-and-white photo of a bracero standing at the entrance of a large peaked tent in a dirt-floor camp, surrounded by trees and another tent in the foreground."
 geo:
 id: 1916
 item_type: Still Image

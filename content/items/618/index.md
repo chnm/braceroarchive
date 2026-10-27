@@ -46,6 +46,8 @@ files:
     original_filename: Montes-Gonzalez SJ1.jpg
     thumb: /files/thumbnails/montes-gonzalez-sj1_1799134569.jpg
     url: /files/original/montes-gonzalez-sj1_1799134569.jpg
+    alt:
+      en: "Recognition card from Mexico's Secretaría del Trabajo honoring Alberto Montes González, dated January 3, 1953, paired with his Alien Laborer's Identification Card featuring a photograph."
 geo:
 id: 618
 item_type: Document

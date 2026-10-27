@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.48.19.jpg
     thumb: /files/thumbnails/NAD-200401384819.jpg
     url: /files/original/NAD-200401384819.jpg
+    alt:
+      en: "A man wearing a cap sits on a metal-framed bed in a bare, sunlit room, reading a letter held in both hands, with clothing hanging on a wall hook nearby."
 geo:
 id: 2777
 item_type: Still Image

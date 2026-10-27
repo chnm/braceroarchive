@@ -44,6 +44,8 @@ files:
     original_filename: cotton field picking.jpg
     thumb: /files/thumbnails/cotton-field-picking_bfd10c9b4d.jpg
     url: /files/original/cotton-field-picking_bfd10c9b4d.jpg
+    alt:
+      en: "A bracero wearing a striped shirt and sun hat stands in a sprawling cotton field, picking cotton amid rows of plants under a hazy sky, in this sepia-toned photograph."
 geo:
 id: 571
 item_type: Still Image

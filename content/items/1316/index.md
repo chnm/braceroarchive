@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.33.jpg
     thumb: /files/thumbnails/NAD-200401380233.jpg
     url: /files/original/NAD-200401380233.jpg
+    alt:
+      en: "Rows of men in hats line up under an open-sided shelter at the Hidalgo Processing Center, while a uniformed official stands watch as an agent examines them."
 geo:
 id: 1316
 item_type: Still Image

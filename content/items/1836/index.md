@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.43.jpg
     thumb: /files/thumbnails/NAD-200401382043.jpg
     url: /files/original/NAD-200401382043.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over long rows of lettuce in a Salinas Valley field, filling \"Cookie Head Lettuce\" boxes, with farm buildings and trees on the horizon."
 geo:
 id: 1836
 item_type: Still Image

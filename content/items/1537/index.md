@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.09.18.jpg
     thumb: /files/thumbnails/NAD-200401380918.jpg
     url: /files/original/NAD-200401380918.jpg
+    alt:
+      en: "A large crowd of men in hats stands behind a barbed wire fence at the Monterrey Processing Center, with mountains visible in the hazy background."
 geo:
 id: 1537
 item_type: Still Image

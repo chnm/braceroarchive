@@ -46,6 +46,8 @@ files:
     original_filename: espino12copy.jpg
     thumb: /files/thumbnails/espino12copy_0f1857f20e.jpg
     url: /files/original/espino12copy_0f1857f20e.jpg
+    alt:
+      en: "Sheet of uncut War Ration Book stamps arranged in a 6x4 grid, each labeled with letters A through F and numbers 8, 5, 2, or 1, printed in brown ink on a perforated page."
 geo:
 id: 934
 item_type: Document

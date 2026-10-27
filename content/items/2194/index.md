@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.31.18.jpg
     thumb: /files/thumbnails/NAD-200401383118.jpg
     url: /files/original/NAD-200401383118.jpg
+    alt:
+      en: "Workers crouch along rows of crops in a field, filling wooden crates with onions, with houses and hills visible in the background."
 geo:
 id: 2194
 item_type: Still Image

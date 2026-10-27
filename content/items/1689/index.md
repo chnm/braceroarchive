@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.03.jpg
     thumb: /files/thumbnails/NAD-200401381503.jpg
     url: /files/original/NAD-200401381503.jpg
+    alt:
+      en: "Black-and-white photo of men in hats lined up along a stone building's arched entrance, beneath a sign reading \"TOLSA 6\" and a posted notice, waiting to apply for farm work."
 geo:
 id: 1689
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.02.jpg
     thumb: /files/thumbnails/NAD-200401382502.jpg
     url: /files/original/NAD-200401382502.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a cowboy hat exiting a doorway beside a sign reading \"Pan-American Underwriters, Medical Service, Oficina de Doctor.\""
 geo:
 id: 2001
 item_type: Still Image

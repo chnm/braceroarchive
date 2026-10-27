@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.11.jpg
     thumb: /files/thumbnails/NAD-200401382011.jpg
     url: /files/original/NAD-200401382011.jpg
+    alt:
+      en: "Workers in a lettuce field pack produce into \"Select Lettuce\" branded boxes stacked on a conveyor belt, with a vast field and farm buildings in the background."
 geo:
 id: 1839
 item_type: Still Image

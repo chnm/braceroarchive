@@ -44,6 +44,8 @@ files:
     original_filename: Team.jpg
     thumb: /files/thumbnails/team_4cfad12475.jpg
     url: /files/original/team_4cfad12475.jpg
+    alt:
+      en: "Vintage group photo of a women's team in matching uniforms marked \"EJA,\" posed standing and kneeling with a man in a suit, in front of columns and a building facade."
 geo:
 id: 834
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.30.jpg
     thumb: /files/thumbnails/NAD-200401384130.jpg
     url: /files/original/NAD-200401384130.jpg
+    alt:
+      en: "Black-and-white photo of four men seated close together in a wood-paneled living quarter, one holding a magazine titled \"Confidential\" on his lap."
 geo:
 id: 2578
 item_type: Still Image

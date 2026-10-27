@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 34.jpg
     thumb: /files/thumbnails/velasco-patino-34_0cc5d717cd.jpg
     url: /files/original/velasco-patino-34_0cc5d717cd.jpg
+    alt:
+      en: "Three teal-colored \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank in Coachella, California, issued to M. Gonzalez for Francisca Rodriguez, Salvador Velasco, and Sofia Rodriguez, dated 1948-1950."
 geo:
 id: 1193
 item_type: Document

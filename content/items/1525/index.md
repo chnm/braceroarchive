@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.29.jpg
     thumb: /files/thumbnails/NAD-200401380929.jpg
     url: /files/original/NAD-200401380929.jpg
+    alt:
+      en: "Men in straw hats and light shirts stand talking inside a sparse building with tall windows, one carrying a rolled bundle, as they wait to be processed at the Monterrey Processing Center."
 geo:
 id: 1525
 item_type: Still Image

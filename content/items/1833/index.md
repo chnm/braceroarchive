@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.40.jpg
     thumb: /files/thumbnails/NAD-200401382040.jpg
     url: /files/original/NAD-200401382040.jpg
+    alt:
+      en: "A man operates a box-assembly machine atop a truck, folding \"Cookie Head Lettuce\" cartons, while numerous workers harvest and pack lettuce in the expansive field behind him."
 geo:
 id: 1833
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.16.jpg
     thumb: /files/thumbnails/NAD-200401380716.jpg
     url: /files/original/NAD-200401380716.jpg
+    alt:
+      en: "A long line of men wearing wide-brimmed hats waits at the Monterrey Processing Center, with additional groups gathered near buildings in the background."
 geo:
 id: 1464
 item_type: Still Image

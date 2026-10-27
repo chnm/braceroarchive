@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.22.jpg
     thumb: /files/thumbnails/NAD-200401385122.jpg
     url: /files/original/NAD-200401385122.jpg
+    alt:
+      en: "A nurse in a white uniform and cap stands beside a desk, speaking with a seated man in a dark sweater; medical instruments and papers are visible nearby in the clinic."
 geo:
 id: 2863
 item_type: Still Image

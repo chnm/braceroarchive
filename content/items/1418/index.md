@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.12.jpg
     thumb: /files/thumbnails/NAD-200401380612.jpg
     url: /files/original/NAD-200401380612.jpg
+    alt:
+      en: "A long line of men in wide-brimmed hats and light clothing, many carrying bundles, stands along a building wall at the Monterrey Processing Center awaiting processing."
 geo:
 id: 1418
 item_type: Still Image

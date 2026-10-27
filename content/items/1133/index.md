@@ -46,6 +46,8 @@ files:
     original_filename: velasco patino 18.jpg
     thumb: /files/thumbnails/velasco-patino-18_d19d371ec6.jpg
     url: /files/original/velasco-patino-18_d19d371ec6.jpg
+    alt:
+      en: "Typed letter addressed \"To whom it may concern\" certifying Nepomucano Sanchez Gonzalez's past work and recommending his rehire, signed by James Hiroto, with a pasted newspaper obituary clipping for \"James T. Hiroto, 65\" below."
 geo:
 id: 1133
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.03.jpg
     thumb: /files/thumbnails/NAD-200401383403.jpg
     url: /files/original/NAD-200401383403.jpg
+    alt:
+      en: "Black-and-white aerial view of a lettuce field with numerous workers bent over rows, harvesting and packing produce into wooden crates, with open land and a road visible in the background."
 geo:
 id: 2299
 item_type: Still Image

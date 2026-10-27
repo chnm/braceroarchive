@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.26.jpg
     thumb: /files/thumbnails/NAD-200401384326.jpg
     url: /files/original/NAD-200401384326.jpg
+    alt:
+      en: "A man in a cap and collared shirt stands on a wooden porch outside a row of wood-sided barracks, with other workers visible walking along the dirt path in the background."
 geo:
 id: 2633
 item_type: Still Image

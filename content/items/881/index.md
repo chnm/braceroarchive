@@ -46,6 +46,8 @@ files:
     original_filename: Mica Servando Penaloza (front with picture).jpg
     thumb: /files/thumbnails/mica-servando-penaloza-(front-with-picture)_bc24153197.jpg
     url: /files/original/mica-servando-penaloza-(front-with-picture)_bc24153197.jpg
+    alt:
+      en: "Front of an Alien Laborer's Identification Card with a black-and-white photo of a young man, titled \"Alien Laborer's Identification Card,\" issued by the U.S. Department of Justice, Immigration and Naturalization Service."
 geo:
 id: 881
 item_type: Document

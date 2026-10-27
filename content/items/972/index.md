@@ -43,6 +43,8 @@ files:
     original_filename: Garcia Roberto - passport2.jpg
     thumb: /files/thumbnails/garcia-roberto---passport2_c114cf60d2.jpg
     url: /files/original/garcia-roberto---passport2_c114cf60d2.jpg
+    alt:
+      en: "Two facing pages of a Mexican passport booklet; the upper page shows faint reversed text visible through the paper, while the lower page bears a green \"VISADA\" stamp with a March 28, 1959 date and official signature."
 geo:
 id: 972
 item_type: Document

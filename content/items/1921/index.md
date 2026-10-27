@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.21.jpg
     thumb: /files/thumbnails/NAD-200401382221.jpg
     url: /files/original/NAD-200401382221.jpg
+    alt:
+      en: "Rows of cots line a long wooden barracks, with a man sitting on his bed near a footlocker and clothing hanging on the wall, while others rest further down the room."
 geo:
 id: 1921
 item_type: Still Image

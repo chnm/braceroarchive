@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.05.jpg
     thumb: /files/thumbnails/NAD-200401381105.jpg
     url: /files/original/NAD-200401381105.jpg
+    alt:
+      en: "A long line of men walks single-file across an open dirt field toward low buildings, with a hill and utility poles visible in the hazy background at the Monterrey Processing Center."
 geo:
 id: 1591
 item_type: Still Image

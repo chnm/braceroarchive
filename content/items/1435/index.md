@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.06.37.jpg
     thumb: /files/thumbnails/NAD-200401380637.jpg
     url: /files/original/NAD-200401380637.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men in straw hats standing in lines, holding up signs including one reading \"Duranguenses Libres,\" at the Monterrey Processing Center."
 geo:
 id: 1435
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.29.jpg
     thumb: /files/thumbnails/NAD-200401381929.jpg
     url: /files/original/NAD-200401381929.jpg
+    alt:
+      en: "Aerial black-and-white photograph of plowed agricultural fields and orchard rows bordering a narrow river, with a dirt road and bright irrigated patch visible near the waterway."
 geo:
 id: 1806
 item_type: Still Image

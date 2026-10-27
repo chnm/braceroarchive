@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.13censored.jpg
     thumb: /files/thumbnails/NAD-200401381213censored.jpg
     url: /files/original/NAD-200401381213censored.jpg
+    alt:
+      en: "Black-and-white photo of men, shirtless and waiting in line, under a wooden shelter at the Hidalgo Processing Center, Texas, with trees and power lines in the background."
 geo:
 id: 2999
 item_type: Still Image

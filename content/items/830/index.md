@@ -46,6 +46,8 @@ files:
     original_filename: MariaLuz-back.jpg
     thumb: /files/thumbnails/marialuz-back_25dc6036c6.jpg
     url: /files/original/marialuz-back_25dc6036c6.jpg
+    alt:
+      en: "A worn U.S. Citizen's Identification Card with printed text from the Department of Labor, Immigration and Naturalization Service, handwritten address details, and an official stamp, with several black ink blots obscuring parts of the form."
 geo:
 id: 830
 item_type: Document

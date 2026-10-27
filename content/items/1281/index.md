@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.38.jpg
     thumb: /files/thumbnails/NAD-200401380138.jpg
     url: /files/original/NAD-200401380138.jpg
+    alt:
+      en: "A long line of men wearing hats stands outdoors near cardboard boxes at the Monterrey Processing Center, with low buildings and a bus visible in the background."
 geo:
 id: 1281
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.30.jpg
     thumb: /files/thumbnails/NAD-200401381630.jpg
     url: /files/original/NAD-200401381630.jpg
+    alt:
+      en: "Rows of men, many wearing straw hats, sit crowded along the floor of a large hall, waiting in line inside the Monterrey Processing Center."
 geo:
 id: 1737
 item_type: Still Image

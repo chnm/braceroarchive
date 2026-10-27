@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.05.jpg
     thumb: /files/thumbnails/NAD-200401383205.jpg
     url: /files/original/NAD-200401383205.jpg
+    alt:
+      en: "A man gives another a haircut in a cramped room, with clothing hanging on a line overhead and a bed visible in the background."
 geo:
 id: 2210
 item_type: Still Image

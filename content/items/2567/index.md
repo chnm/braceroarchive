@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.19.jpg
     thumb: /files/thumbnails/NAD-200401384119.jpg
     url: /files/original/NAD-200401384119.jpg
+    alt:
+      en: "Black-and-white photo of four braceros seated together against a wooden wall in a California camp living quarter, dressed in work clothes with solemn expressions."
 geo:
 id: 2567
 item_type: Still Image

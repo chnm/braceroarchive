@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.07.jpg
     thumb: /files/thumbnails/NAD-200401381107.jpg
     url: /files/original/NAD-200401381107.jpg
+    alt:
+      en: "Aerial view of a large courtyard at a processing center, with groups of braceros standing in long lines and others seated on the ground, surrounded by low buildings and distant mountains."
 geo:
 id: 1584
 item_type: Still Image

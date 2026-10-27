@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.26.jpg
     thumb: /files/thumbnails/NAD-200401382726.jpg
     url: /files/original/NAD-200401382726.jpg
+    alt:
+      en: "Men wearing wide-brimmed hats check a large wall of numbered mail slots outside a building at the Gondo Labor Camp in Watsonville, California."
 geo:
 id: 2061
 item_type: Still Image

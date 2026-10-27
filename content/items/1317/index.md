@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.03.09.jpg
     thumb: /files/thumbnails/NAD-200401380309.jpg
     url: /files/original/NAD-200401380309.jpg
+    alt:
+      en: "Shirtless braceros, many wearing wide-brimmed hats, stand in line at desks dictating information to seated clerk typists in a large hall at the Monterrey Processing Center."
 geo:
 id: 1317
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.29.jpg
     thumb: /files/thumbnails/NAD-200401384429.jpg
     url: /files/original/NAD-200401384429.jpg
+    alt:
+      en: "Black-and-white photo of men gathered on and around beds in a bracero camp dormitory, several playing cards, with clothing hung on lines and suitcases nearby."
 geo:
 id: 2661
 item_type: Still Image

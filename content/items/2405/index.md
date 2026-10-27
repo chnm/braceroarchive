@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.03.jpg
     thumb: /files/thumbnails/NAD-200401383503.jpg
     url: /files/original/NAD-200401383503.jpg
+    alt:
+      en: "Empty bus interior converted for transporting braceros, with long wooden benches running along both sides and a central plywood table or platform with metal hinges, viewed toward the windshield."
 geo:
 id: 2405
 item_type: Still Image

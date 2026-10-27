@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio7.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio7_169b2d3e5e.jpg
     url: /files/original/lopez-leon,-asterio7_169b2d3e5e.jpg
+    alt:
+      en: "Smallpox vaccination certificate from the U.S. Public Health Service for the U.S.-Mexican border, with handwritten name \"Asterio Leon Lopez,\" age 35, sex M, and stamp number 0267."
 geo:
 id: 1254
 item_type: Document

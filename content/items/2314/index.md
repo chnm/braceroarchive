@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.42.jpg
     thumb: /files/thumbnails/NAD-200401383542.jpg
     url: /files/original/NAD-200401383542.jpg
+    alt:
+      en: "Aerial view of a bracero camp's long, barracks-style buildings with peaked roofs, surrounded by flat farmland, utility poles, parked vehicles, and a few workers standing outside."
 geo:
 id: 2314
 item_type: Still Image

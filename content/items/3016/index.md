@@ -44,6 +44,8 @@ files:
     original_filename: Carmen Quezada 6 rotated.jpg
     thumb: /files/thumbnails/carmen-quezada-6-rotated_aef7a73d99.jpg
     url: /files/original/carmen-quezada-6-rotated_aef7a73d99.jpg
+    alt:
+      en: "Worn Confederate States of America $1000 note dated May 28, 1861, Montgomery, with portraits of two men flanking ornate text and serial number 297."
 geo:
 id: 3016
 item_type: Document

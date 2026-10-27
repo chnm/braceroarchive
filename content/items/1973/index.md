@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.09.jpg
     thumb: /files/thumbnails/NAD-200401382409.jpg
     url: /files/original/NAD-200401382409.jpg
+    alt:
+      en: "A large crowd of braceros, many wearing wide-brimmed hats, gathers outside the San Joaquin County Farm Production Association building in Stockton, California, with parked cars and a bus in the foreground."
 geo:
 id: 1973
 item_type: Still Image

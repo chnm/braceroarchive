@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.11.jpg
     thumb: /files/thumbnails/NAD-200401382611.jpg
     url: /files/original/NAD-200401382611.jpg
+    alt:
+      en: "Braceros wearing wide-brimmed hats gather in a line receiving plates of food at a roadside lunch stop beside a field, with crates of bottled drinks and bread in the foreground."
 geo:
 id: 2034
 item_type: Still Image

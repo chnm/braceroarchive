@@ -46,6 +46,8 @@ files:
     original_filename: FigueroaEncinasLuistestament letter2copy.jpg
     thumb: /files/thumbnails/figueroaencinasluistestament-letter2copy_643a738f16.jpg
     url: /files/original/figueroaencinasluistestament-letter2copy_643a738f16.jpg
+    alt:
+      en: "Notarized Spanish-language document certifying signatures of Juan Topete Hernandez and Luis Ramirez Montes, signed by Licenciado Arturo López Corella with handwritten signature and two red notary seals."
 geo:
 id: 1026
 item_type: Document

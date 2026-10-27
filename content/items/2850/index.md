@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.09.jpg
     thumb: /files/thumbnails/NAD-200401385109.jpg
     url: /files/original/NAD-200401385109.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting in a narrow wooden barracks room, one man lying on a bunk, others seated nearby, with clothing hanging on lines in the background."
 geo:
 id: 2850
 item_type: Still Image

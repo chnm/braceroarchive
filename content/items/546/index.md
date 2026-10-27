@@ -44,6 +44,8 @@ files:
     original_filename: id 2of 6.jpg
     thumb: /files/thumbnails/id-2of-6_d81a341ee0.jpg
     url: /files/original/id-2of-6_d81a341ee0.jpg
+    alt:
+      en: "Worn identification card interior with printed Spanish instructions about matching a fingerprint to the holder's photograph, stamped \"VISA 1961\" and dated \"12 ABR. 1961,\" alongside official seals."
 geo:
 id: 546
 item_type: Document

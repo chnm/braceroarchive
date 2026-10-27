@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.26.jpg
     thumb: /files/thumbnails/NAD-200401384026.jpg
     url: /files/original/NAD-200401384026.jpg
+    alt:
+      en: "Aerial view of braceros stooped in long rows of a lettuce field, harvesting and packing crops in the Salinas Valley, California, with vehicles and distant hills visible."
 geo:
 id: 2537
 item_type: Still Image

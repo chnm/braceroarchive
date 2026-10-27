@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.23.jpg
     thumb: /files/thumbnails/NAD-200401385123.jpg
     url: /files/original/NAD-200401385123.jpg
+    alt:
+      en: "A nurse in uniform and cap administers an injection to a bracero lying face down on an exam table, with surgical instruments and medical supplies arranged on a nearby tray."
 geo:
 id: 2864
 item_type: Still Image

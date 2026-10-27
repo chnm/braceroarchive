@@ -44,6 +44,8 @@ files:
     original_filename: Mar17_05.JPG
     thumb: /files/thumbnails/mar17_05_c6c689b0f3.jpg
     url: /files/original/mar17_05_c6c689b0f3.jpg
+    alt:
+      en: "Sepia-toned postcard showing a steam shovel loading rock onto railcars beside a steep hillside, with smoke rising above; captioned \"Steam Shovel in Operation. Jerome, Ariz.\""
 geo:
 id: 529
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.26.jpg
     thumb: /files/thumbnails/NAD-200401380926.jpg
     url: /files/original/NAD-200401380926.jpg
+    alt:
+      en: "Large crowd of men wearing wide-brimmed hats stand in long queues in a dirt yard outside low buildings at the Monterrey Processing Center, Mexico."
 geo:
 id: 1533
 item_type: Still Image

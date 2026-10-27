@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.07.jpg
     thumb: /files/thumbnails/NAD-200401384607.jpg
     url: /files/original/NAD-200401384607.jpg
+    alt:
+      en: "Two braceros sit on the ground playing checkers outside a barracks building, while a third man watches from a bench nearby and a wooden outbuilding and clothesline stand in the background."
 geo:
 id: 2702
 item_type: Still Image

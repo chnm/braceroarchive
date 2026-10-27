@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.07.jpg
     thumb: /files/thumbnails/NAD-200401384507.jpg
     url: /files/original/NAD-200401384507.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing wide-brimmed hats standing along the edge of a cultivated field in California, with workers and rows of crops visible in the background."
 geo:
 id: 2674
 item_type: Still Image

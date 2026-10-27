@@ -46,6 +46,8 @@ files:
     original_filename: Jul28_03_front.jpg
     thumb: /files/thumbnails/jul28_03_front_2fcd84f5f6.jpg
     url: /files/original/jul28_03_front_2fcd84f5f6.jpg
+    alt:
+      en: "Alien Laborer's Identification Card with a black-and-white photo of a man, numbered \"09,\" headed \"ALIEN LABORER'S IDENTIFICATION CARD\" and citing \"Immigration and Naturalization Service - I-100D (12-7-55).\""
 geo:
 id: 790
 item_type: Document

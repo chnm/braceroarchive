@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.12.jpg
     thumb: /files/thumbnails/NAD-200401384412.jpg
     url: /files/original/NAD-200401384412.jpg
+    alt:
+      en: "Black-and-white photo of a group of braceros standing outside a building in Watsonville, California, with two men in the center closely examining a paycheck together."
 geo:
 id: 2645
 item_type: Still Image

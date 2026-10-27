@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.25.jpg
     thumb: /files/thumbnails/NAD-200401384625.jpg
     url: /files/original/NAD-200401384625.jpg
+    alt:
+      en: "Braceros gather outside a brick building marked \"Federal Pitter Co. Peach Pitting Equipment,\" with one man crouched at a washbasin while another leans over him in a camp setting."
 geo:
 id: 2718
 item_type: Still Image

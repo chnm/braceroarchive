@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.21.jpg
     thumb: /files/thumbnails/NAD-200401382021.jpg
     url: /files/original/NAD-200401382021.jpg
+    alt:
+      en: "Braceros harvest lettuce in a Salinas Valley field, packing heads into \"Cookie Head Lettuce\" boxes while other workers continue picking amid rows of crops."
 geo:
 id: 1867
 item_type: Still Image

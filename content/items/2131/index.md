@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.29.41.jpg
     thumb: /files/thumbnails/NAD-200401382941.jpg
     url: /files/original/NAD-200401382941.jpg
+    alt:
+      en: "Black-and-white photo of the State Theater marquee advertising a \"Spanish Program Every Friday Saturday and Sunday,\" with men crossing the street past parked cars toward Insurance and Real Estate offices."
 geo:
 id: 2131
 item_type: Still Image

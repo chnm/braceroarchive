@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.20.10.jpg
     thumb: /files/thumbnails/NAD-200401382010.jpg
     url: /files/original/NAD-200401382010.jpg
+    alt:
+      en: "Black-and-white photo from atop a truck stacked with \"Lettuce\" boxes, a worker in a cowboy hat loading crates, with rows of lettuce fields and distant laborers stretching to the horizon."
 geo:
 id: 1838
 item_type: Still Image

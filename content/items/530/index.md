@@ -46,6 +46,8 @@ files:
     original_filename: Mar17_17.JPG
     thumb: /files/thumbnails/mar17_17_d8034dc5da.jpg
     url: /files/original/mar17_17_d8034dc5da.jpg
+    alt:
+      en: "Typed letter on letterhead from Alberto Lemus González, Administrador de Correos \"3\", Mexico, D.F., dated August 12, 1944, addressed to Catarino Casillas in Wauseon, Ohio, with a handwritten signature at the bottom."
 geo:
 id: 530
 item_type: Document

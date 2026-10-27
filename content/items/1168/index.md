@@ -46,6 +46,8 @@ files:
     original_filename: Roman Gaxiola, Manuel de Jesus, 1954, Contract2.jpg
     thumb: /files/thumbnails/roman-gaxiola,-manuel-de-jesus,-1954,-contract2_aa20d01a8a.jpg
     url: /files/original/roman-gaxiola,-manuel-de-jesus,-1954,-contract2_aa20d01a8a.jpg
+    alt:
+      en: "Aged, creased contract page with handwritten signatures including Manuel de Jesus Roman Gaxiola, a stamped \"DEC 2 1954\" date, and printed text referencing contracting supervision and Mexican/U.S. labor representatives."
 geo:
 id: 1168
 item_type: Document

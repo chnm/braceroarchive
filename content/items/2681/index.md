@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.14.jpg
     thumb: /files/thumbnails/NAD-200401384514.jpg
     url: /files/original/NAD-200401384514.jpg
+    alt:
+      en: "Black-and-white photo of braceros in wide-brimmed hats standing in a dirt field, one holding a metal pail of water, with sacks on the ground and workers visible in the distant crop rows."
 geo:
 id: 2681
 item_type: Still Image

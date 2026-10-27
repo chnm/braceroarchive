@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.44.01.jpg
     thumb: /files/thumbnails/NAD-200401384401.jpg
     url: /files/original/NAD-200401384401.jpg
+    alt:
+      en: "Black-and-white photo of a group of men outdoors examining their paychecks, with two men in the foreground closely reading a slip while others look on in the background."
 geo:
 id: 2634
 item_type: Still Image

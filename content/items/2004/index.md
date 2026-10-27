@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.05.jpg
     thumb: /files/thumbnails/NAD-200401382505.jpg
     url: /files/original/NAD-200401382505.jpg
+    alt:
+      en: "A man seated on a chair receives a medical examination from a doctor, while a nurse stands nearby in a small clinic room furnished with shelves, bottles, and a gooseneck lamp."
 geo:
 id: 2004
 item_type: Still Image

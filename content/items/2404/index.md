@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.34.jpg
     thumb: /files/thumbnails/NAD-200401383434.jpg
     url: /files/original/NAD-200401383434.jpg
+    alt:
+      en: "Black-and-white photo of workers bent over harvesting rows of lettuce in a field, with cardboard produce boxes nearby and a dirt road visible in the background."
 geo:
 id: 2404
 item_type: Still Image

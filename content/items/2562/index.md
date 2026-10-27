@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.14.jpg
     thumb: /files/thumbnails/NAD-200401384114.jpg
     url: /files/original/NAD-200401384114.jpg
+    alt:
+      en: "Black-and-white photo of a man in a jacket tilting his head back while shaving, holding a small mirror, beside a basin in a wood-paneled room."
 geo:
 id: 2562
 item_type: Still Image

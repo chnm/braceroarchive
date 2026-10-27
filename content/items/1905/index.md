@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.05.jpg
     thumb: /files/thumbnails/NAD-200401382205.jpg
     url: /files/original/NAD-200401382205.jpg
+    alt:
+      en: "Black-and-white photo of a large wooden barn with a car parked nearby and a group of braceros seated in a row along its entrance, resting in the shade."
 geo:
 id: 1905
 item_type: Still Image

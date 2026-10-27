@@ -44,6 +44,8 @@ files:
     original_filename: __hr_RioVista-1956.jpg
     thumb: /files/thumbnails/__hr_riovista-1956_9078f68bf3.jpg
     url: /files/original/__hr_riovista-1956_9078f68bf3.jpg
+    alt:
+      en: "Vintage cars parked near a group of people gathered outside a stucco building with a small arched sign, bare trees lining a dirt road under an overcast sky."
 geo:
 id: 490
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.31.jpg
     thumb: /files/thumbnails/NAD-200401380731.jpg
     url: /files/original/NAD-200401380731.jpg
+    alt:
+      en: "A long line of men walks across an open dirt lot toward a two-story building, with a large crowd gathered near tents and vehicles in the background at the Monterrey Processing Center."
 geo:
 id: 1456
 item_type: Still Image

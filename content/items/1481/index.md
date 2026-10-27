@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.07.09.jpg
     thumb: /files/thumbnails/NAD-200401380709.jpg
     url: /files/original/NAD-200401380709.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros gathered along a dirt road lined with vendor stalls and a long wall, waiting in shade near the Monterrey Processing Center."
 geo:
 id: 1481
 item_type: Still Image

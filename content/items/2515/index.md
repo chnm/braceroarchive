@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.38.jpg
     thumb: /files/thumbnails/NAD-200401384038.jpg
     url: /files/original/NAD-200401384038.jpg
+    alt:
+      en: "Black-and-white photo of two men in suits in an office, one standing and leaning over a desk writing while the other sits, with a calendar on the door and venetian blinds in the background."
 geo:
 id: 2515
 item_type: Still Image

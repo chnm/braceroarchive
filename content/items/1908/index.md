@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.08.jpg
     thumb: /files/thumbnails/NAD-200401382208.jpg
     url: /files/original/NAD-200401382208.jpg
+    alt:
+      en: "A predominantly black, nearly indiscernible image with faint shapes near the top edge."
 geo:
 id: 1908
 item_type: Still Image

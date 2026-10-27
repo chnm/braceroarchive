@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.09.jpg
     thumb: /files/thumbnails/NAD-200401383509.jpg
     url: /files/original/NAD-200401383509.jpg
+    alt:
+      en: "Black-and-white photo of braceros washing up at a camp bathroom sink area, with one man in the foreground wiping his mouth, a towel draped around his neck, while others groom behind him."
 geo:
 id: 2337
 item_type: Still Image

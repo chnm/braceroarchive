@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.37.jpg
     thumb: /files/thumbnails/NAD-200401384037.jpg
     url: /files/original/NAD-200401384037.jpg
+    alt:
+      en: "A man in a suit sits at an office desk covered with papers, pen in hand, looking up at the camera, with a wooden cabinet and framed artwork on the wall behind him."
 geo:
 id: 2548
 item_type: Still Image

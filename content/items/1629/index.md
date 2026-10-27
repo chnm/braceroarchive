@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.01.jpg
     thumb: /files/thumbnails/NAD-200401381301.jpg
     url: /files/original/NAD-200401381301.jpg
+    alt:
+      en: "Black-and-white photo of a family gathered in a dirt courtyard outside a stone house in San Mateo, Mexico, with plants, scattered wood, and hills visible in the background."
 geo:
 id: 1629
 item_type: Still Image

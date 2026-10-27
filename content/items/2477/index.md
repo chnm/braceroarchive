@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.33.jpg
     thumb: /files/thumbnails/NAD-200401383833.jpg
     url: /files/original/NAD-200401383833.jpg
+    alt:
+      en: "Black-and-white elevated view of the Gondo Labor Camp, Watsonville, showing long barracks-style buildings amid flat farmland, with wooden fence posts and tall grass in the foreground."
 geo:
 id: 2477
 item_type: Still Image

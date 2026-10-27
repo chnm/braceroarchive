@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.10.31.jpg
     thumb: /files/thumbnails/NAD-200401381031.jpg
     url: /files/original/NAD-200401381031.jpg
+    alt:
+      en: "Black-and-white photo of men in hats walking along railroad tracks beside a barbed-wire fence, passing a small rock-covered grave in the foreground, carrying bundled belongings."
 geo:
 id: 1577
 item_type: Still Image

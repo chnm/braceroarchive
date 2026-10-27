@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.18.jpg
     thumb: /files/thumbnails/NAD-200401381918.jpg
     url: /files/original/NAD-200401381918.jpg
+    alt:
+      en: "Men wearing cowboy hats and work jackets stand in a line beside a bus, with more people queued along the street in the background."
 geo:
 id: 1819
 item_type: Still Image

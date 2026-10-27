@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.17.jpg
     thumb: /files/thumbnails/NAD-200401381717.jpg
     url: /files/original/NAD-200401381717.jpg
+    alt:
+      en: "An official uses a flashlight to examine a shirtless man's mouth and teeth as rows of other men, many shirtless, line up along the walls at the Monterrey Processing Center."
 geo:
 id: 1766
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: RiveraPedroPassport4.jpg
     thumb: /files/thumbnails/riverapedropassport4_141bac167b.jpg
     url: /files/original/riverapedropassport4_141bac167b.jpg
+    alt:
+      en: "Passport pages 10-11: left page is a blank \"Refrendos\" form; right page \"Visas\" has handwritten notes correcting the holder's name to Pedro Rivera Duran and birth date to September 17, 1929, with an official Mexican Consulate seal from San Diego."
 geo:
 id: 1165
 item_type: Document

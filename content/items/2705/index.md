@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.10.jpg
     thumb: /files/thumbnails/NAD-200401384610.jpg
     url: /files/original/NAD-200401384610.jpg
+    alt:
+      en: "Group of men kneeling on dirt ground between white wooden buildings, attending a religious service at a Bracero labor camp in California."
 geo:
 id: 2705
 item_type: Still Image

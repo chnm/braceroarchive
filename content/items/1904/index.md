@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.22.04.jpg
     thumb: /files/thumbnails/NAD-200401382204.jpg
     url: /files/original/NAD-200401382204.jpg
+    alt:
+      en: "Rows of metal-frame cots with thin striped mattresses and rumpled blankets inside a dim, slat-walled barn, light streaking through gaps in the wooden siding."
 geo:
 id: 1904
 item_type: Still Image

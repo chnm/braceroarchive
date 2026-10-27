@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.20.jpg
     thumb: /files/thumbnails/NAD-200401381620.jpg
     url: /files/original/NAD-200401381620.jpg
+    alt:
+      en: "Black-and-white photo of an official taking a man's fingerprint at a small table while shirtless braceros wait in line inside a large hall at the Monterrey Processing Center."
 geo:
 id: 1739
 item_type: Still Image

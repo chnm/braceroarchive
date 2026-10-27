@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.36.jpg
     thumb: /files/thumbnails/NAD-200401382036.jpg
     url: /files/original/NAD-200401382036.jpg
+    alt:
+      en: "Black-and-white photo of workers harvesting lettuce in rows across a field, with a man standing on a flatbed truck assembling boxes labeled \"Cookie Head Lettuce\" in the Salinas Valley, California."
 geo:
 id: 1846
 item_type: Still Image

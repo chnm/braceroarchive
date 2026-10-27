@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.32.jpg
     thumb: /files/thumbnails/NAD-200401384232.jpg
     url: /files/original/NAD-200401384232.jpg
+    alt:
+      en: "A concrete step inscribed with \"DIOS ES AMOR\" serves as the entrance to a bracero camp living quarter, with a person's leg and sandaled foot visible at the doorway."
 geo:
 id: 2603
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.03.jpg
     thumb: /files/thumbnails/NAD-200401381903.jpg
     url: /files/original/NAD-200401381903.jpg
+    alt:
+      en: "A charter bus drives past a large group of braceros waiting in line with luggage under a covered pavilion in Stockton, California."
 geo:
 id: 1828
 item_type: Still Image

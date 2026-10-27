@@ -44,6 +44,8 @@ files:
     original_filename: FigueroaEncinasLuisregistrationexbraceros1.jpg
     thumb: /files/thumbnails/figueroaencinasluisregistrationexbraceros1_5edf80b765.jpg
     url: /files/original/figueroaencinasluisregistrationexbraceros1_5edf80b765.jpg
+    alt:
+      en: "Scanned \"1942-1964\" registration form with handwritten entries for ex-bracero Luis Figueroa Encinas, listing personal details, work locations (1957-1959), four children, and signatures dated 9-16-2003."
 geo:
 id: 1045
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.21.jpg
     thumb: /files/thumbnails/NAD-200401382321.jpg
     url: /files/original/NAD-200401382321.jpg
+    alt:
+      en: "Black-and-white photo of a bunkhouse interior with rows of beds, hanging clothes, and workers gathered around a table in the background; a bare bed frame sits in the foreground."
 geo:
 id: 1950
 item_type: Still Image

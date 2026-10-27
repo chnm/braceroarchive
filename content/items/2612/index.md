@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.04.jpg
     thumb: /files/thumbnails/NAD-200401384304.jpg
     url: /files/original/NAD-200401384304.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers harvesting and packing lettuce into boxes atop a conveyor machine in a Salinas Valley field, with stacked \"Lettuce\" cartons and a road in the background."
 geo:
 id: 2612
 item_type: Still Image

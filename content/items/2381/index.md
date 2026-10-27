@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.43.17.jpg
     thumb: /files/thumbnails/NAD-200401384317.jpg
     url: /files/original/NAD-200401384317.jpg
+    alt:
+      en: "Black-and-white photo of farm workers bent over in rows of a large field performing stoop labor, with a truck and more workers in the distance, framed by a tree branch above."
 geo:
 id: 2381
 item_type: Still Image

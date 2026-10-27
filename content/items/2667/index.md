@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.35.jpg
     thumb: /files/thumbnails/NAD-200401384435.jpg
     url: /files/original/NAD-200401384435.jpg
+    alt:
+      en: "Black-and-white photo of a bracero camp barracks with men resting on metal-frame cots, jackets and clothing hanging on wall hooks above."
 geo:
 id: 2667
 item_type: Still Image

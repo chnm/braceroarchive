@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.05.jpg
     thumb: /files/thumbnails/NAD-200401385105.jpg
     url: /files/original/NAD-200401385105.jpg
+    alt:
+      en: "Black-and-white photo of a crowded dormitory with several men resting on cots, clothing hanging from overhead racks and nails on the walls, in a California bracero labor camp."
 geo:
 id: 2382
 item_type: Still Image

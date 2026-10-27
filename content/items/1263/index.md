@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio15B.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio15b_1b76306d7a.jpg
     url: /files/original/lopez-leon,-asterio15b_1b76306d7a.jpg
+    alt:
+      en: "Spanish-language notarized certification document with dense typed paragraphs, bearing a notary's signature and an embossed circular seal in the lower right corner."
 geo:
 id: 1263
 item_type: Document

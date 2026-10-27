@@ -43,6 +43,8 @@ files:
     original_filename: Venegas Apolonio - mx voting card copy.jpg
     thumb: /files/thumbnails/venegas-apolonio---mx-voting-card-copy_8cc3d2605e.jpg
     url: /files/original/venegas-apolonio---mx-voting-card-copy_8cc3d2605e.jpg
+    alt:
+      en: "Mexican voter ID card (\"Credencial para Votar\") from the Instituto Federal Electoral for Apolonio Venegas Guzman, age 73, of Zitácuaro, Michoacán, with a black-and-white photo of an older man."
 geo:
 id: 1022
 item_type: Document

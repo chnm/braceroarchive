@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.13.jpg
     thumb: /files/thumbnails/NAD-200401380413.jpg
     url: /files/original/NAD-200401380413.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men in hats lined up along a wooden fence at the Monterrey Processing Center, with a tree and utility pole in the background."
 geo:
 id: 1361
 item_type: Still Image

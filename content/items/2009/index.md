@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.10.jpg
     thumb: /files/thumbnails/NAD-200401382510.jpg
     url: /files/original/NAD-200401382510.jpg
+    alt:
+      en: "Black-and-white photo of a seated bracero speaking with a nurse standing beside a seated doctor in a clinic room, with shelves of supplies and a floor lamp in the background."
 geo:
 id: 2009
 item_type: Still Image

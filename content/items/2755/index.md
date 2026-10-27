@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.27.jpg
     thumb: /files/thumbnails/NAD-200401384727.jpg
     url: /files/original/NAD-200401384727.jpg
+    alt:
+      en: "A seated bracero gets a haircut from another man standing behind him in a dormitory, while clothes hang on lines overhead and two men rest on bunks nearby."
 geo:
 id: 2755
 item_type: Still Image

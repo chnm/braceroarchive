@@ -46,6 +46,8 @@ files:
     original_filename: rafael hernandez passaport1.jpg
     thumb: /files/thumbnails/rafael-hernandez-passaport1_e4b117f435.jpg
     url: /files/original/rafael-hernandez-passaport1_e4b117f435.jpg
+    alt:
+      en: "Interior pages of a worn Mexican passport (No. 220061, Pasaporte Numero 1963) issued to Rafael Hernandez Orozco, with an official eagle seal and printed fields for address and emergency contact information."
 geo:
 id: 1061
 item_type: Document

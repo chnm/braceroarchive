@@ -46,6 +46,8 @@ files:
     original_filename: Santacruz, Melitona, 1963, Passport3.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1963,-passport3_b33ef3f932.jpg
     url: /files/original/santacruz,-melitona,-1963,-passport3_b33ef3f932.jpg
+    alt:
+      en: "Mexican passport pages showing printed \"FILIACIONES\" physical description details and a man's photograph under \"FOTOGRAFIAS,\" with a fingerprint and handwritten signature below."
 geo:
 id: 1077
 item_type: Document

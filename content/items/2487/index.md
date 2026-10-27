@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.09.jpg
     thumb: /files/thumbnails/NAD-200401383909.jpg
     url: /files/original/NAD-200401383909.jpg
+    alt:
+      en: "Group of men wearing straw hats gather around the back of a truck or trailer displaying jackets and goods for sale, with a peddler visible inside the vehicle."
 geo:
 id: 2487
 item_type: Still Image

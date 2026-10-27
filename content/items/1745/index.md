@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.14.jpg
     thumb: /files/thumbnails/NAD-200401381614.jpg
     url: /files/original/NAD-200401381614.jpg
+    alt:
+      en: "Black-and-white photo of a large hall with rows of columns, where men in hats line up as medical staff in white uniforms administer vaccinations at a table."
 geo:
 id: 1745
 item_type: Still Image

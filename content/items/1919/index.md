@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.19.jpg
     thumb: /files/thumbnails/NAD-200401382219.jpg
     url: /files/original/NAD-200401382219.jpg
+    alt:
+      en: "Rows of cots line a wooden barracks in a California labor camp, with jackets hanging on the walls and two men seated near windows in the background."
 geo:
 id: 1919
 item_type: Still Image

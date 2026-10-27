@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.08.08.jpg
     thumb: /files/thumbnails/NAD-200401380808.jpg
     url: /files/original/NAD-200401380808.jpg
+    alt:
+      en: "Black-and-white photo of a seated woman weaving a basket in a cluttered room, with two mannequins or statues in indigenous dress standing on a table behind her beneath a religious tapestry."
 geo:
 id: 1495
 item_type: Still Image

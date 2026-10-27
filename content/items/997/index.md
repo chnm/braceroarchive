@@ -46,6 +46,8 @@ files:
     original_filename: Voting Card 2 back.jpg
     thumb: /files/thumbnails/voting-card-2-back_c1537dfaae.jpg
     url: /files/original/voting-card-2-back_c1537dfaae.jpg
+    alt:
+      en: "Back of a Mexican voter ID card with printed text, a signature and title \"Emilio Chuayffet Chemor, Director General, Instituto Federal Electoral,\" a fingerprint, and a grid of election year boxes."
 geo:
 id: 997
 item_type: Document

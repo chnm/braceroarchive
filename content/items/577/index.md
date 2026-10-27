@@ -44,6 +44,8 @@ files:
     original_filename: outhouse.jpg
     thumb: /files/thumbnails/outhouse_26d87fae71.jpg
     url: /files/original/outhouse_26d87fae71.jpg
+    alt:
+      en: "Two photographs on an album page: a faded, pink-toned image of a truck parked along a roadside, and a horse tied near a wooden outhouse and fence."
 geo:
 id: 577
 item_type: Still Image

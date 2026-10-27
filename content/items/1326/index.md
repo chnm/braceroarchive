@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.06.jpg
     thumb: /files/thumbnails/NAD-200401380306.jpg
     url: /files/original/NAD-200401380306.jpg
+    alt:
+      en: "Black-and-white photo of a man in a cowboy hat gesturing toward an official in a large hall, with seated workers at tables and others standing near tall windows."
 geo:
 id: 1326
 item_type: Still Image

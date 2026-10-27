@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.34.jpg
     thumb: /files/thumbnails/NAD-200401382334.jpg
     url: /files/original/NAD-200401382334.jpg
+    alt:
+      en: "Black-and-white photo of a man seated on a cot inside a canvas tent, with clothing hanging from the rafters and metal bed frames visible in the dim interior light."
 geo:
 id: 1963
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.26-27.jpg
     thumb: /files/thumbnails/instructivo-p26-27_3795c11206.jpg
     url: /files/original/instructivo-p26-27_3795c11206.jpg
+    alt:
+      en: "Open book page 27 with printed Spanish text titled \"Derechos con el Seguro Profesional Bajo la Ley de Compensación de Trabajadores,\" listing numbered rights for injured workers; the facing page 26 is blank."
 geo:
 id: 597
 item_type: Still Image

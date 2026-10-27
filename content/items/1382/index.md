@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.05.01.jpg
     thumb: /files/thumbnails/NAD-200401380501.jpg
     url: /files/original/NAD-200401380501.jpg
+    alt:
+      en: "Men gather at a wooden table eating and talking in a long barracks lined with bunk beds and hanging clothes, sunlight streaming through windows near McAllen, Texas."
 geo:
 id: 1382
 item_type: Still Image

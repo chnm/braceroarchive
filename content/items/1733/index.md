@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.26.jpg
     thumb: /files/thumbnails/NAD-200401381626.jpg
     url: /files/original/NAD-200401381626.jpg
+    alt:
+      en: "Black-and-white photo of braceros carrying bags and bundles through a wet-floored corridor at the Monterrey Processing Center, with a framed image of the Virgin of Guadalupe mounted above the doorway ahead."
 geo:
 id: 1733
 item_type: Still Image

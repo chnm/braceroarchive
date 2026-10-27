@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.08.jpg
     thumb: /files/thumbnails/NAD-200401383508.jpg
     url: /files/original/NAD-200401383508.jpg
+    alt:
+      en: "Black-and-white photo of braceros washing up at utility sinks in a camp bathroom, with mirrors above reflecting their faces as water runs from the taps."
 geo:
 id: 2336
 item_type: Still Image

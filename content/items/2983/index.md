@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.23.jpg
     thumb: /files/thumbnails/NAD-200401385623.jpg
     url: /files/original/NAD-200401385623.jpg
+    alt:
+      en: "Workers harvest lettuce in rows of a California field, with a flatbed truck stacked high with Cookie brand lettuce boxes parked among the crops and farm buildings visible in the background."
 geo:
 id: 2983
 item_type: Still Image

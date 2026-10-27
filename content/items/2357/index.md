@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.13.jpg
     thumb: /files/thumbnails/NAD-200401383613.jpg
     url: /files/original/NAD-200401383613.jpg
+    alt:
+      en: "Black-and-white photograph of two parallel rows of leafy lettuce plants growing in cultivated furrowed soil, viewed from above at an angle."
 geo:
 id: 2357
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.27.jpg
     thumb: /files/thumbnails/NAD-200401382327.jpg
     url: /files/original/NAD-200401382327.jpg
+    alt:
+      en: "Black-and-white photo of a corrugated metal building with two men standing near its entrance, trees in the background, and a small wooden marker set in the dirt foreground."
 geo:
 id: 1956
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: Contrato Junio 5, 1946 (frente, superior).jpg
     thumb: /files/thumbnails/contrato-junio-5,-1946-(frente,-superior)_ebfd43ce84.jpg
     url: /files/original/contrato-junio-5,-1946-(frente,-superior)_ebfd43ce84.jpg
+    alt:
+      en: "Top half of a bilingual 1946 Individual Work Agreement form for bracero Rodolfo Cruz Figueroa, showing printed contract number 189925, personal details, and English/Spanish declarations from the U.S. and Mexican governments."
 geo:
 id: 843
 item_type: Document

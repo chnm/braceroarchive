@@ -46,6 +46,8 @@ files:
     original_filename: Jul28_11.jpg
     thumb: /files/thumbnails/jul28_11_22f463a7e6.jpg
     url: /files/original/jul28_11_22f463a7e6.jpg
+    alt:
+      en: "Four E.E. Harden Packing Co. pay stubs (Salinas, CA) for employee Ismael O. Nicolas, dated Dec. 15, 1945 to Jan. 31, 1946, showing hours, earnings, tax deductions, and \"Not Negotiable\" stamps."
 geo:
 id: 802
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.35.jpg
     thumb: /files/thumbnails/NAD-200401382435.jpg
     url: /files/original/NAD-200401382435.jpg
+    alt:
+      en: "Rows of bunk beds with bedding and clothing line a long barracks room, with two men seated near the bunks amid rows of windows along the walls."
 geo:
 id: 1999
 item_type: Still Image

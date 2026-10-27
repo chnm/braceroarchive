@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.35.jpg
     thumb: /files/thumbnails/NAD-200401381035.jpg
     url: /files/original/NAD-200401381035.jpg
+    alt:
+      en: "Black-and-white photo of a man in a wide-brimmed hat crouched beside a creek washing clothes, with trees, a bridge, and distant buildings and hills in the background."
 geo:
 id: 1581
 item_type: Still Image

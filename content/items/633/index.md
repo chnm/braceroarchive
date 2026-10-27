@@ -44,6 +44,8 @@ files:
     original_filename: Jul27_01.JPG
     thumb: /files/thumbnails/jul27_01_42cdc102d4.jpg
     url: /files/original/jul27_01_42cdc102d4.jpg
+    alt:
+      en: "Photo album page with five black-and-white snapshots: a portrait of a man, a photo of two people standing indoors, a train wreck scene with derailed cars, and two images of railroad tracks and gravel terrain."
 geo:
 id: 633
 item_type: Still Image

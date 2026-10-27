@@ -46,6 +46,8 @@ files:
     original_filename: Mica Calexico CA, junio 1957 (front with picture).jpg
     thumb: /files/thumbnails/mica-calexico-ca,-junio-1957-(front-with-picture)_13ec99b11e.jpg
     url: /files/original/mica-calexico-ca,-junio-1957-(front-with-picture)_13ec99b11e.jpg
+    alt:
+      en: "Aged ID card headed \"Alien Laborer's Identification Card\" with a man's black-and-white portrait, numbered \"78,\" and printed text reading \"United States Department of Justice, Immigration and Naturalization Service - I - 100D (12-7-55).\""
 geo:
 id: 878
 item_type: Document

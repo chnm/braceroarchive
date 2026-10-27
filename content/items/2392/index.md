@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.25.jpg
     thumb: /files/thumbnails/NAD-200401382525.jpg
     url: /files/original/NAD-200401382525.jpg
+    alt:
+      en: "Row of three metal-frame beds with blankets in a bracero camp dormitory, clothes hanging on wall hooks, a small table, and lockers near a window."
 geo:
 id: 2392
 item_type: Still Image

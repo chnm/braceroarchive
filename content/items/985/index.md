@@ -41,6 +41,8 @@ files:
     original_filename: GonzalezLorenzoSantaCruz2.jpg
     thumb: /files/thumbnails/gonzalezlorenzosantacruz2_eb0206c076.jpg
     url: /files/original/gonzalezlorenzosantacruz2_eb0206c076.jpg
+    alt:
+      en: "Black-and-white photo of two men standing on a rustic wooden footbridge made of logs, with a dirt path and leafy plants in the background."
 geo:
 id: 985
 item_type: Still Image

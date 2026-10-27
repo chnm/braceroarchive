@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.13.jpg
     thumb: /files/thumbnails/NAD-200401382113.jpg
     url: /files/original/NAD-200401382113.jpg
+    alt:
+      en: "Black-and-white photo of braceros in a dormitory: a man leans against the wall while others sit on cots talking, smoking, and eating, with jackets and hats hung above the beds."
 geo:
 id: 1879
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.13.jpg
     thumb: /files/thumbnails/NAD-200401385313.jpg
     url: /files/original/NAD-200401385313.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up along a long serving counter in a California camp dining hall, holding trays while kitchen staff dish out food from large pots."
 geo:
 id: 2904
 item_type: Still Image

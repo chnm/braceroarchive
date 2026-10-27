@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.36.jpg
     thumb: /files/thumbnails/NAD-200401381236.jpg
     url: /files/original/NAD-200401381236.jpg
+    alt:
+      en: "A crowded truck bed filled with braceros wearing straw cowboy hats, seated closely together, with a sign reading \"American Empire\" and low buildings visible in the background."
 geo:
 id: 3004
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.06.jpg
     thumb: /files/thumbnails/NAD-200401380606.jpg
     url: /files/original/NAD-200401380606.jpg
+    alt:
+      en: "Black-and-white photo of a long line of braceros waiting outside a low building at the Monterrey Processing Center, with a barren hill rising behind and a man in a cowboy hat in the foreground."
 geo:
 id: 1424
 item_type: Still Image

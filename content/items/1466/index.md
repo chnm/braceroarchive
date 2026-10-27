@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.18.jpg
     thumb: /files/thumbnails/NAD-200401380718.jpg
     url: /files/original/NAD-200401380718.jpg
+    alt:
+      en: "A large crowd of men wearing wide-brimmed straw hats gathers in a covered walkway outside a building at the Monterrey Processing Center, waiting in line during processing."
 geo:
 id: 1466
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.28.20.jpg
     thumb: /files/thumbnails/NAD-200401382820.jpg
     url: /files/original/NAD-200401382820.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated at a table eating a meal in a crowded dining hall, with one man drinking from a bottle and others standing in the background."
 geo:
 id: 2110
 item_type: Still Image

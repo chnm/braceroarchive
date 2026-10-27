@@ -44,6 +44,8 @@ files:
     original_filename: Lopez Leon, Asterio14 copy.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio14-copy_8943eb59f4.jpg
     url: /files/original/lopez-leon,-asterio14-copy_8943eb59f4.jpg
+    alt:
+      en: "Handwritten \"Generales\" information card for Asterio León López, listing nationality as Mexicano, birthplace Palmar de los Sepulturas, birthdate 28/10/27, marital status Casado, occupation Mayordomo, and address in Blythe, CA."
 geo:
 id: 1261
 item_type: Document

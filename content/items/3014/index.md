@@ -44,6 +44,8 @@ files:
     original_filename: Carmen Quezada 4 rotated.jpg
     thumb: /files/thumbnails/carmen-quezada-4-rotated_d6bb4ec39d.jpg
     url: /files/original/carmen-quezada-4-rotated_d6bb4ec39d.jpg
+    alt:
+      en: "Aged identification card printed with \"ALIEN LABORER'S IDENTIFICATION CARD\" at the top, featuring a black-and-white photograph of a man's face on the left side and blank space on the right."
 geo:
 id: 3014
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.16.jpg
     thumb: /files/thumbnails/NAD-200401385016.jpg
     url: /files/original/NAD-200401385016.jpg
+    alt:
+      en: "Pickup truck carrying men in its bed drives through an intersection in Stockton, California, with a large Texaco \"Sky Chief\" billboard and trees in the background."
 geo:
 id: 2831
 item_type: Still Image

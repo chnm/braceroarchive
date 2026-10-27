@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.25.jpg
     thumb: /files/thumbnails/NAD-200401384725.jpg
     url: /files/original/NAD-200401384725.jpg
+    alt:
+      en: "Black-and-white photo of a bracero holding a plate of food and pouring a drink from a large metal urn, with two other men working in the background kitchen."
 geo:
 id: 2753
 item_type: Still Image

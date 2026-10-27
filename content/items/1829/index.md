@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.04.jpg
     thumb: /files/thumbnails/NAD-200401381904.jpg
     url: /files/original/NAD-200401381904.jpg
+    alt:
+      en: "A long line of men wearing wide-brimmed hats and carrying suitcases stretches down a tree-lined street toward a parked bus in Stockton, California."
 geo:
 id: 1829
 item_type: Still Image

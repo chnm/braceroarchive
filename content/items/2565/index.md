@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.17.jpg
     thumb: /files/thumbnails/NAD-200401384117.jpg
     url: /files/original/NAD-200401384117.jpg
+    alt:
+      en: "A man washes clothes at a row of large industrial sinks in a worn, stained bathroom, with a hose and basin nearby and a metal cart in the foreground."
 geo:
 id: 2565
 item_type: Still Image

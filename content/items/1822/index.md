@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.09.jpg
     thumb: /files/thumbnails/NAD-200401381909.jpg
     url: /files/original/NAD-200401381909.jpg
+    alt:
+      en: "Black-and-white photo of men in cowboy hats lined up with suitcases and bundles beside a truck, a crate of packaged goods in the foreground, in Stockton, California."
 geo:
 id: 1822
 item_type: Still Image

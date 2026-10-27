@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.44.jpg
     thumb: /files/thumbnails/NAD-200401381044.jpg
     url: /files/original/NAD-200401381044.jpg
+    alt:
+      en: "A faded, hazy photograph showing a line of figures and horses moving across an open field, with hills in the background; the lower half of the image is obscured by solid black."
 geo:
 id: 1566
 item_type: Still Image

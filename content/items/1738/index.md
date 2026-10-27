@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.19.jpg
     thumb: /files/thumbnails/NAD-200401381619.jpg
     url: /files/original/NAD-200401381619.jpg
+    alt:
+      en: "A line of men wearing wide-brimmed hats waits inside a large hall as an official records a fingerprint at a small table, part of processing at the Monterrey facility."
 geo:
 id: 1738
 item_type: Still Image

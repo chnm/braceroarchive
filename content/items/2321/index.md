@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.25.jpg
     thumb: /files/thumbnails/NAD-200401383525.jpg
     url: /files/original/NAD-200401383525.jpg
+    alt:
+      en: "Black-and-white photo of workers kneeling in rows harvesting green onions and packing them into wooden crates, with stacked crates and parked trucks visible in the background field."
 geo:
 id: 2321
 item_type: Still Image

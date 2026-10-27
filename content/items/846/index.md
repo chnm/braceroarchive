@@ -44,6 +44,8 @@ files:
     original_filename: Contrato Texas Jun-Sept 1961 (atras).jpg
     thumb: /files/thumbnails/contrato-texas-jun-sept-1961-(atras)_dcc9573764.jpg
     url: /files/original/contrato-texas-jun-sept-1961-(atras)_dcc9573764.jpg
+    alt:
+      en: "Typed contract page with English and Spanish paragraphs explaining termination or extension of the agreement if the Migrant Labor Agreement is not extended beyond June 30, 1961, on aged, creased paper."
 geo:
 id: 846
 item_type: Document

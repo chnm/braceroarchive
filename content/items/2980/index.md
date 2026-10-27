@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.20.jpg
     thumb: /files/thumbnails/NAD-200401385620.jpg
     url: /files/original/NAD-200401385620.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a cap trimming outer leaves from a head of lettuce in a field, with other workers bent over rows behind him and a barn in the distance."
 geo:
 id: 2980
 item_type: Still Image

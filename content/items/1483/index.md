@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.43.jpg
     thumb: /files/thumbnails/NAD-200401380743.jpg
     url: /files/original/NAD-200401380743.jpg
+    alt:
+      en: "A large crowd of braceros gathers in an open dirt lot at the Monterrey Processing Center, with vehicles parked nearby and mountains visible in the background."
 geo:
 id: 1483
 item_type: Still Image

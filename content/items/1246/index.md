@@ -46,6 +46,8 @@ files:
     original_filename: Lopez Leon, Asterio1.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio1_30bdc87678.jpg
     url: /files/original/lopez-leon,-asterio1_30bdc87678.jpg
+    alt:
+      en: "Identification card No. 60758-A from Gobierno del Estado de Sonora, Tesoreria General, featuring a photo of Asterio Leon Lopez, registered as a chofer in Hermosillo, Sonora, dated 11 Ene. 63."
 geo:
 id: 1246
 item_type: Document

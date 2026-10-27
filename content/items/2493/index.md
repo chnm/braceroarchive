@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.15.jpg
     thumb: /files/thumbnails/NAD-200401383915.jpg
     url: /files/original/NAD-200401383915.jpg
+    alt:
+      en: "Men in cowboy hats gather at the open back of a truck or trailer examining goods, surrounded by stacked boxes and suitcases at a bus stop in Stockton, California."
 geo:
 id: 2493
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.01.jpg
     thumb: /files/thumbnails/NAD-200401380101.jpg
     url: /files/original/NAD-200401380101.jpg
+    alt:
+      en: "Multiple railroad tracks and stacked metal rails stretch across a dirt yard, with a large crowd of braceros gathered beyond the fence awaiting processing at the Monterrey Processing Center."
 geo:
 id: 1276
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.20.jpg
     thumb: /files/thumbnails/NAD-200401380820.jpg
     url: /files/original/NAD-200401380820.jpg
+    alt:
+      en: "Black-and-white photo of three men standing before a desk where a seated official reviews papers, in an office with a wall map, a framed portrait, and a bare hanging light bulb."
 geo:
 id: 1507
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.02.jpg
     thumb: /files/thumbnails/NAD-200401381702.jpg
     url: /files/original/NAD-200401381702.jpg
+    alt:
+      en: "Shirtless men wearing hats line up in a long row inside a large hall, standing beside pillars as they await processing at the Monterrey Processing Center."
 geo:
 id: 1751
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.05.jpg
     thumb: /files/thumbnails/NAD-200401382705.jpg
     url: /files/original/NAD-200401382705.jpg
+    alt:
+      en: "A printed payroll check from J. J. Crosetti Co., Watsonville, California, No. 200 N, payable to Cirido F. Tapia, drawn on Pajaro Valley National Bank, lying on a dark wooden surface."
 geo:
 id: 2088
 item_type: Still Image

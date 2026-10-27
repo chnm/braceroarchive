@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.12.jpg
     thumb: /files/thumbnails/NAD-200401385112.jpg
     url: /files/original/NAD-200401385112.jpg
+    alt:
+      en: "Doctor Stanley Savoy examines a bracero lying on a reclined exam table, with a medical cabinet, instruments, and chair visible in the clinic room."
 geo:
 id: 2853
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.27.06.jpg
     thumb: /files/thumbnails/NAD-200401382706.jpg
     url: /files/original/NAD-200401382706.jpg
+    alt:
+      en: "Overhead view of a man bending over an outdoor washbasin to do laundry, with a washboard and clothing nearby on a wooden platform."
 geo:
 id: 2089
 item_type: Still Image

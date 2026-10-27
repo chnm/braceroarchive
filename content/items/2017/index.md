@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.18.jpg
     thumb: /files/thumbnails/NAD-200401382518.jpg
     url: /files/original/NAD-200401382518.jpg
+    alt:
+      en: "Black-and-white photo of a large bus labeled \"D'Arrigo Bros. Co., California\" parked beside a vintage car, with long barracks-style buildings in the background."
 geo:
 id: 2017
 item_type: Still Image

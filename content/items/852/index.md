@@ -46,6 +46,8 @@ files:
     original_filename: Contrato California mayo-junio 1957 (back).jpg
     thumb: /files/thumbnails/contrato-california-mayo-junio-1957-(back)_9c5e2387a9.jpg
     url: /files/original/contrato-california-mayo-junio-1957-(back)_9c5e2387a9.jpg
+    alt:
+      en: "Typed wage schedule listing California counties—San Joaquin, Stanislaus, Merced, Alameda, Contra Costa, Sacramento, Yolo—with crop piece rates and hourly pay, printed in English and Spanish columns."
 geo:
 id: 852
 item_type: Document

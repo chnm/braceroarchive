@@ -46,6 +46,8 @@ files:
     original_filename: RiveraPedroPassport2.jpg
     thumb: /files/thumbnails/riverapedropassport2_056d8a52e5.jpg
     url: /files/original/riverapedropassport2_056d8a52e5.jpg
+    alt:
+      en: "Mexican passport pages 2-3 for Pedro Duran, issued in San Diego, California, June 1, 1960, bearing a red consular seal and stating validity for the United States until May 31, 1961."
 geo:
 id: 1163
 item_type: Document

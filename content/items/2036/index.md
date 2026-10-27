@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.13.jpg
     thumb: /files/thumbnails/NAD-200401382613.jpg
     url: /files/original/NAD-200401382613.jpg
+    alt:
+      en: "Black-and-white photo of braceros in hats gathered along a dirt road beside a field, reaching into wooden crates of bottled drinks, including a Pepsi-Cola case, during a lunch break."
 geo:
 id: 2036
 item_type: Still Image

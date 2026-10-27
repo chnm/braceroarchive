@@ -44,6 +44,8 @@ files:
     original_filename: Jul28_10.jpg
     thumb: /files/thumbnails/jul28_10_f80f4aeb68.jpg
     url: /files/original/jul28_10_f80f4aeb68.jpg
+    alt:
+      en: "Three stacked pay stubs from the Snohomish Farm Labor Committee, Washington State, issued via E.E. Harden Packing Co. and Monterey County Trust and Savings Bank, listing wages, deductions, and amounts paid for Ismael O. Nicolas."
 geo:
 id: 801
 item_type: Still Image

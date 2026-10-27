@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.30.jpg
     thumb: /files/thumbnails/NAD-200401380730.jpg
     url: /files/original/NAD-200401380730.jpg
+    alt:
+      en: "Black-and-white photo, framed by a dark border, of a large crowd gathered in an open dirt field near mountains, with a long line of people waiting beside a tall flagpole at the Monterrey Processing Center."
 geo:
 id: 1455
 item_type: Still Image

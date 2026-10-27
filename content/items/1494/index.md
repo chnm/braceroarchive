@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.07.jpg
     thumb: /files/thumbnails/NAD-200401380807.jpg
     url: /files/original/NAD-200401380807.jpg
+    alt:
+      en: "Black-and-white photo of a weathered stone-and-plaster house doorway in San Mateo, Mexico; one woman sits working near the threshold while another stands behind her in the doorway."
 geo:
 id: 1494
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.14.jpg
     thumb: /files/thumbnails/NAD-200401383614.jpg
     url: /files/original/NAD-200401383614.jpg
+    alt:
+      en: "Black-and-white aerial view of lettuce plants growing in cultivated rows of dark soil, Gonzales, California."
 geo:
 id: 2358
 item_type: Still Image

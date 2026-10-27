@@ -44,6 +44,8 @@ files:
     original_filename: Calles, Jesus M - bracero picture 1 1964.jpg
     thumb: /files/thumbnails/calles,-jesus-m---bracero-picture-1-1964_39b66800f6.jpg
     url: /files/original/calles,-jesus-m---bracero-picture-1-1964_39b66800f6.jpg
+    alt:
+      en: "Black-and-white photo of three braceros wearing cowboy hats loading wooden crates onto a flatbed truck; handwritten names \"Ramon Calles,\" \"Jesus M. Calles,\" and \"Jesus I. Calles\" border the image."
 geo:
 id: 994
 item_type: Still Image

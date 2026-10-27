@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.28-29.jpg
     thumb: /files/thumbnails/instructivo-p28-29_25be09125a.jpg
     url: /files/original/instructivo-p28-29_25be09125a.jpg
+    alt:
+      en: "Open instruction booklet showing pages 28 and 29, densely printed with numbered paragraphs (items 4–12) explaining braceros' rights to compensation, medical care, and wages after workplace injuries."
 geo:
 id: 598
 item_type: Still Image

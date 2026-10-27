@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.10.jpg
     thumb: /files/thumbnails/NAD-200401384110.jpg
     url: /files/original/NAD-200401384110.jpg
+    alt:
+      en: "Black-and-white photo of a sparse dormitory room seen through a doorway, with a bracero standing under a hanging light while two others sit on a bed, clothes draped on lines nearby."
 geo:
 id: 2558
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.38.jpg
     thumb: /files/thumbnails/NAD-200401384938.jpg
     url: /files/original/NAD-200401384938.jpg
+    alt:
+      en: "A bracero bends over a row of crops using a short-handled hoe, with other workers scattered across the field and hills visible in the background."
 geo:
 id: 2815
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.10.jpg
     thumb: /files/thumbnails/NAD-200401384910.jpg
     url: /files/original/NAD-200401384910.jpg
+    alt:
+      en: "A bracero in a straw hat stands beside an irrigation ditch at the edge of a field, with other workers and rows of trees visible in the background."
 geo:
 id: 2789
 item_type: Still Image

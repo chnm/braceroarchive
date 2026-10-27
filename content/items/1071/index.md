@@ -46,6 +46,8 @@ files:
     original_filename: rafael hernandez passaport4.jpg
     thumb: /files/thumbnails/rafael-hernandez-passaport4_4929380823.jpg
     url: /files/original/rafael-hernandez-passaport4_4929380823.jpg
+    alt:
+      en: "Two facing \"REFRENDOS\" (renewal) pages from a Mexican passport, the right page completed with number 2774, dated June 22, 1966, bearing a consulate stamp and signature of Roberto de la Fuente A., Canciller."
 geo:
 id: 1071
 item_type: Document

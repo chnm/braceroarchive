@@ -46,6 +46,8 @@ files:
     original_filename: filomeno burciago 2.jpg
     thumb: /files/thumbnails/filomeno-burciago-2_1393f87840.jpg
     url: /files/original/filomeno-burciago-2_1393f87840.jpg
+    alt:
+      en: "Back of an alien laborer's identification card listing permit conditions in Spanish, with an \"EXTENSIONS AND RECONTRACTS\" column stamped \"MAR 17 1961,\" \"JUN 17 1961,\" and \"SEP 17 1961\" with handwritten signatures."
 geo:
 id: 901
 item_type: Document

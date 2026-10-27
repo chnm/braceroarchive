@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.10.jpg
     thumb: /files/thumbnails/NAD-200401383410.jpg
     url: /files/original/NAD-200401383410.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat bends over a Toro lettuce box in a furrowed field, with rows of workers harvesting lettuce in the background beneath distant hills."
 geo:
 id: 2295
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: C. Casillas Rodriguez10.JPG
     thumb: /files/thumbnails/c-casillas-rodriguez10_018d68b82c.jpg
     url: /files/original/c-casillas-rodriguez10_018d68b82c.jpg
+    alt:
+      en: "Large group of men in work clothes and caps pose in rows outside the Wauseon train depot, many raising their hands, with the station's \"WAUSEON\" sign visible above them."
 geo:
 id: 493
 item_type: Still Image

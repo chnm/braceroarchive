@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.27.jpg
     thumb: /files/thumbnails/NAD-200401381327.jpg
     url: /files/original/NAD-200401381327.jpg
+    alt:
+      en: "Rows of seated typists at desks with typewriters assist a line of men, some shirtless or wearing wide-brimmed hats, as they process paperwork in a large hall at the Monterrey Processing Center."
 geo:
 id: 1655
 item_type: Still Image

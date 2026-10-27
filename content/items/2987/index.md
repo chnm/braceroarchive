@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.27.jpg
     thumb: /files/thumbnails/NAD-200401385627.jpg
     url: /files/original/NAD-200401385627.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a wide-brimmed hat standing on a truck loaded with \"Cookie Brand Head Lettuce\" boxes, with workers visible in the lettuce field behind him."
 geo:
 id: 2987
 item_type: Still Image

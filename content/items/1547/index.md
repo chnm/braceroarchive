@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.09.04.jpg
     thumb: /files/thumbnails/NAD-200401380904.jpg
     url: /files/original/NAD-200401380904.jpg
+    alt:
+      en: "A mound of rocks topped with a simple wooden cross stands before a barbed wire fence, with railroad tracks and distant structures visible in the hazy background."
 geo:
 id: 1547
 item_type: Still Image

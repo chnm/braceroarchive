@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.17.jpg
     thumb: /files/thumbnails/NAD-200401385317.jpg
     url: /files/original/NAD-200401385317.jpg
+    alt:
+      en: "A bracero reclines on a cot in a sparse dormitory, a hat resting on his chest, with clothes hanging near a window and empty beds on either side."
 geo:
 id: 2908
 item_type: Still Image

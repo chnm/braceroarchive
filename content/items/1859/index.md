@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.20.25.jpg
     thumb: /files/thumbnails/NAD-200401382025.jpg
     url: /files/original/NAD-200401382025.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a wide-brimmed hat bending to arrange lettuce boxes along rows of crops, with a truck and another worker visible in the distant field."
 geo:
 id: 1859
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.26.jpg
     thumb: /files/thumbnails/NAD-200401382426.jpg
     url: /files/original/NAD-200401382426.jpg
+    alt:
+      en: "Rows of metal-framed bunk beds with folded blankets fill a long wooden barracks; a man leans against one bunk while another figure stands near the far doorway."
 geo:
 id: 1990
 item_type: Still Image

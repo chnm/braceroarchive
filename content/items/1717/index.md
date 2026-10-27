@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.43.jpg
     thumb: /files/thumbnails/NAD-200401381643.jpg
     url: /files/original/NAD-200401381643.jpg
+    alt:
+      en: "A large crowd of men in wide-brimmed hats gathers in a dirt courtyard beneath corrugated metal roofs, encircling a guitarist and a woman singing beside him."
 geo:
 id: 1717
 item_type: Still Image

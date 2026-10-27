@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.20.jpg
     thumb: /files/thumbnails/NAD-200401384420.jpg
     url: /files/original/NAD-200401384420.jpg
+    alt:
+      en: "Black-and-white photo of two braceros resting on simple cots in a sparse camp bedroom, one lying flat with arm raised, the other reclining with hands behind his head."
 geo:
 id: 2652
 item_type: Still Image

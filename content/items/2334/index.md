@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.35.06.jpg
     thumb: /files/thumbnails/NAD-200401383506.jpg
     url: /files/original/NAD-200401383506.jpg
+    alt:
+      en: "A man shaves at a utility sink in a camp washroom, his reflection visible in a mirror above the basin, with another sink and mirror beside him."
 geo:
 id: 2334
 item_type: Still Image

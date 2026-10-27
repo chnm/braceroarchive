@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.28.jpg
     thumb: /files/thumbnails/NAD-200401384928.jpg
     url: /files/original/NAD-200401384928.jpg
+    alt:
+      en: "A bracero stoops over with a short-handled hoe, working rows of pepper plants, while other laborers tend the field in the background under a hazy sky."
 geo:
 id: 2807
 item_type: Still Image

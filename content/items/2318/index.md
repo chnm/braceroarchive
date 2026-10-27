@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.34.jpg
     thumb: /files/thumbnails/NAD-200401383534.jpg
     url: /files/original/NAD-200401383534.jpg
+    alt:
+      en: "Black-and-white photo of a washing facility with sinks and mirrors; a man shaves at one basin while two others stand in a doorway, one with a towel over his shoulder and the other smoking."
 geo:
 id: 2318
 item_type: Still Image

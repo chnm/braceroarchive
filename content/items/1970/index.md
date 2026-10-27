@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.06.jpg
     thumb: /files/thumbnails/NAD-200401382406.jpg
     url: /files/original/NAD-200401382406.jpg
+    alt:
+      en: "A man in a white shirt distributes paychecks to a large crowd of braceros wearing wide-brimmed hats, with buses and trucks parked in the background."
 geo:
 id: 1970
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.30.09.jpg
     thumb: /files/thumbnails/NAD-200401383009.jpg
     url: /files/original/NAD-200401383009.jpg
+    alt:
+      en: "A weathered two-story farmhouse with an exterior staircase stands beside scattered debris and parked vehicles, with a small outbuilding to the right under a wide, empty sky."
 geo:
 id: 2160
 item_type: Still Image

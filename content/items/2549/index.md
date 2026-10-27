@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.01.jpg
     thumb: /files/thumbnails/NAD-200401384101.jpg
     url: /files/original/NAD-200401384101.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on a bed and chairs in a sparse camp room, playing cards, with a cloth hanging on the wall and patterned flooring, viewed through a doorway."
 geo:
 id: 2549
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.05.jpg
     thumb: /files/thumbnails/NAD-200401381505.jpg
     url: /files/original/NAD-200401381505.jpg
+    alt:
+      en: "Black-and-white photo of braceros, many wearing straw hats, standing in line outdoors near buildings and trees in Mexico City."
 geo:
 id: 1691
 item_type: Still Image

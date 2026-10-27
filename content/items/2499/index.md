@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.21.jpg
     thumb: /files/thumbnails/NAD-200401383921.jpg
     url: /files/original/NAD-200401383921.jpg
+    alt:
+      en: "Black-and-white photo of a group of men, some wearing hats, standing in a dirt lot handling paperwork, with parked cars and utility poles in the background."
 geo:
 id: 2499
 item_type: Still Image

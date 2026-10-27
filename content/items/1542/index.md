@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.11.jpg
     thumb: /files/thumbnails/NAD-200401380911.jpg
     url: /files/original/NAD-200401380911.jpg
+    alt:
+      en: "Large group of men in hats queue outdoors near long low buildings, with a two-story structure and distant mountains in the background at the Monterrey Processing Center, Mexico."
 geo:
 id: 1542
 item_type: Still Image

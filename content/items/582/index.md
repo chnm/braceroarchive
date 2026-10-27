@@ -44,6 +44,8 @@ files:
     original_filename: immigration form 1 back side.jpg
     thumb: /files/thumbnails/immigration-form-1-back-side_5f085b77ad.jpg
     url: /files/original/immigration-form-1-back-side_5f085b77ad.jpg
+    alt:
+      en: "Back side of a Spanish-language immigration form listing residence and work history, with a handwritten table of contract locations in Texas dated 1960–1962 and a signature reading \"Juan Loza.\""
 geo:
 id: 582
 item_type: Still Image

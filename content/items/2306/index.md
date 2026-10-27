@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.35.44.jpg
     thumb: /files/thumbnails/NAD-200401383544.jpg
     url: /files/original/NAD-200401383544.jpg
+    alt:
+      en: "Black-and-white photograph of long, converging crop rows stretching across a flat agricultural field, with low farm buildings and distant mountains on the horizon under a pale sky."
 geo:
 id: 2306
 item_type: Still Image

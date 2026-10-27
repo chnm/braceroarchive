@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.52.19.jpg
     thumb: /files/thumbnails/NAD-200401385219.jpg
     url: /files/original/NAD-200401385219.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in stoop labor along furrowed rows, hoeing soil in a Salinas Valley field, with hills, trees, and parked vehicles in the background."
 geo:
 id: 2884
 item_type: Still Image

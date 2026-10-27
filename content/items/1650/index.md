@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.22.jpg
     thumb: /files/thumbnails/NAD-200401381322.jpg
     url: /files/original/NAD-200401381322.jpg
+    alt:
+      en: "An official examines a man's hands for calluses at a desk while another worker's documents are reviewed nearby; a long line of hatted men waits behind them, Monterrey Processing Center."
 geo:
 id: 1650
 item_type: Still Image

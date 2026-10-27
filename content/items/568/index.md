@@ -44,6 +44,8 @@ files:
     original_filename: bracero stand .jpg
     thumb: /files/thumbnails/bracero-stand-_6386298d68.jpg
     url: /files/original/bracero-stand-_6386298d68.jpg
+    alt:
+      en: "A man in a white shirt, jeans, and a straw cowboy hat leans against a weathered stucco wall near an electric meter and a window, one leg crossed casually."
 geo:
 id: 568
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.27.jpg
     thumb: /files/thumbnails/NAD-200401382427.jpg
     url: /files/original/NAD-200401382427.jpg
+    alt:
+      en: "A row of toilets with black seats lines a narrow wooden-walled corridor, positioned against the right wall above a long metal trough urinal fixed to the left wall."
 geo:
 id: 1991
 item_type: Still Image

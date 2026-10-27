@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.24.jpg
     thumb: /files/thumbnails/NAD-200401383624.jpg
     url: /files/original/NAD-200401383624.jpg
+    alt:
+      en: "A man wearing a cap and work clothes stands in the doorway of a wooden barrack numbered \"17,\" with a metal can labeled \"Pure Lard\" sitting on the ground nearby."
 geo:
 id: 2344
 item_type: Still Image

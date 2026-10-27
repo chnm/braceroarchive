@@ -41,6 +41,8 @@ files:
     original_filename: Marcial2.jpg
     thumb: /files/thumbnails/marcial2_4e5ae213ff.jpg
     url: /files/original/marcial2_4e5ae213ff.jpg
+    alt:
+      en: "Worn, creased sepia-toned photo of four children: a boy in a bow tie above, flanked below by a girl in glasses and two boys, all smiling for the camera."
 geo:
 id: 1000
 item_type: Still Image

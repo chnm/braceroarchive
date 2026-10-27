@@ -43,6 +43,8 @@ files:
     original_filename: Garcia Roberto - passport 13.jpg
     thumb: /files/thumbnails/garcia-roberto---passport-13_a6f32cc3a7.jpg
     url: /files/original/garcia-roberto---passport-13_a6f32cc3a7.jpg
+    alt:
+      en: "Interior pages of a worn Mexican passport booklet with printed Spanish text on identification card rules, an official consulate stamp, and a handwritten date of \"MAR 28 1962\" with a signature."
 geo:
 id: 981
 item_type: Document

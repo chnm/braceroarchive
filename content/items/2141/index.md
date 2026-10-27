@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.29.21.jpg
     thumb: /files/thumbnails/NAD-200401382921.jpg
     url: /files/original/NAD-200401382921.jpg
+    alt:
+      en: "Black-and-white photo of men lining up along a sidewalk outside the \"Plaza\" theater in Salinas, California, with movie posters and a \"Todos Los\" marquee sign visible above the entrance."
 geo:
 id: 2141
 item_type: Still Image

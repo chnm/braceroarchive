@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.29.jpg
     thumb: /files/thumbnails/NAD-200401380629.jpg
     url: /files/original/NAD-200401380629.jpg
+    alt:
+      en: "A man in a straw hat leans against a barbed wire fence, with a crowd of hatted men gathered behind him near a building, Monterrey Processing Center, Mexico."
 geo:
 id: 1451
 item_type: Still Image

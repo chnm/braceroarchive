@@ -44,6 +44,8 @@ files:
     original_filename: espino14copy.jpg
     thumb: /files/thumbnails/espino14copy_6136359a24.jpg
     url: /files/original/espino14copy_6136359a24.jpg
+    alt:
+      en: "Yellowed \"Continuation of Standard Work Contract\" form for Jose Ortiz Espino, contract #922961, dated 1954, listing employer Great Western Sugar Company and work locations in Colorado, Nebraska, Wyoming, and Montana."
 geo:
 id: 937
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.07.jpg
     thumb: /files/thumbnails/NAD-200401384907.jpg
     url: /files/original/NAD-200401384907.jpg
+    alt:
+      en: "Black-and-white photo of a bracero bent in stoop labor tending a pepper field row, with other workers and rows of crops stretching toward distant trees and hills."
 geo:
 id: 2786
 item_type: Still Image

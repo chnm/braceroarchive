@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.24.jpg
     thumb: /files/thumbnails/NAD-200401383824.jpg
     url: /files/original/NAD-200401383824.jpg
+    alt:
+      en: "A bracero's sleeping area with a wooden bunk, clothing and towels hung on diagonal wall beams, small devotional pictures pinned to the wall, and a straw hat mounted above the bed."
 geo:
 id: 2468
 item_type: Still Image

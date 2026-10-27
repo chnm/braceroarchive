@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.08.jpg
     thumb: /files/thumbnails/NAD-200401384008.jpg
     url: /files/original/NAD-200401384008.jpg
+    alt:
+      en: "Black-and-white photo of a flatbed truck stacked with crates in a Salinas Valley lettuce field, with workers in the rows and hills visible in the distance."
 geo:
 id: 2519
 item_type: Still Image

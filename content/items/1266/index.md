@@ -46,6 +46,8 @@ files:
     original_filename: SanchezPerezBaltazar1.jpg
     thumb: /files/thumbnails/sanchezperezbaltazar1_1ff3c9131e.jpg
     url: /files/original/sanchezperezbaltazar1_1ff3c9131e.jpg
+    alt:
+      en: "Alien laborer's identification card for Sanchez-Perez, Baltazar, listing Mexico address and birthplace, admission at Calexico, Calif. on 6-8-60, with ID number L3488790 and a signature below \"MICA.\""
 geo:
 id: 1266
 item_type: Document

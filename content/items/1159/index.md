@@ -46,6 +46,8 @@ files:
     original_filename: NavarroFedericoPassport5.jpg
     thumb: /files/thumbnails/navarrofedericopassport5_5778700191.jpg
     url: /files/original/navarrofedericopassport5_5778700191.jpg
+    alt:
+      en: "Pages 10-11 of a Mexican passport showing a U.S. Immigration stamp reading \"IMM. & NATZ. SERVICE, CALEXICO, CAL., ADMITTED FEB 5 1962,\" alongside Mexican \"ADMISION\" and eagle seal stamps."
 geo:
 id: 1159
 item_type: Document

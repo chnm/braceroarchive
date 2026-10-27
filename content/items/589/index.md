@@ -46,6 +46,8 @@ files:
     original_filename: Instructivo p.10-11.jpg
     thumb: /files/thumbnails/instructivo-p10-11_49ebb8d407.jpg
     url: /files/original/instructivo-p10-11_49ebb8d407.jpg
+    alt:
+      en: "Pages 10-11 of a bracero instruction booklet, printed in Spanish with numbered sections covering transportation, camp conditions, meals, worker conduct, and legal residency requirements."
 geo:
 id: 589
 item_type: Still Image

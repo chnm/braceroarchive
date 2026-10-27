@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.19.jpg
     thumb: /files/thumbnails/NAD-200401381919.jpg
     url: /files/original/NAD-200401381919.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men, many wearing hats, standing along a dirt road with long shadows cast beside them, waiting to board a bus."
 geo:
 id: 1820
 item_type: Still Image

@@ -46,6 +46,8 @@ files:
     original_filename: rafael hernandez passaport5.jpg
     thumb: /files/thumbnails/rafael-hernandez-passaport5_033ed5f52c.jpg
     url: /files/original/rafael-hernandez-passaport5_033ed5f52c.jpg
+    alt:
+      en: "Two passport pages: left page headed \"REFRENDOS\" with blank fields for Numero, Derechos, Refrendado en; right page headed \"VISAS\" with handwritten birthdate note, a June 23, 1960 Consulado de Mexico stamp, and Francisco Medrano's signature as Canciller."
 geo:
 id: 1072
 item_type: Document

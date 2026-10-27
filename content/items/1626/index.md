@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.21.jpg
     thumb: /files/thumbnails/NAD-200401381221.jpg
     url: /files/original/NAD-200401381221.jpg
+    alt:
+      en: "A long line of men stretches beneath an open-sided covered shed at the Hidalgo Processing Center, with additional buildings and a cloudy sky in the background."
 geo:
 id: 1626
 item_type: Still Image

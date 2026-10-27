@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.11.jpg
     thumb: /files/thumbnails/NAD-200401382511.jpg
     url: /files/original/NAD-200401382511.jpg
+    alt:
+      en: "A bracero lies face down on an examination table beneath an adjustable lamp, while in a back room a doctor examines another man standing beside a woman in a patterned-tile clinic."
 geo:
 id: 2010
 item_type: Still Image

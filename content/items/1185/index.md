@@ -46,6 +46,8 @@ files:
     original_filename: Sosa, Luz Maria - Alien Laborer\'s ID 62 copy.jpg
     thumb: /files/thumbnails/sosa,-luz-maria---alien-laborers-id-62-copy_9518daedd4.jpg
     url: /files/original/sosa,-luz-maria---alien-laborers-id-62-copy_9518daedd4.jpg
+    alt:
+      en: "Alien Laborer's Identification Card featuring a man's photograph, with printed text reading \"United States Department of Justice, Immigration and Naturalization Service — 1-100D (Rev. 8-1-59).\""
 geo:
 id: 1185
 item_type: Document

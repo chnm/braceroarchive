@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.27.jpg
     thumb: /files/thumbnails/NAD-200401384027.jpg
     url: /files/original/NAD-200401384027.jpg
+    alt:
+      en: "Elevated view of a vast lettuce field in the Salinas Valley, with rows of braceros stooped and harvesting, a truck parked in the background under an open sky."
 geo:
 id: 2538
 item_type: Still Image

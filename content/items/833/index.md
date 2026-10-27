@@ -44,6 +44,8 @@ files:
     original_filename: theconchas.jpg
     thumb: /files/thumbnails/theconchas_231f0cbc86.jpg
     url: /files/original/theconchas_231f0cbc86.jpg
+    alt:
+      en: "Sepia-toned group photo of the Concha family, six women in dresses and six men in collared shirts, standing in a line outside a stucco house with an arched doorway and overhanging tree branches."
 geo:
 id: 833
 item_type: Still Image

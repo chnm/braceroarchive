@@ -46,6 +46,8 @@ files:
     original_filename: Porter3.jpg
     thumb: /files/thumbnails/porter3_7e9d1a4071.jpg
     url: /files/original/porter3_7e9d1a4071.jpg
+    alt:
+      en: "Two printed pages from a bilingual phrase book, pairing English questions about pay, work hours, and money transfers with Spanish translations, alongside a calendar listing days of the week and months in both languages."
 geo:
 id: 555
 item_type: Document

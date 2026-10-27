@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.16.37.jpg
     thumb: /files/thumbnails/NAD-200401381637.jpg
     url: /files/original/NAD-200401381637.jpg
+    alt:
+      en: "Interior of a large hall with concrete columns and rows of windows, where men in hats line up at tables while staff in white uniforms administer vaccinations at the Monterrey Processing Center."
 geo:
 id: 1720
 item_type: Still Image

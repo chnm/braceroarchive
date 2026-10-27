@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.15.jpg
     thumb: /files/thumbnails/NAD-200401385115.jpg
     url: /files/original/NAD-200401385115.jpg
+    alt:
+      en: "A doctor uses a stethoscope to examine a shirtless bracero's back while seated in an exam room, as a nurse in uniform stands watching near a supply cabinet."
 geo:
 id: 2856
 item_type: Still Image

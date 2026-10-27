@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.28.jpg
     thumb: /files/thumbnails/NAD-200401382128.jpg
     url: /files/original/NAD-200401382128.jpg
+    alt:
+      en: "A bracero sits on a wooden step reading a newspaper while another man, standing, shaves his face; a wooden building and scattered boxes surround them."
 geo:
 id: 1894
 item_type: Still Image

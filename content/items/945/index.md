@@ -44,6 +44,8 @@ files:
     original_filename: margarita-2.jpg
     thumb: /files/thumbnails/margarita-2_3a623eed7b.jpg
     url: /files/original/margarita-2_3a623eed7b.jpg
+    alt:
+      en: "Heavily creased black-and-white photo of a man standing outdoors in a light shirt, hand raised near his face, with a wooden chair and building visible behind him."
 geo:
 id: 945
 item_type: Still Image

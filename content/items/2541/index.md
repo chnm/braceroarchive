@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.30.jpg
     thumb: /files/thumbnails/NAD-200401384030.jpg
     url: /files/original/NAD-200401384030.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros working long rows of lettuce in a Salinas Valley field, with wooden Toro lettuce boxes placed along the rows and farmland stretching to distant hills."
 geo:
 id: 2541
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.17.jpg
     thumb: /files/thumbnails/NAD-200401384217.jpg
     url: /files/original/NAD-200401384217.jpg
+    alt:
+      en: "Black-and-white elevated view of a rolling agricultural landscape with a plowed field in the foreground, a winding road, and rows of barracks-style buildings at the Gondo Labor Camp near Watsonville, California, with hills beyond."
 geo:
 id: 2591
 item_type: Still Image

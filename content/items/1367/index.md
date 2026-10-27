@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.07.jpg
     thumb: /files/thumbnails/NAD-200401380407.jpg
     url: /files/original/NAD-200401380407.jpg
+    alt:
+      en: "Aerial view of men in wide-brimmed hats gathered beneath long corrugated-metal roofed vendor stands, with trees and a work area visible in the background."
 geo:
 id: 1367
 item_type: Still Image

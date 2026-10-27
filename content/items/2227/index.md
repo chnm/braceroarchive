@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.22.jpg
     thumb: /files/thumbnails/NAD-200401383222.jpg
     url: /files/original/NAD-200401383222.jpg
+    alt:
+      en: "Black-and-white photo through a doorway of a man reclining on a bed in a sparse room, with a nightstand holding small items and clothing hanging on a wall hook."
 geo:
 id: 2227
 item_type: Still Image

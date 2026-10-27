@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.41.02.jpg
     thumb: /files/thumbnails/NAD-200401384102.jpg
     url: /files/original/NAD-200401384102.jpg
+    alt:
+      en: "Black-and-white photo, viewed through a doorway, of two braceros seated on a bed in a wood-paneled living quarter, with clothing and jackets hanging on the wall behind them."
 geo:
 id: 2550
 item_type: Still Image

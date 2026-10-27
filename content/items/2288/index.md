@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.34.15.jpg
     thumb: /files/thumbnails/NAD-200401383415.jpg
     url: /files/original/NAD-200401383415.jpg
+    alt:
+      en: "A bracero bends to fill a lettuce box in a Salinas Valley field, with other workers harvesting rows of lettuce in the background under an open sky."
 geo:
 id: 2288
 item_type: Still Image

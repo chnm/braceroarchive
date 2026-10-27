@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.29.jpg
     thumb: /files/thumbnails/NAD-200401384029.jpg
     url: /files/original/NAD-200401384029.jpg
+    alt:
+      en: "Black-and-white aerial view of workers harvesting lettuce in long rows across a large field, with stacked boxes placed along the rows in the Salinas Valley."
 geo:
 id: 2540
 item_type: Still Image

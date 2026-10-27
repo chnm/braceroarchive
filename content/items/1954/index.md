@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.25.jpg
     thumb: /files/thumbnails/NAD-200401382325.jpg
     url: /files/original/NAD-200401382325.jpg
+    alt:
+      en: "Elderly bracero sits on a metal-frame bed inside a canvas tent, with clothes hanging above a small shelf holding bottles and jars, a hat resting on the bedding beside him."
 geo:
 id: 1954
 item_type: Still Image

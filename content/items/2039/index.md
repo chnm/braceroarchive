@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.16.jpg
     thumb: /files/thumbnails/NAD-200401382616.jpg
     url: /files/original/NAD-200401382616.jpg
+    alt:
+      en: "A large group of braceros, many wearing wide-brimmed hats, gather along a dirt road beside a field, with trucks and trailers parked in the background."
 geo:
 id: 2039
 item_type: Still Image

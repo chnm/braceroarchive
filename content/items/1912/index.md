@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.22.12.jpg
     thumb: /files/thumbnails/NAD-200401382212.jpg
     url: /files/original/NAD-200401382212.jpg
+    alt:
+      en: "Black-and-white photo of a small wooden shed in a dirt camp yard, with a \"Pennsylvania Railroad\" train car visible in the background on the tracks."
 geo:
 id: 1912
 item_type: Still Image

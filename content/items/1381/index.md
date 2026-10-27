@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.41.jpg
     thumb: /files/thumbnails/NAD-200401380441.jpg
     url: /files/original/NAD-200401380441.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men waiting outdoors near a wooden booth and building, with mountains in the background, at the Monterrey Processing Center."
 geo:
 id: 1381
 item_type: Still Image

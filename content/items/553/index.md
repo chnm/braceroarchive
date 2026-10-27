@@ -46,6 +46,8 @@ files:
     original_filename: Porter1.jpg
     thumb: /files/thumbnails/porter1_9bbd7407e5.jpg
     url: /files/original/porter1_9bbd7407e5.jpg
+    alt:
+      en: "Postcard-style mailer featuring crossed Mexican and American flags, advertising a bilingual guide titled \"Spanish for Farmers and Homemakers\" and \"Inglés para los Braceros y Empleadas Domésticas,\" with blank \"From\" and \"To\" fields and a stamp box."
 geo:
 id: 553
 item_type: Document

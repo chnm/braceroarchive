@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.54.11.jpg
     thumb: /files/thumbnails/NAD-200401385411.jpg
     url: /files/original/NAD-200401385411.jpg
+    alt:
+      en: "Black-and-white photo of a line of braceros standing and leaning against the wooden wall of a barracks building, attending a camp service in California."
 geo:
 id: 2926
 item_type: Still Image

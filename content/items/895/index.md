@@ -46,6 +46,8 @@ files:
     original_filename: Recibos Envio dinero Western Union 1961 (1).jpg
     thumb: /files/thumbnails/recibos-envio-dinero-western-union-1961-(1)_24a338e9f1.jpg
     url: /files/original/recibos-envio-dinero-western-union-1961-(1)_24a338e9f1.jpg
+    alt:
+      en: "Two Western Union Telegraph Company money order receipts from Liborio Santiago, dated 8-24-61 ($30) and Dec. 21, 1961 in Seminole, Texas ($26), both sent to Sra. Victoria Diaz, Independencia #18, Mexico."
 geo:
 id: 895
 item_type: Document

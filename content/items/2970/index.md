@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.56.10.jpg
     thumb: /files/thumbnails/NAD-200401385610.jpg
     url: /files/original/NAD-200401385610.jpg
+    alt:
+      en: "Braceros gather along a dirt road beside a pepper field, eating lunch near a parked truck, with utility poles and farmland stretching into the distance."
 geo:
 id: 2970
 item_type: Still Image

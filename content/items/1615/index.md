@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.12.22.jpg
     thumb: /files/thumbnails/NAD-200401381222.jpg
     url: /files/original/NAD-200401381222.jpg
+    alt:
+      en: "Black-and-white photo of a long open-sided shed at the Hidalgo Processing Center, Texas, with a large crowd of braceros lined up beneath its roof on a dirt lot under a cloudy sky."
 geo:
 id: 1615
 item_type: Still Image

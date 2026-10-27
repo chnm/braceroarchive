@@ -44,6 +44,8 @@ files:
     original_filename: margarita-4.jpg
     thumb: /files/thumbnails/margarita-4_91634b5e0e.jpg
     url: /files/original/margarita-4_91634b5e0e.jpg
+    alt:
+      en: "Sepia-toned, worn photograph of a man wearing a hat and sunglasses seated beside a young girl in a grassy field, with sheep grazing in the background."
 geo:
 id: 947
 item_type: Still Image

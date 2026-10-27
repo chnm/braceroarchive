@@ -44,6 +44,8 @@ files:
     original_filename: espino-4.jpg
     thumb: /files/thumbnails/espino-4_25f0241dfa.jpg
     url: /files/original/espino-4_25f0241dfa.jpg
+    alt:
+      en: "Black-and-white studio portrait of a young man with curly hair and a mustache, wearing a collared jacket, shirt, and striped tie, posed against a mottled backdrop."
 geo:
 id: 920
 item_type: Still Image

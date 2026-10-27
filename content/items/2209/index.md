@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.04.jpg
     thumb: /files/thumbnails/NAD-200401383204.jpg
     url: /files/original/NAD-200401383204.jpg
+    alt:
+      en: "Elevated view of a wooden bracero camp building with a person standing in the doorway, concrete steps leading up, and open farmland and hills in the background."
 geo:
 id: 2209
 item_type: Still Image

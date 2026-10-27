@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.08.jpg
     thumb: /files/thumbnails/NAD-200401380408.jpg
     url: /files/original/NAD-200401380408.jpg
+    alt:
+      en: "Black-and-white aerial view of a long line of men in hats winding through a fenced corridor toward a crowded waiting area at the Monterrey Processing Center, Mexico."
 geo:
 id: 1368
 item_type: Still Image

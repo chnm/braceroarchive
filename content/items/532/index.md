@@ -46,6 +46,8 @@ files:
     original_filename: Mar17_21.JPG
     thumb: /files/thumbnails/mar17_21_70edda88ce.jpg
     url: /files/original/mar17_21_70edda88ce.jpg
+    alt:
+      en: "Bank money order receipt No. 7426 from The Peoples State Bank, Wauseon, Ohio, dated June 9, 1944, with a handwritten amount and printed fee rate schedule."
 geo:
 id: 532
 item_type: Document

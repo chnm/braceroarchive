@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.29.jpg
     thumb: /files/thumbnails/NAD-200401383329.jpg
     url: /files/original/NAD-200401383329.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a plaid cap and work shirt bending over in a field, with another worker and hills visible in the background."
 geo:
 id: 2257
 item_type: Still Image

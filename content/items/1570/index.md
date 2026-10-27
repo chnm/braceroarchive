@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.10.04.jpg
     thumb: /files/thumbnails/NAD-200401381004.jpg
     url: /files/original/NAD-200401381004.jpg
+    alt:
+      en: "Silhouetted men in wide-brimmed hats stand along a railroad track behind barbed wire at dusk, some holding bundles, at the Monterrey Processing Center, Mexico."
 geo:
 id: 1570
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.44.11.jpg
     thumb: /files/thumbnails/NAD-200401384411.jpg
     url: /files/original/NAD-200401384411.jpg
+    alt:
+      en: "Black-and-white photo of a group of braceros standing outside a building in Watsonville, California, examining paycheck stubs held in their hands."
 geo:
 id: 2644
 item_type: Still Image

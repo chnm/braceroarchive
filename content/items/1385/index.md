@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.05.04.jpg
     thumb: /files/thumbnails/NAD-200401380504.jpg
     url: /files/original/NAD-200401380504.jpg
+    alt:
+      en: "Large crowd of braceros stands in a long line on an open dirt field, with parked cars nearby and a row of buildings and trees along the horizon."
 geo:
 id: 1385
 item_type: Still Image

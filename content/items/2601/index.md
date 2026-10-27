@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.30.jpg
     thumb: /files/thumbnails/NAD-200401384230.jpg
     url: /files/original/NAD-200401384230.jpg
+    alt:
+      en: "Black-and-white photo of four braceros resting on the porch of a wooden barrack at a California labor camp, with trees, a parked car, and scattered tools in the yard."
 geo:
 id: 2601
 item_type: Still Image

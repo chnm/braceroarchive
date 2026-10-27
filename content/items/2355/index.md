@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.11.jpg
     thumb: /files/thumbnails/NAD-200401383611.jpg
     url: /files/original/NAD-200401383611.jpg
+    alt:
+      en: "Black-and-white photo of long, converging rows of young lettuce plants in a cultivated field, with low hills and distant farm buildings, including a bracero camp, visible on the horizon."
 geo:
 id: 2355
 item_type: Still Image

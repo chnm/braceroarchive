@@ -44,6 +44,8 @@ files:
     original_filename: Carrilo3.jpg
     thumb: /files/thumbnails/carrilo3_094919f44d.jpg
     url: /files/original/carrilo3_094919f44d.jpg
+    alt:
+      en: "Back of a postcard with a printed poem \"Precious Gold\" by L.H. \"Dude\" Larsen, handwritten Spanish note, a Trinidad, Colorado postmark dated May 3, 1944, a red 3-cent stamp, and an address to Denver, Colo."
 geo:
 id: 630
 item_type: Document

@@ -46,6 +46,8 @@ files:
     original_filename: RiveraPedro Birth2.jpg
     thumb: /files/thumbnails/riverapedro-birth2_af9a7bdc3d.jpg
     url: /files/original/riverapedro-birth2_af9a7bdc3d.jpg
+    alt:
+      en: "Back of a birth certificate numbered 105125, printed in Spanish with an official statement from the Civil Registry of Mexicali, Baja California, featuring a purple registrar's seal, signature, and a \"MAY 04 1989\" date stamp."
 geo:
 id: 1161
 item_type: Document

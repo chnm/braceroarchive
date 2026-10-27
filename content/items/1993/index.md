@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.29.jpg
     thumb: /files/thumbnails/NAD-200401382429.jpg
     url: /files/original/NAD-200401382429.jpg
+    alt:
+      en: "Interior of a wooden barn-like structure with a peaked, slatted roof, featuring a screened door and two wooden chairs placed against a plank wall."
 geo:
 id: 1993
 item_type: Still Image

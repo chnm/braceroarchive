@@ -44,6 +44,8 @@ files:
     original_filename: espino16copy.jpg
     thumb: /files/thumbnails/espino16copy_6be2f90686.jpg
     url: /files/original/espino16copy_6be2f90686.jpg
+    alt:
+      en: "Bilingual printed document titled \"Standard Work Contract, As Amended,\" with English and Spanish text in two columns outlining terms on incorporation, lodging, and insurance for Mexican agricultural workers."
 geo:
 id: 939
 item_type: Document

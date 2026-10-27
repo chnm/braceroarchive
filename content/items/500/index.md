@@ -49,6 +49,8 @@ files:
     original_filename: ss cadr front copy.jpg
     thumb: /files/thumbnails/ss-cadr-front-copy_3bba1b9b3e.jpg
     url: /files/original/ss-cadr-front-copy_3bba1b9b3e.jpg
+    alt:
+      en: "Social Security Act card with the account number redacted, printed with the name \"Jose Parra Lucero\" and worn, creased edges."
 geo:
 id: 500
 item_type: Document

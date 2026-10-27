@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.37.01.jpg
     thumb: /files/thumbnails/NAD-200401383701.jpg
     url: /files/original/NAD-200401383701.jpg
+    alt:
+      en: "Workers harvest lettuce in a furrowed field, with harvested heads lined in rows in the foreground and a wheeled cart nearby, utility poles and buildings visible on the horizon."
 geo:
 id: 2409
 item_type: Still Image

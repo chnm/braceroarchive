@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.39.19.jpg
     thumb: /files/thumbnails/NAD-200401383919.jpg
     url: /files/original/NAD-200401383919.jpg
+    alt:
+      en: "Black-and-white photo of a group of braceros, many wearing hats, standing and waiting outside a building in Stockton, California, with a bus visible in the background."
 geo:
 id: 2497
 item_type: Still Image

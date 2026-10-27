@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.18.01.jpg
     thumb: /files/thumbnails/NAD-200401381801.jpg
     url: /files/original/NAD-200401381801.jpg
+    alt:
+      en: "Workers wearing hats empty large burlap sacks of harvested cotton into a wooden-sided truck bed, with a grassy field visible in the background."
 geo:
 id: 1787
 item_type: Still Image

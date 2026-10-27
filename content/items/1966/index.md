@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.02.jpg
     thumb: /files/thumbnails/NAD-200401382402.jpg
     url: /files/original/NAD-200401382402.jpg
+    alt:
+      en: "Office interior in Stockton, California, with a seated official on the phone, another man at a cluttered desk, and a group of braceros in hats waiting near the doorway."
 geo:
 id: 1966
 item_type: Still Image

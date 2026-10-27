@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.23.08.jpg
     thumb: /files/thumbnails/NAD-200401382308.jpg
     url: /files/original/NAD-200401382308.jpg
+    alt:
+      en: "A bracero stands at an outdoor wooden washing table doing laundry, with buckets and basins nearby and canvas tents and a wooden shed in the background of the camp."
 geo:
 id: 1937
 item_type: Still Image

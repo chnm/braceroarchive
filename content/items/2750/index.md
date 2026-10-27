@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.22.jpg
     thumb: /files/thumbnails/NAD-200401384722.jpg
     url: /files/original/NAD-200401384722.jpg
+    alt:
+      en: "Rows of wooden picnic-style tables and benches set with cups and utensils fill a dining hall lit by fluorescent lights, with people visible through windows in the background."
 geo:
 id: 2750
 item_type: Still Image

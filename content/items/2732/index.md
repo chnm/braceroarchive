@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.03.jpg
     thumb: /files/thumbnails/NAD-200401384703.jpg
     url: /files/original/NAD-200401384703.jpg
+    alt:
+      en: "A bracero tilts his head back in a chair under a lamp while a nurse in a cap and apron reviews paperwork beside him in a medical office."
 geo:
 id: 2732
 item_type: Still Image

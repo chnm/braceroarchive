@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.09.05.jpg
     thumb: /files/thumbnails/NAD-200401380905.jpg
     url: /files/original/NAD-200401380905.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing straw hats, sitting along railroad tracks resting near the Monterrey Processing Center, with hazy mountains visible in the distance."
 geo:
 id: 1548
 item_type: Still Image

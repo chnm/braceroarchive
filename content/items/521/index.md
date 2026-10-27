@@ -44,6 +44,8 @@ files:
     original_filename: RosalesRios-01.jpg
     thumb: /files/thumbnails/rosalesrios-01_c7fa0a93fd.jpg
     url: /files/original/rosalesrios-01_c7fa0a93fd.jpg
+    alt:
+      en: "Black-and-white photo of a man in a white shirt and dark trousers standing with hands on hips near a trailer, trees, and metal buckets in a camp yard."
 geo:
 id: 521
 item_type: Still Image

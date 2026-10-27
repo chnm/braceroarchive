@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.29.05.jpg
     thumb: /files/thumbnails/NAD-200401382905.jpg
     url: /files/original/NAD-200401382905.jpg
+    alt:
+      en: "Black-and-white photo of a still lake at dusk, with a small boat visible on the water, patches of vegetation in the shallows, and dark grassy foreground framing the scene."
 geo:
 id: 2128
 item_type: Still Image

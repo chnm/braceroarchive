@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.11.jpg
     thumb: /files/thumbnails/NAD-200401385011.jpg
     url: /files/original/NAD-200401385011.jpg
+    alt:
+      en: "Black-and-white photo of a large group of men, many wearing hats, gathered outside a low building in Stockton, California, with bales stacked in the background."
 geo:
 id: 2826
 item_type: Still Image

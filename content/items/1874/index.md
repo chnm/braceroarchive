@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.21.08.jpg
     thumb: /files/thumbnails/NAD-200401382108.jpg
     url: /files/original/NAD-200401382108.jpg
+    alt:
+      en: "Black-and-white photo of a sparse bunkhouse interior with metal-frame beds; in the foreground a man sits writing on a box on his lap, while two others converse on a bed in the background."
 geo:
 id: 1874
 item_type: Still Image

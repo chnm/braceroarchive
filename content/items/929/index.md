@@ -46,6 +46,8 @@ files:
     original_filename: Estrada E, Luis, mica of father.jpg
     thumb: /files/thumbnails/estrada-e,-luis,-mica-of-father_5a544d60fc.jpg
     url: /files/original/estrada-e,-luis,-mica-of-father_5a544d60fc.jpg
+    alt:
+      en: "Worn identification card titled \"Alien Laborer's Identification Card,\" featuring a man's mugshot-style photo with number plate \"918,\" issued by the U.S. Department of Justice, Immigration and Naturalization Service."
 geo:
 id: 929
 item_type: Document

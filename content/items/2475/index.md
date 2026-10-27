@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.38.31.jpg
     thumb: /files/thumbnails/NAD-200401383831.jpg
     url: /files/original/NAD-200401383831.jpg
+    alt:
+      en: "Black-and-white photo of braceros in wide-brimmed hats walking along a dirt path between rows of barracks at the Gondo Labor Camp, Watsonville, with a hose reel mounted on a nearby building."
 geo:
 id: 2475
 item_type: Still Image

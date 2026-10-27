@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.28.jpg
     thumb: /files/thumbnails/NAD-200401384028.jpg
     url: /files/original/NAD-200401384028.jpg
+    alt:
+      en: "Rows of lettuce boxes stacked in a vast field as numerous braceros wearing hats work among the crop rows, with hills and distant buildings visible on the horizon."
 geo:
 id: 2539
 item_type: Still Image

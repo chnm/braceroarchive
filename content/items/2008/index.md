@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.09.jpg
     thumb: /files/thumbnails/NAD-200401382509.jpg
     url: /files/original/NAD-200401382509.jpg
+    alt:
+      en: "Black-and-white photo of a doctor in a white coat examining a seated man's mouth in a small clinical room with a window, shelves, and papers in the background."
 geo:
 id: 2008
 item_type: Still Image

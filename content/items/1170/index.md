@@ -46,6 +46,8 @@ files:
     original_filename: RomanGaxiolaMaJesus1957Contract3copy.jpg
     thumb: /files/thumbnails/romangaxiolamajesus1957contract3copy_252309647a.jpg
     url: /files/original/romangaxiolamajesus1957contract3copy_252309647a.jpg
+    alt:
+      en: "Aged, worn typed document titled \"Continuation of Standard Work Contract\" for Manuel de Jesus Roman-Gaxiola, dated April 22, 1957, with handwritten entries and official stamps."
 geo:
 id: 1170
 item_type: Document

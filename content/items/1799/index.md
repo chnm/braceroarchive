@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.19.33.jpg
     thumb: /files/thumbnails/NAD-200401381933.jpg
     url: /files/original/NAD-200401381933.jpg
+    alt:
+      en: "Aerial black-and-white photograph of plowed agricultural fields in California, showing long parallel furrows stretching into the distance, with the shadow of the airplane visible in the lower left corner."
 geo:
 id: 1799
 item_type: Still Image

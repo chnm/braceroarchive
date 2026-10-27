@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.04.21.jpg
     thumb: /files/thumbnails/NAD-200401380421.jpg
     url: /files/original/NAD-200401380421.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men wearing straw hats gathered outdoors near wooden fencing, with hats laid out for sale on the ground and metal buckets and tubs in the foreground."
 geo:
 id: 2368
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.27.jpg
     thumb: /files/thumbnails/NAD-200401380727.jpg
     url: /files/original/NAD-200401380727.jpg
+    alt:
+      en: "A long line of men, many wearing hats, snakes across a dusty field toward a large crowd gathered near buildings, with mountains visible in the background."
 geo:
 id: 1463
 item_type: Still Image

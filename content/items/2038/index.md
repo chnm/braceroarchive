@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.15.jpg
     thumb: /files/thumbnails/NAD-200401382615.jpg
     url: /files/original/NAD-200401382615.jpg
+    alt:
+      en: "Braceros crouch and stand along a dirt field edge eating lunch, with a long line of men waiting near wooden crates, hills visible in the background."
 geo:
 id: 2038
 item_type: Still Image

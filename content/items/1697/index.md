@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.15.11.jpg
     thumb: /files/thumbnails/NAD-200401381511.jpg
     url: /files/original/NAD-200401381511.jpg
+    alt:
+      en: "Black-and-white photo of a group of men, many wearing wide-brimmed straw hats, standing closely together outdoors beneath trees, waiting to apply for farm work in Mexico City."
 geo:
 id: 1697
 item_type: Still Image

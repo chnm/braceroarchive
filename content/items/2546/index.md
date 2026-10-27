@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.35.jpg
     thumb: /files/thumbnails/NAD-200401384035.jpg
     url: /files/original/NAD-200401384035.jpg
+    alt:
+      en: "Black-and-white photo of braceros walking along a dirt path between cultivated crop rows, with workers visible in the distant field under a hazy sky."
 geo:
 id: 2546
 item_type: Still Image

@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.23.18.jpg
     thumb: /files/thumbnails/NAD-200401382318.jpg
     url: /files/original/NAD-200401382318.jpg
+    alt:
+      en: "A man bends over to drink from an outdoor water spigot on a concrete slab in an open field, with a fence and distant hills visible in the background."
 geo:
 id: 1947
 item_type: Still Image

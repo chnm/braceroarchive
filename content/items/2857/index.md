@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.51.16.jpg
     thumb: /files/thumbnails/NAD-200401385116.jpg
     url: /files/original/NAD-200401385116.jpg
+    alt:
+      en: "A doctor examines a seated man's throat in a clinic office, while a nurse stands by a medical cart with supplies in the background."
 geo:
 id: 2857
 item_type: Still Image

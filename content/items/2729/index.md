@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.46.36.jpg
     thumb: /files/thumbnails/NAD-200401384636.jpg
     url: /files/original/NAD-200401384636.jpg
+    alt:
+      en: "Black-and-white photo of braceros washing laundry at an outdoor spigot near a brick building labeled \"Federal Pitter Co. Peach Pitting Equipment,\" with other men nearby."
 geo:
 id: 2729
 item_type: Still Image

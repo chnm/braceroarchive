@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.23.jpg
     thumb: /files/thumbnails/NAD-200401384023.jpg
     url: /files/original/NAD-200401384023.jpg
+    alt:
+      en: "A man wearing a straw hat kneels atop stacked \"Toro\" brand lettuce boxes on a truck, with a vast agricultural field and distant figures working in the background."
 geo:
 id: 2534
 item_type: Still Image

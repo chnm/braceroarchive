@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.36.28.jpg
     thumb: /files/thumbnails/NAD-200401383628.jpg
     url: /files/original/NAD-200401383628.jpg
+    alt:
+      en: "Black-and-white view of a lettuce field with rows of harvested produce and lined-up white lettuce boxes stretching toward distant hills in the Salinas Valley, California."
 geo:
 id: 2407
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.49.09.jpg
     thumb: /files/thumbnails/NAD-200401384909.jpg
     url: /files/original/NAD-200401384909.jpg
+    alt:
+      en: "Black-and-white photo of braceros working a furrowed pepper field, with one man crouched filling a cup from a metal water container; rows of trees line the horizon."
 geo:
 id: 2788
 item_type: Still Image

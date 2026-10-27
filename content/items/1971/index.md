@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.24.07.jpg
     thumb: /files/thumbnails/NAD-200401382407.jpg
     url: /files/original/NAD-200401382407.jpg
+    alt:
+      en: "Crowd of men in cowboy hats gathers around an official holding paychecks and documents, with a bus and building visible in the background."
 geo:
 id: 1971
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: NAD-2004.0138.06.15.jpg
     thumb: /files/thumbnails/NAD-200401380615.jpg
     url: /files/original/NAD-200401380615.jpg
+    alt:
+      en: "Group of men wearing hats and carrying bags walk alongside railroad tracks beside a tall wire fence, with mountains visible in the hazy distance."
 geo:
 id: 1421
 item_type: Still Image

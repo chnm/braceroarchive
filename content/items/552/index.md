@@ -46,6 +46,8 @@ files:
     original_filename: USD of Labor card back.jpg
     thumb: /files/thumbnails/usd-of-labor-card-back_860b450b61.jpg
     url: /files/original/usd-of-labor-card-back_860b450b61.jpg
+    alt:
+      en: "Folded card printed with \"U.S. DEPARTMENT OF LABOR\" and \"MENCIÓN HONORÍFICA,\" featuring a small worker figure logo and the U.S. Department of Labor seal."
 geo:
 id: 552
 item_type: Document

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.25.jpg
     thumb: /files/thumbnails/NAD-200401381325.jpg
     url: /files/original/NAD-200401381325.jpg
+    alt:
+      en: "Rows of desks fill a large hall where officials review documents with braceros; a sign reading \"A.C. Muller Supervisor Selection\" hangs above one station, with a calendar on the wall nearby."
 geo:
 id: 1653
 item_type: Still Image

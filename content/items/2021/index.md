@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.25.22.jpg
     thumb: /files/thumbnails/NAD-200401382522.jpg
     url: /files/original/NAD-200401382522.jpg
+    alt:
+      en: "Black-and-white photo of a bracero camp dormitory with two cots, lockers, hanging clothes, suitcases, and a small shelf with personal items along the wall."
 geo:
 id: 2021
 item_type: Still Image

@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.53.20.jpg
     thumb: /files/thumbnails/NAD-200401385320.jpg
     url: /files/original/NAD-200401385320.jpg
+    alt:
+      en: "Black-and-white photo of a bracero reclining on a bunk, exhaling smoke from a cigarette, with clothing hanging nearby and other bedding visible along the camp quarters."
 geo:
 id: 2911
 item_type: Still Image

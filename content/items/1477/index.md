@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.07.05.jpg
     thumb: /files/thumbnails/NAD-200401380705.jpg
     url: /files/original/NAD-200401380705.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up outdoors at the Monterrey Processing Center, with groups walking across a dirt field toward low buildings in the background."
 geo:
 id: 1477
 item_type: Still Image

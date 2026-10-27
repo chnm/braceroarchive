@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.05.29.jpg
     thumb: /files/thumbnails/NAD-200401380529.jpg
     url: /files/original/NAD-200401380529.jpg
+    alt:
+      en: "Men wearing hats sit at long wooden tables and benches inside a shed-like barracks, preparing food together near windows and bunk areas, with cookware set out on the tables."
 geo:
 id: 1410
 item_type: Still Image

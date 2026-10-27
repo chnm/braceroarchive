@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.33.jpg
     thumb: /files/thumbnails/NAD-200401383233.jpg
     url: /files/original/NAD-200401383233.jpg
+    alt:
+      en: "Two braceros play dominoes at a small table in a shared sleeping quarters, with cots and bedding lining the room and sunlight entering through a window."
 geo:
 id: 2238
 item_type: Still Image

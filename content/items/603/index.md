@@ -46,6 +46,8 @@ files:
     original_filename: FMarin001.jpg
     thumb: /files/thumbnails/fmarin001_6a56c331d7.jpg
     url: /files/original/fmarin001_6a56c331d7.jpg
+    alt:
+      en: "Identification card (MICA) for Feliciano Marin-Juarez, born 1919 in Tepechitlan, Zacatecas, Mexico, issued in Calexico, California on 2/1/57, with ID number L-2528053."
 geo:
 id: 603
 item_type: Document

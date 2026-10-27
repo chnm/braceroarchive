@@ -46,6 +46,8 @@ files:
     original_filename: espino2copy.jpg
     thumb: /files/thumbnails/espino2copy_cfc514752b.jpg
     url: /files/original/espino2copy_cfc514752b.jpg
+    alt:
+      en: "Back side of a bilingual individual work agreement document with numbered clauses in English and Spanish, bearing signatures, a date stamp \"28 DIC 1943,\" and official seals at the bottom."
 geo:
 id: 923
 item_type: Document

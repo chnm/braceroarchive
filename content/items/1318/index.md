@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.03.10.jpg
     thumb: /files/thumbnails/NAD-200401380310.jpg
     url: /files/original/NAD-200401380310.jpg
+    alt:
+      en: "A man wearing a hat stands at a desk facing an official seated with his back to the camera, while a line of men wait behind him near tall windows."
 geo:
 id: 1318
 item_type: Still Image

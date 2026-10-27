@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.20.jpg
     thumb: /files/thumbnails/NAD-200401383220.jpg
     url: /files/original/NAD-200401383220.jpg
+    alt:
+      en: "A man sits on a cot in a sparse bunkroom, writing a letter, with jackets hanging on wall hooks and a chair and another bed nearby."
 geo:
 id: 2225
 item_type: Still Image

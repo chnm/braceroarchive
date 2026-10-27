@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.45.03.jpg
     thumb: /files/thumbnails/NAD-200401384503.jpg
     url: /files/original/NAD-200401384503.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting along a dirt furrow in a California field, with a truck and more workers visible in the background near rows of crops."
 geo:
 id: 2670
 item_type: Still Image

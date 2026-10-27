@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.04.09.jpg
     thumb: /files/thumbnails/NAD-200401380409.jpg
     url: /files/original/NAD-200401380409.jpg
+    alt:
+      en: "A long line of men wearing hats waits outdoors near a small shelter, with an official standing at its entrance, at the Monterrey Processing Center, Mexico."
 geo:
 id: 1369
 item_type: Still Image

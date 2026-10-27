@@ -44,6 +44,8 @@ files:
     original_filename: NSaldana001.jpg
     thumb: /files/thumbnails/nsaldana001_d93e12cd66.jpg
     url: /files/original/nsaldana001_d93e12cd66.jpg
+    alt:
+      en: "Military ID card from the Ejercito Mexicano, Div. de Infanteria S.M.N., with a soldier's portrait photo, printed text, and handwritten details for Nicolas Saldana Sandoval, dated January 1955."
 geo:
 id: 805
 item_type: Document

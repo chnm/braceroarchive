@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.08.35.jpg
     thumb: /files/thumbnails/NAD-200401380835.jpg
     url: /files/original/NAD-200401380835.jpg
+    alt:
+      en: "An official in a suit reviews documents while a line of men in hats and work clothes wait to present their papers outdoors in Mexico City."
 geo:
 id: 1522
 item_type: Still Image

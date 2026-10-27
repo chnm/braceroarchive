@@ -46,6 +46,8 @@ files:
     original_filename: joseramirez12.jpg
     thumb: /files/thumbnails/joseramirez12_dc595c4765.jpg
     url: /files/original/joseramirez12_dc595c4765.jpg
+    alt:
+      en: "Typed Spanish letter titled \"Confirmacion de Empleo Como Bracero,\" dated Diciembre 2004, signed by Ines Hernandez with a handwritten signature, phone number, and address beneath the printed text."
 geo:
 id: 958
 item_type: Document

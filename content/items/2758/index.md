@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.47.30.jpg
     thumb: /files/thumbnails/NAD-200401384730.jpg
     url: /files/original/NAD-200401384730.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up outdoors beneath a shelter roof, waiting to enter a dining hall at a California labor camp, with rows of barracks-style buildings behind them."
 geo:
 id: 2758
 item_type: Still Image

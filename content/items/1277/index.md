@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.02.jpg
     thumb: /files/thumbnails/NAD-200401380102.jpg
     url: /files/original/NAD-200401380102.jpg
+    alt:
+      en: "A black-and-white photo of a long line of men in hats standing beside railroad tracks in an open, dusty area, waiting near the Monterrey Processing Center."
 geo:
 id: 1277
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: NSaldana002.jpg
     thumb: /files/thumbnails/nsaldana002_7498f2d38e.jpg
     url: /files/original/nsaldana002_7498f2d38e.jpg
+    alt:
+      en: "Back of a Spanish-language military service identification card with a printed \"NOTA\" explanatory paragraph, two fingerprints under \"MATRICULA,\" and a monthly grid (ENE.–DIC.) filled with colorful handwritten initials and dates."
 geo:
 id: 806
 item_type: Document

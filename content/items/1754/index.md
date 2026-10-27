@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.17.05.jpg
     thumb: /files/thumbnails/NAD-200401381705.jpg
     url: /files/original/NAD-200401381705.jpg
+    alt:
+      en: "Black-and-white photo of men wearing wide-brimmed hats standing in lines inside a large hall with tall windows and support columns, waiting at tables during processing at the Monterrey center."
 geo:
 id: 1754
 item_type: Still Image

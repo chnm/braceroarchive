@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.24.jpg
     thumb: /files/thumbnails/NAD-200401383224.jpg
     url: /files/original/NAD-200401383224.jpg
+    alt:
+      en: "A man reclines on a bed with a cigarette in his mouth, one arm raised behind his head, in a dimly lit room at a labor camp."
 geo:
 id: 2229
 item_type: Still Image

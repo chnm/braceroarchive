@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.26.21.jpg
     thumb: /files/thumbnails/NAD-200401382621.jpg
     url: /files/original/NAD-200401382621.jpg
+    alt:
+      en: "Black-and-white photo of a long line of braceros wearing wide-brimmed hats, crouched and seated along a dirt road eating lunch beside a pepper field, with a vintage car parked nearby."
 geo:
 id: 2044
 item_type: Still Image

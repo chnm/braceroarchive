@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.01.41.jpg
     thumb: /files/thumbnails/NAD-200401380141.jpg
     url: /files/original/NAD-200401380141.jpg
+    alt:
+      en: "Long line of men wearing hats winds across an open dirt lot at the Monterrey Processing Center, with buildings in the background, as braceros queue to board buses to Texas."
 geo:
 id: 1284
 item_type: Still Image

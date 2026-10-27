@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.33.28.jpg
     thumb: /files/thumbnails/NAD-200401383328.jpg
     url: /files/original/NAD-200401383328.jpg
+    alt:
+      en: "A bracero bent over, using a short-handled hoe to tend a row of plants in a pepper field, wearing a plaid cap and work jacket, with crop rows extending into the distance."
 geo:
 id: 2256
 item_type: Still Image

@@ -44,6 +44,8 @@ files:
     original_filename: Lerma1and2.jpg
     thumb: /files/thumbnails/lerma1and2_a75525699c.jpg
     url: /files/original/lerma1and2_a75525699c.jpg
+    alt:
+      en: "Top: a woman in a polka-dot dress sits by a Singer sewing machine amid shelves of folded fabric. Bottom: a group of women sit and stand around a table doing craft work near patterned curtains and windows."
 geo:
 id: 539
 item_type: Still Image

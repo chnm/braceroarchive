@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.40.16.jpg
     thumb: /files/thumbnails/NAD-200401384016.jpg
     url: /files/original/NAD-200401384016.jpg
+    alt:
+      en: "Black-and-white photo of a flatbed truck loaded with wooden lettuce crates parked beside a lettuce field, with workers bending among the rows and hills visible in the distance."
 geo:
 id: 2527
 item_type: Still Image

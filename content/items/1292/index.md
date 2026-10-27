@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.02.15.jpg
     thumb: /files/thumbnails/NAD-200401380215.jpg
     url: /files/original/NAD-200401380215.jpg
+    alt:
+      en: "Black-and-white photo of two men standing side by side before a plain backdrop, lit for identification photographs at the Hidalgo Processing Center, Texas."
 geo:
 id: 1292
 item_type: Still Image

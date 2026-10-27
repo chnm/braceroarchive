@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.50.07.jpg
     thumb: /files/thumbnails/NAD-200401385007.jpg
     url: /files/original/NAD-200401385007.jpg
+    alt:
+      en: "A bracero in sandals and work pants harvests zucchini from a field row, with a metal bucket sitting on the cracked soil nearby."
 geo:
 id: 2822
 item_type: Still Image

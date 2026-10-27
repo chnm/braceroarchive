@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.13.23.jpg
     thumb: /files/thumbnails/NAD-200401381323.jpg
     url: /files/original/NAD-200401381323.jpg
+    alt:
+      en: "Rows of men in cowboy hats stand at desks while typists complete paperwork inside a large, window-lined hall at the Monterrey Processing Center."
 geo:
 id: 1651
 item_type: Still Image

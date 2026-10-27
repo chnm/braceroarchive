@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.42.04.jpg
     thumb: /files/thumbnails/NAD-200401384204.jpg
     url: /files/original/NAD-200401384204.jpg
+    alt:
+      en: "Black-and-white photo of a sloped wooden-plank ceiling with exposed pipes and a bare hanging light bulb, overlooking a dim, worn shower stall area below."
 geo:
 id: 2585
 item_type: Still Image

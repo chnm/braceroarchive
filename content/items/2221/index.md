@@ -41,6 +41,8 @@ files:
     original_filename: NAD-2004.0138.32.16.jpg
     thumb: /files/thumbnails/NAD-200401383216.jpg
     url: /files/original/NAD-200401383216.jpg
+    alt:
+      en: "Black-and-white photo looking through a doorway into a row of shower stalls lit by bare bulbs, with a stained concrete floor and a window at the far end."
 geo:
 id: 2221
 item_type: Still Image

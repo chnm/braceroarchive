@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.06.32.jpg
     thumb: /files/thumbnails/NAD-200401380632.jpg
     url: /files/original/NAD-200401380632.jpg
+    alt:
+      en: "A bracero leans against a barbed wire fence post, waiting among a large crowd of hatted men at the Monterrey Processing Center, with buildings visible in the background."
 geo:
 id: 1442
 item_type: Still Image

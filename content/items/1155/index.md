@@ -46,6 +46,8 @@ files:
     original_filename: NavarroFedericoPassport1.jpg
     thumb: /files/thumbnails/navarrofedericopassport1_73d2d674c8.jpg
     url: /files/original/navarrofedericopassport1_73d2d674c8.jpg
+    alt:
+      en: "Interior pages of a Mexican passport numbered F-11355, bearing the national emblem seal and issued to Federico Navarro Duran, with printed Spanish text about domicile and passport validity."
 geo:
 id: 1155
 item_type: Document

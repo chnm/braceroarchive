@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.44.13.jpg
     thumb: /files/thumbnails/NAD-200401384413.jpg
     url: /files/original/NAD-200401384413.jpg
+    alt:
+      en: "Black-and-white photo of a man seated in a chair, draped with a cloth, getting a haircut on a covered porch, with a patterned tin ceiling, a house and tree visible beyond the railing."
 geo:
 id: 2646
 item_type: Still Image

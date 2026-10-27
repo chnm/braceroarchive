@@ -38,6 +38,8 @@ files:
     original_filename: NAD-2004.0138.11.36.jpg
     thumb: /files/thumbnails/NAD-200401381136.jpg
     url: /files/original/NAD-200401381136.jpg
+    alt:
+      en: "Officials examine paperwork with a seated man at a table stacked with documents, while a crowd of shirtless men and others wait in the background hall at the Monterrey Processing Center."
 geo:
 id: 1602
 item_type: Still Image
