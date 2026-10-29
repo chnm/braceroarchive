@@ -2,15 +2,18 @@
 
 FROM stagex/pallet-nodejs AS build-stage
 
-COPY --from=stagex/user-hugo-extended /usr/bin/hugo/hugo_exended /usr/local/bin/hugo
+COPY --from=stagex/user-hugo-extended:0.161.1 /usr/bin/hugo /usr/local/bin/hugo
 
 ARG hugobuildargs
 ENV HUGO_BUILD_ARGS=$hugobuildargs
 
 WORKDIR /app
+
+COPY package.json package-lock.json ./
+RUN npm ci
+
 COPY . .
 
-RUN npm ci
 RUN hugo ${HUGO_BUILD_ARGS}
 RUN npx --no-install pagefind --site public --glob "**/items/*/index.html"
 
@@ -18,7 +21,6 @@ FROM stagex/user-caddy
 
 COPY --from=stagex/core-musl / /
 COPY --from=build-stage /app/public /srv
-COPY --from=build-stage /app/redirects.caddy /srv/redirects.caddy
 
 COPY <<'EOF' /etc/caddy/Caddyfile
 {
@@ -30,9 +32,10 @@ COPY <<'EOF' /etc/caddy/Caddyfile
 	root * /srv
 	encode gzip zstd
 
-	# Legacy Omeka URL redirects (301s). Kept first so they win before
-	# file_server. /files/* is intentionally absent — the fronting web server
-	# serves media from the file store.
+	# Legacy URL redirects (301) from the pre-Hugo WordPress site. Caddy orders
+	# `map` + `redir` ahead of `rewrite`/`file_server`, so matched paths redirect
+	# before a 404. redirects.caddy lives in Hugo's static/, so it ships inside
+	# public/ (the release artifact) and lands here at /srv/redirects.caddy.
 	import /srv/redirects.caddy
 
 	# Backward compatibility: /img/* serves from /assets/img/*
