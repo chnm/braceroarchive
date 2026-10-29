@@ -74,7 +74,7 @@ slug: '1221'
 sortdate: '9999-99-99'
 tags:
   - 10%
-  - 2006'
+  - '2006'
   - Baja California
   - Mexicali
   - Mexico
