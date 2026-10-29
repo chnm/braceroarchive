@@ -59,6 +59,14 @@ ABOUT_LOGOS = (
     '</div>'
 )
 
+# The project team as a plain list of names (replaces the crawled Staff bios), on both About pages.
+STAFF = [
+    "Sharon Leon", "Tom Scheinfeldt", "James Halabuk", "Kristine Navarro", "Matt Garcia",
+    "Peter Liebhold", "Steve Velasquez", "Bonnie Lilienfeld", "Magdalena Mieri",
+    "Ken Albers", "Jeremy Boggs", "Megan Brett",
+]
+STAFF_LIST = '<ul class="staff-list">\n' + "".join(f"  <li>{n}</li>\n" for n in STAFF) + "</ul>"
+
 # slug -> (English title, Spanish title). Order defines nav weight.
 PAGES = [
     ("about", "About", "Sobre", "about.html", "es/sobre.html"),
@@ -254,7 +262,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
             html = enp.read_text(encoding="utf-8", errors="replace")
             body = extract_body(html, "en")
             if slug == "about":
-                body += "\n" + ABOUT_LOGOS
+                body = body.split("<h2>Staff</h2>")[0] + "<h2>Staff</h2>\n" + STAFF_LIST + "\n" + ABOUT_LOGOS
             write_md(
                 en_dir / f"{slug}.md",
                 {
@@ -282,7 +290,7 @@ def build(site_root: Path, mirror_root: Path, template_dir: Path | None = None) 
                     "slug": slug,
                     "aliases": [f"/{es_stem[:-5]}", f"/{es_stem}"],
                 },
-                extract_body(html, "es"),
+                extract_body(html, "es") + ("\n<h2>Equipo</h2>\n" + STAFF_LIST if slug == "about" else ""),
             )
 
     # --- search pages (en + es) ------------------------------------------
