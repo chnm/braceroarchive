@@ -43,6 +43,9 @@ files:
     original_filename: Garcia Roberto - passport12.jpg
     thumb: /files/thumbnails/garcia-roberto---passport12_c3d08875cf.jpg
     url: /files/original/garcia-roberto---passport12_c3d08875cf.jpg
+    alt:
+      en: "Open booklet pages of a Mexican passport showing \"Matricula 1341980\" stamped in red, printed regulations text, and a signature block for Jose Ramirez Ceballos of the National Defense office."
+      es: "Páginas abiertas de un pasaporte mexicano con el sello rojo \"Matrícula 1341980\", texto impreso de reglamentos y un bloque de firma de José Ramírez Ceballos de la oficina de Defensa Nacional."
 geo:
 id: 979
 item_type: Document

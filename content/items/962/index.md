@@ -46,6 +46,9 @@ files:
     original_filename: Silva Marin, Roberto, 1961, mica1.jpg
     thumb: /files/thumbnails/silva-marin,-roberto,-1961,-mica1_97054e363e.jpg
     url: /files/original/silva-marin,-roberto,-1961,-mica1_97054e363e.jpg
+    alt:
+      en: "Alien Laborer's Identification Card with a black-and-white photo of a man, issued by the U.S. Department of Justice, Immigration and Naturalization Service, form 1-100D (Rev. 8-1-59)."
+      es: "Tarjeta de Identificación de Trabajador Extranjero con fotografía en blanco y negro de un hombre, emitida por el Departamento de Justicia de EE.UU., Servicio de Inmigración y Naturalización, formulario 1-100D (Rev. 8-1-59)."
 geo:
 id: 962
 item_type: Document

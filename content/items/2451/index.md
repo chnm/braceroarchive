@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.07.jpg
     thumb: /files/thumbnails/NAD-200401383807.jpg
     url: /files/original/NAD-200401383807.jpg
+    alt:
+      en: "Black-and-white photo of a long row of industrial sinks with multiple faucets in a barn-like building, where men wash up as others stand talking in the background."
+      es: "Foto en blanco y negro de una larga fila de lavabos industriales con varios grifos en un edificio tipo galpón, donde unos hombres se lavan mientras otros conversan al fondo."
 geo:
 id: 2451
 item_type: Still Image

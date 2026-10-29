@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.35.jpg
     thumb: /files/thumbnails/NAD-200401382735.jpg
     url: /files/original/NAD-200401382735.jpg
+    alt:
+      en: "Predominantly black, underexposed frame with faint scattered specks and scratches, offering no discernible subject matter; a thin dark band runs across the bottom edge."
+      es: "Fotograma predominantemente negro y subexpuesto, con leves motas y rayones dispersos, sin ningún motivo discernible; una franja oscura delgada cruza el borde inferior."
 geo:
 id: 2060
 item_type: Still Image

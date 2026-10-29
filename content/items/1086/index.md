@@ -44,6 +44,9 @@ files:
     original_filename: Santacurz, Melitona, 1961, Affidavit of Consent1.jpg
     thumb: /files/thumbnails/santacurz,-melitona,-1961,-affidavit-of-consent1_d52d9f604f.jpg
     url: /files/original/santacurz,-melitona,-1961,-affidavit-of-consent1_d52d9f604f.jpg
+    alt:
+      en: "Typed legal document titled \"Affidavit of Consent\" with numbered margin lines, signed in cursive by Melitona Martinez de Santacruz, notarized with a seal and signature of Robert S. Fox, dated January 1961."
+      es: "Documento legal mecanografiado titulado \"Affidavit of Consent\", con líneas numeradas al margen, firmado en cursiva por Melitona Martínez de Santacruz, notariado con sello y firma de Robert S. Fox, fechado en enero de 1961."
 geo:
 id: 1086
 item_type: Document

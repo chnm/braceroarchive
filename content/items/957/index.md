@@ -46,6 +46,9 @@ files:
     original_filename: Lopez Silva, Alejo, 1956, mica2.jpg
     thumb: /files/thumbnails/lopez-silva,-alejo,-1956,-mica2_9d033b12dc.jpg
     url: /files/original/lopez-silva,-alejo,-1956,-mica2_9d033b12dc.jpg
+    alt:
+      en: "Backside of a Bracero ID card for Alejo Lopez-Silva, listing birth date 7-17-34, birthplace El Salitre, Calvillo, Ags., Mexicali home address, and issue date 9-14-56, with number L-2492335 and \"MICA\" stamped below."
+      es: "Reverso de una tarjeta de identificación Bracero de Alejo López-Silva, con fecha de nacimiento 7-17-34, lugar de nacimiento El Salitre, Calvillo, Ags., domicilio en Mexicali y fecha de emisión 9-14-56, número L-2492335 y sello \"MICA\"."
 geo:
 id: 957
 item_type: Document

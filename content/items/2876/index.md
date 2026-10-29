@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.10.jpg
     thumb: /files/thumbnails/NAD-200401385210.jpg
     url: /files/original/NAD-200401385210.jpg
+    alt:
+      en: "A bracero stands beside stacked crates of strawberries at the edge of a field in the Salinas Valley, with other workers harvesting rows in the background."
+      es: "Un bracero está de pie junto a pilas de cajas de fresas al borde de un campo en el Valle de Salinas, con otros trabajadores cosechando en hileras al fondo."
 geo:
 id: 2876
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.28.jpg
     thumb: /files/thumbnails/NAD-200401382928.jpg
     url: /files/original/NAD-200401382928.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with men standing outside a storefront sign reading \"Surplus,\" near a parked car, bicycle, and \"Daylite Market\" sign."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con hombres de pie frente a una tienda con letrero \"Surplus\", cerca de un auto estacionado, una bicicleta y un letrero de \"Daylite Market\"."
 geo:
 id: 2136
 item_type: Still Image

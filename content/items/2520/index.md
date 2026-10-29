@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.09.jpg
     thumb: /files/thumbnails/NAD-200401384009.jpg
     url: /files/original/NAD-200401384009.jpg
+    alt:
+      en: "Black-and-white photo of a loaded truck stacked with wooden lettuce crates parked in a furrowed field, with workers walking among the rows and hills in the distance."
+      es: "Foto en blanco y negro de un camión cargado con cajas de madera de lechuga estacionado en un campo surcado, con trabajadores caminando entre las hileras y colinas al fondo."
 geo:
 id: 2520
 item_type: Still Image

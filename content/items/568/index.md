@@ -44,6 +44,9 @@ files:
     original_filename: bracero stand .jpg
     thumb: /files/thumbnails/bracero-stand-_6386298d68.jpg
     url: /files/original/bracero-stand-_6386298d68.jpg
+    alt:
+      en: "A man in a white shirt, jeans, and a straw cowboy hat leans against a weathered stucco wall near an electric meter and a window, one leg crossed casually."
+      es: "Un hombre con camisa blanca, pantalón de mezclilla y sombrero vaquero de paja se recarga en una pared de estuco desgastada, cerca de un medidor eléctrico y una ventana, con una pierna cruzada casualmente."
 geo:
 id: 568
 item_type: Still Image

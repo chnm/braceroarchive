@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.32.jpg
     thumb: /files/thumbnails/NAD-200401385632.jpg
     url: /files/original/NAD-200401385632.jpg
+    alt:
+      en: "Black-and-white photo of braceros in wide-brimmed hats bending over rows of lettuce in a field, packing heads into \"Cookie\" brand lettuce boxes, with more workers and crates visible in the distance."
+      es: "Fotografía en blanco y negro de braceros con sombreros de ala ancha agachados entre hileras de lechuga, empacando cabezas en cajas de lechuga marca \"Cookie\", con más trabajadores y cajas visibles al fondo."
 geo:
 id: 2992
 item_type: Still Image

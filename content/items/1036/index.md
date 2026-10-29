@@ -46,6 +46,9 @@ files:
     original_filename: Bautista, Agustine, 1968, military id5.jpg
     thumb: /files/thumbnails/bautista,-agustine,-1968,-military-id5_2b73a015b9.jpg
     url: /files/original/bautista,-agustine,-1968,-military-id5_2b73a015b9.jpg
+    alt:
+      en: "Mexican military ID booklet with a blank rose-colored left page and printed Spanish text on the right detailing service regulations, including Articles 6 and 251 and reservist age limits."
+      es: "Credencial militar mexicana con página izquierda en blanco de color rosa y texto impreso en español en la derecha sobre reglamentos de servicio, incluyendo los Artículos 6 y 251 y límites de edad para reservistas."
 geo:
 id: 1036
 item_type: Document

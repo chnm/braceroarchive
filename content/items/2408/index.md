@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.36.03.jpg
     thumb: /files/thumbnails/NAD-200401383603.jpg
     url: /files/original/NAD-200401383603.jpg
+    alt:
+      en: "Black-and-white photograph of rows of crops in a cultivated onion field stretching toward distant hills, with low brush and grasses in the foreground under a hazy sky."
+      es: "Fotografía en blanco y negro de hileras de cultivos en un campo de cebollas que se extiende hacia colinas distantes, con arbustos bajos y pastizales en primer plano bajo un cielo brumoso."
 geo:
 id: 2408
 item_type: Still Image

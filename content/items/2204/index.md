@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.16.jpg
     thumb: /files/thumbnails/NAD-200401383116.jpg
     url: /files/original/NAD-200401383116.jpg
+    alt:
+      en: "Two men wearing wide-brimmed hats harvest onions in a field, bundling them into wooden crates amid rows of tall green onion stalks."
+      es: "Dos hombres con sombreros de ala ancha cosechan cebollas en un campo, agrupándolas en cajones de madera entre hileras de altos tallos verdes de cebolla."
 geo:
 id: 2204
 item_type: Still Image

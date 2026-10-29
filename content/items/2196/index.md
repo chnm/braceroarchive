@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.20.jpg
     thumb: /files/thumbnails/NAD-200401383120.jpg
     url: /files/original/NAD-200401383120.jpg
+    alt:
+      en: "A man wearing a cap and sweatshirt kneels behind a wooden crate filled with onions, looking up from his work in a field in the Salinas Valley, California."
+      es: "Un hombre con gorra y sudadera se arrodilla detrás de un cajón de madera lleno de cebollas, levantando la vista de su trabajo en un campo del valle de Salinas, California."
 geo:
 id: 2196
 item_type: Still Image

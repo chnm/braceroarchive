@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.28.jpg
     thumb: /files/thumbnails/NAD-200401381628.jpg
     url: /files/original/NAD-200401381628.jpg
+    alt:
+      en: "Large group of men in hats sit and rest along the shaded wall of a building at the Monterrey Processing Center, with more men standing and gathered in the background."
+      es: "Gran grupo de hombres con sombreros sentados y descansando a la sombra de un edificio en el Centro de Procesamiento de Monterrey, con más hombres de pie reunidos al fondo."
 geo:
 id: 1735
 item_type: Still Image

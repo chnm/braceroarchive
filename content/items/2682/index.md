@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.15.jpg
     thumb: /files/thumbnails/NAD-200401384515.jpg
     url: /files/original/NAD-200401384515.jpg
+    alt:
+      en: "Black-and-white photo of a bracero pouring water from a metal vat into a cup at the edge of a California field, with other workers and sacks of produce nearby."
+      es: "Fotografía en blanco y negro de un bracero sirviendo agua de un bote metálico en una taza al borde de un campo en California, con otros trabajadores y costales de cosecha cerca."
 geo:
 id: 2682
 item_type: Still Image

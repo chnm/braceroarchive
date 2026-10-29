@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.24.jpg
     thumb: /files/thumbnails/NAD-200401384124.jpg
     url: /files/original/NAD-200401384124.jpg
+    alt:
+      en: "A bracero stands in a doorway while three others sit resting on wooden crates outside a row of wood-sided living quarters at a California labor camp."
+      es: "Un bracero está de pie en una puerta mientras otros tres descansan sentados sobre cajones de madera frente a una fila de viviendas de madera en un campo laboral de California."
 geo:
 id: 2572
 item_type: Still Image

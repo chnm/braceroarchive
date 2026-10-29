@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.36.jpg
     thumb: /files/thumbnails/NAD-200401384136.jpg
     url: /files/original/NAD-200401384136.jpg
+    alt:
+      en: "A bracero sits on a sagging bed in a sparse wooden room, writing on a small pad, with laundry hung overhead and a wooden crate labeled \"Butler's Best\" nearby."
+      es: "Un bracero sentado en una cama hundida en un cuarto de madera austero, escribiendo en una libreta, con ropa colgada arriba y una caja de madera con la etiqueta \"Butler's Best\" cerca."
 geo:
 id: 2584
 item_type: Still Image

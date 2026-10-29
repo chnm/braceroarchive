@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.14.12.jpg
     thumb: /files/thumbnails/NAD-200401381412.jpg
     url: /files/original/NAD-200401381412.jpg
+    alt:
+      en: "A chalkboard mounted on a cinder block wall lists grower association names with numbers of braceros requested and corresponding dates, written in handwritten columns."
+      es: "Pizarrón montado en una pared de bloques de concreto con nombres de asociaciones de agricultores, números de braceros solicitados y fechas correspondientes, escritos en columnas a mano."
 geo:
 id: 1665
 item_type: Still Image

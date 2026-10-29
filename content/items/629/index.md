@@ -44,6 +44,9 @@ files:
     original_filename: Carrilo2.jpg
     thumb: /files/thumbnails/carrilo2_8bc05bbccf.jpg
     url: /files/original/carrilo2_8bc05bbccf.jpg
+    alt:
+      en: "Illustrated postcard (shown sideways) of a mule leaping down a rocky hillside above a cowboy's camp, with a seated figure, bedroll, and campfire smoke below."
+      es: "Postal ilustrada (orientada de lado) de una mula saltando por una ladera rocosa sobre el campamento de un vaquero, con una figura sentada, un rollo de dormir y humo de fogata abajo."
 geo:
 id: 629
 item_type: Still Image

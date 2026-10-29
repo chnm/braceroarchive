@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.33.12.jpg
     thumb: /files/thumbnails/NAD-200401383312.jpg
     url: /files/original/NAD-200401383312.jpg
+    alt:
+      en: "Black-and-white photo of braceros performing stoop labor across a large open field, with a dense tree line and distant hills in the background."
+      es: "Foto en blanco y negro de braceros realizando trabajo agachado en un amplio campo abierto, con una densa línea de árboles y colinas distantes al fondo."
 geo:
 id: 2265
 item_type: Still Image

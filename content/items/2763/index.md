@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.48.04.jpg
     thumb: /files/thumbnails/NAD-200401384804.jpg
     url: /files/original/NAD-200401384804.jpg
+    alt:
+      en: "Rows of cots with folded blankets line a wood-paneled bunkhouse wall, sunlight streaming through a window, with a hat and clothing hanging on hooks nearby."
+      es: "Filas de catres con mantas dobladas junto a una pared de madera en un dormitorio, con luz solar entrando por una ventana y un sombrero y ropa colgados en ganchos cercanos."
 geo:
 id: 2763
 item_type: Still Image

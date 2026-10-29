@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.30.19.jpg
     thumb: /files/thumbnails/NAD-200401383019.jpg
     url: /files/original/NAD-200401383019.jpg
+    alt:
+      en: "Aerial view of long barracks-style buildings with sloped roofs in a bracero labor camp, with a parked bus, truck, and open dirt yard visible among trees and farmland in the background."
+      es: "Vista aérea de edificios tipo barraca con techos inclinados en un campamento de braceros, con un autobús y un camión estacionados, un patio de tierra, árboles y campos agrícolas al fondo."
 geo:
 id: 2170
 item_type: Still Image

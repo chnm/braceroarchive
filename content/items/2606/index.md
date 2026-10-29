@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.34.jpg
     thumb: /files/thumbnails/NAD-200401384234.jpg
     url: /files/original/NAD-200401384234.jpg
+    alt:
+      en: "A group of braceros stands together outside a corrugated metal living quarter at a California labor camp, with sunlight casting long shadows across the ground."
+      es: "Un grupo de braceros se reúne frente a una vivienda de metal corrugado en un campamento laboral de California, con la luz del sol proyectando largas sombras sobre el suelo."
 geo:
 id: 2606
 item_type: Still Image

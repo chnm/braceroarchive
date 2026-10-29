@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.08.jpg
     thumb: /files/thumbnails/NAD-200401380208.jpg
     url: /files/original/NAD-200401380208.jpg
+    alt:
+      en: "Shirtless man stands at a chest X-ray machine while several others wait in line behind him at the Hidalgo Processing Center, Texas."
+      es: "Hombre sin camisa de pie ante una máquina de rayos X de tórax mientras varios otros esperan en fila detrás de él en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1297
 item_type: Still Image

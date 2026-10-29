@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.03.jpg
     thumb: /files/thumbnails/NAD-200401380703.jpg
     url: /files/original/NAD-200401380703.jpg
+    alt:
+      en: "Large crowd of men in hats gathers behind a barbed wire fence on wooden posts at the Monterrey Processing Center, with flat, dusty terrain stretching into the distance."
+      es: "Gran multitud de hombres con sombrero se reúne detrás de una cerca de alambre de púas sobre postes de madera en el Centro de Procesamiento de Monterrey, con un terreno plano y polvoriento que se extiende hacia el horizonte."
 geo:
 id: 1487
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.34.jpg
     thumb: /files/thumbnails/NAD-200401381234.jpg
     url: /files/original/NAD-200401381234.jpg
+    alt:
+      en: "Black-and-white photo of men wearing hats and carrying bags walking along a raised wooden platform at the Hidalgo Processing Center, with a building and parked cars visible in the background."
+      es: "Fotografía en blanco y negro de hombres con sombrero y bolsas caminando sobre una plataforma de madera elevada en el Centro de Procesamiento de Hidalgo, con un edificio y autos estacionados al fondo."
 geo:
 id: 3002
 item_type: Still Image

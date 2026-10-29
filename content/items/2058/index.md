@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.32.jpg
     thumb: /files/thumbnails/NAD-200401382732.jpg
     url: /files/original/NAD-200401382732.jpg
+    alt:
+      en: "Black-and-white photo of laundry hanging on a clothesline beside a long barracks building, with empty metal chairs on a porch and open grassy hills in the background at Gondo Labor Camp, Watsonville, California."
+      es: "Foto en blanco y negro de ropa tendida en un lazo junto a un edificio tipo barracón, con sillas metálicas vacías en un porche y colinas de pasto al fondo en el Campamento Laboral Gondo, Watsonville, California."
 geo:
 id: 2058
 item_type: Still Image

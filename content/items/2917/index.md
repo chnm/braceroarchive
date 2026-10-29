@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.54.01.jpg
     thumb: /files/thumbnails/NAD-200401385401.jpg
     url: /files/original/NAD-200401385401.jpg
+    alt:
+      en: "Black-and-white photo of braceros kneeling in rows outdoors as a man stands before them, with wooden barrack buildings in the background."
+      es: "Fotografía en blanco y negro de braceros arrodillados en filas al aire libre mientras un hombre se para frente a ellos, con barracas de madera al fondo."
 geo:
 id: 2917
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.53.18.jpg
     thumb: /files/thumbnails/NAD-200401385318.jpg
     url: /files/original/NAD-200401385318.jpg
+    alt:
+      en: "Black-and-white photo of a bracero lying on a metal cot smoking, with smoke rising toward a sunlit window; a hat hangs above, clothes line the walls, and empty beds flank him."
+      es: "Foto en blanco y negro de un bracero acostado en un catre metálico fumando, con el humo elevándose hacia una ventana iluminada; un sombrero cuelga arriba, ropa en las paredes y camas vacías a los lados."
 geo:
 id: 2909
 item_type: Still Image

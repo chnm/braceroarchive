@@ -44,6 +44,9 @@ files:
     original_filename: NAD-2004.0138.10.01.jpg
     thumb: /files/thumbnails/NAD-200401381001.jpg
     url: /files/original/NAD-200401381001.jpg
+    alt:
+      en: "A long line of men wearing hats walk single file along a dusty path, dust clouding the air in the background near buildings and a hillside."
+      es: "Una larga fila de hombres con sombrero camina en fila india por un camino polvoriento, con una nube de polvo cubriendo el aire al fondo cerca de edificios y una colina."
 geo:
 id: 1567
 item_type: Still Image

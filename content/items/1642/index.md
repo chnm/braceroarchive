@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.13.14.jpg
     thumb: /files/thumbnails/NAD-200401381314.jpg
     url: /files/original/NAD-200401381314.jpg
+    alt:
+      en: "An official seated at a table examines the hands of a bracero applicant for calluses, while a long line of men waits in a large hall at the Monterrey Processing Center."
+      es: "Un funcionario sentado en una mesa examina las manos de un bracero en busca de callosidades, mientras una larga fila de hombres espera en un gran salón del Centro de Contratación de Monterrey."
 geo:
 id: 1642
 item_type: Still Image

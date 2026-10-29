@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.06.10.jpg
     thumb: /files/thumbnails/NAD-200401380610.jpg
     url: /files/original/NAD-200401380610.jpg
+    alt:
+      en: "A long line of braceros wearing hats stands beside a two-story building, with a truck parked nearby and a man in a cowboy hat watching in the foreground."
+      es: "Una larga fila de braceros con sombreros espera junto a un edificio de dos pisos, con un camión estacionado cerca y un hombre con sombrero vaquero observando en primer plano."
 geo:
 id: 1429
 item_type: Still Image

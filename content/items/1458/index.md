@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.22.jpg
     thumb: /files/thumbnails/NAD-200401380722.jpg
     url: /files/original/NAD-200401380722.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men wearing hats, standing and sitting against a building with many windows at the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con sombrero, de pie y sentados, junto a un edificio con muchas ventanas en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1458
 item_type: Still Image

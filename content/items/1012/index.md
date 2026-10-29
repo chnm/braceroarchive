@@ -43,6 +43,9 @@ files:
     original_filename: VelasquezLucioPedro - mica1.jpg
     thumb: /files/thumbnails/velasquezluciopedro---mica1_6462339c62.jpg
     url: /files/original/velasquezluciopedro---mica1_6462339c62.jpg
+    alt:
+      en: "Alien laborer's identification card for Pedro Velasquez-Lucio, born 1939 in Hda de Molino, Jal., Mexico, admitted at Nogales, Arizona on September 21, 1960, numbered L 3459326."
+      es: "Tarjeta de identificación de trabajador extranjero de Pedro Velasquez-Lucio, nacido en 1939 en Hda de Molino, Jal., México, admitido en Nogales, Arizona el 21 de septiembre de 1960, con número L 3459326."
 geo:
 id: 1012
 item_type: Document

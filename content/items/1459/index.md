@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.23.jpg
     thumb: /files/thumbnails/NAD-200401380723.jpg
     url: /files/original/NAD-200401380723.jpg
+    alt:
+      en: "Large crowd of braceros, mostly wearing straw hats, stand in a dense line outside a building with multiple windows at the Monterrey Processing Center, Mexico."
+      es: "Gran multitud de braceros, la mayoría con sombreros de paja, forma una fila densa frente a un edificio con múltiples ventanas en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1459
 item_type: Still Image

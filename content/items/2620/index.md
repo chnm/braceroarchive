@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.12.jpg
     thumb: /files/thumbnails/NAD-200401384312.jpg
     url: /files/original/NAD-200401384312.jpg
+    alt:
+      en: "Workers load lettuce boxes onto a harvesting machine labeled \"Arena Co. of Salinas\" in a large field, with another crew and machine visible in the background under a cloudy sky."
+      es: "Trabajadores cargan cajas de lechuga en una máquina cosechadora con el letrero \"Arena Co. of Salinas\" en un campo extenso, con otra cuadrilla y maquinaria visibles al fondo bajo un cielo nublado."
 geo:
 id: 2620
 item_type: Still Image

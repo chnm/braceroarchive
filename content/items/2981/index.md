@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.21.jpg
     thumb: /files/thumbnails/NAD-200401385621.jpg
     url: /files/original/NAD-200401385621.jpg
+    alt:
+      en: "Workers in a lettuce field pack heads into \"Cookie\" and \"Lettuce\" branded boxes, one carrying a box on his head; signage reads \"Keep Under Refrigeration.\""
+      es: "Trabajadores en un campo de lechuga empacan cabezas en cajas de \"Cookie\" y \"Lettuce\", uno llevando una caja sobre la cabeza; un letrero dice \"Keep Under Refrigeration\"."
 geo:
 id: 2981
 item_type: Still Image

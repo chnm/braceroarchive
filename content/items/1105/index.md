@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 15.jpg
     thumb: /files/thumbnails/velasco-patino-15_9cab3ec80f.jpg
     url: /files/original/velasco-patino-15_9cab3ec80f.jpg
+    alt:
+      en: "Pink printed travel pass from the Coachella Valley Farmers Association, Thermal, California, addressed to immigration officers, with handwritten name, work details, and a visit permit to Mexicali valid until 12/29/52, signed by the manager."
+      es: "Pase de viaje impreso en rosa de la Coachella Valley Farmers Association, Thermal, California, dirigido a oficiales de inmigración, con nombre manuscrito, datos laborales y permiso para visitar Mexicali válido hasta el 12/29/52, firmado por el gerente."
 geo:
 id: 1105
 item_type: Document

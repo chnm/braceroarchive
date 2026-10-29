@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.05.13.jpg
     thumb: /files/thumbnails/NAD-200401380513.jpg
     url: /files/original/NAD-200401380513.jpg
+    alt:
+      en: "Braceros wearing hats line up along a long wooden table inside a shed-like building, holding pots and pans as they prepare and serve food in close, communal quarters."
+      es: "Braceros con sombreros se alinean junto a una larga mesa de madera dentro de un cobertizo, sosteniendo ollas y sartenes mientras preparan y sirven comida en espacios comunales reducidos."
 geo:
 id: 1394
 item_type: Still Image

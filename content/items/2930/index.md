@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.03.jpg
     thumb: /files/thumbnails/NAD-200401385503.jpg
     url: /files/original/NAD-200401385503.jpg
+    alt:
+      en: "Black-and-white close-up of a person's leg and handmade sandal standing amid rows of leafy lettuce plants growing in a field."
+      es: "Fotografía en blanco y negro de la pierna y una sandalia artesanal de una persona, de pie entre hileras de plantas de lechuga en un campo."
 geo:
 id: 2930
 item_type: Still Image

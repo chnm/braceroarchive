@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.53.06.jpg
     thumb: /files/thumbnails/NAD-200401385306.jpg
     url: /files/original/NAD-200401385306.jpg
+    alt:
+      en: "A man reaches into a large wall-mounted rack of numbered slots filled with papers outside a building at the Gondo labor camp near Watsonville, California, with a parked car and utility pole in the background."
+      es: "Un hombre mete la mano en un gran estante de casilleros numerados llenos de papeles fuera de un edificio en el campo laboral Gondo cerca de Watsonville, California, con un auto estacionado y un poste de luz al fondo."
 geo:
 id: 2897
 item_type: Still Image

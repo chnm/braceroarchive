@@ -46,6 +46,9 @@ files:
     original_filename: Santacruz, Melitona, 1993, Registro1.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1993,-registro1_2e41f17a6d.jpg
     url: /files/original/santacruz,-melitona,-1993,-registro1_2e41f17a6d.jpg
+    alt:
+      en: "Mexican civil registry \"Acta de Defunción\" (death certificate) form from Mexicali, Baja California, No. 0519, recording the burial of Jose Guadalupe Santacruz Rangel, with typed and handwritten details and an official stamp."
+      es: "Formulario mexicano de registro civil \"Acta de Defunción\" de Mexicali, Baja California, No. 0519, que registra el fallecimiento de Jose Guadalupe Santacruz Rangel, con datos mecanografiados y manuscritos y un sello oficial."
 geo:
 id: 1090
 item_type: Document

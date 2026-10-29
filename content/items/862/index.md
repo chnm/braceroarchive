@@ -44,6 +44,9 @@ files:
     original_filename: Mica EGP, Julio 1964 (back).jpg
     thumb: /files/thumbnails/mica-egp,-julio-1964-(back)_1b95ff3b9b.jpg
     url: /files/original/mica-egp,-julio-1964-(back)_1b95ff3b9b.jpg
+    alt:
+      en: "Bracero ID card for Guevara-Rodriguez, Santos, listing home address in Valle de Santiago, Gto., Mexico, birth date 8-15-29, admission date 7-21-64, and card number L-3977419."
+      es: "Tarjeta de identificación de bracero de Guevara-Rodríguez, Santos, con domicilio en Valle de Santiago, Gto., México, fecha de nacimiento 8-15-29, fecha de admisión 7-21-64, y número de tarjeta L-3977419."
 geo:
 id: 862
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.14.jpg
     thumb: /files/thumbnails/NAD-200401381114.jpg
     url: /files/original/NAD-200401381114.jpg
+    alt:
+      en: "Silhouetted figures gather near a lit window in dim, crepuscular light, with a seated crowd visible in the foreground near the Monterrey Processing Center."
+      es: "Figuras en silueta se reúnen cerca de una ventana iluminada en luz tenue y crepuscular, con una multitud sentada visible en primer plano cerca del Centro de Procesamiento de Monterrey."
 geo:
 id: 2373
 item_type: Still Image

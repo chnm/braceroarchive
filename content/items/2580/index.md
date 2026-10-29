@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.32.jpg
     thumb: /files/thumbnails/NAD-200401384132.jpg
     url: /files/original/NAD-200401384132.jpg
+    alt:
+      en: "A man sits on a bed in a sparse wooden room, writing a letter, with clothing hanging on hooks above and a crate labeled \"Butter's Best\" on the floor nearby."
+      es: "Un hombre sentado en una cama escribe una carta en una habitación de madera sencilla, con ropa colgada en ganchos arriba y una caja con la etiqueta \"Butter's Best\" en el suelo cercano."
 geo:
 id: 2580
 item_type: Still Image

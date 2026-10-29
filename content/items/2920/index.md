@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.54.04.jpg
     thumb: /files/thumbnails/NAD-200401385404.jpg
     url: /files/original/NAD-200401385404.jpg
+    alt:
+      en: "Silhouetted figures in hats walk single file across a field at dusk, set against a glowing horizon crossed by utility lines and a wooden pole."
+      es: "Figuras siluetadas con sombreros caminan en fila por un campo al atardecer, contra un horizonte brillante cruzado por cables eléctricos y un poste de madera."
 geo:
 id: 2920
 item_type: Still Image

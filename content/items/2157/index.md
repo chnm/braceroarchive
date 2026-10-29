@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.37.jpg
     thumb: /files/thumbnails/NAD-200401382937.jpg
     url: /files/original/NAD-200401382937.jpg
+    alt:
+      en: "Black-and-white street scene of men crossing an intersection near a \"Drugs\" storefront, with parked cars, a traffic signal, and a fire hydrant in the foreground."
+      es: "Escena callejera en blanco y negro de hombres cruzando una intersección cerca de una tienda \"Drugs\", con autos estacionados, un semáforo y una boca de incendios en primer plano."
 geo:
 id: 2157
 item_type: Still Image

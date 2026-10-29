@@ -44,6 +44,9 @@ files:
     original_filename: espino15copy.jpg
     thumb: /files/thumbnails/espino15copy_b1c8b803c9.jpg
     url: /files/original/espino15copy_b1c8b803c9.jpg
+    alt:
+      en: "Bottom portion of a 1954 bilingual work contract from El Paso, Texas, listing meal charges of $1.50, with signatures, a Consul of Mexico stamp, and red official seals."
+      es: "Parte inferior de un contrato de trabajo bilingüe de 1954 en El Paso, Texas, con cargos de comida de $1.50, firmas, un sello del Cónsul de México y sellos oficiales en rojo."
 geo:
 id: 938
 item_type: Document

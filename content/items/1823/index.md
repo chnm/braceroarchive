@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.10.jpg
     thumb: /files/thumbnails/NAD-200401381910.jpg
     url: /files/original/NAD-200401381910.jpg
+    alt:
+      en: "Black-and-white photo of a \"Los Angeles Trona Stages\" bus with several men visible through its windows, parked with luggage compartments open beneath the bus."
+      es: "Foto en blanco y negro de un autobús de \"Los Angeles Trona Stages\" con varios hombres visibles por sus ventanas, estacionado con los compartimentos de equipaje abiertos debajo del autobús."
 geo:
 id: 1823
 item_type: Still Image

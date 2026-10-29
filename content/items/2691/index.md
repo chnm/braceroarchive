@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.24.jpg
     thumb: /files/thumbnails/NAD-200401384524.jpg
     url: /files/original/NAD-200401384524.jpg
+    alt:
+      en: "Braceros carry filled cans along a dirt path beside a field, with other workers visible among crop rows in the background and a truck in the foreground."
+      es: "Braceros cargan botes llenos por un camino de tierra junto a un campo, con otros trabajadores entre los surcos de cultivo al fondo y un camión en primer plano."
 geo:
 id: 2691
 item_type: Still Image

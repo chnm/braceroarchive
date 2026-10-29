@@ -46,6 +46,9 @@ files:
     original_filename: Sosa, Luz Maria - Alien Laborer\'s ID 62 back copy.jpg
     thumb: /files/thumbnails/sosa,-luz-maria---alien-laborers-id-62-back-copy_d11a51f885.jpg
     url: /files/original/sosa,-luz-maria---alien-laborers-id-62-back-copy_d11a51f885.jpg
+    alt:
+      en: "Back of an alien laborer's identification card for Manuel Arredondo-Labrada, listing name, home address of Cosala, Sin., Mex., birth date 1912, admission at Calexico, Calif. on 8-20-62, and ID number ML 067369."
+      es: "Reverso de una tarjeta de identificación de trabajador agrícola de Manuel Arredondo-Labrada, con domicilio en Cosala, Sin., México, nacido en 1912, admitido en Calexico, Calif. el 8-20-62, número ML 067369."
 geo:
 id: 1186
 item_type: Document

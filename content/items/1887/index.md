@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.21.jpg
     thumb: /files/thumbnails/NAD-200401382121.jpg
     url: /files/original/NAD-200401382121.jpg
+    alt:
+      en: "A bracero reclines on a striped mattress in a bunkroom, smiling toward the camera, with hats, jackets, and bedding hanging and piled around him."
+      es: "Un bracero recostado sobre un colchón a rayas en un dormitorio común, sonriendo hacia la cámara, rodeado de sombreros, chaquetas y ropa de cama colgadas y apiladas."
 geo:
 id: 1887
 item_type: Still Image

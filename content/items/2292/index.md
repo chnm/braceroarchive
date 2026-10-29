@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.19.jpg
     thumb: /files/thumbnails/NAD-200401383419.jpg
     url: /files/original/NAD-200401383419.jpg
+    alt:
+      en: "Rows of Toro lettuce boxes stand in a furrowed field as braceros work among the crops, with hills visible under a hazy sky in the Salinas Valley."
+      es: "Filas de cajas de lechuga Toro se alinean en un campo surcado mientras braceros trabajan entre los cultivos, con colinas visibles bajo un cielo brumoso en el Valle de Salinas."
 geo:
 id: 2292
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.30.jpg
     thumb: /files/thumbnails/NAD-200401382830.jpg
     url: /files/original/NAD-200401382830.jpg
+    alt:
+      en: "Two braceros wash their hands at a long row of sink basins and faucets in a camp bathroom, with pipes running along the wall and a window in the background."
+      es: "Dos braceros se lavan las manos en una larga fila de lavabos y grifos dentro de un baño del campamento, con tuberías a lo largo de la pared y una ventana al fondo."
 geo:
 id: 2120
 item_type: Still Image

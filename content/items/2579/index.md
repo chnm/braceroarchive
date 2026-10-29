@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.31.jpg
     thumb: /files/thumbnails/NAD-200401384131.jpg
     url: /files/original/NAD-200401384131.jpg
+    alt:
+      en: "A man sits on a bare metal-frame bed in a narrow wood-paneled room, leaning against the wall as he writes, with boots and a lantern on the worn floor beside him."
+      es: "Un hombre está sentado en una cama de armazón metálico sin colchón, en una habitación estrecha con paredes de madera, recostado contra la pared mientras escribe, con botas y un farol en el piso desgastado junto a él."
 geo:
 id: 2579
 item_type: Still Image

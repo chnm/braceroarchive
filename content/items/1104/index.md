@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 5.jpg
     thumb: /files/thumbnails/velasco-patino-5_7da463c363.jpg
     url: /files/original/velasco-patino-5_7da463c363.jpg
+    alt:
+      en: "Printed and handwritten \"Individual Work Contract/Contrato Individual de Trabajo\" form for Nepomuseno Gonzalez Sanchez with Coachella Valley Farmers Ass'n, listing wages, duties, and signatures."
+      es: "Formulario impreso y manuscrito \"Contrato Individual de Trabajo/Individual Work Contract\" para Nepomuseno González Sánchez con Coachella Valley Farmers Ass'n, con salarios, labores y firmas."
 geo:
 id: 1104
 item_type: Document

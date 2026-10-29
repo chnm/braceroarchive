@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.01.08.jpg
     thumb: /files/thumbnails/NAD-200401380108.jpg
     url: /files/original/NAD-200401380108.jpg
+    alt:
+      en: "Black-and-white photo of men in wide-brimmed hats standing near a wooden structure, with a dirt lot visible behind, at the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de hombres con sombreros de ala ancha junto a una estructura de madera, con un terreno de tierra visible al fondo, en el Centro de Contratación de Monterrey, México."
 geo:
 id: 1272
 item_type: Still Image

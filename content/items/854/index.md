@@ -44,6 +44,9 @@ files:
     original_filename: Crum Nevada, 1953 (Cuando trabajo en tren, sin papeles).jpg
     thumb: /files/thumbnails/crum-nevada,-1953-(cuando-trabajo-en-tren,-sin-papeles)_9e331f1635.jpg
     url: /files/original/crum-nevada,-1953-(cuando-trabajo-en-tren,-sin-papeles)_9e331f1635.jpg
+    alt:
+      en: "Black-and-white photo of a man in a light shirt and trousers standing with one foot propped on a metal bucket, leaning against a shingled house with two windows."
+      es: "Fotografía en blanco y negro de un hombre con camisa clara y pantalón, de pie con un pie apoyado en un balde metálico, recostado contra una casa de tejas con dos ventanas."
 geo:
 id: 854
 item_type: Still Image

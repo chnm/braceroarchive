@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.19.jpg
     thumb: /files/thumbnails/NAD-200401383619.jpg
     url: /files/original/NAD-200401383619.jpg
+    alt:
+      en: "A row of wooden barracks with sloped roofs lines a dirt path, with several men standing or leaning near the doorways in a bracero camp in Gonzales, California."
+      es: "Una fila de barracas de madera con techos inclinados bordea un camino de tierra, con varios hombres de pie o recostados junto a las puertas en un campamento de braceros en Gonzales, California."
 geo:
 id: 2351
 item_type: Still Image

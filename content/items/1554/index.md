@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.43.jpg
     thumb: /files/thumbnails/NAD-200401380943.jpg
     url: /files/original/NAD-200401380943.jpg
+    alt:
+      en: "Black-and-white photo of men in hats walking along railroad tracks near a bus and utility poles, with mountains in the background, at the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de hombres con sombrero caminando junto a vías férreas, cerca de un autobús y postes eléctricos, con montañas al fondo, en el Centro de Contratación de Monterrey, México."
 geo:
 id: 1554
 item_type: Still Image

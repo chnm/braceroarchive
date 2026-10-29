@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.04.jpg
     thumb: /files/thumbnails/NAD-200401383704.jpg
     url: /files/original/NAD-200401383704.jpg
+    alt:
+      en: "Black-and-white photo of workers loading \"TORO\" lettuce boxes onto a flatbed truck in a Salinas Valley field, with more laborers harvesting rows in the background."
+      es: "Fotografía en blanco y negro de trabajadores cargando cajas de lechuga \"TORO\" en un camión de plataforma en un campo del Valle de Salinas, con más jornaleros cosechando hileras al fondo."
 geo:
 id: 2412
 item_type: Still Image

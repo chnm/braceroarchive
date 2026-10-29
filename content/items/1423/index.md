@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.06.05.jpg
     thumb: /files/thumbnails/NAD-200401380605.jpg
     url: /files/original/NAD-200401380605.jpg
+    alt:
+      en: "A large crowd of men gathers in an open field near railroad tracks, with some standing in formation lines, as buildings and a water tower are visible in the background at the Monterrey Processing Center."
+      es: "Una gran multitud de hombres se reúne en un campo abierto cerca de vías de tren, algunos formados en filas, con edificios y una torre de agua al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1423
 item_type: Still Image

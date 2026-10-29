@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.35.jpg
     thumb: /files/thumbnails/NAD-200401384635.jpg
     url: /files/original/NAD-200401384635.jpg
+    alt:
+      en: "Black-and-white photo of a dormitory room lined with rows of bunk beds, two braceros standing and leaning against the bed frames in the foreground, with sunlight entering through windows in the back."
+      es: "Fotografía en blanco y negro de un dormitorio con filas de literas, dos braceros de pie apoyados en los marcos de las camas en primer plano, mientras la luz solar entra por las ventanas al fondo."
 geo:
 id: 2728
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: BlancoOrtega-03.jpg
     thumb: /files/thumbnails/blancoortega-03_3a5c16eeaa.jpg
     url: /files/original/blancoortega-03_3a5c16eeaa.jpg
+    alt:
+      en: "Typed letter on D'Arrigo Bros. Co. of California letterhead, dated March 29, 1958, confirming employment as a field laborer for Blanco Ortega Guadalupe, signed by J.A. Friedrich, Labor Camp Manager."
+      es: "Carta mecanografiada con membrete de D'Arrigo Bros. Co. of California, fechada el 29 de marzo de 1958, que confirma empleo como trabajador de campo para Blanco Ortega Guadalupe, firmada por J.A. Friedrich, Gerente del Campo Laboral."
 geo:
 id: 507
 item_type: Document

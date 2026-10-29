@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.06.jpg
     thumb: /files/thumbnails/NAD-200401384506.jpg
     url: /files/original/NAD-200401384506.jpg
+    alt:
+      en: "Black-and-white photo of a group of men wearing wide-brimmed hats and work clothes standing at the edge of a plowed agricultural field, with trees visible in the background."
+      es: "Fotografía en blanco y negro de un grupo de hombres con sombreros de ala ancha y ropa de trabajo, de pie al borde de un campo agrícola arado, con árboles visibles al fondo."
 geo:
 id: 2673
 item_type: Still Image

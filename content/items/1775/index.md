@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.26.jpg
     thumb: /files/thumbnails/NAD-200401381726.jpg
     url: /files/original/NAD-200401381726.jpg
+    alt:
+      en: "Shirtless men wearing cowboy hats stand in line at the Monterrey Processing Center as a nurse in white uniform attends to paperwork, with a \"Vaccination\" sign posted on a column nearby."
+      es: "Hombres sin camisa con sombreros vaqueros hacen fila en el Centro de Procesamiento de Monterrey mientras una enfermera de uniforme blanco revisa papeles, junto a un letrero de \"Vacunación\" en una columna."
 geo:
 id: 1775
 item_type: Still Image

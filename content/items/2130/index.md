@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.40.jpg
     thumb: /files/thumbnails/NAD-200401382940.jpg
     url: /files/original/NAD-200401382940.jpg
+    alt:
+      en: "Four men stand with backs to camera on a sidewalk, looking across the street at the State Theater marquee advertising \"Spanish Program Every Friday Saturday and Sunday,\" with parked cars and storefronts nearby."
+      es: "Cuatro hombres de espaldas a la cámara observan desde la acera la marquesina del Teatro State, que anuncia \"Spanish Program Every Friday Saturday and Sunday\", con autos y comercios cercanos."
 geo:
 id: 2130
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.06.36.jpg
     thumb: /files/thumbnails/NAD-200401380636.jpg
     url: /files/original/NAD-200401380636.jpg
+    alt:
+      en: "A uniformed officer carrying a truncheon walks beside a long line of men in hats standing along a wire fence at the Monterrey Processing Center, with a large crowd gathered beyond."
+      es: "Un oficial uniformado con una macana camina junto a una larga fila de hombres con sombrero junto a una cerca de alambre en el Centro de Procesamiento de Monterrey, con una multitud al fondo."
 geo:
 id: 1446
 item_type: Still Image

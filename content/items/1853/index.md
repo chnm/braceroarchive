@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.31.jpg
     thumb: /files/thumbnails/NAD-200401382031.jpg
     url: /files/original/NAD-200401382031.jpg
+    alt:
+      en: "Stacked cardboard boxes labeled \"Cookie Head Lettuce\" fill the foreground atop a truck, overlooking a vast lettuce field where workers labor in rows under an open sky."
+      es: "Cajas de cartón apiladas con la etiqueta \"Cookie Head Lettuce\" en primer plano sobre un camión, con vista a un extenso campo de lechuga donde trabajadores laboran en hileras bajo un cielo abierto."
 geo:
 id: 1853
 item_type: Still Image

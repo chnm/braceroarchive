@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.25.jpg
     thumb: /files/thumbnails/NAD-200401385525.jpg
     url: /files/original/NAD-200401385525.jpg
+    alt:
+      en: "Black-and-white street scene of men walking past storefronts labeled \"King's Club,\" \"The Sunshine,\" and \"Jimmy's Liquors,\" with a vintage car parked at the curb and a \"Meadow Gold\" billboard above."
+      es: "Escena callejera en blanco y negro de hombres caminando frente a tiendas rotuladas \"King's Club\", \"The Sunshine\" y \"Jimmy's Liquors\", con un auto antiguo estacionado y un cartel de \"Meadow Gold\" en lo alto."
 geo:
 id: 2952
 item_type: Still Image

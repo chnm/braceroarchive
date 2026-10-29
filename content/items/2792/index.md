@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.13.jpg
     thumb: /files/thumbnails/NAD-200401384913.jpg
     url: /files/original/NAD-200401384913.jpg
+    alt:
+      en: "Black-and-white photo of a vast California pepper field with an irrigation ditch running through it, as a line of braceros perform stoop labor in the distance."
+      es: "Foto en blanco y negro de un extenso campo de chile en California, con una zanja de riego que lo atraviesa, mientras una fila de braceros realiza labor agrícola agachada a lo lejos."
 geo:
 id: 2792
 item_type: Still Image

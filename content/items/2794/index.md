@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.15.jpg
     thumb: /files/thumbnails/NAD-200401384915.jpg
     url: /files/original/NAD-200401384915.jpg
+    alt:
+      en: "Black-and-white photo of a dirt road beside a large field with rows of workers in the distance, bordered by hills; a bus and parked vehicle sit at the field's edge."
+      es: "Fotografía en blanco y negro de un camino de tierra junto a un amplio campo con hileras de trabajadores a lo lejos, bordeado por colinas; un autobús y un vehículo estacionado se ven al borde del campo."
 geo:
 id: 2794
 item_type: Still Image

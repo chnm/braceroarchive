@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.22.jpg
     thumb: /files/thumbnails/NAD-200401384622.jpg
     url: /files/original/NAD-200401384622.jpg
+    alt:
+      en: "Rows of metal-frame bunk beds with thin mattresses fill a barracks-style room, personal belongings scattered on some beds, with windows lining the back wall."
+      es: "Filas de literas con somieres metálicos y colchones delgados llenan una habitación tipo barracón, con pertenencias personales dispersas sobre algunas camas y ventanas al fondo."
 geo:
 id: 2384
 item_type: Still Image

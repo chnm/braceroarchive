@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.11.42.jpg
     thumb: /files/thumbnails/NAD-200401381142.jpg
     url: /files/original/NAD-200401381142.jpg
+    alt:
+      en: "A seated official examines a bracero's extended hand at a wooden table, while a line of men in hats and collared shirts wait nearby inside the processing center."
+      es: "Un oficial sentado examina la mano extendida de un bracero sobre una mesa de madera, mientras una fila de hombres con sombreros y camisas de cuello espera cerca dentro del centro de procesamiento."
 geo:
 id: 1596
 item_type: Still Image

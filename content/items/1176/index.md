@@ -46,6 +46,9 @@ files:
     original_filename: Romero Carvajal, Manuel - Alien Laborers ID Card1.jpg
     thumb: /files/thumbnails/romero-carvajal,-manuel---alien-laborers-id-card1_7a8b9d52b8.jpg
     url: /files/original/romero-carvajal,-manuel---alien-laborers-id-card1_7a8b9d52b8.jpg
+    alt:
+      en: "Black-and-white identification card photo of a mustached man, printed with \"ALIEN LABORER'S IDENTIFICATION CARD\" and \"UNITED STATES DEPARTMENT OF JUSTICE, Immigration and Naturalization Service - I-100D (Rev. 12-2-57).\""
+      es: "Fotografía en blanco y negro de un hombre con bigote en una tarjeta de identificación, impresa con \"ALIEN LABORER'S IDENTIFICATION CARD\" y \"UNITED STATES DEPARTMENT OF JUSTICE, Immigration and Naturalization Service - I-100D (Rev. 12-2-57)\"."
 geo:
 id: 1176
 item_type: Document

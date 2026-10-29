@@ -46,6 +46,9 @@ files:
     original_filename: Santacruz, Melitona, 1961 Affidavit of Employment1.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1961-affidavit-of-employment1_700b867cba.jpg
     url: /files/original/santacruz,-melitona,-1961-affidavit-of-employment1_700b867cba.jpg
+    alt:
+      en: "Typed affidavit titled \"Affidavit of Employment\" from Vincent Borchard of Imperial County, California, affirming his intent to employ Jose Guadalupe Santacruz Rangel on his farm near El Centro."
+      es: "Documento mecanografiado titulado \"Affidavit of Employment\" de Vincent Borchard, del Condado de Imperial, California, declarando su intención de emplear a Jose Guadalupe Santacruz Rangel en su granja cerca de El Centro."
 geo:
 id: 1066
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.37.jpg
     thumb: /files/thumbnails/NAD-200401383937.jpg
     url: /files/original/NAD-200401383937.jpg
+    alt:
+      en: "Group of braceros sits with suitcases and belongings under a shade tree, with a truck and parked vehicles visible in the background, Stockton, California."
+      es: "Grupo de braceros sentados con maletas y pertenencias bajo un árbol a la sombra, con un camión y vehículos estacionados visibles al fondo, Stockton, California."
 geo:
 id: 2514
 item_type: Still Image

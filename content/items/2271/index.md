@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.33.44.jpg
     thumb: /files/thumbnails/NAD-200401383344.jpg
     url: /files/original/NAD-200401383344.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers wearing wide-brimmed hats bent over harvesting lettuce in a field, with crates labeled \"Toro\" scattered among the rows."
+      es: "Fotografía en blanco y negro de trabajadores agrícolas con sombreros de ala ancha inclinados cosechando lechuga en un campo, con cajas etiquetadas \"Toro\" dispersas entre las hileras."
 geo:
 id: 2271
 item_type: Still Image

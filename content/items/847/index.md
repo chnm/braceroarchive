@@ -46,6 +46,9 @@ files:
     original_filename: Contrato Texas Jun-Sept 1961.jpg
     thumb: /files/thumbnails/contrato-texas-jun-sept-1961_718ca8ae20.jpg
     url: /files/original/contrato-texas-jun-sept-1961_718ca8ae20.jpg
+    alt:
+      en: "A bilingual, typed work contract form titled \"Continuation of Standard Work Contract,\" with printed fields in English and Spanish, handwritten entries for worker Cruz Figueroa Rodolfo, and official stamps and signatures dated 1961."
+      es: "Formulario de contrato de trabajo bilingüe titulado \"Continuación del Contrato Tipo de Trabajo\", con campos impresos en inglés y español, datos manuscritos del trabajador Cruz Figueroa Rodolfo, y sellos y firmas oficiales fechados en 1961."
 geo:
 id: 847
 item_type: Document

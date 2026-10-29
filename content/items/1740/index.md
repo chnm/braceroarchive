@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.21.jpg
     thumb: /files/thumbnails/NAD-200401381621.jpg
     url: /files/original/NAD-200401381621.jpg
+    alt:
+      en: "Black-and-white photo of a crowded dining hall with rows of tall windows, ceiling fan, and support columns, where a large group of braceros sit and stand around tables during a meal."
+      es: "Fotografía en blanco y negro de un comedor lleno de gente, con hileras de ventanas altas, un ventilador de techo y columnas, donde un gran grupo de braceros está sentado y de pie alrededor de las mesas durante una comida."
 geo:
 id: 1740
 item_type: Still Image

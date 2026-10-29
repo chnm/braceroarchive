@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.06.jpg
     thumb: /files/thumbnails/NAD-200401381106.jpg
     url: /files/original/NAD-200401381106.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men walking across an open dirt field toward a fenced compound, with hills and mountains in the hazy distance at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de una larga fila de hombres caminando por un campo de tierra hacia un recinto cercado, con colinas y montañas difuminadas al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1583
 item_type: Still Image

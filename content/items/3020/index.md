@@ -44,6 +44,9 @@ files:
     original_filename: Plutarco Chavez2.JPG
     thumb: /files/thumbnails/plutarco-chavez2_69866c3133.jpg
     url: /files/original/plutarco-chavez2_69866c3133.jpg
+    alt:
+      en: "Worn ID card titled \"Alien Laborer's Identification Card\" with a man's black-and-white photo, captioned \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55).\""
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\" con fotografía en blanco y negro de un hombre, y el texto \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)\"."
 geo:
 id: 3020
 item_type: Document

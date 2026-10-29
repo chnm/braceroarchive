@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.14.jpg
     thumb: /files/thumbnails/NAD-200401384514.jpg
     url: /files/original/NAD-200401384514.jpg
+    alt:
+      en: "Black-and-white photo of braceros in wide-brimmed hats standing in a dirt field, one holding a metal pail of water, with sacks on the ground and workers visible in the distant crop rows."
+      es: "Fotografía en blanco y negro de braceros con sombreros de ala ancha de pie en un campo de tierra, uno sostiene un balde metálico de agua, con costales en el suelo y trabajadores visibles entre los surcos del cultivo al fondo."
 geo:
 id: 2681
 item_type: Still Image

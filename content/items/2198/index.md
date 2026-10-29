@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.22.jpg
     thumb: /files/thumbnails/NAD-200401383122.jpg
     url: /files/original/NAD-200401383122.jpg
+    alt:
+      en: "A bracero kneels in a field, packing onions into a wooden crate; in the background, other workers sort produce among stacked crates with hills and vehicles visible beyond the field."
+      es: "Un bracero se arrodilla en un campo empacando cebollas en una caja de madera; al fondo, otros trabajadores clasifican la cosecha junto a cajas apiladas, con colinas y vehículos a lo lejos."
 geo:
 id: 2198
 item_type: Still Image

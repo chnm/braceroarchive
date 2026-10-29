@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.10.09.jpg
     thumb: /files/thumbnails/NAD-200401381009.jpg
     url: /files/original/NAD-200401381009.jpg
+    alt:
+      en: "A long line of men wearing hats walk across an open dusty field toward the Monterrey Processing Center, with telephone poles and distant hills visible in the hazy background."
+      es: "Una larga fila de hombres con sombreros camina por un campo polvoriento y abierto hacia el Centro de Procesamiento de Monterrey, con postes telefónicos y colinas lejanas entre la neblina."
 geo:
 id: 1563
 item_type: Still Image

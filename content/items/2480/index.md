@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.02.jpg
     thumb: /files/thumbnails/NAD-200401383902.jpg
     url: /files/original/NAD-200401383902.jpg
+    alt:
+      en: "Black-and-white photo of a group of men in hats gathered outside a building, with one official distributing documents near stacked luggage on the ground."
+      es: "Foto en blanco y negro de un grupo de hombres con sombrero reunidos frente a un edificio, con un funcionario repartiendo documentos cerca de equipaje apilado en el suelo."
 geo:
 id: 2480
 item_type: Still Image

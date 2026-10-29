@@ -46,6 +46,9 @@ files:
     original_filename: Contrato Arkansas Sep-Nov 1957.jpg
     thumb: /files/thumbnails/contrato-arkansas-sep-nov-1957_49eabe58fe.jpg
     url: /files/original/contrato-arkansas-sep-nov-1957_49eabe58fe.jpg
+    alt:
+      en: "Scanned bracero work contract continuation form for Homero Lopez Ortiz with Allied Producers, Inc., dated September 13, 1957, listing wages, worker details, and signatures."
+      es: "Formulario de continuación de contrato de trabajo braceros para Homero López Ortiz con Allied Producers, Inc., fechado el 13 de septiembre de 1957, con salarios, datos del trabajador y firmas."
 geo:
 id: 870
 item_type: Document

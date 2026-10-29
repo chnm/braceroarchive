@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.18.41.jpg
     thumb: /files/thumbnails/NAD-200401381841.jpg
     url: /files/original/NAD-200401381841.jpg
+    alt:
+      en: "A man leans over a large burlap sack, loading raw cotton into a wooden-sided truck bed already piled high with cotton, near McAllen, Texas."
+      es: "Un hombre se inclina sobre un gran costal de yute, cargando algodón crudo en la plataforma de madera de un camión ya repleta de algodón, cerca de McAllen, Texas."
 geo:
 id: 1794
 item_type: Still Image

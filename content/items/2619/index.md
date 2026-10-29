@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.11.jpg
     thumb: /files/thumbnails/NAD-200401384311.jpg
     url: /files/original/NAD-200401384311.jpg
+    alt:
+      en: "Black-and-white photo of braceros loading lettuce boxes onto a large harvesting machine labeled \"ARENA CO. OF SALINAS,\" with workers packing crates in a Salinas Valley field."
+      es: "Foto en blanco y negro de braceros cargando cajas de lechuga en una gran máquina cosechadora con el rótulo \"ARENA CO. OF SALINAS\", mientras trabajadores empacan cajas en un campo del Valle de Salinas."
 geo:
 id: 2619
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.32.jpg
     thumb: /files/thumbnails/NAD-200401382232.jpg
     url: /files/original/NAD-200401382232.jpg
+    alt:
+      en: "A bracero sits on a bed in a dim, cluttered barracks room, with bunks, hanging laundry, and sloped wooden beams visible under light from two small windows."
+      es: "Un bracero sentado en una cama dentro de un barracón oscuro y desordenado, con literas, ropa colgada y vigas de madera inclinadas bajo la luz de dos pequeñas ventanas."
 geo:
 id: 2388
 item_type: Still Image

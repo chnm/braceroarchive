@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.29.jpg
     thumb: /files/thumbnails/NAD-200401381229.jpg
     url: /files/original/NAD-200401381229.jpg
+    alt:
+      en: "Workers in wide-brimmed hats climb into large open-top trucks in a dirt lot, with a Conoco sign, parked cars, and a bus visible in the background."
+      es: "Trabajadores con sombreros de ala ancha suben a grandes camiones de carga abierta en un terreno de tierra, con un letrero de Conoco, autos estacionados y un autobús al fondo."
 geo:
 id: 1610
 item_type: Still Image

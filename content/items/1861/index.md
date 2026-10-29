@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.27.jpg
     thumb: /files/thumbnails/NAD-200401382027.jpg
     url: /files/original/NAD-200401382027.jpg
+    alt:
+      en: "Black-and-white photo of a lettuce field with rows of workers harvesting, a flatbed truck loaded with \"Cookie Head Lettuce\" boxes, farm buildings and trees in the background."
+      es: "Foto en blanco y negro de un campo de lechugas con hileras de trabajadores cosechando, un camión plano cargado con cajas de \"Cookie Head Lettuce\", y edificios y árboles de granja al fondo."
 geo:
 id: 1861
 item_type: Still Image

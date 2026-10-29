@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.43.jpg
     thumb: /files/thumbnails/NAD-200401383643.jpg
     url: /files/original/NAD-200401383643.jpg
+    alt:
+      en: "Black-and-white photo of a payroll check from J.J. Crosetti Co., Watsonville, California, No. 201 N, made out to Antonio Garcia, lying on a wooden surface."
+      es: "Fotografía en blanco y negro de un cheque de nómina de J.J. Crosetti Co., Watsonville, California, No. 201 N, a nombre de Antonio Garcia, sobre una superficie de madera."
 geo:
 id: 2366
 item_type: Still Image

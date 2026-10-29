@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.16.jpg
     thumb: /files/thumbnails/NAD-200401384116.jpg
     url: /files/original/NAD-200401384116.jpg
+    alt:
+      en: "Black-and-white photo of a man standing at a large industrial sink doing laundry by hand, in a worn bathroom with exposed pipes and metal framework at a California labor camp."
+      es: "Fotografía en blanco y negro de un hombre lavando ropa a mano en un lavadero industrial, en un baño deteriorado con tuberías y estructura metálica visibles en un campamento laboral de California."
 geo:
 id: 2564
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.18.jpg
     thumb: /files/thumbnails/NAD-200401381518.jpg
     url: /files/original/NAD-200401381518.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and glasses seated behind a large desk, speaking with hand gesture; desk holds telephones, papers, and ashtrays."
+      es: "Foto en blanco y negro de un hombre con traje y gafas sentado tras un gran escritorio, hablando con un gesto de la mano; sobre el escritorio hay teléfonos, papeles y ceniceros."
 geo:
 id: 1704
 item_type: Still Image

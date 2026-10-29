@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.19.jpg
     thumb: /files/thumbnails/NAD-200401381719.jpg
     url: /files/original/NAD-200401381719.jpg
+    alt:
+      en: "Interior of a large hall with rows of desks where officials review documents, while men wait in line between columns; a calendar and sign hang on nearby pillars."
+      es: "Interior de una amplia sala con filas de escritorios donde funcionarios revisan documentos, mientras hombres esperan en fila entre columnas; un calendario y un letrero cuelgan de las columnas cercanas."
 geo:
 id: 1768
 item_type: Still Image

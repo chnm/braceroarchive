@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.19.jpg
     thumb: /files/thumbnails/NAD-200401384619.jpg
     url: /files/original/NAD-200401384619.jpg
+    alt:
+      en: "A bracero crouches beside a water spigot in a dirt yard, washing clothes in a metal basin, with buckets nearby and trees and open fields in the background."
+      es: "Un bracero se agacha junto a un grifo de agua en un patio de tierra, lavando ropa en un recipiente metálico, con cubetas cerca y árboles y campos abiertos al fondo."
 geo:
 id: 2713
 item_type: Still Image

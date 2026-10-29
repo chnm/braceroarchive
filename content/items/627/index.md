@@ -44,6 +44,9 @@ files:
     original_filename: Carrilo.jpg
     thumb: /files/thumbnails/carrilo_abad14e643.jpg
     url: /files/original/carrilo_abad14e643.jpg
+    alt:
+      en: "Envelope addressed to Mr. and Mrs. Roberto Carrillo in Torrance, California, with a return address for Martin Lucero in Rocky Ford, Colorado, bearing a purple 3-cent U.S. postage stamp, alongside a handwritten letter in Spanish on lined paper."
+      es: "Sobre dirigido a los señores Roberto Carrillo en Torrance, California, con remitente de Martin Lucero en Rocky Ford, Colorado, y estampilla postal morada de 3 centavos, junto a una carta manuscrita en español sobre papel rayado."
 geo:
 id: 627
 item_type: Still Image

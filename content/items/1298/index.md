@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.09.jpg
     thumb: /files/thumbnails/NAD-200401380209.jpg
     url: /files/original/NAD-200401380209.jpg
+    alt:
+      en: "Men, some shirtless, line up along a covered walkway beside a mobile unit labeled \"CHEST X-RAY HERE\" at the Hidalgo Processing Center, Texas."
+      es: "Hombres, algunos sin camisa, hacen fila en un pasillo cubierto junto a una unidad móvil con el letrero \"CHEST X-RAY HERE\" en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1298
 item_type: Still Image

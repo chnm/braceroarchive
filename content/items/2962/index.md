@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.01.jpg
     thumb: /files/thumbnails/NAD-200401385601.jpg
     url: /files/original/NAD-200401385601.jpg
+    alt:
+      en: "A man crouches on bare dirt at the edge of a field, eating from a plate of food with his hand, a bottle and can placed beside him on the ground."
+      es: "Un hombre se agacha sobre tierra desnuda al borde de un campo, comiendo con la mano de un plato de comida, con una botella y una lata colocadas junto a él en el suelo."
 geo:
 id: 2962
 item_type: Still Image

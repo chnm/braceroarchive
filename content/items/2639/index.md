@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.06.jpg
     thumb: /files/thumbnails/NAD-200401384406.jpg
     url: /files/original/NAD-200401384406.jpg
+    alt:
+      en: "Weathered wooden two-story building with an exterior staircase, laundry hanging to dry, and a man standing near a table outside in a dirt yard at a bracero labor camp."
+      es: "Edificio de madera deteriorado de dos pisos con una escalera exterior, ropa colgada para secar y un hombre de pie junto a una mesa en un patio de tierra en un campamento de braceros."
 geo:
 id: 2639
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: house.jpg
     thumb: /files/thumbnails/house_6084442286.jpg
     url: /files/original/house_6084442286.jpg
+    alt:
+      en: "Black-and-white photo of the Concha family, a group of adults and children in coats, standing behind a fence in front of a stucco house with arched doorway and bare trees nearby."
+      es: "Fotografía en blanco y negro de la familia Concha, un grupo de adultos y niños abrigados, de pie detrás de una cerca frente a una casa de estuco con entrada en arco y árboles sin hojas cerca."
 geo:
 id: 835
 item_type: Still Image

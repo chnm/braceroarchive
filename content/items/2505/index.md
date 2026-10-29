@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.27.jpg
     thumb: /files/thumbnails/NAD-200401383927.jpg
     url: /files/original/NAD-200401383927.jpg
+    alt:
+      en: "Black-and-white photo of a group of men gathered beside a brick building marked \"San Joaquin County Farm Production Ass'n,\" with parked cars and trees in the background."
+      es: "Fotografía en blanco y negro de un grupo de hombres reunidos junto a un edificio de ladrillo con el letrero \"San Joaquin County Farm Production Ass'n\", con autos estacionados y árboles al fondo."
 geo:
 id: 2505
 item_type: Still Image

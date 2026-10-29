@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.23.jpg
     thumb: /files/thumbnails/NAD-200401382023.jpg
     url: /files/original/NAD-200401382023.jpg
+    alt:
+      en: "Black-and-white photo of a bracero carrying a lettuce box on his shoulder along rows of harvested lettuce, with stacked boxes lining the field in the Salinas Valley."
+      es: "Fotografía en blanco y negro de un bracero cargando una caja de lechuga sobre su hombro entre hileras de lechuga cosechada, con cajas apiladas a lo largo del campo en el Valle de Salinas."
 geo:
 id: 1857
 item_type: Still Image

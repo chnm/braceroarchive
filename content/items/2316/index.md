@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.35.32.jpg
     thumb: /files/thumbnails/NAD-200401383532.jpg
     url: /files/original/NAD-200401383532.jpg
+    alt:
+      en: "A bracero stands before a mirror shaving at a utility sink in a camp washroom, with industrial basins and trash cans lining the wall nearby."
+      es: "Un bracero se afeita frente a un espejo en un lavadero de un campamento, junto a lavabos industriales y botes de basura a lo largo de la pared."
 geo:
 id: 2316
 item_type: Still Image

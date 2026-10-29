@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.03.jpg
     thumb: /files/thumbnails/NAD-200401383803.jpg
     url: /files/original/NAD-200401383803.jpg
+    alt:
+      en: "A bracero lies curled on a cot writing a letter, surrounded by rows of similar beds and hanging clothes in a dimly lit barracks-style living quarters."
+      es: "Un bracero está recostado en un catre escribiendo una carta, rodeado de hileras de camas similares y ropa colgada en un dormitorio tipo barraca con poca luz."
 geo:
 id: 2447
 item_type: Still Image

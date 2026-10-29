@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.23.jpg
     thumb: /files/thumbnails/NAD-200401385023.jpg
     url: /files/original/NAD-200401385023.jpg
+    alt:
+      en: "Black-and-white photo of a man with a mustache leaning out of a bus window, with partial lettering \"OS AN\" visible on the bus exterior above him."
+      es: "Fotografía en blanco y negro de un hombre con bigote asomado por la ventanilla de un autobús, con las letras parciales \"OS AN\" visibles en el exterior del vehículo sobre él."
 geo:
 id: 2838
 item_type: Still Image

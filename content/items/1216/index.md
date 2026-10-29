@@ -46,6 +46,9 @@ files:
     original_filename: Velez de Cervantes, Estela2.jpg
     thumb: /files/thumbnails/velez-de-cervantes,-estela2_3699f07d82.jpg
     url: /files/original/velez-de-cervantes,-estela2_3699f07d82.jpg
+    alt:
+      en: "Identification card printed \"FOR THE USE OF RESIDENT CITIZEN IN THE UNITED STATES,\" No. 110787, with a woman's photo and the signature \"Estela Velez Bernal.\""
+      es: "Tarjeta de identificación impresa \"FOR THE USE OF RESIDENT CITIZEN IN THE UNITED STATES,\" No. 110787, con la foto de una mujer y la firma \"Estela Velez Bernal\"."
 geo:
 id: 1216
 item_type: Document

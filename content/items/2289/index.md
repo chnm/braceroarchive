@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.16.jpg
     thumb: /files/thumbnails/NAD-200401383416.jpg
     url: /files/original/NAD-200401383416.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers in a lettuce field bending to harvest and pack heads of lettuce into cardboard boxes labeled \"TORO,\" with a flat, open landscape in the background."
+      es: "Foto en blanco y negro de trabajadores agrícolas agachados en un campo de lechugas, cosechando y empacando las cabezas en cajas de cartón etiquetadas \"TORO\", con un paisaje llano al fondo."
 geo:
 id: 2289
 item_type: Still Image

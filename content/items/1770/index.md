@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.21.jpg
     thumb: /files/thumbnails/NAD-200401381721.jpg
     url: /files/original/NAD-200401381721.jpg
+    alt:
+      en: "Black-and-white photo of a seated man in a striped shirt having his hand examined by a standing official in a straw hat at a table, with another man and a wooden crate nearby."
+      es: "Foto en blanco y negro de un hombre sentado con camisa a rayas que tiene la mano examinada por un oficial de pie con sombrero de paja en una mesa, con otro hombre y una caja de madera cerca."
 geo:
 id: 1770
 item_type: Still Image

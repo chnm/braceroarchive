@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.14.jpg
     thumb: /files/thumbnails/NAD-200401382214.jpg
     url: /files/original/NAD-200401382214.jpg
+    alt:
+      en: "Black-and-white photo looking from a washing facility across a dirt yard toward a row of peaked canvas tents, with a wooden building, ladder, and open field visible in the background."
+      es: "Fotografía en blanco y negro desde una instalación de lavado hacia un patio de tierra con una hilera de tiendas de lona en punta, con un edificio de madera, una escalera y un campo abierto al fondo."
 geo:
 id: 1914
 item_type: Still Image

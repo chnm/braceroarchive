@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.01.jpg
     thumb: /files/thumbnails/NAD-200401385001.jpg
     url: /files/original/NAD-200401385001.jpg
+    alt:
+      en: "A bracero sits resting on the ground at the edge of a field, knees drawn up, with other workers and hats visible in the dirt behind him."
+      es: "Un bracero descansa sentado en el suelo al borde de un campo, con las rodillas dobladas, mientras otros trabajadores y sombreros se ven en la tierra detrás de él."
 geo:
 id: 2816
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.21.jpg
     thumb: /files/thumbnails/NAD-200401384721.jpg
     url: /files/original/NAD-200401384721.jpg
+    alt:
+      en: "Interior of a dining hall with long tables set with cans and bowls, while a group of braceros waits outside a window, visible against a row of houses."
+      es: "Interior de un comedor con mesas largas dispuestas con latas y tazones, mientras un grupo de braceros espera afuera de una ventana, visibles frente a una hilera de casas."
 geo:
 id: 2749
 item_type: Still Image

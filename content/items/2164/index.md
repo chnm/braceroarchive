@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.30.13.jpg
     thumb: /files/thumbnails/NAD-200401383013.jpg
     url: /files/original/NAD-200401383013.jpg
+    alt:
+      en: "A man wearing a hat stands outside a wooden barrack, reaching into a mounted mailbox, with a tire, barrel, and hose lying in the dirt yard nearby."
+      es: "Un hombre con sombrero está de pie frente a una barraca de madera, revisando un buzón montado en la pared, mientras una llanta, un barril y una manguera yacen en el patio de tierra cercano."
 geo:
 id: 2164
 item_type: Still Image

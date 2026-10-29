@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.23.jpg
     thumb: /files/thumbnails/NAD-200401380923.jpg
     url: /files/original/NAD-200401380923.jpg
+    alt:
+      en: "A long line of men, many wearing wide-brimmed hats, stretches across a dusty field toward parked buses at the Monterrey Processing Center, with water towers and trees visible in the background."
+      es: "Una larga fila de hombres, muchos con sombreros de ala ancha, se extiende por un campo polvoriento hacia autobuses estacionados en el Centro de Procesamiento de Monterrey, con torres de agua y árboles al fondo."
 geo:
 id: 1530
 item_type: Still Image

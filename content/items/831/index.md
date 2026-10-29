@@ -46,6 +46,9 @@ files:
     original_filename: CeciliaConcha-front.jpg
     thumb: /files/thumbnails/ceciliaconcha-front_0c81722dc7.jpg
     url: /files/original/ceciliaconcha-front_0c81722dc7.jpg
+    alt:
+      en: "A U.S. Citizen's Identification Card for Cecilia Estela Concha, age 8, dated July 25, 1935, with a small black-and-white photo, physical description details, and signature, numbered 11478."
+      es: "Tarjeta de identificación de ciudadanía estadounidense de Cecilia Estela Concha, de 8 años, fechada el 25 de julio de 1935, con foto en blanco y negro, datos físicos, firma y número 11478."
 geo:
 id: 831
 item_type: Document

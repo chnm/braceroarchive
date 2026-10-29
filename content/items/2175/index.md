@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.30.20.jpg
     thumb: /files/thumbnails/NAD-200401383020.jpg
     url: /files/original/NAD-200401383020.jpg
+    alt:
+      en: "Elevated view from a bracero camp building's rooftop, with another corrugated roof in the foreground and rows of cultivated farmland stretching to the horizon beyond."
+      es: "Vista elevada desde el techo de un edificio de un campamento de braceros, con otro techo corrugado en primer plano y hileras de campos cultivados que se extienden hasta el horizonte."
 geo:
 id: 2175
 item_type: Still Image

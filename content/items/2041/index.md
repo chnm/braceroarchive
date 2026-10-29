@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.18.jpg
     thumb: /files/thumbnails/NAD-200401382618.jpg
     url: /files/original/NAD-200401382618.jpg
+    alt:
+      en: "Braceros gather along a dirt road beside a cultivated field in the Salinas Valley, with utility poles and hills visible in the hazy distance."
+      es: "Braceros se reúnen junto a un camino de tierra al borde de un campo cultivado en el valle de Salinas, con postes de luz y colinas visibles en la distancia brumosa."
 geo:
 id: 2041
 item_type: Still Image

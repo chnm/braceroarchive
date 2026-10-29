@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.24.jpg
     thumb: /files/thumbnails/NAD-200401382624.jpg
     url: /files/original/NAD-200401382624.jpg
+    alt:
+      en: "Black-and-white photo of a bracero bent over pulling a plant in a pepper field, with rows of crops and other workers scattered across the flat Salinas Valley landscape."
+      es: "Fotografía en blanco y negro de un bracero inclinado arrancando una planta en un campo de pimientos, con hileras de cultivos y otros trabajadores dispersos en el llano paisaje del Valle de Salinas."
 geo:
 id: 2047
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.07.jpg
     thumb: /files/thumbnails/NAD-200401382107.jpg
     url: /files/original/NAD-200401382107.jpg
+    alt:
+      en: "Black-and-white photo of a bracero sitting on a bunk bed writing on a small box, while two other men sit talking on a bed in the background of a wooden barracks."
+      es: "Fotografía en blanco y negro de un bracero sentado en una litera escribiendo en una pequeña caja, mientras otros dos hombres conversan sentados en una cama al fondo de un barracón de madera."
 geo:
 id: 1873
 item_type: Still Image

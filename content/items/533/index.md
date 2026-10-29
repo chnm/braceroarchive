@@ -44,6 +44,9 @@ files:
     original_filename: men at lunch.jpg
     thumb: /files/thumbnails/men-at-lunch_6a176e7118.jpg
     url: /files/original/men-at-lunch_6a176e7118.jpg
+    alt:
+      en: "Black-and-white photo of a long row of men wearing wide-brimmed hats seated on benches at a long table, eating a meal together in a dimly lit hall."
+      es: "Foto en blanco y negro de una larga fila de hombres con sombreros de ala ancha sentados en bancas junto a una mesa larga, comiendo juntos en un salón poco iluminado."
 geo:
 id: 533
 item_type: Still Image

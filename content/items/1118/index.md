@@ -46,6 +46,9 @@ files:
     original_filename: MolinaRodriguezMilitary2.jpg
     thumb: /files/thumbnails/molinarodriguezmilitary2_d723559105.jpg
     url: /files/original/molinarodriguezmilitary2_d723559105.jpg
+    alt:
+      en: "Two-page military service identification card for Antonio Molina Rodriguez, with printed personal data fields on the left and a typed certification of completed service dated El Cipres, B.C., 7-VII-60, with official signatures and stamps on the right."
+      es: "Tarjeta de identificación de servicio militar a dos páginas de Antonio Molina Rodríguez, con datos personales impresos a la izquierda y certificación de servicio fechada en El Cipres, B.C., 7-VII-60, con firmas y sellos oficiales a la derecha."
 geo:
 id: 1118
 item_type: Document

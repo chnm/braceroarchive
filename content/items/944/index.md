@@ -44,6 +44,9 @@ files:
     original_filename: margarita-1.jpg
     thumb: /files/thumbnails/margarita-1_33cc007d55.jpg
     url: /files/original/margarita-1_33cc007d55.jpg
+    alt:
+      en: "Black-and-white photo of a young girl with curly hair kneeling on grass in a striped sweater, a long-handled tool beside her and a building visible in the background."
+      es: "Fotografía en blanco y negro de una niña de cabello rizado arrodillada en el pasto con un suéter a rayas, una herramienta de mango largo a su lado y un edificio visible al fondo."
 geo:
 id: 944
 item_type: Still Image

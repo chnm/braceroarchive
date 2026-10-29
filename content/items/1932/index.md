@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.03.jpg
     thumb: /files/thumbnails/NAD-200401382303.jpg
     url: /files/original/NAD-200401382303.jpg
+    alt:
+      en: "A man leans against a wooden bunk frame in a dim, cluttered barracks room, with clothing and bedding hanging nearby and overhead fluorescent lights illuminating the space."
+      es: "Un hombre se apoya en una litera de madera dentro de un cuarto de barracas en penumbra, con ropa y ropa de cama colgadas cerca y luces fluorescentes iluminando el espacio."
 geo:
 id: 1932
 item_type: Still Image

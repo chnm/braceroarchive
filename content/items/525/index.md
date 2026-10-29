@@ -44,6 +44,9 @@ files:
     original_filename: RosalesRios-05.jpg
     thumb: /files/thumbnails/rosalesrios-05_8122963493.jpg
     url: /files/original/rosalesrios-05_8122963493.jpg
+    alt:
+      en: "Black-and-white photo of six men in hats standing around a wooden table outdoors, with a barrel and small boxes on the table and tools stored underneath."
+      es: "Foto en blanco y negro de seis hombres con sombrero alrededor de una mesa de madera al aire libre, con un barril y pequeñas cajas sobre la mesa y herramientas guardadas debajo."
 geo:
 id: 525
 item_type: Still Image

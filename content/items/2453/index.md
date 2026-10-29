@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.09.jpg
     thumb: /files/thumbnails/NAD-200401383809.jpg
     url: /files/original/NAD-200401383809.jpg
+    alt:
+      en: "Black-and-white photo of braceros washing their hands at a row of long metal sinks in a camp bathroom, with a sign posted on the wall above."
+      es: "Fotografía en blanco y negro de braceros lavándose las manos en una fila de largos lavabos metálicos en el baño de un campamento, con un letrero colocado en la pared superior."
 geo:
 id: 2453
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: GonzalezLorenzoSpreckels3.jpg
     thumb: /files/thumbnails/gonzalezlorenzospreckels3_ba6e7023b8.jpg
     url: /files/original/gonzalezlorenzospreckels3_ba6e7023b8.jpg
+    alt:
+      en: "Vintage sepia-toned photograph of a man in a light jacket, white shirt, and jeans leaning against a wooden doorway, one arm raised against the frame, hand on hip."
+      es: "Fotografía en sepia de un hombre con chaqueta clara, camisa blanca y jeans, apoyado contra una puerta de madera, con un brazo levantado sobre el marco y la otra mano en la cintura."
 geo:
 id: 988
 item_type: Still Image

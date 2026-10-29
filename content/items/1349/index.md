@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.18.jpg
     thumb: /files/thumbnails/NAD-200401380418.jpg
     url: /files/original/NAD-200401380418.jpg
+    alt:
+      en: "A narrow concrete drainage ditch runs through a dirt lot toward a crowd of men in hats gathered near a building, at the Monterrey Processing Center, Mexico."
+      es: "Una estrecha zanja de drenaje de concreto atraviesa un terreno de tierra hacia una multitud de hombres con sombreros reunidos cerca de un edificio, en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1349
 item_type: Still Image

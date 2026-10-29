@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.21.jpg
     thumb: /files/thumbnails/NAD-200401380921.jpg
     url: /files/original/NAD-200401380921.jpg
+    alt:
+      en: "Black-and-white photo of braceros lined up outside long buildings at the Monterrey Processing Center, with buses parked nearby and youths playing in the foreground dirt lot."
+      es: "Foto en blanco y negro de braceros formados en fila afuera de edificios alargados en el Centro de Procesamiento de Monterrey, con autobuses estacionados cerca y jóvenes jugando en el terreno de tierra en primer plano."
 geo:
 id: 1540
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: IMG_3170rotated.JPG
     thumb: /files/thumbnails/img_3170rotated_a3ecdff03a.jpg
     url: /files/original/img_3170rotated_a3ecdff03a.jpg
+    alt:
+      en: "Jesus Soberano Rodriguez, wearing a white hat and plaid shirt, sits smiling at a table during an interview, with a woman in a pink shirt visible in the foreground."
+      es: "Jesús Soberano Rodríguez, con sombrero blanco y camisa a cuadros, sonríe sentado a una mesa durante una entrevista, con una mujer de camisa rosa en primer plano."
 geo:
 id: 3030
 item_type: Still Image

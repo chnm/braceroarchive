@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.27.jpg
     thumb: /files/thumbnails/NAD-200401380927.jpg
     url: /files/original/NAD-200401380927.jpg
+    alt:
+      en: "Large crowd of hatted men stand in lines across an open dirt yard at the Monterrey Processing Center, with low buildings, trees, and power lines visible in the background."
+      es: "Gran multitud de hombres con sombrero forman filas en un patio de tierra del Centro de Procesamiento de Monterrey, con edificios bajos, árboles y cables eléctricos al fondo."
 geo:
 id: 1534
 item_type: Still Image

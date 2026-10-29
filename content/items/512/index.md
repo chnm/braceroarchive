@@ -46,6 +46,9 @@ files:
     original_filename: CastañedaAaron-04.jpg
     thumb: /files/thumbnails/castañedaaaron-04_deddcead89.jpg
     url: /files/original/castañedaaaron-04_deddcead89.jpg
+    alt:
+      en: "Alien Laborer's Identification Card for Aaron Gamez Castañeda, a Mexican railroad worker, featuring his photo, signature, entry port of El Paso, Texas, and an April 1944 entrance date stamp."
+      es: "Tarjeta de Identificación de Trabajador Extranjero de Aaron Gamez Castañeda, trabajador ferroviario mexicano, con su fotografía, firma, puerto de entrada El Paso, Texas, y sello de entrada de abril de 1944."
 geo:
 id: 512
 item_type: Document

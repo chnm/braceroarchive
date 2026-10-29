@@ -44,6 +44,9 @@ files:
     original_filename: wpage.jpg
     thumb: /files/thumbnails/wpage_60a05a024a.jpg
     url: /files/original/wpage_60a05a024a.jpg
+    alt:
+      en: "Two black-and-white photographs on an album page: a flock of sheep in a pen, and an overturned truck beside a dirt mound with two men standing near it."
+      es: "Dos fotografías en blanco y negro en una página de álbum: un rebaño de ovejas en un corral y un camión volcado junto a un montículo de tierra con dos hombres cerca."
 geo:
 id: 579
 item_type: Still Image

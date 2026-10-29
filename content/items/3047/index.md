@@ -44,6 +44,9 @@ files:
     original_filename: belen holy communion.jpg
     thumb: /files/thumbnails/belen-holy-communion_9c2ee01dd4.jpg
     url: /files/original/belen-holy-communion_9c2ee01dd4.jpg
+    alt:
+      en: "Black-and-white studio portrait of a young girl in a white Holy Communion dress, veil, and floral headpiece, standing with clasped hands beside a small table holding a cross and flowers."
+      es: "Retrato de estudio en blanco y negro de una niña con vestido blanco de Primera Comunión, velo y corona de flores, de pie con las manos juntas junto a una mesa con una cruz y flores."
 geo:
 id: 3047
 item_type: Still Image

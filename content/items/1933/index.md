@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.04.jpg
     thumb: /files/thumbnails/NAD-200401382304.jpg
     url: /files/original/NAD-200401382304.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on bunk beds in a camp living quarters, with men sitting and lying on mattresses amid hanging clothes and sparse furnishings."
+      es: "Fotografía en blanco y negro de braceros descansando en literas dentro de un alojamiento del campamento, con hombres sentados y recostados sobre colchones, entre ropa colgada y mobiliario escaso."
 geo:
 id: 1933
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.24.jpg
     thumb: /files/thumbnails/NAD-200401382324.jpg
     url: /files/original/NAD-200401382324.jpg
+    alt:
+      en: "Black-and-white photo of two older braceros seated on metal-frame beds inside a canvas tent, with clothing hung on a line and a single bare bulb lighting the space."
+      es: "Foto en blanco y negro de dos braceros ancianos sentados en camas de metal dentro de una carpa de lona, con ropa colgada en una cuerda y un foco desnudo iluminando el espacio."
 geo:
 id: 1953
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.14.jpg
     thumb: /files/thumbnails/NAD-200401383814.jpg
     url: /files/original/NAD-200401383814.jpg
+    alt:
+      en: "Black-and-white photo of braceros washing up at long communal sinks in a wooden bathroom, with men standing and drying off along a row of faucets."
+      es: "Foto en blanco y negro de braceros lavándose en largos lavabos comunales dentro de un baño de madera, con hombres de pie y secándose junto a una hilera de grifos."
 geo:
 id: 2458
 item_type: Still Image

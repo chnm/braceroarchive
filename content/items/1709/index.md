@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.23.jpg
     thumb: /files/thumbnails/NAD-200401381523.jpg
     url: /files/original/NAD-200401381523.jpg
+    alt:
+      en: "Man in suit stands behind a desk cluttered with papers, ashtrays, and telephones, speaking while holding a cigarette, in an office in Mexico City."
+      es: "Hombre en traje de pie detrás de un escritorio lleno de papeles, ceniceros y teléfonos, hablando mientras sostiene un cigarrillo, en una oficina de Ciudad de México."
 geo:
 id: 1709
 item_type: Still Image

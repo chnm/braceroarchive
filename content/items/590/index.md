@@ -46,6 +46,9 @@ files:
     original_filename: Instructivo p.12-13.jpg
     thumb: /files/thumbnails/instructivo-p12-13_a8721002af.jpg
     url: /files/original/instructivo-p12-13_a8721002af.jpg
+    alt:
+      en: "Pages 12-13 of a bracero instruction booklet with printed Spanish text covering numbered sections on deductions, scales, remittances, customs franchises, and sending letters."
+      es: "Páginas 12-13 de un folleto de instrucciones para braceros, con texto impreso en español en secciones numeradas sobre descuentos, básculas, remisiones, franquicias aduaneras y envío de cartas."
 geo:
 id: 590
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.44.jpg
     thumb: /files/thumbnails/NAD-200401380944.jpg
     url: /files/original/NAD-200401380944.jpg
+    alt:
+      en: "Black-and-white photo of men in hats and collared shirts walking and standing along railroad tracks, with power lines, trees, and mountains in the background near the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de hombres con sombreros y camisas de cuello caminando y de pie junto a vías del ferrocarril, con postes eléctricos, árboles y montañas al fondo cerca del Centro de Contratación de Monterrey, México."
 geo:
 id: 1555
 item_type: Still Image

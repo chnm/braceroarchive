@@ -41,6 +41,9 @@ files:
     original_filename: Carmen Quezada 2.JPG
     thumb: /files/thumbnails/carmen-quezada-2_f0665a5848.jpg
     url: /files/original/carmen-quezada-2_f0665a5848.jpg
+    alt:
+      en: "Worn paper certificate cover printed with \"U.S. DEPARTMENT OF LABOR\" and \"MENCIÓN HONORÍFICA,\" featuring a Department of Labor seal in the lower right corner."
+      es: "Portada de un certificado de papel desgastado con el texto \"U.S. DEPARTMENT OF LABOR\" y \"MENCIÓN HONORÍFICA,\" con un sello del Departamento de Trabajo en la esquina inferior derecha."
 geo:
 id: 3012
 item_type: Document

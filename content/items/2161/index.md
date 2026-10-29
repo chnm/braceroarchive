@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.30.10.jpg
     thumb: /files/thumbnails/NAD-200401383010.jpg
     url: /files/original/NAD-200401383010.jpg
+    alt:
+      en: "A large two-story farmhouse with a gabled roof stands beside scattered lumber and a smaller shed, set along a dirt road under an open sky."
+      es: "Una granja grande de dos pisos con techo a dos aguas junto a madera dispersa y un cobertizo pequeño, a lo largo de un camino de tierra bajo un cielo despejado."
 geo:
 id: 2161
 item_type: Still Image

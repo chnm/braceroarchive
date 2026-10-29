@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.25.jpg
     thumb: /files/thumbnails/NAD-200401383725.jpg
     url: /files/original/NAD-200401383725.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros wearing wide-brimmed hats gathered along a dirt path beside a cultivated field, with trucks parked in the distance."
+      es: "Vista aérea en blanco y negro de braceros con sombreros de ala ancha reunidos junto a un camino de tierra al borde de un campo cultivado, con camiones estacionados a lo lejos."
 geo:
 id: 2425
 item_type: Still Image

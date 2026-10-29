@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.33.05.jpg
     thumb: /files/thumbnails/NAD-200401383305.jpg
     url: /files/original/NAD-200401383305.jpg
+    alt:
+      en: "Black-and-white photo of long, freshly plowed furrows converging toward distant trees and hazy mountains, with a row of small figures visible along the horizon."
+      es: "Fotografía en blanco y negro de largos surcos recién arados que convergen hacia árboles distantes y montañas difusas, con una hilera de pequeñas figuras visibles en el horizonte."
 geo:
 id: 2269
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.05.25.jpg
     thumb: /files/thumbnails/NAD-200401380525.jpg
     url: /files/original/NAD-200401380525.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing wide-brimmed hats gathered around a makeshift kitchen table, preparing food together in a shared camp living quarter near McAllen, Texas."
+      es: "Fotografía en blanco y negro de braceros con sombreros de ala ancha reunidos alrededor de una mesa improvisada, preparando comida juntos en una vivienda compartida de un campamento cerca de McAllen, Texas."
 geo:
 id: 1406
 item_type: Still Image

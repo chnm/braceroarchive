@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.15.jpg
     thumb: /files/thumbnails/NAD-200401385015.jpg
     url: /files/original/NAD-200401385015.jpg
+    alt:
+      en: "Black-and-white street scene with a pickup truck carrying men in its bed, pedestrians nearby, utility poles and wires overhead, and a \"Pedestrian Crossing\" sign in the foreground."
+      es: "Escena callejera en blanco y negro con una camioneta pickup llevando hombres en la caja, peatones cerca, postes y cables eléctricos arriba, y un letrero de \"Cruce de Peatones\" en primer plano."
 geo:
 id: 2830
 item_type: Still Image

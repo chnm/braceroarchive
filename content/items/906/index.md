@@ -46,6 +46,9 @@ files:
     original_filename: Contrato abril-mayo 1964, California (front).jpg
     thumb: /files/thumbnails/contrato-abril-mayo-1964,-california-(front)_b848a9a032.jpg
     url: /files/original/contrato-abril-mayo-1964,-california-(front)_b848a9a032.jpg
+    alt:
+      en: "Printed bilingual form titled \"Continuation of Standard Work Contract,\" Contract No. 218936, for Miguel Zavala Lopez with Ventura County Citrus Growers Committee, dated April 14, 1964, with signatures at bottom."
+      es: "Formulario bilingüe impreso titulado \"Continuación del Contrato de Trabajo Tipo\", Contrato No. 218936, de Miguel Zavala López con Ventura County Citrus Growers Committee, fechado el 14 de abril de 1964, con firmas al final."
 geo:
 id: 906
 item_type: Document

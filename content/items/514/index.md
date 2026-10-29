@@ -46,6 +46,9 @@ files:
     original_filename: CastañedaAaron-06 copy.jpg
     thumb: /files/thumbnails/castañedaaaron-06-copy_997082208e.jpg
     url: /files/original/castañedaaaron-06-copy_997082208e.jpg
+    alt:
+      en: "Southern Pacific Railroad pay stub for Aaron Castañeda-Gamez, September 1945, listing total earnings of $64.98 and deductions including retirement tax, savings fund, and hospital department fees."
+      es: "Recibo de pago de Southern Pacific Railroad a nombre de Aarón Castañeda-Gámez, septiembre de 1945, con ingresos totales de $64.98 y deducciones por retiro, fondo de ahorro y departamento de hospital."
 geo:
 id: 514
 item_type: Document

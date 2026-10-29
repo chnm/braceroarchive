@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.13.jpg
     thumb: /files/thumbnails/NAD-200401381513.jpg
     url: /files/original/NAD-200401381513.jpg
+    alt:
+      en: "Men gather outside a stone building with arched doorways, some wearing hats, near a posted sign reading \"A los trabajadores solicitantes... la autorización de los certificados es gratis,\" and a street marker labeled \"Tolsa 6.\""
+      es: "Hombres se reúnen frente a un edificio de piedra con puertas en arco, varios con sombrero, junto a un letrero que dice \"A los trabajadores solicitantes... la autorización de los certificados es gratis\" y un marcador que indica \"Tolsa 6\"."
 geo:
 id: 1699
 item_type: Still Image

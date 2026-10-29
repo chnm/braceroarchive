@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.18.03.jpg
     thumb: /files/thumbnails/NAD-200401381803.jpg
     url: /files/original/NAD-200401381803.jpg
+    alt:
+      en: "A bracero bends under the weight of a large cotton sack suspended from a wooden tripod scale, as two men in hats look on in a field near McAllen, Texas."
+      es: "Un bracero se inclina bajo el peso de un gran costal de algodón suspendido de una báscula de trípode de madera, mientras dos hombres con sombrero observan en un campo cerca de McAllen, Texas."
 geo:
 id: 1789
 item_type: Still Image

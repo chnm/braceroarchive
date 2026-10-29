@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.14.20.jpg
     thumb: /files/thumbnails/NAD-200401381420.jpg
     url: /files/original/NAD-200401381420.jpg
+    alt:
+      en: "Black-and-white photo of a man in a cowboy hat selecting a worker under a covered structure, with a seated clerk at a table and other men in hats waiting nearby."
+      es: "Foto en blanco y negro de un hombre con sombrero de vaquero seleccionando a un trabajador bajo una estructura techada, con un empleado sentado en una mesa y otros hombres con sombrero esperando cerca."
 geo:
 id: 1673
 item_type: Still Image

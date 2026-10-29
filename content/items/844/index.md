@@ -46,6 +46,9 @@ files:
     original_filename: Contrato Junio 5, 1946 (frente, inferior).jpg
     thumb: /files/thumbnails/contrato-junio-5,-1946-(frente,-inferior)_2b4c040cf6.jpg
     url: /files/original/contrato-junio-5,-1946-(frente,-inferior)_2b4c040cf6.jpg
+    alt:
+      en: "Bilingual printed document titled \"This Work Agreement Is Subject to the Following Provisions\" in English and \"El Presente Contrato de Trabajo se Sujetara a las Siguientes Clausulas\" in Spanish, listing numbered terms of the 1946 bracero work contract."
+      es: "Documento impreso bilingüe titulado \"This Work Agreement Is Subject to the Following Provisions\" en inglés y \"El Presente Contrato de Trabajo se Sujetara a las Siguientes Clausulas\" en español, con cláusulas numeradas del contrato bracero de 1946."
 geo:
 id: 844
 item_type: Document

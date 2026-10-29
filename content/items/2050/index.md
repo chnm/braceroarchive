@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.27.jpg
     thumb: /files/thumbnails/NAD-200401382627.jpg
     url: /files/original/NAD-200401382627.jpg
+    alt:
+      en: "Black-and-white portrait of a bracero wearing a straw hat and jacket, standing in a pepper field in California's Salinas Valley as other workers labor in the rows behind him."
+      es: "Retrato en blanco y negro de un bracero con sombrero de paja y chaqueta, de pie en un campo de chiles en el Valle de Salinas, California, mientras otros trabajadores laboran en los surcos detrás de él."
 geo:
 id: 2050
 item_type: Still Image

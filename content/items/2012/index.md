@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.25.13.jpg
     thumb: /files/thumbnails/NAD-200401382513.jpg
     url: /files/original/NAD-200401382513.jpg
+    alt:
+      en: "A seated man gestures while speaking in a clinic room as a white-coated doctor listens nearby, with medical instruments laid out on a table and a nurse standing to the side."
+      es: "Un hombre sentado gesticula mientras habla en una sala de clínica, un médico con bata blanca escucha cerca, con instrumentos médicos sobre una mesa y una enfermera de pie al lado."
 geo:
 id: 2012
 item_type: Still Image

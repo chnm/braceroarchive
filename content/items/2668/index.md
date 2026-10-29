@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.36.jpg
     thumb: /files/thumbnails/NAD-200401384436.jpg
     url: /files/original/NAD-200401384436.jpg
+    alt:
+      en: "Rows of metal-framed cots fill a dormitory room, several men resting under blankets, with jackets and clothing hung on wall pegs above."
+      es: "Filas de catres con armazón metálico en un dormitorio, varios hombres descansando bajo mantas, con chaquetas y ropa colgadas de ganchos en la pared."
 geo:
 id: 2668
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.12.jpg
     thumb: /files/thumbnails/NAD-200401380212.jpg
     url: /files/original/NAD-200401380212.jpg
+    alt:
+      en: "Two braceros stand before a blank backdrop under a bright light for identification photographs, while a line of men waits in the dim interior of the Hidalgo Processing Center, Texas."
+      es: "Dos braceros posan frente a un fondo en blanco bajo una luz intensa para fotos de identificación, mientras una fila de hombres espera en el interior en penumbra del Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1289
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.19.jpg
     thumb: /files/thumbnails/NAD-200401382319.jpg
     url: /files/original/NAD-200401382319.jpg
+    alt:
+      en: "A man bends over to drink from a water spigot in a muddy farm yard, with fields and scattered debris visible in the background."
+      es: "Un hombre se inclina para beber de una espita de agua en un patio de tierra embarrado, con campos y escombros dispersos visibles al fondo."
 geo:
 id: 1948
 item_type: Still Image

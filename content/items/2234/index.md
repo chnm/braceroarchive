@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.29.jpg
     thumb: /files/thumbnails/NAD-200401383229.jpg
     url: /files/original/NAD-200401383229.jpg
+    alt:
+      en: "Two braceros recline on metal-frame beds in a dormitory room, one wearing a wide-brimmed hat, with clothing hanging on hooks and a folded blanket at the foot of the bed."
+      es: "Dos braceros descansan reclinados en camas de armazón metálico en un dormitorio, uno con sombrero de ala ancha, con ropa colgada en ganchos y una manta doblada a los pies de la cama."
 geo:
 id: 2234
 item_type: Still Image

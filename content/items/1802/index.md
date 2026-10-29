@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.36.jpg
     thumb: /files/thumbnails/NAD-200401381936.jpg
     url: /files/original/NAD-200401381936.jpg
+    alt:
+      en: "Black-and-white photo of two long two-story barrack-style buildings with exterior stairs, set behind an open dirt field with trees and a water tower in the background, Stockton, California."
+      es: "Foto en blanco y negro de dos edificios tipo barraca de dos pisos con escaleras exteriores, detrás de un campo de tierra abierto con árboles y una torre de agua al fondo, Stockton, California."
 geo:
 id: 1802
 item_type: Still Image

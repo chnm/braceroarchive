@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.24.jpg
     thumb: /files/thumbnails/NAD-200401381224.jpg
     url: /files/original/NAD-200401381224.jpg
+    alt:
+      en: "Men gather at a makeshift water fountain set on sawhorses, washing and drinking, while a large crowd stands waiting under covered walkways at the Hidalgo Processing Center, Texas."
+      es: "Hombres se reúnen en una fuente de agua improvisada sobre caballetes, lavándose y bebiendo, mientras una gran multitud espera bajo pasillos techados en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1617
 item_type: Still Image

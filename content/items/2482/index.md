@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.04.jpg
     thumb: /files/thumbnails/NAD-200401383904.jpg
     url: /files/original/NAD-200401383904.jpg
+    alt:
+      en: "An official in a collared shirt and glasses hands papers to a group of braceros wearing straw and brimmed hats, gathered outdoors on a dirt lot in Stockton, California."
+      es: "Un funcionario con camisa de cuello y lentes entrega documentos a un grupo de braceros con sombreros de paja y ala ancha, reunidos al aire libre en un terreno de tierra en Stockton, California."
 geo:
 id: 2482
 item_type: Still Image

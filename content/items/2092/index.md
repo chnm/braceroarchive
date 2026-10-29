@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.02.jpg
     thumb: /files/thumbnails/NAD-200401382802.jpg
     url: /files/original/NAD-200401382802.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on a bed in camp living quarters, playing cards together while a man stands nearby, jackets hanging on the wall behind them."
+      es: "Fotografía en blanco y negro de braceros sentados en una cama en los dormitorios de un campamento, jugando a las cartas mientras un hombre observa de pie, con chaquetas colgadas en la pared detrás de ellos."
 geo:
 id: 2092
 item_type: Still Image

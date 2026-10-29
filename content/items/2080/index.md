@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.09.jpg
     thumb: /files/thumbnails/NAD-200401382709.jpg
     url: /files/original/NAD-200401382709.jpg
+    alt:
+      en: "A man stands at an outdoor sink attached to a wooden building, washing laundry, with a trailer and houses visible in the background."
+      es: "Un hombre lava ropa en un fregadero exterior adosado a un edificio de madera, con un remolque y casas visibles al fondo."
 geo:
 id: 2080
 item_type: Still Image

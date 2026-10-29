@@ -43,6 +43,9 @@ files:
     original_filename: Renteria Rosario - father\'s birth certificate.jpg
     thumb: /files/thumbnails/renteria-rosario---fathers-birth-certificate_23e24b3d2d.jpg
     url: /files/original/renteria-rosario---fathers-birth-certificate_23e24b3d2d.jpg
+    alt:
+      en: "Official birth certificate document featuring an eagle emblem at the top, titled \"Estado Libre y Soberano de Nayarit, Municipalidad de Jalisco,\" with dense Spanish typed text and an official stamp."
+      es: "Documento oficial de certificado de nacimiento con un escudo de águila en la parte superior, titulado \"Estado Libre y Soberano de Nayarit, Municipalidad de Jalisco\", con denso texto mecanografiado en español y un sello oficial."
 geo:
 id: 1008
 item_type: Document

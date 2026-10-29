@@ -46,6 +46,9 @@ files:
     original_filename: ArredondoAlexandroFeb261981RegistroCivil2.jpg
     thumb: /files/thumbnails/arredondoalexandrofeb261981registrocivil2_dd2c35023a.jpg
     url: /files/original/arredondoalexandrofeb261981registrocivil2_dd2c35023a.jpg
+    alt:
+      en: "Back of a 1981 certified birth certificate copy from Amaculí, Tamazula, Durango, with typed certification text, a signature, and an official civil registry seal."
+      es: "Reverso de una copia certificada de acta de nacimiento de 1981, de Amaculí, Tamazula, Durango, con texto mecanografiado de certificación, una firma y el sello oficial del registro civil."
 geo:
 id: 1181
 item_type: Document

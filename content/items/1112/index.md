@@ -46,6 +46,9 @@ files:
     original_filename: Martinez, Faustino - Passport 2.jpg
     thumb: /files/thumbnails/martinez,-faustino---passport-2_40f26337eb.jpg
     url: /files/original/martinez,-faustino---passport-2_40f26337eb.jpg
+    alt:
+      en: "Mexican passport pages 2-3 for Faustino Martinez Balanzar, issued June 15, 1961 in Mexico City with a red wax seal; page 3 notes validity for the United States, expiring June 14, 1963."
+      es: "Páginas 2-3 del pasaporte mexicano de Faustino Martínez Balanzaro, emitido el 15 de junio de 1961 en la Ciudad de México con un sello de cera rojo; la página 3 indica validez para Estados Unidos, con vencimiento el 14 de junio de 1963."
 geo:
 id: 1112
 item_type: Document

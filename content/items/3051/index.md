@@ -44,6 +44,9 @@ files:
     original_filename: belen soto moreno3 (dup).jpg
     thumb: /files/thumbnails/belen-soto-moreno3-(dup)_81fcb46912.jpg
     url: /files/original/belen-soto-moreno3-(dup)_81fcb46912.jpg
+    alt:
+      en: "Vintage sepia-toned photo of four young girls standing on a dirt path, with a toddler seated in a small chair at the center; trees and a wooden structure appear in the background."
+      es: "Fotografía antigua en tono sepia de cuatro niñas de pie en un camino de tierra, con una pequeña sentada en una silla al centro; árboles y una estructura de madera se ven al fondo."
 geo:
 id: 3051
 item_type: Still Image

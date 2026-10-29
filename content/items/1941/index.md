@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.12.jpg
     thumb: /files/thumbnails/NAD-200401382312.jpg
     url: /files/original/NAD-200401382312.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered around a cot playing dominoes, with rows of beds and hanging clothes in a California camp dormitory."
+      es: "Fotografía en blanco y negro de braceros reunidos alrededor de un catre jugando dominó, con hileras de camas y ropa colgada en un dormitorio de campamento en California."
 geo:
 id: 1941
 item_type: Still Image

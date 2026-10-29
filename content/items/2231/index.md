@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.26.jpg
     thumb: /files/thumbnails/NAD-200401383226.jpg
     url: /files/original/NAD-200401383226.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on bunk beds in a dormitory room, several lying down and two seated at a table in the background, with a hat and jacket visible nearby."
+      es: "Fotografía en blanco y negro de braceros descansando en literas dentro de un dormitorio, varios acostados y dos sentados a una mesa al fondo, con un sombrero y una chaqueta cerca."
 geo:
 id: 2231
 item_type: Still Image

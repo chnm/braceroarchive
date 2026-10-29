@@ -49,6 +49,9 @@ files:
     original_filename: mica back.jpg
     thumb: /files/thumbnails/mica-back_100ac9c686.jpg
     url: /files/original/mica-back_100ac9c686.jpg
+    alt:
+      en: "Back of a MICA identification card listing Name: Orduno Garcia Roberto, Date of birth 5-11-31, Place of birth Cusihuiriachic, Chih., Mex., home address, issued at El Paso, Texas, Date of Issue Sept. 19, 1956, and number L-2548428."
+      es: "Reverso de una tarjeta de identificación MICA con el nombre Orduno Garcia Roberto, fecha de nacimiento 5-11-31, lugar de nacimiento Cusihuiriachic, Chih., Mex., dirección, expedida en El Paso, Texas, fecha de emisión 19 de sept. de 1956, y número L-2548428."
 geo:
 id: 496
 item_type: Document

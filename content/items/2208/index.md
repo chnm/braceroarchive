@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.03.jpg
     thumb: /files/thumbnails/NAD-200401383203.jpg
     url: /files/original/NAD-200401383203.jpg
+    alt:
+      en: "Elevated view of a wooden barrack-style bracero camp building with a small entry awning, concrete steps, a dirt yard, and open fields in the background."
+      es: "Vista elevada de un edificio de madera estilo barraca en un campamento de braceros, con un pequeño alero en la entrada, escalones de concreto, un patio de tierra y campos abiertos al fondo."
 geo:
 id: 2208
 item_type: Still Image

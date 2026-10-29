@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.26.jpg
     thumb: /files/thumbnails/NAD-200401382026.jpg
     url: /files/original/NAD-200401382026.jpg
+    alt:
+      en: "Rows of lettuce stretch across a field toward a truck loaded with crates, with workers visible along the rows in the Salinas Valley, California."
+      es: "Hileras de lechuga se extienden por un campo hacia un camión cargado de cajas, con trabajadores visibles entre los surcos en el Valle de Salinas, California."
 geo:
 id: 1860
 item_type: Still Image

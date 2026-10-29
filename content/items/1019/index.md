@@ -43,6 +43,9 @@ files:
     original_filename: Venegas Apolonio - datos generales2.jpg
     thumb: /files/thumbnails/venegas-apolonio---datos-generales2_48826d5400.jpg
     url: /files/original/venegas-apolonio---datos-generales2_48826d5400.jpg
+    alt:
+      en: "Form titled \"3. Antecedentes Laborales\" listing work years 1954/1957 in Santa María and San Bernardino, and \"4. Documentos Probatorios\" with checkboxes, followed by signature lines and official stamps."
+      es: "Formulario titulado \"3. Antecedentes Laborales\" con los años 1954/1957 en Santa María y San Bernardino, y \"4. Documentos Probatorios\" con casillas, seguido de líneas de firma y sellos oficiales."
 geo:
 id: 1019
 item_type: Document

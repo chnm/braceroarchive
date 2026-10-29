@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.10.jpg
     thumb: /files/thumbnails/NAD-200401380410.jpg
     url: /files/original/NAD-200401380410.jpg
+    alt:
+      en: "A long line of men wearing hats stand single file outdoors near low buildings, waiting to present documents at the Monterrey Processing Center."
+      es: "Una larga fila de hombres con sombrero esperan de pie en el exterior, cerca de edificios bajos, para presentar documentos en el Centro de Contratación de Monterrey."
 geo:
 id: 1358
 item_type: Still Image

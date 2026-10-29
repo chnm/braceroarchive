@@ -46,6 +46,9 @@ files:
     original_filename: Bautista, Agustine, 1968, military id4.jpg
     thumb: /files/thumbnails/bautista,-agustine,-1968,-military-id4_32b6058393.jpg
     url: /files/original/bautista,-agustine,-1968,-military-id4_32b6058393.jpg
+    alt:
+      en: "Open military ID booklet: left page prints Articles 163–164 of the Ley del Servicio Militar Nacional; right page shows \"MATRICULA No. 6618760\" with stamped and handwritten entries naming Agustín Bautista Arteaga."
+      es: "Cartilla militar abierta: la página izquierda imprime los Artículos 163–164 de la Ley del Servicio Militar Nacional; la derecha muestra \"MATRICULA No. 6618760\" con sellos y anotaciones manuscritas a nombre de Agustín Bautista Arteaga."
 geo:
 id: 1037
 item_type: Document

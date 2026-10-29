@@ -44,6 +44,9 @@ files:
     original_filename: sister in grass.jpg
     thumb: /files/thumbnails/sister-in-grass_ad2d2ebfda.jpg
     url: /files/original/sister-in-grass_ad2d2ebfda.jpg
+    alt:
+      en: "Weathered black-and-white photo of two seated figures in a tall grassy field, with eroded hillside terrain and sparse trees in the background; the print has aged cracks and torn edges."
+      es: "Fotografía en blanco y negro envejecida de dos figuras sentadas en un campo de pasto alto, con un cerro erosionado y árboles dispersos al fondo; la imagen presenta grietas y bordes rotos por el paso del tiempo."
 geo:
 id: 948
 item_type: Still Image

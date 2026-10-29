@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.03.08.jpg
     thumb: /files/thumbnails/NAD-200401380308.jpg
     url: /files/original/NAD-200401380308.jpg
+    alt:
+      en: "Shirtless braceros wearing sombreros line up and stand at desks while seated clerk typists record their information, inside a large hall at the Monterrey Processing Center."
+      es: "Braceros sin camisa con sombreros hacen fila y permanecen de pie junto a escritorios mientras mecanógrafas sentadas registran su información, dentro de un gran salón del Centro de Procesamiento de Monterrey."
 geo:
 id: 1328
 item_type: Still Image

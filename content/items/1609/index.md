@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.28.jpg
     thumb: /files/thumbnails/NAD-200401381228.jpg
     url: /files/original/NAD-200401381228.jpg
+    alt:
+      en: "Rows of empty bench seats line the open bed of a truck used to transport braceros, with parked cars and a building labeled \"OFFICE\" visible in the background."
+      es: "Filas de asientos de banco vacíos en la plataforma abierta de un camión usado para transportar braceros, con autos estacionados y un edificio con el letrero \"OFFICE\" al fondo."
 geo:
 id: 1609
 item_type: Still Image

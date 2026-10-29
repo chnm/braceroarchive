@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.15.jpg
     thumb: /files/thumbnails/NAD-200401382215.jpg
     url: /files/original/NAD-200401382215.jpg
+    alt:
+      en: "Black-and-white photo of a row of canvas tents in a bracero labor camp, with two men working near a tent entrance and a large propane tank in the foreground."
+      es: "Foto en blanco y negro de una hilera de tiendas de lona en un campamento de braceros, con dos hombres trabajando cerca de la entrada de una tienda y un gran tanque de propano en primer plano."
 geo:
 id: 1915
 item_type: Still Image

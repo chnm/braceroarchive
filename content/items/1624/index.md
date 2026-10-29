@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.19.jpg
     thumb: /files/thumbnails/NAD-200401381219.jpg
     url: /files/original/NAD-200401381219.jpg
+    alt:
+      en: "Long line of men stands under a covered outdoor walkway at the Hidalgo Processing Center, Texas, with utility poles and low buildings in the background under a cloudy sky."
+      es: "Larga fila de hombres bajo un andén techado al aire libre en el Centro de Procesamiento de Hidalgo, Texas, con postes de luz y edificios bajos al fondo bajo un cielo nublado."
 geo:
 id: 1624
 item_type: Still Image

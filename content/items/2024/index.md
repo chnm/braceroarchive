@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.01.jpg
     thumb: /files/thumbnails/NAD-200401382601.jpg
     url: /files/original/NAD-200401382601.jpg
+    alt:
+      en: "Black-and-white photo of workers wearing wide-brimmed hats crouched in rows of strawberry plants, picking fruit into wooden crates, with open fields and utility poles in the background."
+      es: "Fotografía en blanco y negro de trabajadores con sombreros de ala ancha agachados entre hileras de fresas, recogiendo fruta en cajas de madera, con campos abiertos y postes de luz al fondo."
 geo:
 id: 2024
 item_type: Still Image

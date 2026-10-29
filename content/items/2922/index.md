@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.54.07.jpg
     thumb: /files/thumbnails/NAD-200401385407.jpg
     url: /files/original/NAD-200401385407.jpg
+    alt:
+      en: "Black-and-white photo of a bracero walking across a dirt yard between rows of small wooden barracks, with overhead power lines crossing the sky above the camp."
+      es: "Foto en blanco y negro de un bracero caminando por un patio de tierra entre filas de pequeñas barracas de madera, con líneas eléctricas cruzando el cielo sobre el campamento."
 geo:
 id: 2922
 item_type: Still Image

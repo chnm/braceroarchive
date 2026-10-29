@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.51.17.jpg
     thumb: /files/thumbnails/NAD-200401385117.jpg
     url: /files/original/NAD-200401385117.jpg
+    alt:
+      en: "A physician with a stethoscope examines a seated, shirtless bracero in a clinic room, surrounded by medical supplies and furniture."
+      es: "Un médico con estetoscopio examina a un bracero sentado y sin camisa en una sala clínica, rodeados de suministros y mobiliario médico."
 geo:
 id: 2858
 item_type: Still Image

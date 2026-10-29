@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.26.jpg
     thumb: /files/thumbnails/NAD-200401383426.jpg
     url: /files/original/NAD-200401383426.jpg
+    alt:
+      en: "Black-and-white photo of rows of workers bending to harvest lettuce and pack it into crates across a large open field, with hills and scattered trees visible in the distance."
+      es: "Fotografía en blanco y negro de filas de trabajadores agachados cosechando lechuga y empacándola en cajas en un amplio campo abierto, con colinas y árboles dispersos visibles a la distancia."
 geo:
 id: 2287
 item_type: Still Image

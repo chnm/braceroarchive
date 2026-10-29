@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.34.jpg
     thumb: /files/thumbnails/NAD-200401384034.jpg
     url: /files/original/NAD-200401384034.jpg
+    alt:
+      en: "Rows of cardboard \"Toro\" lettuce boxes stacked along the furrows of a large agricultural field, stretching toward distant workers and farm buildings on the horizon."
+      es: "Filas de cajas de cartón de lechuga \"Toro\" apiladas a lo largo de los surcos de un extenso campo agrícola, que se extienden hacia trabajadores y edificios de granja a lo lejos."
 geo:
 id: 2545
 item_type: Still Image

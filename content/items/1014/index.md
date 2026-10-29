@@ -46,6 +46,9 @@ files:
     original_filename: Voting Card 3 frontcopy.jpg
     thumb: /files/thumbnails/voting-card-3-frontcopy_eab13b204b.jpg
     url: /files/original/voting-card-3-frontcopy_eab13b204b.jpg
+    alt:
+      en: "Identification card with a photo of a man in a blue LA cap, printed name and address text, and a stamped seal reading \"Alianza Bracero PROA 1942-1964 Cooperación Voluntaria Grupo Ex-Bracero.\""
+      es: "Tarjeta de identificación con la foto de un hombre con gorra azul de LA, texto impreso con nombre y dirección, y un sello que dice \"Alianza Bracero PROA 1942-1964 Cooperación Voluntaria Grupo Ex-Bracero\"."
 geo:
 id: 1014
 item_type: Document

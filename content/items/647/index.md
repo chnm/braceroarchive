@@ -44,6 +44,9 @@ files:
     original_filename: Jul27_20.JPG
     thumb: /files/thumbnails/jul27_20_164ceddec3.jpg
     url: /files/original/jul27_20_164ceddec3.jpg
+    alt:
+      en: "Handwritten letter in Spanish on lined paper, dated \"Kingsburg Calif. Oct. 26-60,\" signed \"Olga J. de Martinez,\" addressed to \"Cleo.\""
+      es: "Carta manuscrita en español sobre papel rayado, fechada \"Kingsburg Calif. Oct. 26-60,\" firmada \"Olga J. de Martinez,\" dirigida a \"Cleo.\""
 geo:
 id: 647
 item_type: Still Image

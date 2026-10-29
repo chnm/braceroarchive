@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.16.jpg
     thumb: /files/thumbnails/NAD-200401385616.jpg
     url: /files/original/NAD-200401385616.jpg
+    alt:
+      en: "Black-and-white portrait of two braceros in wide-brimmed hats and button-up shirts standing in a California field, with other workers and a building visible in the background."
+      es: "Retrato en blanco y negro de dos braceros con sombreros de ala ancha y camisas de botones de pie en un campo de California, con otros trabajadores y un edificio al fondo."
 geo:
 id: 2976
 item_type: Still Image

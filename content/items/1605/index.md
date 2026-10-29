@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.04.jpg
     thumb: /files/thumbnails/NAD-200401381204.jpg
     url: /files/original/NAD-200401381204.jpg
+    alt:
+      en: "Row of small wooden buildings with signs reading \"Jim Griffin Bracero Service,\" \"American Capitol Insurance Co.,\" and \"Dobero Insurance,\" with cars parked in front, Hidalgo, Texas."
+      es: "Fila de pequeños edificios de madera con letreros que dicen \"Jim Griffin Bracero Service,\" \"American Capitol Insurance Co.\" y \"Dobero Insurance,\" con autos estacionados al frente, Hidalgo, Texas."
 geo:
 id: 1605
 item_type: Still Image

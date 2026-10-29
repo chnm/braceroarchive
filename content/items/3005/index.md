@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.37.jpg
     thumb: /files/thumbnails/NAD-200401381237.jpg
     url: /files/original/NAD-200401381237.jpg
+    alt:
+      en: "Braceros wearing wide-brimmed hats sit closely packed in the open bed of a truck at the Hidalgo Processing Center, with another truck and a sign reading \"American's Finest\" visible in the background."
+      es: "Braceros con sombreros de ala ancha viajan apretados en la caja abierta de un camión en el Centro de Procesamiento de Hidalgo, con otro camión y un letrero que dice \"American's Finest\" al fondo."
 geo:
 id: 3005
 item_type: Still Image

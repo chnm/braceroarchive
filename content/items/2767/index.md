@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.48.09.jpg
     thumb: /files/thumbnails/NAD-200401384809.jpg
     url: /files/original/NAD-200401384809.jpg
+    alt:
+      en: "A man rests on a cot in a wood-paneled bunkhouse, with a small crucifix on the wall, a bedside table holding a cup and bottle, and clothing and hats hung nearby."
+      es: "Un hombre descansa en un catre dentro de un dormitorio con paneles de madera, con un pequeño crucifijo en la pared, una mesita con una taza y una botella, y ropa y sombreros colgados cerca."
 geo:
 id: 2767
 item_type: Still Image

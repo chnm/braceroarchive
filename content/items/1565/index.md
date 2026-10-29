@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.10.43.jpg
     thumb: /files/thumbnails/NAD-200401381043.jpg
     url: /files/original/NAD-200401381043.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on a dirt embankment beside a railroad track, with a wooden grave marker and piles of rocks nearby, hills visible in the hazy distance."
+      es: "Foto en blanco y negro de braceros descansando sobre un terraplén de tierra junto a una vía férrea, con una cruz de madera y montones de piedras cerca, y colinas visibles entre la neblina al fondo."
 geo:
 id: 1565
 item_type: Still Image

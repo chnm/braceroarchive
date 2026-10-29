@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.25.jpg
     thumb: /files/thumbnails/NAD-200401380225.jpg
     url: /files/original/NAD-200401380225.jpg
+    alt:
+      en: "Rows of men in wide-brimmed hats stand beside a long table under a covered shelter, their unpacked belongings—bags, clothing, and bundles—spread out for inspection."
+      es: "Filas de hombres con sombreros de ala ancha junto a una larga mesa bajo un cobertizo, con sus pertenencias desempacadas —bolsas, ropa y bultos— extendidas para su inspección."
 geo:
 id: 1308
 item_type: Still Image

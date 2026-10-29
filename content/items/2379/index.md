@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.18.jpg
     thumb: /files/thumbnails/NAD-200401384418.jpg
     url: /files/original/NAD-200401384418.jpg
+    alt:
+      en: "Black-and-white photo of an official handing out paychecks to a crowd of men gathered outside an office building in California, with one man examining a document in the foreground."
+      es: "Fotografía en blanco y negro de un funcionario entregando cheques de pago a un grupo de hombres reunidos afuera de un edificio de oficinas en California, mientras uno de ellos examina un documento en primer plano."
 geo:
 id: 2379
 item_type: Still Image

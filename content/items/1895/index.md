@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.29.jpg
     thumb: /files/thumbnails/NAD-200401382129.jpg
     url: /files/original/NAD-200401382129.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered in a sparse bunkhouse room, several seated on a bed playing cards near a jacket hung on the wall, with another man standing in a doorway in the foreground."
+      es: "Fotografía en blanco y negro de braceros reunidos en una habitación sencilla de un campamento, algunos sentados en una cama jugando cartas junto a una chaqueta colgada en la pared, con otro hombre de pie en la puerta en primer plano."
 geo:
 id: 1895
 item_type: Still Image

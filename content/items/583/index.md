@@ -46,6 +46,9 @@ files:
     original_filename: Instructivo.jpg
     thumb: /files/thumbnails/instructivo_9a294a9245.jpg
     url: /files/original/instructivo_9a294a9245.jpg
+    alt:
+      en: "Worn green cover of \"Instructivo Para los Trabajadores Agrícolas Mexicanos (Braceros),\" issued by the Secretaría de Relaciones Exteriores, Mexico, D.F., 1960, featuring a central Mexican eagle emblem."
+      es: "Portada verde desgastada de \"Instructivo Para los Trabajadores Agrícolas Mexicanos (Braceros)\", emitido por la Secretaría de Relaciones Exteriores, México, D.F., 1960, con un emblema del águila mexicana al centro."
 geo:
 id: 583
 item_type: Still Image

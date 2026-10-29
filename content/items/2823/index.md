@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.08.jpg
     thumb: /files/thumbnails/NAD-200401385008.jpg
     url: /files/original/NAD-200401385008.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men in hats gathered outside a single-story building in Stockton, California, with a tree and stacked pipes visible in the background."
+      es: "Fotografía en blanco y negro de una gran multitud de hombres con sombrero reunidos frente a un edificio de un piso en Stockton, California, con un árbol y tubos apilados visibles al fondo."
 geo:
 id: 2823
 item_type: Still Image

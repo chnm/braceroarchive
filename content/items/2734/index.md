@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.05.jpg
     thumb: /files/thumbnails/NAD-200401384705.jpg
     url: /files/original/NAD-200401384705.jpg
+    alt:
+      en: "Black-and-white photo of an open medicine cabinet filled with bottles and supplies, a stethoscope hanging on the door, with two men visible through a doorway in the background."
+      es: "Fotografía en blanco y negro de un gabinete de medicinas abierto, lleno de frascos y suministros, con un estetoscopio colgado en la puerta, mientras dos hombres se ven a través de una puerta al fondo."
 geo:
 id: 2734
 item_type: Still Image

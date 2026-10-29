@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.13.jpg
     thumb: /files/thumbnails/NAD-200401384313.jpg
     url: /files/original/NAD-200401384313.jpg
+    alt:
+      en: "Black-and-white photo of two men operating a lettuce-packing machine labeled \"ARENA CO. OF SALINAS\" in a field, with workers and equipment visible in the background."
+      es: "Fotografía en blanco y negro de dos hombres operando una máquina empacadora de lechuga con la etiqueta \"ARENA CO. OF SALINAS\" en un campo, con trabajadores y equipo visibles al fondo."
 geo:
 id: 2621
 item_type: Still Image

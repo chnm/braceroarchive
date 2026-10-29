@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.18.jpg
     thumb: /files/thumbnails/NAD-200401383418.jpg
     url: /files/original/NAD-200401383418.jpg
+    alt:
+      en: "Rows of \"Toro\" labeled lettuce boxes stretch across a large agricultural field, with workers scattered in the distance and hills visible on the horizon under a pale sky."
+      es: "Filas de cajas de lechuga con la etiqueta \"Toro\" se extienden por un amplio campo agrícola, con trabajadores dispersos a lo lejos y colinas en el horizonte bajo un cielo pálido."
 geo:
 id: 2291
 item_type: Still Image

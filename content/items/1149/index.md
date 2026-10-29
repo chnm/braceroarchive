@@ -44,6 +44,9 @@ files:
     original_filename: NavarroFedericoBraceroTestament.jpg
     thumb: /files/thumbnails/navarrofedericobracerotestament_e519edb1ec.jpg
     url: /files/original/navarrofedericobracerotestament_e519edb1ec.jpg
+    alt:
+      en: "Typed Spanish testimony letter dated Mexicali, Baja California, September 10, 2003, with handwritten names filled in blanks, stating Federico Navarro Duran worked in the U.S. from 1952–1961, signed by two witnesses."
+      es: "Carta de testimonio mecanografiada en español, fechada en Mexicali, Baja California, el 10 de septiembre de 2003, con nombres manuscritos, que declara que Federico Navarro Duran trabajó en EE.UU. de 1952 a 1961, firmada por dos testigos."
 geo:
 id: 1149
 item_type: Document

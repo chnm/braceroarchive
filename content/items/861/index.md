@@ -46,6 +46,9 @@ files:
     original_filename: contrato sep-nov 1957, CA.jpg
     thumb: /files/thumbnails/contrato-sep-nov-1957,-ca_77e03ac9d9.jpg
     url: /files/original/contrato-sep-nov-1957,-ca_77e03ac9d9.jpg
+    alt:
+      en: "Standard work contract continuation form for bracero Santos Guevara Rodriguez, listing employer, California worksite, wage rates, and contract dates, with stamps and signatures dated 1957-1958."
+      es: "Formulario de continuación de contrato de trabajo estándar para el bracero Santos Guevara Rodríguez, con datos del empleador, lugar de trabajo en California, tarifas salariales y fechas, con sellos y firmas de 1957-1958."
 geo:
 id: 861
 item_type: Document

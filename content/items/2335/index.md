@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.35.07.jpg
     thumb: /files/thumbnails/NAD-200401383507.jpg
     url: /files/original/NAD-200401383507.jpg
+    alt:
+      en: "Men wash clothes at deep sinks in a camp bathroom, with a box of FAB laundry detergent visible on a shelf and another FAB sign on the wall above the sinks."
+      es: "Hombres lavan ropa en lavabos profundos del baño de un campamento, con una caja de detergente FAB sobre un estante y otro anuncio de FAB en la pared sobre los lavabos."
 geo:
 id: 2335
 item_type: Still Image

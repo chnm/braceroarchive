@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.01.jpg
     thumb: /files/thumbnails/NAD-200401384701.jpg
     url: /files/original/NAD-200401384701.jpg
+    alt:
+      en: "Black-and-white photo of three men seated on a bench in a waiting room, one holding a small box, with a wooden shelf of papers and a window in the background."
+      es: "Fotografía en blanco y negro de tres hombres sentados en una banca en una sala de espera, uno sosteniendo una pequeña caja, con un estante de madera con papeles y una ventana al fondo."
 geo:
 id: 2730
 item_type: Still Image

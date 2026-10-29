@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.34.jpg
     thumb: /files/thumbnails/NAD-200401382734.jpg
     url: /files/original/NAD-200401382734.jpg
+    alt:
+      en: "Aerial view of long, low barracks-style buildings at the Gondo Labor Camp in Watsonville, California, surrounded by flat agricultural fields under a hazy sky."
+      es: "Vista aérea de largas edificaciones bajas tipo barracón en el Campo Laboral Gondo en Watsonville, California, rodeadas de campos agrícolas planos bajo un cielo neblinoso."
 geo:
 id: 2085
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.31.jpg
     thumb: /files/thumbnails/NAD-200401382631.jpg
     url: /files/original/NAD-200401382631.jpg
+    alt:
+      en: "Black-and-white photo of two braceros in wide-brimmed hats standing in a pepper field, with other workers bent over rows of crops in the background under a wide open sky."
+      es: "Foto en blanco y negro de dos braceros con sombreros de ala ancha de pie en un campo de pimientos, con otros trabajadores agachados entre los surcos bajo un amplio cielo abierto."
 geo:
 id: 2054
 item_type: Still Image

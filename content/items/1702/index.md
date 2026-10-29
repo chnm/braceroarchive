@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.16.jpg
     thumb: /files/thumbnails/NAD-200401381516.jpg
     url: /files/original/NAD-200401381516.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered near trees in front of an official building with arched entrances in Mexico City, with cars parked along the street."
+      es: "Fotografía en blanco y negro de braceros reunidos junto a árboles frente a un edificio oficial con entradas en arco en la Ciudad de México, con autos estacionados a lo largo de la calle."
 geo:
 id: 1702
 item_type: Still Image

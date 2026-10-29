@@ -46,6 +46,9 @@ files:
     original_filename: ayonmaria frontID.jpg
     thumb: /files/thumbnails/ayonmaria-frontid_eb92f666a2.jpg
     url: /files/original/ayonmaria-frontid_eb92f666a2.jpg
+    alt:
+      en: "Weathered \"Alien Laborer's Identification Card\" with a cracked photograph of a young man, printed above text reading \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55).\""
+      es: "Tarjeta desgastada de \"Alien Laborer's Identification Card\" con una fotografía agrietada de un hombre joven, impresa sobre el texto \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)\"."
 geo:
 id: 783
 item_type: Document

@@ -44,6 +44,9 @@ files:
     original_filename: Jul28_12 copy.jpg
     thumb: /files/thumbnails/jul28_12-copy_ac529dfd74.jpg
     url: /files/original/jul28_12-copy_ac529dfd74.jpg
+    alt:
+      en: "Letterhead from the Harden Foundation dated April 21, 2003, confirming Ismael O. Nicholas worked for E.E. Harden Packing Co. from 1945–1956, signed by Lydia Torres, Executive Assistant."
+      es: "Carta con membrete de Harden Foundation fechada el 21 de abril de 2003, que confirma que Ismael O. Nicholas trabajó para E.E. Harden Packing Co. de 1945 a 1956, firmada por Lydia Torres, Asistente Ejecutiva."
 geo:
 id: 804
 item_type: Still Image

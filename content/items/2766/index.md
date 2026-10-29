@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.48.07.jpg
     thumb: /files/thumbnails/NAD-200401384807.jpg
     url: /files/original/NAD-200401384807.jpg
+    alt:
+      en: "Black-and-white photo of a bunkhouse with several beds, two braceros seated together on one bed talking, jackets hanging on wall hooks, and sunlight streaming through a window."
+      es: "Fotografía en blanco y negro de un dormitorio con varias camas, dos braceros sentados juntos en una cama conversando, chaquetas colgadas en ganchos en la pared y luz solar entrando por una ventana."
 geo:
 id: 2766
 item_type: Still Image

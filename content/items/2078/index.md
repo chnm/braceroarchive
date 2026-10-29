@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.19.jpg
     thumb: /files/thumbnails/NAD-200401382719.jpg
     url: /files/original/NAD-200401382719.jpg
+    alt:
+      en: "Clothing hangs drying on a chain-link fence between two buildings at the Gondo Labor Camp in Watsonville, California, with rolling hills in the background."
+      es: "Ropa colgada secándose en una cerca de alambre entre dos edificios en el Campo Laboral Gondo en Watsonville, California, con colinas al fondo."
 geo:
 id: 2078
 item_type: Still Image

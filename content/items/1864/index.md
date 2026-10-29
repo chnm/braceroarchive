@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.18.jpg
     thumb: /files/thumbnails/NAD-200401382018.jpg
     url: /files/original/NAD-200401382018.jpg
+    alt:
+      en: "Workers in a lettuce field bend to harvest crops near wooden crates, with a \"Cookie Head Lettuce\" box visible in the foreground, Salinas Valley, California."
+      es: "Trabajadores en un campo de lechuga se inclinan para cosechar cerca de cajas de madera, con una caja de \"Cookie Head Lettuce\" visible en primer plano, Valle de Salinas, California."
 geo:
 id: 1864
 item_type: Still Image

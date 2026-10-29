@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.26.jpg
     thumb: /files/thumbnails/NAD-200401383826.jpg
     url: /files/original/NAD-200401383826.jpg
+    alt:
+      en: "A bracero lies on a bunk bed with hands behind his head, smoking a cigarette, smoke curling upward above him; a small radio sits on a shelf nearby."
+      es: "Un bracero yace en una litera con las manos detrás de la cabeza, fumando un cigarrillo, el humo se eleva sobre él; una pequeña radio reposa en un estante cercano."
 geo:
 id: 2470
 item_type: Still Image

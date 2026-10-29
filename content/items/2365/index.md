@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.42.jpg
     thumb: /files/thumbnails/NAD-200401383642.jpg
     url: /files/original/NAD-200401383642.jpg
+    alt:
+      en: "Payroll check from J.J. Crosetti Co., Watsonville, California, No. 190 N, made out to Javier Guzman, lying on a weathered wooden surface."
+      es: "Cheque de nómina de J.J. Crosetti Co., Watsonville, California, No. 190 N, emitido a nombre de Javier Guzmán, sobre una superficie de madera desgastada."
 geo:
 id: 2365
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.16.jpg
     thumb: /files/thumbnails/NAD-200401382916.jpg
     url: /files/original/NAD-200401382916.jpg
+    alt:
+      en: "Black-and-white photo taken from inside a car, showing a truck carrying seated passengers ahead on a highway, with a Texaco gas station and roadside buildings lining the street."
+      es: "Foto en blanco y negro tomada desde el interior de un auto, con un camión que lleva pasajeros sentados en la carretera, una estación de servicio Texaco y edificios al borde del camino."
 geo:
 id: 2148
 item_type: Still Image

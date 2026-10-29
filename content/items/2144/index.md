@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.24.jpg
     thumb: /files/thumbnails/NAD-200401382924.jpg
     url: /files/original/NAD-200401382924.jpg
+    alt:
+      en: "Black-and-white street scene with men walking past storefronts and a corner building with a vertical \"Mexican\" sign, Pepsi-Cola signage, and utility poles lining the sidewalk."
+      es: "Escena callejera en blanco y negro con hombres caminando frente a escaparates y un edificio en la esquina con un letrero vertical \"Mexican\", publicidad de Pepsi-Cola y postes de servicios en la acera."
 geo:
 id: 2144
 item_type: Still Image

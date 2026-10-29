@@ -44,6 +44,9 @@ files:
     original_filename: Belen and cousin (dup).jpg
     thumb: /files/thumbnails/belen-and-cousin-(dup)_a39ed7f549.jpg
     url: /files/original/belen-and-cousin-(dup)_a39ed7f549.jpg
+    alt:
+      en: "Aged black-and-white photo of two young girls standing arm-in-arm outside a stucco building with a corrugated roof, one in a dark dress and the other in a light dress, on a dirt yard."
+      es: "Fotografía antigua en blanco y negro de dos niñas paradas tomadas del brazo frente a un edificio de adobe con techo corrugado, una con vestido oscuro y la otra con vestido claro, sobre un patio de tierra."
 geo:
 id: 3046
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.28.jpg
     thumb: /files/thumbnails/NAD-200401382728.jpg
     url: /files/original/NAD-200401382728.jpg
+    alt:
+      en: "Black-and-white photo of a row of barrack-style buildings at a labor camp, with several men standing or leaning near doorways along the dirt path outside."
+      es: "Foto en blanco y negro de una hilera de barracones en un campo de trabajo, con varios hombres de pie o recostados cerca de las puertas junto al camino de tierra."
 geo:
 id: 2063
 item_type: Still Image

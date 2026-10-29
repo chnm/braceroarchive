@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.19.jpg
     thumb: /files/thumbnails/NAD-200401385019.jpg
     url: /files/original/NAD-200401385019.jpg
+    alt:
+      en: "A large crowd of braceros wearing hats and work clothes gathers outdoors beneath trees in Stockton, California, as an official distributes documents and suitcases are stacked nearby."
+      es: "Una gran multitud de braceros con sombreros y ropa de trabajo se reúne al aire libre bajo los árboles en Stockton, California, mientras un funcionario distribuye documentos y hay maletas apiladas cerca."
 geo:
 id: 2834
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.26.jpg
     thumb: /files/thumbnails/NAD-200401383626.jpg
     url: /files/original/NAD-200401383626.jpg
+    alt:
+      en: "Black-and-white aerial view of a lettuce field in the Salinas Valley, with rows of harvested lettuce boxes lined up, workers in the distance, and a car parked along the field's edge."
+      es: "Vista aérea en blanco y negro de un campo de lechuga en el Valle de Salinas, con filas de cajas de lechuga cosechada, trabajadores a lo lejos y un auto estacionado junto al borde del campo."
 geo:
 id: 2346
 item_type: Still Image

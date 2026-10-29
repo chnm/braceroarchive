@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.22.jpg
     thumb: /files/thumbnails/NAD-200401384422.jpg
     url: /files/original/NAD-200401384422.jpg
+    alt:
+      en: "Black-and-white photo of a bracero camp bunkroom, with clothing hung on a line and a metal rack, cots along the walls, and a trunk and footlocker on the floor."
+      es: "Foto en blanco y negro de un dormitorio en un campamento de braceros, con ropa colgada en una cuerda y un estante metálico, catres junto a las paredes, y un baúl y un cofre en el suelo."
 geo:
 id: 2654
 item_type: Still Image

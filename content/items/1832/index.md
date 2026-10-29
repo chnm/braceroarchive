@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.07.jpg
     thumb: /files/thumbnails/NAD-200401381907.jpg
     url: /files/original/NAD-200401381907.jpg
+    alt:
+      en: "Black-and-white aerial view of men in hats carrying suitcases and boxes, lined up along a street toward a bus in Stockton, California."
+      es: "Vista aérea en blanco y negro de hombres con sombreros que cargan maletas y cajas, formados en fila a lo largo de una calle hacia un autobús en Stockton, California."
 geo:
 id: 1832
 item_type: Still Image

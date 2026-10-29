@@ -44,6 +44,9 @@ files:
     original_filename: Foto en tractor.jpg
     thumb: /files/thumbnails/foto-en-tractor_970c19fb0a.jpg
     url: /files/original/foto-en-tractor_970c19fb0a.jpg
+    alt:
+      en: "Worn black-and-white photograph of a man in a wide-brimmed hat seated on a tractor, large tread tire prominent in foreground, image corners creased and edges torn."
+      es: "Fotografía antigua en blanco y negro, desgastada, de un hombre con sombrero de ala ancha sentado sobre un tractor, con un gran neumático de banda de rodadura en primer plano; esquinas dobladas y bordes rasgados."
 geo:
 id: 892
 item_type: Still Image

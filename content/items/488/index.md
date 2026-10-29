@@ -46,6 +46,9 @@ files:
     original_filename: IsmaelChavira-02.jpg
     thumb: /files/thumbnails/ismaelchavira-02_199a6e599e.jpg
     url: /files/original/ismaelchavira-02_199a6e599e.jpg
+    alt:
+      en: "Back of an Alien Laborer's Identification Card listing name Cesarea Lopez Ismael, birth date June 17, 1925, birthplace Valdoza, Valle Zaragoza, Chih., Mexico, issued in El Paso, Tex. on Sept 14, 1956, with ID number L-2540971 and \"MICA\" stamped below."
+      es: "Reverso de una Tarjeta de Identificación de Trabajador Extranjero con el nombre Cesarea Lopez Ismael, fecha de nacimiento 17 de junio de 1925, lugar de nacimiento Valdoza, Valle Zaragoza, Chih., México, emitida en El Paso, Tex. el 14 de sept. de 1956, con número L-2540971 y sello \"MICA\" debajo."
 geo:
 id: 488
 item_type: Document

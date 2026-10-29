@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.31.jpg
     thumb: /files/thumbnails/NAD-200401383431.jpg
     url: /files/original/NAD-200401383431.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a wide-brimmed hat holding lettuce over a box in a field, with other workers bending among the rows in the background."
+      es: "Foto en blanco y negro de un bracero con sombrero de ala ancha sosteniendo lechuga sobre una caja en un campo, con otros trabajadores agachados entre las hileras al fondo."
 geo:
 id: 2280
 item_type: Still Image

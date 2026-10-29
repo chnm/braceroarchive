@@ -46,6 +46,9 @@ files:
     original_filename: Porter8.jpg
     thumb: /files/thumbnails/porter8_6da03712f6.jpg
     url: /files/original/porter8_6da03712f6.jpg
+    alt:
+      en: "Printed page from a bilingual phrase book thanking Dr. Samuel R. Skaggs and Mrs. Amelia Montes Skaggs, with instructions to send booklet orders to Mrs. Skaggs at 149 W. Greening Avenue, Las Cruces, New Mexico."
+      es: "Página impresa de un libro de frases bilingüe que agradece al Dr. Samuel R. Skaggs y a la Sra. Amelia Montes Skaggs, con instrucciones para enviar pedidos del folleto a la Sra. Skaggs, 149 W. Greening Avenue, Las Cruces, Nuevo México."
 geo:
 id: 560
 item_type: Document

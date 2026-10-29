@@ -46,6 +46,9 @@ files:
     original_filename: Mar17_21.JPG
     thumb: /files/thumbnails/mar17_21_70edda88ce.jpg
     url: /files/original/mar17_21_70edda88ce.jpg
+    alt:
+      en: "Bank money order receipt No. 7426 from The Peoples State Bank, Wauseon, Ohio, dated June 9, 1944, with a handwritten amount and printed fee rate schedule."
+      es: "Recibo de giro bancario N.º 7426 del The Peoples State Bank, Wauseon, Ohio, fechado el 9 de junio de 1944, con un monto escrito a mano y una tabla impresa de tarifas."
 geo:
 id: 532
 item_type: Document

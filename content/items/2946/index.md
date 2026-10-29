@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.19.jpg
     thumb: /files/thumbnails/NAD-200401385519.jpg
     url: /files/original/NAD-200401385519.jpg
+    alt:
+      en: "Black-and-white street scene of a group of men standing outside \"A.P. Coats Smoke Shop\" and \"Radio Shop\" storefronts, with \"Clancy's\" sign on adjacent building and vintage cars parked along the curb."
+      es: "Escena callejera en blanco y negro de un grupo de hombres frente a las tiendas \"A.P. Coats Smoke Shop\" y \"Radio Shop\", con el letrero \"Clancy's\" en el edificio contiguo y autos antiguos estacionados junto a la acera."
 geo:
 id: 2946
 item_type: Still Image

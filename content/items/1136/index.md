@@ -46,6 +46,9 @@ files:
     original_filename: NavarroFedericoBraceroproa.jpg
     thumb: /files/thumbnails/navarrofedericobraceroproa_7bbc032ae2.jpg
     url: /files/original/navarrofedericobraceroproa_7bbc032ae2.jpg
+    alt:
+      en: "Typed letterhead for \"Alianza Braceroproa\" in Coachella, CA, dated January 18, 2004, addressed to Sr. Jose Antonio Larios, with a full Spanish-language letter and a signature reading Federico Navarro."
+      es: "Membrete mecanografiado de \"Alianza Braceroproa\" en Coachella, CA, fechado el 18 de enero de 2004, dirigido al Sr. José Antonio Larios, con carta completa en español y firma de Federico Navarro."
 geo:
 id: 1136
 item_type: Document

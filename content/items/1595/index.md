@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.11.41.jpg
     thumb: /files/thumbnails/NAD-200401381141.jpg
     url: /files/original/NAD-200401381141.jpg
+    alt:
+      en: "A bracero in a striped shirt hands a document to a seated official at a table, while a long line of men wearing straw and cowboy hats waits behind him in the processing hall."
+      es: "Un bracero con camisa a rayas entrega un documento a un oficial sentado en una mesa, mientras una larga fila de hombres con sombreros de paja y vaqueros espera detrás de él en el salón de procesamiento."
 geo:
 id: 1595
 item_type: Still Image

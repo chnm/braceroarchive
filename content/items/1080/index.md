@@ -44,6 +44,9 @@ files:
     original_filename: rafael hernandez pic3.jpg
     thumb: /files/thumbnails/rafael-hernandez-pic3_59167fa9db.jpg
     url: /files/original/rafael-hernandez-pic3_59167fa9db.jpg
+    alt:
+      en: "Vintage black-and-white photo of a man driving a tractor with cultivating equipment across a plowed field, while another man walks alongside near the furrows."
+      es: "Fotografía antigua en blanco y negro de un hombre conduciendo un tractor con equipo de cultivo sobre un campo arado, mientras otro hombre camina junto a los surcos."
 geo:
 id: 1080
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.02.jpg
     thumb: /files/thumbnails/NAD-200401382902.jpg
     url: /files/original/NAD-200401382902.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with three men standing on a sidewalk near storefronts reading \"Centre Theatre\" and \"Surplus,\" as cars pass on the road and a Chevron gas station sign stands in the distance."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con tres hombres de pie en una acera cerca de tiendas con letreros \"Centre Theatre\" y \"Surplus\", autos pasando por la calle y un letrero de gasolinera Chevron al fondo."
 geo:
 id: 2125
 item_type: Still Image

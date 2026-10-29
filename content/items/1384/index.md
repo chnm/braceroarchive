@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.05.03.jpg
     thumb: /files/thumbnails/NAD-200401380503.jpg
     url: /files/original/NAD-200401380503.jpg
+    alt:
+      en: "Black-and-white photo of men wearing hats walking single file across the metal-grated Reynosa-Hidalgo bridge, with a river and flat landscape visible below and beyond the railings."
+      es: "Foto en blanco y negro de hombres con sombrero caminando en fila por el puente metálico Reynosa-Hidalgo, con un río y un paisaje llano visibles debajo y más allá de los barandales."
 geo:
 id: 1384
 item_type: Still Image

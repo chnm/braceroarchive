@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.32.jpg
     thumb: /files/thumbnails/NAD-200401381932.jpg
     url: /files/original/NAD-200401381932.jpg
+    alt:
+      en: "Aerial view of a textured agricultural field with long parallel furrows, small scattered clumps of soil or crops, and a dark diagonal strip at the upper left edge of the frame."
+      es: "Vista aérea de un campo agrícola con largos surcos paralelos, pequeños grumos de tierra o cultivos dispersos, y una franja diagonal oscura en el borde superior izquierdo."
 geo:
 id: 1798
 item_type: Still Image

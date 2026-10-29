@@ -44,6 +44,9 @@ files:
     original_filename: AMarin001.jpg
     thumb: /files/thumbnails/amarin001_5f40907c5a.jpg
     url: /files/original/amarin001_5f40907c5a.jpg
+    alt:
+      en: "Black-and-white identification photo of a young man with dark combed-back hair, wearing a collared shirt, over which a purple official stamp is partially visible across his chest."
+      es: "Fotografía en blanco y negro de un hombre joven de cabello oscuro peinado hacia atrás, con camisa de cuello, sobre la cual se ve parcialmente un sello oficial de color morado en el pecho."
 geo:
 id: 609
 item_type: Still Image

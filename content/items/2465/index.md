@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.21.jpg
     thumb: /files/thumbnails/NAD-200401383821.jpg
     url: /files/original/NAD-200401383821.jpg
+    alt:
+      en: "Rows of cots line a long dormitory barracks, with several braceros seated or resting on their beds beneath a high wooden-beamed ceiling and rows of windows along the wall."
+      es: "Filas de camastros se alinean en un largo dormitorio, con varios braceros sentados o descansando en sus camas bajo un techo de vigas de madera y ventanas a lo largo de la pared."
 geo:
 id: 2465
 item_type: Still Image

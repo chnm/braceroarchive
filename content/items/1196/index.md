@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 37.jpg
     thumb: /files/thumbnails/velasco-patino-37_8205a88ae0.jpg
     url: /files/original/velasco-patino-37_8205a88ae0.jpg
+    alt:
+      en: "Three \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank, Coachella, California, stamped \"INSURED,\" dated July 1950, Nov. 1948, and Oct. 1948, with payees Francisca Rodriguez and Benito Patino."
+      es: "Tres recibos de \"Purchaser's Receipt of Bank Money Order\" del First National Bank, Coachella, California, con sello \"INSURED,\" fechados en julio de 1950, nov. de 1948 y oct. de 1948, a nombre de Francisca Rodríguez y Benito Patiño."
 geo:
 id: 1196
 item_type: Document

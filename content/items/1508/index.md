@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.21.jpg
     thumb: /files/thumbnails/NAD-200401380821.jpg
     url: /files/original/NAD-200401380821.jpg
+    alt:
+      en: "A black-and-white photo of an official collecting documents from a crowd of hat-wearing braceros gathered outdoors in a plaza in Mexico City, trees and buildings visible in the background."
+      es: "Fotografía en blanco y negro de un funcionario recogiendo documentos de un grupo de braceros con sombrero reunidos al aire libre en una plaza de la Ciudad de México, con árboles y edificios al fondo."
 geo:
 id: 1508
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.08.jpg
     thumb: /files/thumbnails/NAD-200401384608.jpg
     url: /files/original/NAD-200401384608.jpg
+    alt:
+      en: "Large group of men gathered outdoors between corrugated metal barracks, attending a religious service in a California labor camp, with a small posted sign visible on the building wall."
+      es: "Gran grupo de hombres reunidos al aire libre entre barracas de metal corrugado, asistiendo a un servicio religioso en un campo de trabajo en California, con un pequeño letrero visible en la pared del edificio."
 geo:
 id: 2703
 item_type: Still Image

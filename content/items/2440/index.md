@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.40.jpg
     thumb: /files/thumbnails/NAD-200401383740.jpg
     url: /files/original/NAD-200401383740.jpg
+    alt:
+      en: "A bracero wearing a plaid shirt and straw hat trims lettuce in a field, with other workers and a flatbed truck visible in the background under power lines."
+      es: "Un bracero con camisa a cuadros y sombrero de paja recorta lechugas en un campo, con otros trabajadores y un camión de plataforma al fondo bajo líneas eléctricas."
 geo:
 id: 2440
 item_type: Still Image

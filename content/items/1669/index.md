@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.14.16.jpg
     thumb: /files/thumbnails/NAD-200401381416.jpg
     url: /files/original/NAD-200401381416.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in cowboy hats and work clothes under an open-sided shelter, with seated officials processing them at tables, Hidalgo, Texas."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con sombreros de vaquero y ropa de trabajo bajo un cobertizo abierto, mientras funcionarios sentados los atienden en mesas, en Hidalgo, Texas."
 geo:
 id: 1669
 item_type: Still Image

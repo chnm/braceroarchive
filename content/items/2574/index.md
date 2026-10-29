@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.26.jpg
     thumb: /files/thumbnails/NAD-200401384126.jpg
     url: /files/original/NAD-200401384126.jpg
+    alt:
+      en: "Black-and-white photo of a bracero resting on a bed in a sparse, tiled sleeping quarters, viewed through a doorway with graffiti-marked walls in the foreground."
+      es: "Fotografía en blanco y negro de un bracero descansando en una cama dentro de un dormitorio sencillo y alicatado, visto a través de una puerta con paredes grafiteadas en primer plano."
 geo:
 id: 2574
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.17.jpg
     thumb: /files/thumbnails/NAD-200401382717.jpg
     url: /files/original/NAD-200401382717.jpg
+    alt:
+      en: "Black-and-white photo of braceros walking a dirt path through farm fields toward the Gondo Labor Camp buildings, with rolling hills in the background."
+      es: "Fotografía en blanco y negro de braceros caminando por un sendero de tierra entre campos de cultivo hacia los edificios del Campamento Gondo, con colinas onduladas al fondo."
 geo:
 id: 2076
 item_type: Still Image

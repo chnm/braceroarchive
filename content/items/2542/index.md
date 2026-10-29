@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.31.jpg
     thumb: /files/thumbnails/NAD-200401384031.jpg
     url: /files/original/NAD-200401384031.jpg
+    alt:
+      en: "Wide view of a lettuce field in the Salinas Valley with two rows of \"Toro\" lettuce boxes stretching into the distance, as braceros work along the rows and carry produce."
+      es: "Vista amplia de un campo de lechugas en el Valle de Salinas con dos hileras de cajas de lechuga \"Toro\" que se extienden hacia la distancia, mientras braceros trabajan en los surcos y cargan producto."
 geo:
 id: 2542
 item_type: Still Image

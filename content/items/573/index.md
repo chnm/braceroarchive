@@ -44,6 +44,9 @@ files:
     original_filename: Manurespred.jpg
     thumb: /files/thumbnails/manurespred_a0bddf7355.jpg
     url: /files/original/manurespred_a0bddf7355.jpg
+    alt:
+      en: "Black-and-white photo of a man driving a tractor hitched to a manure spreader loaded with hay, parked on a dirt farm lot with wooden fencing in the background."
+      es: "Fotografía en blanco y negro de un hombre conduciendo un tractor enganchado a un esparcidor de estiércol cargado de heno, estacionado en un terreno agrícola de tierra con una cerca de madera al fondo."
 geo:
 id: 573
 item_type: Still Image

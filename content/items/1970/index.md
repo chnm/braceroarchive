@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.24.06.jpg
     thumb: /files/thumbnails/NAD-200401382406.jpg
     url: /files/original/NAD-200401382406.jpg
+    alt:
+      en: "A man in a white shirt distributes paychecks to a large crowd of braceros wearing wide-brimmed hats, with buses and trucks parked in the background."
+      es: "Un hombre con camisa blanca reparte cheques de pago a una gran multitud de braceros con sombreros de ala ancha, con autobuses y camiones estacionados al fondo."
 geo:
 id: 1970
 item_type: Still Image

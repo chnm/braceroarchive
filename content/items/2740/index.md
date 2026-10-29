@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.12.jpg
     thumb: /files/thumbnails/NAD-200401384712.jpg
     url: /files/original/NAD-200401384712.jpg
+    alt:
+      en: "Black-and-white photo of several men seated in a waiting room, one holding a small box, with a shelf of papers and a curtained window in the background."
+      es: "Fotografía en blanco y negro de varios hombres sentados en una sala de espera, uno sosteniendo una pequeña caja, con un estante de papeles y una ventana con cortina al fondo."
 geo:
 id: 2740
 item_type: Still Image

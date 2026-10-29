@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.31.jpg
     thumb: /files/thumbnails/NAD-200401384931.jpg
     url: /files/original/NAD-200401384931.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat stoops to work the soil with a short-handled hoe in a pepper field, with other workers bent over in rows stretching toward distant hills."
+      es: "Un bracero con sombrero de ala ancha se agacha para trabajar la tierra con un azadón de mango corto en un campo de pimientos, mientras otros trabajadores se inclinan en hileras que se extienden hacia las colinas lejanas."
 geo:
 id: 2810
 item_type: Still Image

@@ -44,3 +44,25 @@ disableKinds = ["RSS"]
     isPlainText = false
     rel = "alternate"
     noUgly = true
+
+# One item file serves both languages: content/items is mounted into English and
+# Spanish, so each item is built at /items/<id>/ and /es/items/<id>/. The original
+# site's Spanish item pages carried the same English records. Translated pages live
+# in content/en and content/es.
+[module]
+  [[module.mounts]]
+    source = "content/en"
+    target = "content"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/es"
+    target = "content"
+    lang = "es"
+  [[module.mounts]]
+    source = "content/items"
+    target = "content/items"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/items"
+    target = "content/items"
+    lang = "es"

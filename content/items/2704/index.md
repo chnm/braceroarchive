@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.09.jpg
     thumb: /files/thumbnails/NAD-200401384609.jpg
     url: /files/original/NAD-200401384609.jpg
+    alt:
+      en: "A large group of braceros kneel on the ground in rows between corrugated metal buildings, attending a divine service at a California camp, with a few men standing facing the group."
+      es: "Un gran grupo de braceros se arrodilla en filas sobre la tierra entre edificios de metal corrugado, asistiendo a un servicio religioso en un campamento de California, mientras algunos hombres permanecen de pie frente al grupo."
 geo:
 id: 2704
 item_type: Still Image

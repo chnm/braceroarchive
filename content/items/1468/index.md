@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.20.jpg
     thumb: /files/thumbnails/NAD-200401380720.jpg
     url: /files/original/NAD-200401380720.jpg
+    alt:
+      en: "Large crowd of men wearing straw hats and cowboy hats gathered closely together inside a building corridor, waiting in line near windows during processing at the Monterrey Processing Center."
+      es: "Gran multitud de hombres con sombreros de paja y vaqueros, reunidos en un pasillo de un edificio, esperando en fila cerca de las ventanas durante el procesamiento en el Centro de Monterrey."
 geo:
 id: 1468
 item_type: Still Image

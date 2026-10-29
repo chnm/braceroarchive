@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.09.jpg
     thumb: /files/thumbnails/NAD-200401381709.jpg
     url: /files/original/NAD-200401381709.jpg
+    alt:
+      en: "Shirtless men stand in a row with arms raised against a wall as an official walks past inspecting them, part of processing at the Monterrey center; clothing and belongings sit in piles nearby."
+      es: "Hombres sin camisa están en fila con los brazos levantados contra una pared mientras un funcionario pasa inspeccionándolos, parte del procesamiento en el centro de Monterrey; ropa y pertenencias apiladas cerca."
 geo:
 id: 1758
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.23.jpg
     thumb: /files/thumbnails/NAD-200401383123.jpg
     url: /files/original/NAD-200401383123.jpg
+    alt:
+      en: "A bracero's hands bundle green onions into a wooden crate, with cracked dry earth visible in the field behind him."
+      es: "Las manos de un bracero agrupan cebollas verdes en una caja de madera, con tierra seca y agrietada visible en el campo detrás de él."
 geo:
 id: 2199
 item_type: Still Image

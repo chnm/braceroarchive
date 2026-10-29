@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.36.jpg
     thumb: /files/thumbnails/NAD-200401382936.jpg
     url: /files/original/NAD-200401382936.jpg
+    alt:
+      en: "Black-and-white photo of a park in Watsonville, California, with men seated on benches beneath large trees, a lamppost nearby, and buildings and parked cars visible in the background."
+      es: "Foto en blanco y negro de un parque en Watsonville, California, con hombres sentados en bancas bajo grandes árboles, un poste de luz cercano y edificios y autos estacionados al fondo."
 geo:
 id: 2156
 item_type: Still Image

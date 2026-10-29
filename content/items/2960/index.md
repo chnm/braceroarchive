@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.33.jpg
     thumb: /files/thumbnails/NAD-200401385533.jpg
     url: /files/original/NAD-200401385533.jpg
+    alt:
+      en: "Black-and-white street scene of men in hats and jackets walking past a café storefront advertising 7Up, Coca-Cola, and Budweiser in Watsonville, California."
+      es: "Escena callejera en blanco y negro de hombres con sombreros y chaquetas caminando frente a un café con anuncios de 7Up, Coca-Cola y Budweiser en Watsonville, California."
 geo:
 id: 2960
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.10.jpg
     thumb: /files/thumbnails/NAD-200401381210.jpg
     url: /files/original/NAD-200401381210.jpg
+    alt:
+      en: "Rows of men in hats stand beneath a long open-sided wooden shelter, unpacking belongings on tables for inspection at the Hidalgo Processing Center, Texas."
+      es: "Filas de hombres con sombrero se encuentran bajo un largo cobertizo de madera abierto, desempacando pertenencias sobre mesas para su inspección en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1628
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.02.34.jpg
     thumb: /files/thumbnails/NAD-200401380234.jpg
     url: /files/original/NAD-200401380234.jpg
+    alt:
+      en: "Line of men in wide-brimmed hats unpack bundles of clothing and belongings on a long table under a covered shelter, while an inspector in a light shirt looks on at the Hidalgo Processing Center, Texas."
+      es: "Fila de hombres con sombreros de ala ancha desempacan bultos de ropa y pertenencias sobre una larga mesa bajo un cobertizo, mientras un inspector con camisa clara observa en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 2367
 item_type: Still Image

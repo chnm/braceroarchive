@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.14.19.jpg
     thumb: /files/thumbnails/NAD-200401381419.jpg
     url: /files/original/NAD-200401381419.jpg
+    alt:
+      en: "A line of men in hats and work clothes stand holding papers under a covered structure, as a man in a cowboy hat walks past them, Hidalgo, Texas."
+      es: "Una fila de hombres con sombreros y ropa de trabajo sostienen papeles bajo una estructura techada, mientras un hombre con sombrero de vaquero camina frente a ellos, en Hidalgo, Texas."
 geo:
 id: 1672
 item_type: Still Image

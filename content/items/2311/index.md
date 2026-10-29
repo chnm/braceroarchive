@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.35.39.jpg
     thumb: /files/thumbnails/NAD-200401383539.jpg
     url: /files/original/NAD-200401383539.jpg
+    alt:
+      en: "A bracero in an apron slices onions at a kitchen workstation, with a bin of onions nearby, while two other men stand near a large pot in the background."
+      es: "Un bracero con delantal corta cebollas en una estación de cocina, con un recipiente de cebollas cerca, mientras dos hombres están junto a una olla grande al fondo."
 geo:
 id: 2311
 item_type: Still Image

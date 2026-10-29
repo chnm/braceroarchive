@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.32.jpg
     thumb: /files/thumbnails/NAD-200401383832.jpg
     url: /files/original/NAD-200401383832.jpg
+    alt:
+      en: "Black-and-white view from a grassy hillside, with fence posts in the foreground, overlooking a long row of barracks-style buildings at the Gondo Labor Camp, Watsonville, amid farmland stretching to the horizon."
+      es: "Vista en blanco y negro desde una ladera cubierta de pasto, con postes de cerca en primer plano, hacia una larga fila de edificios tipo barracas en el Campo Laboral Gondo, Watsonville, rodeado de campos agrícolas hasta el horizonte."
 geo:
 id: 2476
 item_type: Still Image

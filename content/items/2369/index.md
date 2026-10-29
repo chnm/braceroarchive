@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.09.jpg
     thumb: /files/thumbnails/NAD-200401381109.jpg
     url: /files/original/NAD-200401381109.jpg
+    alt:
+      en: "Silhouettes of men wearing hats visible through a train window, backlit by dim light at dusk near the Monterrey Processing Center, Mexico."
+      es: "Siluetas de hombres con sombrero visibles a través de la ventana de un tren, iluminados por la tenue luz del atardecer cerca del Centro de Contratación de Monterrey, México."
 geo:
 id: 2369
 item_type: Still Image

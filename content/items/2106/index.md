@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.16.jpg
     thumb: /files/thumbnails/NAD-200401382816.jpg
     url: /files/original/NAD-200401382816.jpg
+    alt:
+      en: "Black-and-white photo of a man standing in a doorway, with wooden barracks, a second figure in another doorway, and a utility pole visible in the camp yard beyond."
+      es: "Foto en blanco y negro de un hombre de pie en una puerta, con barracas de madera, otra figura en una puerta al fondo y un poste de servicios visible en el patio del campamento."
 geo:
 id: 2106
 item_type: Still Image

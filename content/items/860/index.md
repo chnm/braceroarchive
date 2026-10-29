@@ -44,6 +44,9 @@ files:
     original_filename: Pizca Naranja, Santa Paula,California, 1953.jpg
     thumb: /files/thumbnails/pizca-naranja,-santa-paula,california,-1953_baf77e5381.jpg
     url: /files/original/pizca-naranja,-santa-paula,california,-1953_baf77e5381.jpg
+    alt:
+      en: "Vintage black-and-white photograph with scalloped edges of a man wearing a cap and light-colored work clothes, reaching up to pick oranges from a dense, leafy citrus tree."
+      es: "Fotografía antigua en blanco y negro con bordes festoneados de un hombre con gorra y ropa clara de trabajo, extendiendo el brazo para recoger naranjas de un árbol cítrico frondoso."
 geo:
 id: 860
 item_type: Document

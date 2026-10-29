@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.08.jpg
     thumb: /files/thumbnails/NAD-200401381108.jpg
     url: /files/original/NAD-200401381108.jpg
+    alt:
+      en: "Braceros form a long line across an open dirt yard near a low building, while others sit or stand waiting nearby at the Monterrey Processing Center, Mexico."
+      es: "Braceros forman una larga fila a través de un patio de tierra junto a un edificio bajo, mientras otros esperan sentados o de pie cerca del Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1585
 item_type: Still Image

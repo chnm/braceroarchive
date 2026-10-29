@@ -44,6 +44,9 @@ files:
     original_filename: Dionisio Hernandez 5.JPG
     thumb: /files/thumbnails/dionisio-hernandez-5_4c0bba5716.jpg
     url: /files/original/dionisio-hernandez-5_4c0bba5716.jpg
+    alt:
+      en: "Purchaser's Receipt from Farmers & Merchants Bank of Central California, Lodi, No. 21208, dated September 28, 1959, for a $100 draft purchased by Dionisio Hernandez in favor of J. Jesus Hernandez, stamped \"Non-Negotiable.\""
+      es: "Recibo del Comprador del Farmers & Merchants Bank of Central California, Lodi, No. 21208, fechado 28 de septiembre de 1959, por un giro de $100 comprado por Dionisio Hernandez a favor de J. Jesus Hernandez, sellado \"Non-Negotiable\"."
 geo:
 id: 3026
 item_type: Document

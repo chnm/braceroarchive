@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.14.10.jpg
     thumb: /files/thumbnails/NAD-200401381410.jpg
     url: /files/original/NAD-200401381410.jpg
+    alt:
+      en: "Long rows of men sit at communal tables eating from plates and bowls in a large hall with windows along one wall, part of a lunch scene at the Hidalgo Processing Center, Texas."
+      es: "Largas filas de hombres sentados en mesas comunales comiendo de platos y tazones en un gran salón con ventanas en una pared, durante el almuerzo en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1663
 item_type: Still Image

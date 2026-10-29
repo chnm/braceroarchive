@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.34.jpg
     thumb: /files/thumbnails/NAD-200401385534.jpg
     url: /files/original/NAD-200401385534.jpg
+    alt:
+      en: "Black-and-white photo of men standing outside a corner café advertising \"Rancho Grande,\" Coca-Cola, 7UP, and Budweiser signage, with a street and bicycle visible in the foreground."
+      es: "Foto en blanco y negro de hombres parados afuera de un café en la esquina con anuncios de \"Rancho Grande\", Coca-Cola, 7UP y Budweiser, con una calle y una bicicleta visibles en primer plano."
 geo:
 id: 2961
 item_type: Still Image

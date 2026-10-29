@@ -46,6 +46,9 @@ files:
     original_filename: Hernandez Arreola, Raul - BraceroProa Membership Card2.jpg
     thumb: /files/thumbnails/hernandez-arreola,-raul---braceroproa-membership-card2_01898aaec1.jpg
     url: /files/original/hernandez-arreola,-raul---braceroproa-membership-card2_01898aaec1.jpg
+    alt:
+      en: "Back of an aged ID card with two identical stamped signatures reading \"Ventura Gutiérrez Méndez, Coordinador Seccional, Alianza Braceros ProA,\" and a small cursive handwritten signature between them."
+      es: "Reverso de una tarjeta envejecida con dos sellos idénticos de firma que dicen \"Ventura Gutiérrez Méndez, Coordinador Seccional, Alianza Braceros ProA\", y una pequeña firma manuscrita cursiva entre ellos."
 geo:
 id: 1092
 item_type: Document

@@ -46,6 +46,9 @@ files:
     original_filename: Porter7.jpg
     thumb: /files/thumbnails/porter7_c14a6503a9.jpg
     url: /files/original/porter7_c14a6503a9.jpg
+    alt:
+      en: "Two bilingual phrase book pages listing Spanish-English vocabulary under headings like \"Las Frutas / The Fruits,\" \"Algunas Medidas / Some Measurements,\" \"Las Comidas / The Foods,\" and \"Algunas Bebidas / Some Beverages.\""
+      es: "Dos páginas de un libro bilingüe de frases con vocabulario en español e inglés bajo los encabezados \"Las Frutas / The Fruits,\" \"Algunas Medidas / Some Measurements,\" \"Las Comidas / The Foods\" y \"Algunas Bebidas / Some Beverages.\""
 geo:
 id: 559
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.14.jpg
     thumb: /files/thumbnails/NAD-200401384914.jpg
     url: /files/original/NAD-200401384914.jpg
+    alt:
+      en: "Black-and-white photo of long rows in a pepper field with white drainage pipes in the foreground, distant trees and hills, and small figures of braceros stooped at work in the background."
+      es: "Foto en blanco y negro de largas hileras en un campo de pimientos con tubos de drenaje blancos en primer plano, árboles y colinas al fondo, y pequeñas figuras de braceros agachados trabajando a lo lejos."
 geo:
 id: 2793
 item_type: Still Image

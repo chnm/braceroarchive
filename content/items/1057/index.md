@@ -44,6 +44,9 @@ files:
     original_filename: SanchezIsaias3.jpg
     thumb: /files/thumbnails/sanchezisaias3_90d20891ed.jpg
     url: /files/original/sanchezisaias3_90d20891ed.jpg
+    alt:
+      en: "Blurred, red-toned photo of a man walking through a parking lot between a pickup truck and a parked car, with dense trees in the background."
+      es: "Foto borrosa con tono rojizo de un hombre caminando por un estacionamiento entre una camioneta y un auto estacionado, con árboles densos al fondo."
 geo:
 id: 1057
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: __hr_SamuelChavira-Mencion Honorifica1954.jpg
     thumb: /files/thumbnails/__hr_samuelchavira-mencion-honorifica1954_05be62a560.jpg
     url: /files/original/__hr_samuelchavira-mencion-honorifica1954_05be62a560.jpg
+    alt:
+      en: "A bilingual 1954 \"Mención Honorífica\" / \"Certificate of Recognition\" from the U.S. Department of Labor and Secretaría del Trabajo, honoring bracero Samuel Chavira Medrano for completing his labor contract."
+      es: "Certificado bilingüe de 1954, \"Mención Honorífica\" / \"Certificate of Recognition\", del Departamento del Trabajo de EE. UU. y la Secretaría del Trabajo, que reconoce al bracero Samuel Chavira Medrano por completar su contrato laboral."
 geo:
 id: 824
 item_type: Still Image

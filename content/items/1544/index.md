@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.13.jpg
     thumb: /files/thumbnails/NAD-200401380913.jpg
     url: /files/original/NAD-200401380913.jpg
+    alt:
+      en: "A line of men wearing hats stand outside a small wooden shelter with a corrugated metal roof, presenting documents at a window, part of the Monterrey Processing Center for braceros."
+      es: "Una fila de hombres con sombrero espera afuera de una pequeña caseta de madera con techo de lámina corrugada, presentando documentos en una ventanilla, en el Centro de Procesamiento de Monterrey para braceros."
 geo:
 id: 1544
 item_type: Still Image

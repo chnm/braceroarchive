@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.05.31.jpg
     thumb: /files/thumbnails/NAD-200401380531.jpg
     url: /files/original/NAD-200401380531.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men walking single file along a metal pedestrian bridge, with overhead cables, lampposts, and trees lining the riverbank in the distance."
+      es: "Foto en blanco y negro de una larga fila de hombres caminando uno tras otro por un puente peatonal metálico, con cables aéreos, postes de luz y árboles a lo lejos junto al río."
 geo:
 id: 1412
 item_type: Still Image

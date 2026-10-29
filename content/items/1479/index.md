@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.07.jpg
     thumb: /files/thumbnails/NAD-200401380707.jpg
     url: /files/original/NAD-200401380707.jpg
+    alt:
+      en: "Aerial view of a group of men gathered near a small wooden shelter, with a long line of braceros walking across an open field toward buildings in the background."
+      es: "Vista aérea de un grupo de hombres reunidos cerca de un pequeño refugio de madera, con una larga fila de braceros caminando por un campo abierto hacia edificios al fondo."
 geo:
 id: 1479
 item_type: Still Image

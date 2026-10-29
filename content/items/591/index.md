@@ -46,6 +46,9 @@ files:
     original_filename: Instructivo p.14-15.jpg
     thumb: /files/thumbnails/instructivo-p14-15_012c866be6.jpg
     url: /files/original/instructivo-p14-15_012c866be6.jpg
+    alt:
+      en: "Pages 14-15 of a Spanish-language bracero instruction booklet, with page 14 continuing instructions on addressing mail and returning to Mexico, and page 15 headed \"Recomendaciones para Enviar Dinero a sus Familiares en Mexico.\""
+      es: "Páginas 14-15 de un folleto de instrucciones para braceros en español, con la página 14 sobre direcciones de correo y el regreso a México, y la página 15 titulada \"Recomendaciones para Enviar Dinero a sus Familiares en México\"."
 geo:
 id: 591
 item_type: Still Image

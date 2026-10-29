@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.06.jpg
     thumb: /files/thumbnails/NAD-200401385006.jpg
     url: /files/original/NAD-200401385006.jpg
+    alt:
+      en: "Black-and-white photo of two men in caps sitting on the ground at a field's edge, eating and talking, with a foil-wrapped item and cloth beside them."
+      es: "Foto en blanco y negro de dos hombres con gorra sentados en el suelo al borde de un campo, comiendo y conversando, con un envoltorio de papel aluminio y una tela junto a ellos."
 geo:
 id: 2821
 item_type: Still Image

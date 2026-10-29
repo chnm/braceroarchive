@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.48.19.jpg
     thumb: /files/thumbnails/NAD-200401384819.jpg
     url: /files/original/NAD-200401384819.jpg
+    alt:
+      en: "A man wearing a cap sits on a metal-framed bed in a bare, sunlit room, reading a letter held in both hands, with clothing hanging on a wall hook nearby."
+      es: "Un hombre con gorra está sentado en una cama de estructura metálica en una habitación austera e iluminada por el sol, leyendo una carta sostenida con ambas manos, con ropa colgada de un gancho en la pared cercana."
 geo:
 id: 2777
 item_type: Still Image

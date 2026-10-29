@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.18.jpg
     thumb: /files/thumbnails/NAD-200401381718.jpg
     url: /files/original/NAD-200401381718.jpg
+    alt:
+      en: "Two rows of shirtless men stand along the walls of a tiled room with overhead pipes and lights, their belongings piled on the floor between them, as an official shines a flashlight into one man's mouth."
+      es: "Dos filas de hombres sin camisa junto a las paredes de una sala embaldosada con tuberías y luces en el techo, sus pertenencias amontonadas en el suelo entre ellos, mientras un funcionario examina con una linterna la boca de uno de los hombres."
 geo:
 id: 1767
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: Foto en Texas, 1957 (right).jpg
     thumb: /files/thumbnails/foto-en-texas,-1957-(right)_69b6774a2f.jpg
     url: /files/original/foto-en-texas,-1957-(right)_69b6774a2f.jpg
+    alt:
+      en: "Black-and-white photo of three men standing in front of a pickup truck, with a parked car visible in the background; faint handwritten text appears in the upper left corner."
+      es: "Foto en blanco y negro de tres hombres de pie frente a una camioneta, con un automóvil estacionado al fondo; en la esquina superior izquierda se aprecia un texto manuscrito tenue."
 geo:
 id: 819
 item_type: Still Image

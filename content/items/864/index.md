@@ -46,6 +46,9 @@ files:
     original_filename: contrato sep-oct 1964 california.jpg
     thumb: /files/thumbnails/contrato-sep-oct-1964-california_d9b1a631dc.jpg
     url: /files/original/contrato-sep-oct-1964-california_d9b1a631dc.jpg
+    alt:
+      en: "A typed and handwritten \"Continuation of Standard Work Contract\" form for Manuel Guzman Nunez, dated 1964, detailing wages, employer, and contract terms, with signatures at the bottom."
+      es: "Formulario mecanografiado y manuscrito \"Continuación del Contrato Estándar de Trabajo\" de Manuel Guzmán Núñez, fechado en 1964, con detalles de salarios, empleador y condiciones del contrato, con firmas al final."
 geo:
 id: 864
 item_type: Document

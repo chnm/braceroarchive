@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.34.jpg
     thumb: /files/thumbnails/NAD-200401383234.jpg
     url: /files/original/NAD-200401383234.jpg
+    alt:
+      en: "A man lies on a bed smoking, with a hat and clothes hanging on wall hooks and a trunk with folded garments beside a sunlit window."
+      es: "Un hombre está acostado en una cama fumando, con un sombrero y ropa colgados en ganchos de la pared y un baúl con prendas dobladas junto a una ventana iluminada por el sol."
 geo:
 id: 2239
 item_type: Still Image

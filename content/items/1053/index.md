@@ -44,6 +44,9 @@ files:
     original_filename: SanchezHipolito,Isais1A.jpg
     thumb: /files/thumbnails/sanchezhipolito,isais1a_725aa06df4.jpg
     url: /files/original/sanchezhipolito,isais1a_725aa06df4.jpg
+    alt:
+      en: "Coachella Valley Farmers Assn. ID card No. 4669 for Sanchez-Hipolito, Isais, dated 16 de Sept. 45, San Pedro Apostol, Oax., with a fingerprint box and signature line."
+      es: "Tarjeta de identificación No. 4669 de Coachella Valley Farmers Assn. a nombre de Sanchez-Hipolito, Isais, fechada el 16 de Sept. 45, San Pedro Apostol, Oax., con recuadro de huella digital y línea de firma."
 geo:
 id: 1053
 item_type: Document

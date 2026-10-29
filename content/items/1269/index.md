@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.01.05.jpg
     thumb: /files/thumbnails/NAD-200401380105.jpg
     url: /files/original/NAD-200401380105.jpg
+    alt:
+      en: "Large crowd of braceros wearing wide-brimmed hats stand in organized lines at the Monterrey Processing Center, many holding bundles and bags, with low buildings visible in the background."
+      es: "Gran multitud de braceros con sombreros de ala ancha esperan en filas organizadas en el Centro de Procesamiento de Monterrey, muchos cargando bultos y bolsas, con edificios bajos al fondo."
 geo:
 id: 1269
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.02.jpg
     thumb: /files/thumbnails/NAD-200401380802.jpg
     url: /files/original/NAD-200401380802.jpg
+    alt:
+      en: "Black-and-white photo of a woman working at a table beneath an arched doorway, with children standing nearby and calendars hanging on the walls of a home in San Mateo, Mexico."
+      es: "Fotografía en blanco y negro de una mujer trabajando en una mesa bajo un arco, con niños cerca y calendarios colgados en las paredes de una casa en San Mateo, México."
 geo:
 id: 1489
 item_type: Still Image

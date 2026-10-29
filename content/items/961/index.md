@@ -46,6 +46,9 @@ files:
     original_filename: joseramirez15.jpg
     thumb: /files/thumbnails/joseramirez15_b7d8916568.jpg
     url: /files/original/joseramirez15_b7d8916568.jpg
+    alt:
+      en: "Newspaper clipping from \"El Diario,\" Cd. Juárez, Monday Jan. 26, 2004, headlined \"Cuenta un ex trabajador cómo era su vida en EU,\" by Araly Castañón, with handwritten notes at top."
+      es: "Recorte de periódico de \"El Diario,\" Cd. Juárez, lunes 26 de enero de 2004, con el titular \"Cuenta un ex trabajador cómo era su vida en EU,\" por Araly Castañón, con notas manuscritas en la parte superior."
 geo:
 id: 961
 item_type: Document

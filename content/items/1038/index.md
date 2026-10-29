@@ -46,6 +46,9 @@ files:
     original_filename: Bautista, Agustine, 1968,military id2.jpg
     thumb: /files/thumbnails/bautista,-agustine,-1968,military-id2_4bc82f2e6b.jpg
     url: /files/original/bautista,-agustine,-1968,military-id2_4bc82f2e6b.jpg
+    alt:
+      en: "Two-page Mexican military ID document with printed Spanish text on \"RESELLOS UNICAMENTE,\" reserve enlistment details, a handwritten signature reading \"Luis Leal Martinez,\" and an embossed seal."
+      es: "Documento militar mexicano de dos páginas con texto impreso en español sobre \"RESELLOS UNICAMENTE\" y detalles de reenganche en la reserva, firma manuscrita \"Luis Leal Martinez\" y un sello en relieve."
 geo:
 id: 1038
 item_type: Document

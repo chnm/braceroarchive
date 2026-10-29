@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.35.jpg
     thumb: /files/thumbnails/NAD-200401384235.jpg
     url: /files/original/NAD-200401384235.jpg
+    alt:
+      en: "A line of men in work clothes stands along the exterior of a corrugated metal building at a California labor camp, waiting outside the living quarters."
+      es: "Una fila de hombres con ropa de trabajo se extiende junto a un edificio de metal corrugado en un campamento laboral de California, esperando afuera de las viviendas."
 geo:
 id: 2607
 item_type: Still Image

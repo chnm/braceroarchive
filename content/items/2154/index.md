@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.34.jpg
     thumb: /files/thumbnails/NAD-200401382934.jpg
     url: /files/original/NAD-200401382934.jpg
+    alt:
+      en: "Black-and-white photo of men in hats walking along a sidewalk past storefronts, with a \"No U Turn\" traffic sign and parked cars visible in the foreground."
+      es: "Foto en blanco y negro de hombres con sombrero caminando por una acera frente a tiendas, con una señal de \"No U Turn\" y autos estacionados en primer plano."
 geo:
 id: 2154
 item_type: Still Image

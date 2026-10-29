@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.17.jpg
     thumb: /files/thumbnails/NAD-200401382017.jpg
     url: /files/original/NAD-200401382017.jpg
+    alt:
+      en: "Workers bend over rows of lettuce in a large field, packing heads into wooden crates stenciled \"COOKIE,\" with numerous other crates scattered across the rows under an overcast sky."
+      es: "Trabajadores inclinados sobre hileras de lechuga en un campo extenso, empacando las cabezas en cajas de madera marcadas con \"COOKIE\", con numerosas cajas dispersas bajo un cielo nublado."
 geo:
 id: 1863
 item_type: Still Image

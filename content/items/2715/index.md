@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.21.jpg
     thumb: /files/thumbnails/NAD-200401384621.jpg
     url: /files/original/NAD-200401384621.jpg
+    alt:
+      en: "Rows of metal-frame bunk beds with bare mattresses fill a dormitory barracks, personal belongings scattered on the beds, with sunlight entering through windows in the background."
+      es: "Filas de literas de estructura metálica con colchones desnudos llenan un barracón dormitorio, con pertenencias personales esparcidas sobre las camas y luz solar entrando por las ventanas al fondo."
 geo:
 id: 2715
 item_type: Still Image

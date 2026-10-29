@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.06.01.jpg
     thumb: /files/thumbnails/NAD-200401380601.jpg
     url: /files/original/NAD-200401380601.jpg
+    alt:
+      en: "A long line of braceros waits in an open dirt lot to board a row of buses at the Monterrey Processing Center, with city buildings and trees visible in the background."
+      es: "Una larga fila de braceros espera en un terreno de tierra para abordar una hilera de autobuses en el Centro de Procesamiento de Monterrey, con edificios y árboles al fondo."
 geo:
 id: 1431
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.16.jpg
     thumb: /files/thumbnails/NAD-200401382716.jpg
     url: /files/original/NAD-200401382716.jpg
+    alt:
+      en: "Braceros walk along a dirt road through farmland toward the Gondo Labor Camp, with rows of crops in the foreground and rolling hills rising behind the camp buildings."
+      es: "Braceros caminan por un camino de tierra entre campos de cultivo hacia el Campo Laboral Gondo, con colinas onduladas detrás de los edificios del campamento."
 geo:
 id: 2075
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.25.jpg
     thumb: /files/thumbnails/NAD-200401382725.jpg
     url: /files/original/NAD-200401382725.jpg
+    alt:
+      en: "Group of braceros wearing cowboy hats unload luggage from a truck labeled \"Gondo Labor Camp, Watsonville\" outside barracks-style buildings."
+      es: "Grupo de braceros con sombreros vaqueros descargan equipaje de un camión con el letrero \"Gondo Labor Camp, Watsonville\" frente a edificios tipo barracas."
 geo:
 id: 2072
 item_type: Still Image

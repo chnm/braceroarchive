@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.15.jpg
     thumb: /files/thumbnails/NAD-200401381515.jpg
     url: /files/original/NAD-200401381515.jpg
+    alt:
+      en: "Black-and-white photo of men wearing hats seated along a low pipe railing in a street, with a crowd gathered outside an official building with arched entrances in the background, Mexico City."
+      es: "Foto en blanco y negro de hombres con sombrero sentados sobre una baranda de tubo en una calle, con un grupo reunido frente a un edificio oficial de entradas arqueadas al fondo, Ciudad de México."
 geo:
 id: 1701
 item_type: Still Image

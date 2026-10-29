@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.48.17.jpg
     thumb: /files/thumbnails/NAD-200401384817.jpg
     url: /files/original/NAD-200401384817.jpg
+    alt:
+      en: "A man wearing a hat rests on a bed in a sparsely furnished camp room, with clothes hanging above a window and a small container on the sill."
+      es: "Un hombre con sombrero descansa en una cama dentro de una habitación de campamento escasamente amueblada, con ropa colgada sobre una ventana y un pequeño recipiente en el alféizar."
 geo:
 id: 2775
 item_type: Still Image

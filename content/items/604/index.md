@@ -46,6 +46,9 @@ files:
     original_filename: FMarin002.jpg
     thumb: /files/thumbnails/fmarin002_9b72e063a1.jpg
     url: /files/original/fmarin002_9b72e063a1.jpg
+    alt:
+      en: "Worn identification card titled \"Alien Laborer's Identification Card,\" with a man's black-and-white photo, issued by the U.S. Department of Justice, Immigration and Naturalization Service, form I-100D (12-7-55)."
+      es: "Tarjeta de identificación desgastada titulada \"Alien Laborer's Identification Card\", con foto en blanco y negro de un hombre, emitida por el Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización, formulario I-100D (12-7-55)."
 geo:
 id: 604
 item_type: Document

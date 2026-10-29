@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.33.07.jpg
     thumb: /files/thumbnails/NAD-200401383307.jpg
     url: /files/original/NAD-200401383307.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over rows in a pepper field, with hills and scattered utility poles visible in the hazy background."
+      es: "Fotografía en blanco y negro de braceros inclinados sobre hileras en un campo de pimientos, con colinas y postes de electricidad dispersos visibles al fondo brumoso."
 geo:
 id: 2247
 item_type: Still Image

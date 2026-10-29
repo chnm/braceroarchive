@@ -46,6 +46,9 @@ files:
     original_filename: Montes-Gonzalez SJ.jpg
     thumb: /files/thumbnails/montes-gonzalez-sj_702acf4056.jpg
     url: /files/original/montes-gonzalez-sj_702acf4056.jpg
+    alt:
+      en: "Worn \"Mención Honorífica\" card from the U.S. Department of Labor, shown upside down, above an ID card for Alberto Montes-Gonzalez with his birthdate, address, and number L-2731699 labeled \"MICA.\""
+      es: "Tarjeta desgastada de \"Mención Honorífica\" del U.S. Department of Labor, mostrada al revés, sobre una tarjeta de identificación de Alberto Montes-Gonzalez con su fecha de nacimiento, dirección y número L-2731699 etiquetada \"MICA\"."
 geo:
 id: 619
 item_type: Document

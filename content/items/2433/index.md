@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.33.jpg
     thumb: /files/thumbnails/NAD-200401383733.jpg
     url: /files/original/NAD-200401383733.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting along a dirt road beside a farm field, with parked trucks and cars, utility poles, and railroad tracks running parallel in the Salinas Valley."
+      es: "Fotografía en blanco y negro de braceros descansando junto a un camino de tierra al borde de un campo de cultivo, con camiones y autos estacionados, postes de electricidad y vías de ferrocarril paralelas en el Valle de Salinas."
 geo:
 id: 2433
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.44.jpg
     thumb: /files/thumbnails/NAD-200401382044.jpg
     url: /files/original/NAD-200401382044.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers harvesting lettuce in a vast field, bending to cut heads of lettuce as crates are placed between rows under an overcast sky."
+      es: "Foto en blanco y negro de trabajadores agrícolas cosechando lechuga en un extenso campo, agachándose para cortar las cabezas mientras se colocan cajas entre las hileras bajo un cielo nublado."
 geo:
 id: 1837
 item_type: Still Image

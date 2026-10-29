@@ -44,6 +44,9 @@ files:
     original_filename: NAD-2004.0138.16.01.jpg
     thumb: /files/thumbnails/NAD-200401381601.jpg
     url: /files/original/NAD-200401381601.jpg
+    alt:
+      en: "A man plays guitar while another sings as a large crowd of braceros, many wearing cowboy hats, gathers around them outdoors near the Monterrey Processing Center."
+      es: "Un hombre toca la guitarra mientras otro canta, rodeados de una gran multitud de braceros, muchos con sombreros vaqueros, reunidos al aire libre cerca del Centro de Procesamiento de Monterrey."
 geo:
 id: 1719
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.33.06.jpg
     thumb: /files/thumbnails/NAD-200401383306.jpg
     url: /files/original/NAD-200401383306.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros working in a large open field, with a row of tall trees lining the horizon and a dirt road running along the right edge."
+      es: "Vista aérea en blanco y negro de braceros trabajando en un amplio campo abierto, con una hilera de árboles altos en el horizonte y un camino de tierra a lo largo del borde derecho."
 geo:
 id: 2246
 item_type: Still Image

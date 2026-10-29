@@ -44,6 +44,9 @@ files:
     original_filename: j delgado 1.jpg
     thumb: /files/thumbnails/j-delgado-1_c01fe9f48b.jpg
     url: /files/original/j-delgado-1_c01fe9f48b.jpg
+    alt:
+      en: "Black-and-white portrait photograph of a young man with dark combed-back hair, wearing a suit, white shirt, and striped tie; the aged print has worn, torn edges."
+      es: "Fotografía en blanco y negro de un hombre joven de cabello oscuro peinado hacia atrás, vistiendo traje, camisa blanca y corbata de rayas; la copia antigua tiene los bordes desgastados y rotos."
 geo:
 id: 955
 item_type: Still Image

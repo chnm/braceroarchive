@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.12.jpg
     thumb: /files/thumbnails/NAD-200401380712.jpg
     url: /files/original/NAD-200401380712.jpg
+    alt:
+      en: "Large crowd of braceros lined up along a barbed wire enclosure at the Monterrey Processing Center, with an armed guard patrolling in the foreground and buildings visible in the background."
+      es: "Gran multitud de braceros formados junto a un cercado de alambre de púas en el Centro de Procesamiento de Monterrey, con un guardia armado patrullando en primer plano y edificios al fondo."
 geo:
 id: 1472
 item_type: Still Image

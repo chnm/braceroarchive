@@ -44,6 +44,9 @@ files:
     original_filename: CastañedaAaron-01.jpg
     thumb: /files/thumbnails/castañedaaaron-01_21011dfb82.jpg
     url: /files/original/castañedaaaron-01_21011dfb82.jpg
+    alt:
+      en: "Black-and-white photo of a group of braceros posing on railroad tracks, some standing and others kneeling with tools like shovels; Phoenix, Arizona, April 4, 1944."
+      es: "Foto en blanco y negro de un grupo de braceros posando sobre las vías del ferrocarril, algunos de pie y otros arrodillados con herramientas como palas; Phoenix, Arizona, 4 de abril de 1944."
 geo:
 id: 509
 item_type: Still Image

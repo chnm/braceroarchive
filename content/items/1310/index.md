@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.27.jpg
     thumb: /files/thumbnails/NAD-200401380227.jpg
     url: /files/original/NAD-200401380227.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in hats standing under an open-sided shed, as an agent examines one worker's arm muscles at the Hidalgo Processing Center, Texas."
+      es: "Foto en blanco y negro de una larga fila de hombres con sombrero bajo un cobertizo abierto, mientras un agente examina los músculos del brazo de un trabajador en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1310
 item_type: Still Image

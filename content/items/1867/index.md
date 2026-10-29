@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.21.jpg
     thumb: /files/thumbnails/NAD-200401382021.jpg
     url: /files/original/NAD-200401382021.jpg
+    alt:
+      en: "Braceros harvest lettuce in a Salinas Valley field, packing heads into \"Cookie Head Lettuce\" boxes while other workers continue picking amid rows of crops."
+      es: "Braceros cosechan lechuga en un campo del Valle de Salinas, empacando las piezas en cajas de \"Cookie Head Lettuce\" mientras otros trabajadores siguen recogiendo entre las hileras de cultivos."
 geo:
 id: 1867
 item_type: Still Image

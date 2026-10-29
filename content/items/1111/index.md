@@ -46,6 +46,9 @@ files:
     original_filename: Martinez, Faustino - Passport 1.jpg
     thumb: /files/thumbnails/martinez,-faustino---passport-1_8c53b2a306.jpg
     url: /files/original/martinez,-faustino---passport-1_8c53b2a306.jpg
+    alt:
+      en: "Open Mexican passport booklet showing left page with blank address fields and right page with official seal, passport number F-6081, and the name Faustino Martinez Balanzar as holder."
+      es: "Pasaporte mexicano abierto: página izquierda con campos de dirección en blanco y página derecha con sello oficial, número de pasaporte F-6081 y el nombre Faustino Martínez Balanzar como titular."
 geo:
 id: 1111
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.36.jpg
     thumb: /files/thumbnails/NAD-200401384236.jpg
     url: /files/original/NAD-200401384236.jpg
+    alt:
+      en: "Black-and-white photo of braceros standing and crouching outside a large tent at a California labor camp, with a flatbed truck, wooden pole, and trees in the background."
+      es: "Foto en blanco y negro de braceros de pie y agachados frente a una gran carpa en un campamento laboral de California, con un camión de plataforma, un poste de madera y árboles al fondo."
 geo:
 id: 2608
 item_type: Still Image

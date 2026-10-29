@@ -46,6 +46,9 @@ files:
     original_filename: NavarroFedericoPassport4.jpg
     thumb: /files/thumbnails/navarrofedericopassport4_5bae360481.jpg
     url: /files/original/navarrofedericopassport4_5bae360481.jpg
+    alt:
+      en: "Pages 6-7 of a Mexican passport titled \"Refrendos,\" with handwritten entries, dates, and official stamps from the Consulado de México in Calexico, California, certifying passport renewals."
+      es: "Páginas 6-7 de un pasaporte mexicano tituladas \"Refrendos\", con anotaciones manuscritas, fechas y sellos oficiales del Consulado de México en Calexico, California, certificando las renovaciones del pasaporte."
 geo:
 id: 1158
 item_type: Document

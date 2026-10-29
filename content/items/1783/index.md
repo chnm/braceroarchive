@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.34.jpg
     thumb: /files/thumbnails/NAD-200401381734.jpg
     url: /files/original/NAD-200401381734.jpg
+    alt:
+      en: "Black-and-white overhead view of a large hall at the Monterrey Processing Center, with shirtless men lined up at desks dictating information to seated typists while others wait in queues nearby."
+      es: "Vista cenital en blanco y negro de un gran salón en el Centro de Procesamiento de Monterrey, con hombres sin camisa formados frente a escritorios dictando información a mecanógrafas sentadas mientras otros esperan en fila."
 geo:
 id: 1783
 item_type: Still Image

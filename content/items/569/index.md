@@ -44,6 +44,9 @@ files:
     original_filename: buddy bracero 2.jpg
     thumb: /files/thumbnails/buddy-bracero-2_93ac3f6e15.jpg
     url: /files/original/buddy-bracero-2_93ac3f6e15.jpg
+    alt:
+      en: "Two braceros stand against a weathered white wall, one in a striped shirt and tan trousers, the other in a cowboy hat, white shirt, and jeans, posing with an arm around each other."
+      es: "Dos braceros posan juntos frente a una pared blanca desgastada, uno con camisa a rayas y pantalón color caqui, el otro con sombrero vaquero, camisa blanca y pantalón de mezclilla, abrazándose por los hombros."
 geo:
 id: 569
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: Hernandez Arreola, Raul - BraceroProa Membership Card1.jpg
     thumb: /files/thumbnails/hernandez-arreola,-raul---braceroproa-membership-card1_2772850b63.jpg
     url: /files/original/hernandez-arreola,-raul---braceroproa-membership-card1_2772850b63.jpg
+    alt:
+      en: "Identification card with a photo of an older man in the upper right and a stamped arched seal reading \"Alianza Bracero PROA, 1942-1964, Cooperacion Voluntaria, Grupo Ex-Bracero.\""
+      es: "Tarjeta de identificación con la foto de un hombre mayor en la esquina superior derecha y un sello en forma de arco que dice \"Alianza Bracero PROA, 1942-1964, Cooperación Voluntaria, Grupo Ex-Bracero.\""
 geo:
 id: 1089
 item_type: Document

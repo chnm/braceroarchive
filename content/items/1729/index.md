@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.34.jpg
     thumb: /files/thumbnails/NAD-200401381634.jpg
     url: /files/original/NAD-200401381634.jpg
+    alt:
+      en: "Large crowd of men, many wearing straw hats, sitting and standing closely together inside a long hall with high windows, waiting to be processed at the Monterrey Processing Center."
+      es: "Gran multitud de hombres, muchos con sombreros de paja, sentados y de pie muy juntos dentro de un salón alargado con ventanas altas, esperando ser procesados en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1729
 item_type: Still Image

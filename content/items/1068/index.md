@@ -46,6 +46,9 @@ files:
     original_filename: Santacruz, Melitona, 1961, Affadavit3.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1961,-affadavit3_bb799bd705.jpg
     url: /files/original/santacruz,-melitona,-1961,-affadavit3_bb799bd705.jpg
+    alt:
+      en: "Official Mexicali police document \"Certificado de Buena Conducta\" for J. Guadalupe Santacruz Rangel, dated February 10, 1961, with attached photo, stamps, and signature of Jefe de Policía Gabino Mancilla Velis."
+      es: "Documento oficial de la policía de Mexicali \"Certificado de Buena Conducta\" para J. Guadalupe Santacruz Rangel, fechado el 10 de febrero de 1961, con fotografía adjunta, timbres y firma del Jefe de Policía Gabino Mancilla Velis."
 geo:
 id: 1068
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.08.jpg
     thumb: /files/thumbnails/NAD-200401385608.jpg
     url: /files/original/NAD-200401385608.jpg
+    alt:
+      en: "A man in a straw hat and denim jacket carries a short-handled hoe over his shoulder, standing in a California field with distant figures and farm buildings visible behind him."
+      es: "Un hombre con sombrero de paja y chaqueta de mezclilla lleva un azadón de mango corto sobre el hombro, de pie en un campo de California con figuras lejanas y edificios de granja al fondo."
 geo:
 id: 2968
 item_type: Still Image

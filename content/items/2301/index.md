@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.05.jpg
     thumb: /files/thumbnails/NAD-200401383405.jpg
     url: /files/original/NAD-200401383405.jpg
+    alt:
+      en: "Black-and-white aerial view of braceros bent over in long rows of lettuce plants in a Salinas Valley field, with trees, buildings, and vehicles visible in the distance."
+      es: "Vista aérea en blanco y negro de braceros inclinados en largas hileras de plantas de lechuga en un campo del Valle de Salinas, con árboles, edificios y vehículos visibles a lo lejos."
 geo:
 id: 2301
 item_type: Still Image

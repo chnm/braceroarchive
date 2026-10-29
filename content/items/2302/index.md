@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.06.jpg
     thumb: /files/thumbnails/NAD-200401383406.jpg
     url: /files/original/NAD-200401383406.jpg
+    alt:
+      en: "A bracero operates a machine to assemble \"Toro\" brand lettuce boxes in a field, while other workers pack lettuce into boxes in the background at Salinas Valley, California."
+      es: "Un bracero opera una máquina para armar cajas de lechuga de la marca \"Toro\" en un campo, mientras otros trabajadores empacan lechuga al fondo en el Valle de Salinas, California."
 geo:
 id: 2302
 item_type: Still Image

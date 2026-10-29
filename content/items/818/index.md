@@ -44,6 +44,9 @@ files:
     original_filename: Foto en Pecos, TX, 1957 (left).jpg
     thumb: /files/thumbnails/foto-en-pecos,-tx,-1957-(left)_a653f50f89.jpg
     url: /files/original/foto-en-pecos,-tx,-1957-(left)_a653f50f89.jpg
+    alt:
+      en: "Black-and-white photo of three men in cowboy hats and belted jeans, the center man holding a bottle; Heriberto Cortes-Cortes stands at left, 1957."
+      es: "Foto en blanco y negro de tres hombres con sombreros vaqueros y pantalones con cinturón, el hombre del centro sostiene una botella; Heriberto Cortes-Cortes aparece a la izquierda, 1957."
 geo:
 id: 818
 item_type: Still Image

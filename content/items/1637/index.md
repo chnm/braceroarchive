@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.13.09.jpg
     thumb: /files/thumbnails/NAD-200401381309.jpg
     url: /files/original/NAD-200401381309.jpg
+    alt:
+      en: "A seated official fingerprints a bracero at a table while a long line of men in hats waits behind them at the Monterrey Processing Center."
+      es: "Un funcionario sentado toma las huellas digitales a un bracero en una mesa, mientras una larga fila de hombres con sombrero espera detrás en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1637
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.35.25.jpg
     thumb: /files/thumbnails/NAD-200401383525.jpg
     url: /files/original/NAD-200401383525.jpg
+    alt:
+      en: "Black-and-white photo of workers kneeling in rows harvesting green onions and packing them into wooden crates, with stacked crates and parked trucks visible in the background field."
+      es: "Fotografía en blanco y negro de trabajadores arrodillados en hileras cosechando cebollas verdes y empacándolas en cajas de madera, con cajas apiladas y camiones estacionados al fondo del campo."
 geo:
 id: 2321
 item_type: Still Image

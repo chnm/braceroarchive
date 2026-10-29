@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.10.32.jpg
     thumb: /files/thumbnails/NAD-200401381032.jpg
     url: /files/original/NAD-200401381032.jpg
+    alt:
+      en: "Men in hats walk along railroad tracks beside a barbed-wire fence, one carrying a box labeled \"AYASA,\" with a cross-marked grave visible among the gravel ahead."
+      es: "Hombres con sombrero caminan junto a las vías del tren al lado de una cerca de alambre de púas, uno carga una caja con la etiqueta \"AYASA\", y se ve una tumba con una cruz entre la grava más adelante."
 geo:
 id: 1578
 item_type: Still Image

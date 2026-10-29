@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.24.jpg
     thumb: /files/thumbnails/NAD-200401383224.jpg
     url: /files/original/NAD-200401383224.jpg
+    alt:
+      en: "A man reclines on a bed with a cigarette in his mouth, one arm raised behind his head, in a dimly lit room at a labor camp."
+      es: "Un hombre está recostado en una cama con un cigarrillo en la boca, un brazo levantado detrás de la cabeza, en una habitación poco iluminada de un campamento de trabajo."
 geo:
 id: 2229
 item_type: Still Image

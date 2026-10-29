@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.17.jpg
     thumb: /files/thumbnails/NAD-200401382817.jpg
     url: /files/original/NAD-200401382817.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated closely at long tables in a crowded dining hall, eating meals from metal trays beneath bright overhead lights and rows of windows."
+      es: "Foto en blanco y negro de braceros sentados muy juntos en mesas largas dentro de un comedor abarrotado, comiendo en bandejas metálicas bajo luces brillantes y filas de ventanas."
 geo:
 id: 2107
 item_type: Still Image

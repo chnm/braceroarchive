@@ -44,6 +44,9 @@ files:
     original_filename: RosalesRios-04.jpg
     thumb: /files/thumbnails/rosalesrios-04_d2c70d2773.jpg
     url: /files/original/rosalesrios-04_d2c70d2773.jpg
+    alt:
+      en: "Vintage black-and-white photo of three braceros crouched in a crop field with harvest buckets, a truck and wagon visible in the background; date stamp \"Nov 58\" at left edge."
+      es: "Fotografía antigua en blanco y negro de tres braceros agachados en un campo de cultivo con cubetas de cosecha, un camión y una carreta al fondo; sello de fecha \"Nov 58\" al borde izquierdo."
 geo:
 id: 524
 item_type: Still Image

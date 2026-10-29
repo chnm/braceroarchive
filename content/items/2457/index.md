@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.13.jpg
     thumb: /files/thumbnails/NAD-200401383813.jpg
     url: /files/original/NAD-200401383813.jpg
+    alt:
+      en: "A man leans over a row of wash basins with attached faucets in a dimly lit, industrial-style bathroom, his arm resting on the edge of one sink."
+      es: "Un hombre se inclina sobre una fila de lavabos con grifos en un baño industrial poco iluminado, apoyando el brazo en el borde de uno de los lavabos."
 geo:
 id: 2457
 item_type: Still Image

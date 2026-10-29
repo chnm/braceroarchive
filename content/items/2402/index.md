@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.35.jpg
     thumb: /files/thumbnails/NAD-200401383235.jpg
     url: /files/original/NAD-200401383235.jpg
+    alt:
+      en: "A man reclines on a bed smoking a cigarette, with jackets and a patterned robe hanging above him and a suitcase and shelf visible in the dimly lit room."
+      es: "Un hombre reclinado en una cama fuma un cigarrillo, con chaquetas y una bata estampada colgadas arriba, y una maleta y un estante visibles en la habitación en penumbra."
 geo:
 id: 2402
 item_type: Still Image

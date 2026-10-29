@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.34.jpg
     thumb: /files/thumbnails/NAD-200401381934.jpg
     url: /files/original/NAD-200401381934.jpg
+    alt:
+      en: "Black-and-white aerial photo of furrowed farmland with scattered workers bent over in stoop labor; the shadow of the airplane's wing and tail appears in the lower right corner."
+      es: "Fotografía aérea en blanco y negro de tierras de cultivo surcadas con trabajadores dispersos agachados en labor de pizca; la sombra del ala y la cola del avión aparece en la esquina inferior derecha."
 geo:
 id: 1800
 item_type: Still Image

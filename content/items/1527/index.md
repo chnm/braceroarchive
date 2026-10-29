@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.31.jpg
     thumb: /files/thumbnails/NAD-200401380931.jpg
     url: /files/original/NAD-200401380931.jpg
+    alt:
+      en: "Black-and-white photo of men in cowboy hats lined up indoors at the Monterrey Processing Center, as an official in a white shirt directs another man forward."
+      es: "Fotografía en blanco y negro de hombres con sombreros de vaquero formados en fila en interiores en el Centro de Procesamiento de Monterrey, mientras un funcionario con camisa blanca dirige a otro hombre hacia adelante."
 geo:
 id: 1527
 item_type: Still Image

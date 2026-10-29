@@ -46,6 +46,9 @@ files:
     original_filename: Estrada E, Luis, mica of father2.jpg
     thumb: /files/thumbnails/estrada-e,-luis,-mica-of-father2_baf64b289d.jpg
     url: /files/original/estrada-e,-luis,-mica-of-father2_baf64b289d.jpg
+    alt:
+      en: "Bracero ID card back for Miguel Estrada-Ortiz, born 1924, admitted at Nogales, Arizona on Sept. 27, 1962, with card number L-3981385 and a signature."
+      es: "Reverso de tarjeta de identificación de bracero de Miguel Estrada-Ortiz, nacido en 1924, admitido en Nogales, Arizona el 27 de sept. de 1962, con número L-3981385 y una firma."
 geo:
 id: 930
 item_type: Document

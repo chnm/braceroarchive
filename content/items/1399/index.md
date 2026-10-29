@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.05.18.jpg
     thumb: /files/thumbnails/NAD-200401380518.jpg
     url: /files/original/NAD-200401380518.jpg
+    alt:
+      en: "Interior of a long wooden barracks with built-in bunks and shelving along both walls, personal belongings and hats hanging above, under a sloped ceiling with small windows."
+      es: "Interior de un largo barracón de madera con literas empotradas y estantes a ambos lados, pertenencias personales y sombreros colgados arriba, bajo un techo inclinado con pequeñas ventanas."
 geo:
 id: 1399
 item_type: Still Image

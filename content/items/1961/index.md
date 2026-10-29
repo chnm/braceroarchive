@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.32.jpg
     thumb: /files/thumbnails/NAD-200401382332.jpg
     url: /files/original/NAD-200401382332.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on cots inside a wooden tent structure, with a small shelf, hanging clothes, and hats visible around the sparse interior."
+      es: "Foto en blanco y negro de braceros descansando en catres dentro de una estructura de madera, con un pequeño estante, ropa colgada y sombreros visibles en el interior sencillo."
 geo:
 id: 1961
 item_type: Still Image

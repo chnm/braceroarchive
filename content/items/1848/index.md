@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.38.jpg
     thumb: /files/thumbnails/NAD-200401382038.jpg
     url: /files/original/NAD-200401382038.jpg
+    alt:
+      en: "Black-and-white photo of braceros stacking wooden \"Cookie\" brand lettuce crates beside a loaded flatbed truck in a Salinas Valley lettuce field."
+      es: "Fotografía en blanco y negro de braceros apilando cajas de madera de lechuga marca \"Cookie\" junto a un camión de plataforma cargado en un campo de lechuga del Valle de Salinas."
 geo:
 id: 1848
 item_type: Still Image

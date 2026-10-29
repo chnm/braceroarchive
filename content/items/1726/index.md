@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.31.jpg
     thumb: /files/thumbnails/NAD-200401381631.jpg
     url: /files/original/NAD-200401381631.jpg
+    alt:
+      en: "Large group of men wearing hats sit and crouch along a wall inside a long, pillared building, waiting in line at the Monterrey Processing Center."
+      es: "Gran grupo de hombres con sombrero sentados y en cuclillas a lo largo de una pared dentro de un edificio alargado con columnas, esperando en fila en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1726
 item_type: Still Image

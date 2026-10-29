@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.15.jpg
     thumb: /files/thumbnails/NAD-200401380715.jpg
     url: /files/original/NAD-200401380715.jpg
+    alt:
+      en: "A long line of men wearing wide-brimmed hats snakes toward a small wooden building, where one man presents documents at a window, with a larger crowd gathered in the background at the Monterrey Processing Center."
+      es: "Una larga fila de hombres con sombreros de ala ancha serpentea hacia una pequeña caseta de madera, donde uno presenta documentos en una ventanilla, con una multitud al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1475
 item_type: Still Image

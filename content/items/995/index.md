@@ -44,6 +44,9 @@ files:
     original_filename: FigueroaEncinasLuis 10 copy.jpg
     thumb: /files/thumbnails/figueroaencinasluis-10-copy_b53c62239f.jpg
     url: /files/original/figueroaencinasluis-10-copy_b53c62239f.jpg
+    alt:
+      en: "Typed Spanish letter dated September 16, 2003, addressed to Financiera Rural, with handwritten signature of Luis Figueroa Encinas requesting the return of his 10% Fondo de Ahorro savings."
+      es: "Carta mecanografiada en español, fechada el 16 de septiembre de 2003, dirigida a Financiera Rural, con firma manuscrita de Luis Figueroa Encinas solicitando la devolución de su 10% del Fondo de Ahorro."
 geo:
 id: 995
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.10.jpg
     thumb: /files/thumbnails/NAD-200401384310.jpg
     url: /files/original/NAD-200401384310.jpg
+    alt:
+      en: "Black-and-white photo of workers loading lettuce boxes onto a harvesting machine labeled \"Arena Co. Salinas\" in a California field, with crates and packing materials nearby."
+      es: "Foto en blanco y negro de trabajadores cargando cajas de lechuga en una máquina cosechadora con el letrero \"Arena Co. Salinas\" en un campo de California, con cajones y materiales de empaque cerca."
 geo:
 id: 2618
 item_type: Still Image

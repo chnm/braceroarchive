@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.03.jpg
     thumb: /files/thumbnails/NAD-200401385603.jpg
     url: /files/original/NAD-200401385603.jpg
+    alt:
+      en: "A bracero crouches in a pepper field, drinking from a bottle while holding a plate of food, with another worker visible in the background."
+      es: "Un bracero se agacha en un campo de chiles, bebiendo de una botella mientras sostiene un plato de comida, con otro trabajador visible al fondo."
 geo:
 id: 2964
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.08.26.jpg
     thumb: /files/thumbnails/NAD-200401380826.jpg
     url: /files/original/NAD-200401380826.jpg
+    alt:
+      en: "Black-and-white photo of a group of men wearing wide-brimmed hats standing in line outdoors, carrying woven bags and bundles, with trees and buildings in the background."
+      es: "Foto en blanco y negro de un grupo de hombres con sombreros de ala ancha, de pie en fila al aire libre, cargando bolsas tejidas y bultos, con árboles y edificios al fondo."
 geo:
 id: 1513
 item_type: Still Image

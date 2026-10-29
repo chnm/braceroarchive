@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.25.jpg
     thumb: /files/thumbnails/NAD-200401381525.jpg
     url: /files/original/NAD-200401381525.jpg
+    alt:
+      en: "Black-and-white photo of a man in suit and glasses seated behind a desk, facing another man whose back is to the camera in an office, Mexico City."
+      es: "Fotografía en blanco y negro de un hombre con traje y gafas sentado tras un escritorio, frente a otro hombre de espaldas a la cámara, en una oficina de la Ciudad de México."
 geo:
 id: 1711
 item_type: Still Image

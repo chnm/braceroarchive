@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.01.jpg
     thumb: /files/thumbnails/NAD-200401382301.jpg
     url: /files/original/NAD-200401382301.jpg
+    alt:
+      en: "Black-and-white photo of braceros sitting on the ground against a wooden barracks wall, with a truck and other men visible in the dirt yard beyond."
+      es: "Foto en blanco y negro de braceros sentados en el suelo junto a la pared de madera de un barracón, con un camión y otros hombres visibles en el patio de tierra al fondo."
 geo:
 id: 1930
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.26.jpg
     thumb: /files/thumbnails/NAD-200401384226.jpg
     url: /files/original/NAD-200401384226.jpg
+    alt:
+      en: "Black-and-white photo of men using an outdoor washing station with basins and a wooden table at a California labor camp, with trees, buildings, and other workers in the background."
+      es: "Fotografía en blanco y negro de hombres usando una estación de lavado al aire libre con palanganas y una mesa de madera en un campamento laboral de California, con árboles, edificios y otros trabajadores al fondo."
 geo:
 id: 2597
 item_type: Still Image

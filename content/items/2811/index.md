@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.32.jpg
     thumb: /files/thumbnails/NAD-200401384932.jpg
     url: /files/original/NAD-200401384932.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over with short-handled hoes along long crop rows in a pepper field, mountains visible in the hazy distance."
+      es: "Fotografía en blanco y negro de braceros inclinados con azadones de mango corto a lo largo de extensos surcos en un campo de pimientos, con montañas visibles en la distancia brumosa."
 geo:
 id: 2811
 item_type: Still Image

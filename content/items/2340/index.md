@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.36.31.jpg
     thumb: /files/thumbnails/NAD-200401383631.jpg
     url: /files/original/NAD-200401383631.jpg
+    alt:
+      en: "Roadside grocery store with signs reading \"Fresh Meats Groceries,\" \"Par-T-Pak Beverages,\" \"Lucky Lager,\" \"Meats-Groceries,\" and Coca-Cola and Pepsi-Cola advertisements, with a loaded truck passing on the adjacent road."
+      es: "Tienda de abarrotes junto a la carretera con letreros de \"Fresh Meats Groceries\", \"Par-T-Pak Beverages\", \"Lucky Lager\" y \"Meats-Groceries\", además de anuncios de Coca-Cola y Pepsi-Cola, mientras un camión cargado pasa por el camino adyacente."
 geo:
 id: 2340
 item_type: Still Image

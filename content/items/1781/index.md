@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.32.jpg
     thumb: /files/thumbnails/NAD-200401381732.jpg
     url: /files/original/NAD-200401381732.jpg
+    alt:
+      en: "Shirtless men line up as a seated typist hands a document to a bracero, with other workers and staff visible at desks in a large hall at the Monterrey Processing Center."
+      es: "Hombres sin camisa hacen fila mientras una mecanógrafa sentada entrega un documento a un bracero, con otros trabajadores y personal visibles en escritorios dentro de un salón amplio del Centro de Procesamiento de Monterrey."
 geo:
 id: 1781
 item_type: Still Image

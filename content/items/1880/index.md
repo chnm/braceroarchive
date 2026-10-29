@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.14.jpg
     thumb: /files/thumbnails/NAD-200401382114.jpg
     url: /files/original/NAD-200401382114.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on beds around a small table in a wood-paneled bunkhouse, talking and listening to a radio, with jackets and a hat hanging on the wall above."
+      es: "Fotografía en blanco y negro de braceros sentados en camas alrededor de una pequeña mesa en un dormitorio con paredes de madera, conversando y escuchando la radio, con chaquetas y un sombrero colgados en la pared."
 geo:
 id: 1880
 item_type: Still Image

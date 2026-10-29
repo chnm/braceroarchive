@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.02.jpg
     thumb: /files/thumbnails/NAD-200401382302.jpg
     url: /files/original/NAD-200401382302.jpg
+    alt:
+      en: "A bracero leans against a wooden bunk bed frame in a crowded camp dormitory, with clothing hanging on lines overhead and personal belongings stored beneath the beds."
+      es: "Un bracero se apoya en la estructura de madera de una litera en un dormitorio de campamento abarrotado, con ropa colgada en tendederos y pertenencias personales guardadas bajo las camas."
 geo:
 id: 1931
 item_type: Still Image

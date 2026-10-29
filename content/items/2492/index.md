@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.14.jpg
     thumb: /files/thumbnails/NAD-200401383914.jpg
     url: /files/original/NAD-200401383914.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated with luggage along a shaded, tree-lined colonnade in Stockton, California, waiting to board buses."
+      es: "Fotografía en blanco y negro de braceros sentados con su equipaje bajo una columnata sombreada y arbolada en Stockton, California, esperando para abordar autobuses."
 geo:
 id: 2492
 item_type: Still Image

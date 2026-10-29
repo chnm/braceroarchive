@@ -44,6 +44,9 @@ files:
     original_filename: IMG_3146.JPG
     thumb: /files/thumbnails/img_3146_d6507c2d20.jpg
     url: /files/original/img_3146_d6507c2d20.jpg
+    alt:
+      en: "Man in a white hat and plaid shirt gestures while speaking at a kitchen table, as a woman in a purple shirt listens and holds a pen, with jars and papers on the counter behind them."
+      es: "Hombre con sombrero blanco y camisa a cuadros gesticula mientras habla en una mesa de cocina, mientras una mujer con blusa morada escucha sosteniendo un bolígrafo, con frascos y papeles sobre la mesada detrás de ellos."
 geo:
 id: 3029
 item_type: Still Image

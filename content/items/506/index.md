@@ -46,6 +46,9 @@ files:
     original_filename: BlancoOrtega-02.jpg
     thumb: /files/thumbnails/blancoortega-02_1caca6f609.jpg
     url: /files/original/blancoortega-02_1caca6f609.jpg
+    alt:
+      en: "Typed document listing contract wage rates by crop and task for Monterey, Santa Cruz, and San Benito counties, given in both English and Spanish."
+      es: "Documento mecanografiado que enumera las tarifas salariales por contrato según cultivo y tarea para los condados de Monterey, Santa Cruz y San Benito, en inglés y español."
 geo:
 id: 506
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.13.jpg
     thumb: /files/thumbnails/NAD-200401382013.jpg
     url: /files/original/NAD-200401382013.jpg
+    alt:
+      en: "Stacked cardboard boxes labeled \"LETTUCE\" sit on a truck in the foreground, while rows of workers harvest crops in a vast field under a cloudy sky, with farm buildings visible in the background."
+      es: "Cajas de cartón apiladas con la etiqueta \"LETTUCE\" sobre un camión en primer plano, mientras filas de trabajadores cosechan en un amplio campo bajo un cielo nublado, con edificaciones agrícolas al fondo."
 geo:
 id: 1841
 item_type: Still Image

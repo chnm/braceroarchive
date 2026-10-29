@@ -44,6 +44,9 @@ files:
     original_filename: immigration form 1.jpg
     thumb: /files/thumbnails/immigration-form-1_bf44ad3663.jpg
     url: /files/original/immigration-form-1_bf44ad3663.jpg
+    alt:
+      en: "Spanish-language immigration questionnaire form from the U.S. Consulate in Mexico, dated 6-11-62, with handwritten personal details including name, birthplace, parents' names, and address filled into printed fields."
+      es: "Formulario de cuestionario de inmigración en español del Consulado de EE.UU. en México, fechado 6-11-62, con datos personales manuscritos: nombre, lugar de nacimiento, nombres de los padres y dirección."
 geo:
 id: 581
 item_type: Document

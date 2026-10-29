@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.22.jpg
     thumb: /files/thumbnails/NAD-200401385022.jpg
     url: /files/original/NAD-200401385022.jpg
+    alt:
+      en: "Black-and-white photo of a bracero looking out through a bus window, with partial lettering reading \"ANGELES TR\" visible along the bus's side above the windows."
+      es: "Fotografía en blanco y negro de un bracero mirando por la ventana de un autobús, con letras parciales que dicen \"ANGELES TR\" visibles en el costado del autobús sobre las ventanas."
 geo:
 id: 2837
 item_type: Still Image

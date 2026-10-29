@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.03.35.jpg
     thumb: /files/thumbnails/NAD-200401380335.jpg
     url: /files/original/NAD-200401380335.jpg
+    alt:
+      en: "Rows of men in wide-brimmed hats sit at long benches eating in a crowded, sunlit dining hall at the Monterrey Processing Center."
+      es: "Filas de hombres con sombreros de ala ancha comen sentados en largas bancas dentro de un comedor concurrido e iluminado por el sol en el Centro de Contratación de Monterrey."
 geo:
 id: 1335
 item_type: Still Image

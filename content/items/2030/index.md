@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.07.jpg
     thumb: /files/thumbnails/NAD-200401382607.jpg
     url: /files/original/NAD-200401382607.jpg
+    alt:
+      en: "Rows of braceros sit along the edge of a furrowed field in the Salinas Valley, California, taking a lunch break, with power lines, hills, and a parked truck visible in the background."
+      es: "Filas de braceros sentados al borde de un campo surcado en el Valle de Salinas, California, durante un descanso para almorzar, con líneas eléctricas, colinas y un camión estacionado al fondo."
 geo:
 id: 2030
 item_type: Still Image

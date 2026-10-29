@@ -44,6 +44,9 @@ files:
     original_filename: IMG_3381.JPG
     thumb: /files/thumbnails/img_3381_cc2049fccc.jpg
     url: /files/original/img_3381_cc2049fccc.jpg
+    alt:
+      en: "A man with gray hair wearing a white shirt and dark pants stands on a hillside overlooking a dense, forested valley."
+      es: "Un hombre de cabello canoso, con camisa blanca y pantalón oscuro, está de pie en una ladera observando un valle cubierto de densa vegetación boscosa."
 geo:
 id: 3032
 item_type: Still Image

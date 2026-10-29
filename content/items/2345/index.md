@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.25.jpg
     thumb: /files/thumbnails/NAD-200401383625.jpg
     url: /files/original/NAD-200401383625.jpg
+    alt:
+      en: "Black-and-white photo of a row of wooden barracks at a labor camp, with a group of men standing and conversing in the dirt pathway between the buildings under a bright sky."
+      es: "Fotografía en blanco y negro de una fila de barracones de madera en un campo de trabajo, con un grupo de hombres de pie conversando en el camino de tierra entre los edificios bajo un cielo despejado."
 geo:
 id: 2345
 item_type: Still Image

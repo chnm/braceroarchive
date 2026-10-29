@@ -44,6 +44,9 @@ files:
     original_filename: AnatacioJimenezrailroadOR1943.jpg
     thumb: /files/thumbnails/anataciojimenezrailroador1943_b634b2a65d.jpg
     url: /files/original/anataciojimenezrailroador1943_b634b2a65d.jpg
+    alt:
+      en: "Sepia-toned group portrait of railroad workers, women, and children posed in three rows outside a wooden railcar building with two small windows, 1943, Albany, Oregon."
+      es: "Retrato grupal en tono sepia de trabajadores ferroviarios, mujeres y niños posando en tres filas frente a un edificio de vagón de madera con dos ventanas pequeñas, 1943, Albany, Oregón."
 geo:
 id: 1098
 item_type: Still Image

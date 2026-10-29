@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.08.jpg
     thumb: /files/thumbnails/NAD-200401382708.jpg
     url: /files/original/NAD-200401382708.jpg
+    alt:
+      en: "A man stands at an outdoor washing station beside a wooden barrack, with buckets, a mop, and hanging laundry nearby in a dirt-floored camp in Watsonville, California."
+      es: "Un hombre lava ropa en una estación de lavado al aire libre junto a una barraca de madera, con baldes, un trapeador y ropa colgada en un campamento de tierra en Watsonville, California."
 geo:
 id: 2079
 item_type: Still Image

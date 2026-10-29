@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.12.jpg
     thumb: /files/thumbnails/NAD-200401380412.jpg
     url: /files/original/NAD-200401380412.jpg
+    alt:
+      en: "Large crowd of men in wide-brimmed hats stand behind a wire fence at the Monterrey Processing Center, mountains visible in the hazy background."
+      es: "Gran multitud de hombres con sombreros de ala ancha esperan detrás de una cerca de alambre en el Centro de Procesamiento de Monterrey, con montañas visibles entre la neblina al fondo."
 geo:
 id: 1360
 item_type: Still Image

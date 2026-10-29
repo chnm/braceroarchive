@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.08.jpg
     thumb: /files/thumbnails/NAD-200401381908.jpg
     url: /files/original/NAD-200401381908.jpg
+    alt:
+      en: "A line of men wearing hats and carrying bags walks along a dirt road toward a bus, with onlookers gathered along the roadside in Stockton, California."
+      es: "Una fila de hombres con sombreros y bolsas camina por un camino de tierra hacia un autobús, mientras espectadores observan a lo largo del camino en Stockton, California."
 geo:
 id: 1821
 item_type: Still Image

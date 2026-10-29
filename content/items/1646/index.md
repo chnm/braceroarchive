@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.13.18.jpg
     thumb: /files/thumbnails/NAD-200401381318.jpg
     url: /files/original/NAD-200401381318.jpg
+    alt:
+      en: "A seated official reviews documents and cash at a desk while a bracero stands before him holding papers, with a crowd of men waiting in the background hall."
+      es: "Un funcionario sentado revisa documentos y dinero en un escritorio mientras un bracero de pie sostiene papeles, con un grupo de hombres esperando al fondo del salón."
 geo:
 id: 1646
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.24.03.jpg
     thumb: /files/thumbnails/NAD-200401382403.jpg
     url: /files/original/NAD-200401382403.jpg
+    alt:
+      en: "Black-and-white photo of a man handing paychecks to a line of hatted braceros outside a building marked \"CAFE HORSESHOE CLUB\" with a Coca-Cola sign."
+      es: "Fotografía en blanco y negro de un hombre entregando cheques de pago a una fila de braceros con sombrero frente a un edificio con letrero \"CAFE HORSESHOE CLUB\" y un anuncio de Coca-Cola."
 geo:
 id: 1967
 item_type: Still Image

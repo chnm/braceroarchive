@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.51.21.jpg
     thumb: /files/thumbnails/NAD-200401385121.jpg
     url: /files/original/NAD-200401385121.jpg
+    alt:
+      en: "A nurse in a cap and uniform stands reviewing papers beside a seated man in a medical office, with shelves of bottles, books, and a desk lamp visible around the room."
+      es: "Una enfermera con cofia y uniforme revisa papeles junto a un hombre sentado en un consultorio médico, con estantes de frascos, libros y una lámpara de escritorio alrededor."
 geo:
 id: 2862
 item_type: Still Image

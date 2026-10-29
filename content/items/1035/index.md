@@ -46,6 +46,9 @@ files:
     original_filename: Bautista, Agustine, 1968, military id3.jpg
     thumb: /files/thumbnails/bautista,-agustine,-1968,-military-id3_714a9565e3.jpg
     url: /files/original/bautista,-agustine,-1968,-military-id3_714a9565e3.jpg
+    alt:
+      en: "Mexican military ID card titled \"Secretaria de la Defensa Nacional, Servicio Militar Nacional,\" with Agustin Bautista Arteaga's personal details, photo, fingerprint, matricula number, and official signatures."
+      es: "Cartilla militar mexicana titulada \"Secretaria de la Defensa Nacional, Servicio Militar Nacional\", con los datos personales de Agustín Bautista Arteaga, su fotografía, huella digital, número de matrícula y firmas oficiales."
 geo:
 id: 1035
 item_type: Document

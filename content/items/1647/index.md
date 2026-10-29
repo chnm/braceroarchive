@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.13.19.jpg
     thumb: /files/thumbnails/NAD-200401381319.jpg
     url: /files/original/NAD-200401381319.jpg
+    alt:
+      en: "Black-and-white photo of an official in a wide-brimmed hat inspecting a seated man's hands at a table, with other braceros and staff processing paperwork in the background hall."
+      es: "Foto en blanco y negro de un funcionario con sombrero de ala ancha revisando las manos de un hombre sentado en una mesa, mientras otros braceros y personal tramitan papeleo al fondo del salón."
 geo:
 id: 1647
 item_type: Still Image

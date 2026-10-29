@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.14.22.jpg
     thumb: /files/thumbnails/NAD-200401381422.jpg
     url: /files/original/NAD-200401381422.jpg
+    alt:
+      en: "A line of men wearing hats and work clothes wait as an official seated at a table reviews a bracero's documents at the Hidalgo Processing Center, Texas."
+      es: "Una fila de hombres con sombreros y ropa de trabajo esperan mientras un oficial sentado en una mesa revisa los documentos de un bracero en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1675
 item_type: Still Image

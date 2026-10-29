@@ -41,6 +41,9 @@ files:
     original_filename: GonzalezLorenzoSpreckels2.jpg
     thumb: /files/thumbnails/gonzalezlorenzospreckels2_666a20ada5.jpg
     url: /files/original/gonzalezlorenzospreckels2_666a20ada5.jpg
+    alt:
+      en: "Sepia-toned photo of a man in a wide-brimmed hat and long-sleeved shirt standing with one foot propped on a wooden crate filled with picked produce, leaning against a stack of larger wooden crates in a field."
+      es: "Foto en tono sepia de un hombre con sombrero de ala ancha y camisa de manga larga, apoyando un pie sobre un cajón de madera lleno de productos cosechados, recostado junto a cajones de madera más grandes en un campo."
 geo:
 id: 987
 item_type: Still Image

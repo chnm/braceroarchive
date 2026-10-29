@@ -46,6 +46,9 @@ files:
     original_filename: SantosNuñez-02.jpg
     thumb: /files/thumbnails/santosnuñez-02_6f0f857d83.jpg
     url: /files/original/santosnuñez-02_6f0f857d83.jpg
+    alt:
+      en: "Interior of an Alien Laborer's Permit and Identification Card, with Spanish-language conditions on the left and a U.S. Dept. of Justice admission stamp dated Sep 14 1954 at El Paso, Texas, on the right, signed by Santos Nuñez."
+      es: "Interior de un Permiso e Identificación de Trabajador Extranjero, con condiciones en español a la izquierda y un sello de admisión del Departamento de Justicia de EE.UU. fechado el 14 de septiembre de 1954 en El Paso, Texas, firmado por Santos Núñez."
 geo:
 id: 517
 item_type: Document

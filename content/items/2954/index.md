@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.27.jpg
     thumb: /files/thumbnails/NAD-200401385527.jpg
     url: /files/original/NAD-200401385527.jpg
+    alt:
+      en: "Black-and-white street scene with men standing and walking along a sidewalk lined with storefronts advertising \"La Zacatecana Cafe,\" \"Monterey House,\" and \"Rancho Grande Cafe & Beer,\" with multiple Coca-Cola signs and parked cars."
+      es: "Escena callejera en blanco y negro con hombres de pie y caminando por una acera bordeada de locales como \"La Zacatecana Cafe,\" \"Monterey House\" y \"Rancho Grande Cafe & Beer,\" con varios letreros de Coca-Cola y autos estacionados."
 geo:
 id: 2954
 item_type: Still Image

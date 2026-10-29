@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.04.26.jpg
     thumb: /files/thumbnails/NAD-200401380426.jpg
     url: /files/original/NAD-200401380426.jpg
+    alt:
+      en: "Men wearing hats stand in a long line beside two large buses at the Monterrey Processing Center, with a low building and mountains visible in the background."
+      es: "Hombres con sombrero forman una larga fila junto a dos grandes autobuses en el Centro de Procesamiento de Monterrey, con un edificio bajo y montañas al fondo."
 geo:
 id: 1356
 item_type: Still Image

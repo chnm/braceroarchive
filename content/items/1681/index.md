@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.14.28.jpg
     thumb: /files/thumbnails/NAD-200401381428.jpg
     url: /files/original/NAD-200401381428.jpg
+    alt:
+      en: "A row of women seated at typewriters transcribe information for men wearing cowboy hats lined up along the counter inside the Hidalgo Processing Center, Texas."
+      es: "Una fila de mujeres sentadas frente a máquinas de escribir transcribe información de hombres con sombreros vaqueros alineados junto al mostrador dentro del Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1681
 item_type: Still Image

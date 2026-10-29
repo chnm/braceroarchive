@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.10.jpg
     thumb: /files/thumbnails/NAD-200401383610.jpg
     url: /files/original/NAD-200401383610.jpg
+    alt:
+      en: "Rows of young lettuce plants stretch toward distant mountains, with a bracero camp and scattered trees visible along the horizon in Gonzales, California."
+      es: "Hileras de plantas jóvenes de lechuga se extienden hacia montañas distantes, con un campamento de braceros y árboles dispersos visibles en el horizonte en Gonzales, California."
 geo:
 id: 2354
 item_type: Still Image

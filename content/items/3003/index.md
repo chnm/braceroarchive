@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.35.jpg
     thumb: /files/thumbnails/NAD-200401381235.jpg
     url: /files/original/NAD-200401381235.jpg
+    alt:
+      en: "A crowded truck bed full of braceros wearing straw hats, seated closely together, with parked cars and buildings visible in the background at the Hidalgo Processing Center."
+      es: "Un camión repleto de braceros con sombreros de paja, sentados muy juntos, con autos estacionados y edificios al fondo en el Centro de Procesamiento de Hidalgo."
 geo:
 id: 3003
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.23.jpg
     thumb: /files/thumbnails/NAD-200401381623.jpg
     url: /files/original/NAD-200401381623.jpg
+    alt:
+      en: "Black-and-white photo of braceros, many wearing wide-brimmed hats, lining up at a serving counter for food while others sit at tables eating in a large hall at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de braceros, muchos con sombreros de ala ancha, haciendo fila en un mostrador para recibir comida mientras otros comen sentados en mesas dentro de un gran salón del Centro de Contratación de Monterrey."
 geo:
 id: 1742
 item_type: Still Image

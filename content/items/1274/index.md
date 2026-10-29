@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.01.43.jpg
     thumb: /files/thumbnails/NAD-200401380143.jpg
     url: /files/original/NAD-200401380143.jpg
+    alt:
+      en: "A bus occupies the foreground, with a long line of men waiting to board buses near a low building at the Monterrey Processing Center in the background."
+      es: "Un autobús ocupa el primer plano, mientras una larga fila de hombres espera para abordar autobuses cerca de un edificio bajo en el Centro de Procesamiento de Monterrey, al fondo."
 geo:
 id: 1274
 item_type: Still Image

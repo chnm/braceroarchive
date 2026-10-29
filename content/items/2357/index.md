@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.13.jpg
     thumb: /files/thumbnails/NAD-200401383613.jpg
     url: /files/original/NAD-200401383613.jpg
+    alt:
+      en: "Black-and-white photograph of two parallel rows of leafy lettuce plants growing in cultivated furrowed soil, viewed from above at an angle."
+      es: "Fotografía en blanco y negro de dos hileras paralelas de plantas de lechuga de hojas frondosas, creciendo en un campo de tierra cultivada en surcos, vista desde arriba en ángulo."
 geo:
 id: 2357
 item_type: Still Image

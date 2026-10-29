@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.09.jpg
     thumb: /files/thumbnails/NAD-200401382109.jpg
     url: /files/original/NAD-200401382109.jpg
+    alt:
+      en: "Two braceros sit on a bed in a sparse camp room, playing cards together, with clothing hanging on lines and a shelf in the background."
+      es: "Dos braceros sentados en una cama en un cuarto sencillo del campamento, jugando cartas juntos, con ropa colgada en cuerdas y un estante al fondo."
 geo:
 id: 1875
 item_type: Still Image

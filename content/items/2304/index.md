@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.08.jpg
     thumb: /files/thumbnails/NAD-200401383408.jpg
     url: /files/original/NAD-200401383408.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over rows in a lettuce field, packing produce into cardboard boxes on low trolleys, with distant hills and power lines visible."
+      es: "Foto en blanco y negro de braceros agachados entre surcos en un campo de lechugas, empacando el producto en cajas de cartón sobre carritos bajos, con colinas lejanas y líneas eléctricas visibles."
 geo:
 id: 2304
 item_type: Still Image

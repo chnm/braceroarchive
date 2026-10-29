@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.38.jpg
     thumb: /files/thumbnails/NAD-200401381638.jpg
     url: /files/original/NAD-200401381638.jpg
+    alt:
+      en: "A line of men in hats and light-colored clothing wait as one presents documents to a seated official at a small table outside a building."
+      es: "Una fila de hombres con sombreros y ropa clara espera mientras uno presenta documentos a un funcionario sentado en una pequeña mesa afuera de un edificio."
 geo:
 id: 1721
 item_type: Still Image

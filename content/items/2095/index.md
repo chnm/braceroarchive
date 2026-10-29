@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.05.jpg
     thumb: /files/thumbnails/NAD-200401382805.jpg
     url: /files/original/NAD-200401382805.jpg
+    alt:
+      en: "A man leans against a doorway frame in the foreground, with a wooden barracks building and another figure standing in a doorway visible across a dirt yard in the background."
+      es: "Un hombre se apoya en el marco de una puerta en primer plano, mientras al fondo, en un patio de tierra, se ve un edificio de madera tipo barraca con otra persona de pie en su entrada."
 geo:
 id: 2095
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.53.16.jpg
     thumb: /files/thumbnails/NAD-200401385316.jpg
     url: /files/original/NAD-200401385316.jpg
+    alt:
+      en: "A bracero rests on a cot in a sparse barracks room lined with rows of beds, clothing hanging from lines above, and sunlight streaming through a window."
+      es: "Un bracero descansa en un catre en una habitación sencilla de un barracón con filas de camas, ropa colgada en cuerdas y luz solar entrando por una ventana."
 geo:
 id: 2907
 item_type: Still Image

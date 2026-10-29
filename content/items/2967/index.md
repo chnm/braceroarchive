@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.06.jpg
     thumb: /files/thumbnails/NAD-200401385606.jpg
     url: /files/original/NAD-200401385606.jpg
+    alt:
+      en: "Black-and-white portrait of a man wearing a light-colored brimmed hat and collared shirt, standing before a vast plowed field under a hazy sky."
+      es: "Retrato en blanco y negro de un hombre con sombrero de ala ancha y camisa con cuello, de pie frente a un extenso campo arado bajo un cielo brumoso."
 geo:
 id: 2967
 item_type: Still Image

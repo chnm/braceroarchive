@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.15.jpg
     thumb: /files/thumbnails/NAD-200401385515.jpg
     url: /files/original/NAD-200401385515.jpg
+    alt:
+      en: "Black-and-white photo of a wide lake near Watsonville, California, with a small boat on the water, the sun low on the horizon, and grassy marsh in the foreground."
+      es: "Fotografía en blanco y negro de un amplio lago cerca de Watsonville, California, con un pequeño bote sobre el agua, el sol bajo en el horizonte y una zona de pastizal pantanoso en primer plano."
 geo:
 id: 2942
 item_type: Still Image

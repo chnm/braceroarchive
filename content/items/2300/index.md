@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.04.jpg
     thumb: /files/thumbnails/NAD-200401383404.jpg
     url: /files/original/NAD-200401383404.jpg
+    alt:
+      en: "Black-and-white photo of workers bent over rows of lettuce in a large field, with distant hills, power lines, and open sky visible in the background."
+      es: "Foto en blanco y negro de trabajadores agachados sobre hileras de lechuga en un extenso campo, con colinas lejanas, líneas eléctricas y cielo abierto al fondo."
 geo:
 id: 2300
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.29.jpg
     thumb: /files/thumbnails/NAD-200401382929.jpg
     url: /files/original/NAD-200401382929.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with men gathered outside \"Jick's Surplus\" sporting goods store; a bicycle leans nearby, and \"Star Cafe\" and \"Market\" signs line the street."
+      es: "Escena callejera en blanco y negro de Watsonville, California, con hombres reunidos frente a la tienda \"Jick's Surplus\"; una bicicleta reposa cerca, y los letreros \"Star Cafe\" y \"Market\" bordean la calle."
 geo:
 id: 2137
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.24.jpg
     thumb: /files/thumbnails/NAD-200401385224.jpg
     url: /files/original/NAD-200401385224.jpg
+    alt:
+      en: "Rows of workers bent over in stoop labor with short-handled hoes, tending long furrowed crop rows in a vast field under a hazy sky, trees lining the horizon."
+      es: "Hileras de trabajadores inclinados en labor de agache con azadones de mango corto, atendiendo largos surcos de cultivo en un vasto campo bajo un cielo brumoso, con árboles en el horizonte."
 geo:
 id: 2889
 item_type: Still Image

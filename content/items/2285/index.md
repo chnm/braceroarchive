@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.24.jpg
     thumb: /files/thumbnails/NAD-200401383424.jpg
     url: /files/original/NAD-200401383424.jpg
+    alt:
+      en: "A bracero balances a stack of boxes on his head while walking through rows of lettuce, as other workers bend to harvest in the expansive field around him."
+      es: "Un bracero equilibra una pila de cajas sobre su cabeza mientras camina entre hileras de lechuga, mientras otros trabajadores se inclinan para cosechar en el extenso campo a su alrededor."
 geo:
 id: 2285
 item_type: Still Image

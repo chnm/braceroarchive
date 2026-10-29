@@ -46,6 +46,9 @@ files:
     original_filename: Santacruz, Melitona, 1961, Affadavit5.jpg
     thumb: /files/thumbnails/santacruz,-melitona,-1961,-affadavit5_2918c52ab7.jpg
     url: /files/original/santacruz,-melitona,-1961,-affadavit5_2918c52ab7.jpg
+    alt:
+      en: "Typed letterhead document from Security-First National Bank affirming Jose Guadalupe Santacruz Rangel will not become a public charge, with handwritten signatures of Vincent Borchard and notary Robert S. Fox."
+      es: "Documento mecanografiado con membrete de Security-First National Bank que afirma que Jose Guadalupe Santacruz Rangel no se convertirá en carga pública, con firmas manuscritas de Vincent Borchard y del notario Robert S. Fox."
 geo:
 id: 1067
 item_type: Document

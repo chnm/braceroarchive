@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.33.jpg
     thumb: /files/thumbnails/NAD-200401384933.jpg
     url: /files/original/NAD-200401384933.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in stoop labor along a furrowed field edge, with an irrigation ditch and metal pipes running alongside, trees lining the horizon."
+      es: "Fotografía en blanco y negro de braceros inclinados realizando labor agachada junto a un surco, con una zanja de riego y tubos metálicos a un costado, y árboles en el horizonte."
 geo:
 id: 2780
 item_type: Still Image

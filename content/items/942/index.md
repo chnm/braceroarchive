@@ -44,6 +44,9 @@ files:
     original_filename: father with truck.jpg
     thumb: /files/thumbnails/father-with-truck_c189ae77dd.jpg
     url: /files/original/father-with-truck_c189ae77dd.jpg
+    alt:
+      en: "Vintage photograph of two men seated in the cab of a flatbed truck, one at the steering wheel, both looking toward the camera; the aged print shows creases and wear."
+      es: "Fotografía antigua de dos hombres sentados en la cabina de un camión de plataforma, uno al volante, ambos mirando hacia la cámara; la foto envejecida muestra pliegues y desgaste."
 geo:
 id: 942
 item_type: Still Image

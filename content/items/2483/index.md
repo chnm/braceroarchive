@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.05.jpg
     thumb: /files/thumbnails/NAD-200401383905.jpg
     url: /files/original/NAD-200401383905.jpg
+    alt:
+      en: "A crowd of men, many wearing wide-brimmed hats, gathered closely together outdoors, braceros waiting to receive documents in Stockton, California."
+      es: "Multitud de hombres, muchos con sombreros de ala ancha, reunidos muy juntos al aire libre; braceros esperando para recibir documentos en Stockton, California."
 geo:
 id: 2483
 item_type: Still Image

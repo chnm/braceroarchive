@@ -44,6 +44,9 @@ files:
     original_filename: SantosNuñez-03.jpg
     thumb: /files/thumbnails/santosnuñez-03_8b7085dfd0.jpg
     url: /files/original/santosnuñez-03_8b7085dfd0.jpg
+    alt:
+      en: "Identification card with a photograph of a young man in the upper left, titled \"Certificado de Identificación,\" certifying Santos Nunez Sotelo as eligible for migrant agricultural work, stamped with official seals."
+      es: "Tarjeta de identificación con fotografía de un hombre joven en la esquina superior izquierda, titulada \"Certificado de Identificación,\" que certifica a Santos Nunez Sotelo como elegible para trabajo agrícola migrante, con sellos oficiales."
 geo:
 id: 518
 item_type: Document

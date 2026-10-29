@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.18.43.jpg
     thumb: /files/thumbnails/NAD-200401381843.jpg
     url: /files/original/NAD-200401381843.jpg
+    alt:
+      en: "A bracero carries a sack of cotton to empty into a large truck bed already piled high, as other workers rest nearby along a rural road near McAllen, Texas."
+      es: "Un bracero carga un costal de algodón para vaciarlo en un camión ya lleno, mientras otros trabajadores descansan cerca de un camino rural en McAllen, Texas."
 geo:
 id: 1796
 item_type: Still Image

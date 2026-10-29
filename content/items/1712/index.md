@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.26.jpg
     thumb: /files/thumbnails/NAD-200401381526.jpg
     url: /files/original/NAD-200401381526.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and glasses seated at an office desk with two telephones, papers, and ashtrays, Mexico City."
+      es: "Fotografía en blanco y negro de un hombre con traje y gafas sentado en un escritorio de oficina con dos teléfonos, papeles y ceniceros, Ciudad de México."
 geo:
 id: 1712
 item_type: Still Image

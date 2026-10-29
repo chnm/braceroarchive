@@ -41,6 +41,9 @@ files:
     original_filename: GonzalezLorenzoSalinas.jpg
     thumb: /files/thumbnails/gonzalezlorenzosalinas_7f098368c4.jpg
     url: /files/original/gonzalezlorenzosalinas_7f098368c4.jpg
+    alt:
+      en: "Three men wearing hats take a break, sitting on a wooden structure near railroad tracks; the man on the left wears a light-colored shirt and gloves."
+      es: "Tres hombres con sombreros descansan sentados sobre una estructura de madera cerca de las vías del tren; el de la izquierda viste camisa clara y guantes."
 geo:
 id: 984
 item_type: Still Image

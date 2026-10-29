@@ -44,6 +44,9 @@ files:
     original_filename: Carrilo6.jpg
     thumb: /files/thumbnails/carrilo6_75bc6b4c1c.jpg
     url: /files/original/carrilo6_75bc6b4c1c.jpg
+    alt:
+      en: "Yellow \"Affidavit for Correction of Birth or Death Record\" from New Mexico's Vital Statistics Bureau, changing a child's name from Cenada Lucero to Cleo Lucero, signed and notarized February 1980."
+      es: "Formulario amarillo \"Affidavit for Correction of Birth or Death Record\" de la Oficina de Estadísticas Vitales de Nuevo México, cambiando el nombre de un menor de Cenada Lucero a Cleo Lucero, firmado y notariado en febrero de 1980."
 geo:
 id: 632
 item_type: Still Image

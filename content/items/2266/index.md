@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.33.02.jpg
     thumb: /files/thumbnails/NAD-200401383302.jpg
     url: /files/original/NAD-200401383302.jpg
+    alt:
+      en: "Black-and-white photo of workers bent over harvesting lettuce in a large field, with \"Toro\" brand produce boxes in the foreground, under a wide open sky with distant hills."
+      es: "Fotografía en blanco y negro de trabajadores agachados cosechando lechuga en un amplio campo, con cajas de producto marca \"Toro\" en primer plano, bajo un cielo despejado y colinas al fondo."
 geo:
 id: 2266
 item_type: Still Image

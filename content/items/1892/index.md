@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.26.jpg
     thumb: /files/thumbnails/NAD-200401382126.jpg
     url: /files/original/NAD-200401382126.jpg
+    alt:
+      en: "Black-and-white photo of a bracero seated on a bed in a sparse wooden barracks room, lighting a cigarette, with clothes hanging nearby and a sink visible in the foreground."
+      es: "Fotografía en blanco y negro de un bracero sentado en una cama en una habitación sencilla de madera, encendiendo un cigarrillo, con ropa colgada cerca y un fregadero visible en primer plano."
 geo:
 id: 1892
 item_type: Still Image

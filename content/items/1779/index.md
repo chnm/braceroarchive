@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.30.jpg
     thumb: /files/thumbnails/NAD-200401381730.jpg
     url: /files/original/NAD-200401381730.jpg
+    alt:
+      en: "Men in hats, many wearing light shirts, line up and stand around inside a large hall with high windows, with a partially visible sign reading \"IMIGRACION\" hanging overhead."
+      es: "Hombres con sombrero, muchos con camisas claras, hacen fila y permanecen de pie en un gran salón con ventanas altas, bajo un letrero parcialmente visible que dice \"INMIGRACIÓN\"."
 geo:
 id: 1779
 item_type: Still Image

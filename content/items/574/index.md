@@ -44,6 +44,9 @@ files:
     original_filename: medicinman.jpg
     thumb: /files/thumbnails/medicinman_b86451a47f.jpg
     url: /files/original/medicinman_b86451a47f.jpg
+    alt:
+      en: "Black and white photo album page with four images: a figure standing by a building, a man near a wooden fence and shed, and two wide views of blooming cotton fields with mountains in the distance."
+      es: "Página de álbum en blanco y negro con cuatro imágenes: una figura junto a un edificio, un hombre cerca de una cerca y un cobertizo de madera, y dos vistas de campos de algodón florecido con montañas al fondo."
 geo:
 id: 574
 item_type: Still Image

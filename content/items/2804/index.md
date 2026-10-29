@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.25.jpg
     thumb: /files/thumbnails/NAD-200401384925.jpg
     url: /files/original/NAD-200401384925.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat kneels in a pepper field, using a short-handled hoe to loosen soil, while other workers bend over rows of plants in the background."
+      es: "Un bracero con sombrero de ala ancha se arrodilla en un campo de chiles, usando un azadón de mango corto para aflojar la tierra, mientras otros trabajadores se inclinan sobre las hileras de plantas al fondo."
 geo:
 id: 2804
 item_type: Still Image

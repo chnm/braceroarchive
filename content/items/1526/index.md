@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.30.jpg
     thumb: /files/thumbnails/NAD-200401380930.jpg
     url: /files/original/NAD-200401380930.jpg
+    alt:
+      en: "A man in a white shirt examines a bracero's shoulder and arm while other men in hats wait in line nearby, inside a room with a fan and open door at the Monterrey Processing Center."
+      es: "Un hombre con camisa blanca examina el hombro y brazo de un bracero mientras otros hombres con sombreros esperan en fila cerca, dentro de una sala con un ventilador y una puerta abierta en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1526
 item_type: Still Image

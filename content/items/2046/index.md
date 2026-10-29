@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.23.jpg
     thumb: /files/thumbnails/NAD-200401382623.jpg
     url: /files/original/NAD-200401382623.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a hat bent over working among rows of pepper plants, with other field workers visible in the background, Salinas Valley, California."
+      es: "Fotografía en blanco y negro de un bracero con sombrero, inclinado trabajando entre hileras de plantas de chile, con otros trabajadores agrícolas al fondo, Valle de Salinas, California."
 geo:
 id: 2046
 item_type: Still Image

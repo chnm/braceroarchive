@@ -46,6 +46,9 @@ files:
     original_filename: Instructivo p.16-17.jpg
     thumb: /files/thumbnails/instructivo-p16-17_e87fbd2875.jpg
     url: /files/original/instructivo-p16-17_e87fbd2875.jpg
+    alt:
+      en: "Pages 16–17 of a bracero instruction booklet, with page 16 detailing international money order postal procedures (sections C–G) and page 17 beginning \"GARANTIAS DEL CONTRATO,\" outlining employment and hour guarantees."
+      es: "Páginas 16–17 de un folleto de instrucciones para braceros: la página 16 detalla el procedimiento de giros postales internacionales (secciones C–G) y la página 17 inicia \"GARANTIAS DEL CONTRATO\", sobre garantías de empleo y horas."
 geo:
 id: 592
 item_type: Still Image

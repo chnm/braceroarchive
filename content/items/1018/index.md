@@ -46,6 +46,9 @@ files:
     original_filename: Figueroa Encinas, Luis - application for backwages1copy.jpg
     thumb: /files/thumbnails/figueroa-encinas,-luis---application-for-backwages1copy_157e7d7b3a.jpg
     url: /files/original/figueroa-encinas,-luis---application-for-backwages1copy_157e7d7b3a.jpg
+    alt:
+      en: "Application form for back wages filled out in blue ink for Luis Figueroa Encinas, with a passport-style photo at top and handwritten personal details including birthdate, birthplace, and health insurance information."
+      es: "Formulario de solicitud de pago retroactivo de salarios llenado en tinta azul para Luis Figueroa Encinas, con foto tipo pasaporte arriba y datos personales escritos a mano, incluyendo fecha de nacimiento, lugar de nacimiento y seguro médico."
 geo:
 id: 1018
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.34.jpg
     thumb: /files/thumbnails/NAD-200401382234.jpg
     url: /files/original/NAD-200401382234.jpg
+    alt:
+      en: "Rows of metal-frame beds with folded blankets line a dimly lit wooden barracks, with clothing hanging near small windows at the far end."
+      es: "Filas de camas con marco metálico y mantas dobladas se alinean en un barracón de madera poco iluminado, con ropa colgada cerca de pequeñas ventanas al fondo."
 geo:
 id: 2390
 item_type: Still Image

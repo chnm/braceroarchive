@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.35.jpg
     thumb: /files/thumbnails/NAD-200401383735.jpg
     url: /files/original/NAD-200401383735.jpg
+    alt:
+      en: "Black-and-white photo of braceros entering a wooden flatbed truck beside railroad tracks at a Salinas Valley field, with a bus, car, and workers sorting crates nearby."
+      es: "Foto en blanco y negro de braceros subiendo a un camión de plataforma de madera junto a vías de ferrocarril en un campo del Valle de Salinas, con un autobús, un auto y trabajadores clasificando cajas cerca."
 geo:
 id: 2435
 item_type: Still Image

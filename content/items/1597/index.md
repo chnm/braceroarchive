@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.43.jpg
     thumb: /files/thumbnails/NAD-200401381143.jpg
     url: /files/original/NAD-200401381143.jpg
+    alt:
+      en: "Shirtless men holding bundled clothing stand in line as a uniformed nurse attends to them beneath a \"VACCINATION\" sign in the Monterrey Processing Center."
+      es: "Hombres sin camisa sosteniendo ropa en bultos hacen fila mientras una enfermera uniformada los atiende bajo un letrero de \"VACCINATION\" en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1597
 item_type: Still Image

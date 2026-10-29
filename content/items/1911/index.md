@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.11.jpg
     thumb: /files/thumbnails/NAD-200401382211.jpg
     url: /files/original/NAD-200401382211.jpg
+    alt:
+      en: "Black-and-white photo of two braceros sitting on cots in a dimly lit dormitory, surrounded by hanging clothes, a hat, and taped-up papers on brick walls, with rows of beds in the foreground."
+      es: "Fotografía en blanco y negro de dos braceros sentados en catres en un dormitorio poco iluminado, rodeados de ropa colgada, un sombrero y papeles pegados en paredes de ladrillo, con hileras de camas en primer plano."
 geo:
 id: 1911
 item_type: Still Image

@@ -43,6 +43,9 @@ files:
     original_filename: VelasquezLucioPedro - mica2.jpg
     thumb: /files/thumbnails/velasquezluciopedro---mica2_96ae552f44.jpg
     url: /files/original/velasquezluciopedro---mica2_96ae552f44.jpg
+    alt:
+      en: "Identification card featuring a black-and-white photograph of a young man with tousled hair, identification numbers \"112\" below his image, and partial printed text reading \"NTIFICATION CARD.\""
+      es: "Tarjeta de identificación con una fotografía en blanco y negro de un hombre joven de cabello despeinado, los números \"112\" debajo de su imagen, y texto impreso parcial que dice \"NTIFICATION CARD\"."
 geo:
 id: 1013
 item_type: Document

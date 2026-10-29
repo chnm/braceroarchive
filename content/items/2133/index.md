@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.43.jpg
     thumb: /files/thumbnails/NAD-200401382943.jpg
     url: /files/original/NAD-200401382943.jpg
+    alt:
+      en: "Black-and-white photo of men lined up along a sidewalk beneath the State Theater marquee, which reads \"Miercoles Cantinflitas En Persona,\" with cars and storefronts visible down the street."
+      es: "Foto en blanco y negro de hombres formados en fila junto a una acera bajo la marquesina del Teatro State, que dice \"Miércoles Cantinflitas En Persona\", con autos y tiendas visibles calle abajo."
 geo:
 id: 2133
 item_type: Still Image

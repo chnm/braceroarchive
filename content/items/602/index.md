@@ -44,6 +44,9 @@ files:
     original_filename: Tarjeta de Pre-Seleccion.jpg
     thumb: /files/thumbnails/tarjeta-de-pre-seleccion_bf053eb3b4.jpg
     url: /files/original/tarjeta-de-pre-seleccion_bf053eb3b4.jpg
+    alt:
+      en: "Pre-selection card for bracero Juan Loza González, with photo, municipal and personal details, dated Guanajuato, May 23, 1963, and signed by the Secretary of Government."
+      es: "Tarjeta de preselección de bracero Juan Loza González, con fotografía, datos municipales y personales, fechada en Guanajuato el 23 de mayo de 1963 y firmada por el Secretario de Gobierno."
 geo:
 id: 602
 item_type: Document

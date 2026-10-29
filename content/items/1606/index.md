@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.05.jpg
     thumb: /files/thumbnails/NAD-200401381205.jpg
     url: /files/original/NAD-200401381205.jpg
+    alt:
+      en: "Black-and-white photo of men wearing hats standing in line beside a bus parked near a building, with cars and a warehouse visible in the background at the Hidalgo Processing Center, Texas."
+      es: "Foto en blanco y negro de hombres con sombreros formados en fila junto a un autobús estacionado cerca de un edificio, con autos y una bodega visibles al fondo en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1606
 item_type: Still Image

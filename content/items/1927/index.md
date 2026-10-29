@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.27.jpg
     thumb: /files/thumbnails/NAD-200401382227.jpg
     url: /files/original/NAD-200401382227.jpg
+    alt:
+      en: "A man in a light shirt and dark boots leans over a wooden washing basin in a dimly lit wooden room, scrubbing laundry under a single hanging light bulb."
+      es: "Un hombre con camisa clara y botas oscuras se inclina sobre una tina de madera en un cuarto de madera poco iluminado, lavando ropa bajo un foco colgante."
 geo:
 id: 1927
 item_type: Still Image

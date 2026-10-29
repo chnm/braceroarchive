@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.37.jpg
     thumb: /files/thumbnails/NAD-200401384937.jpg
     url: /files/original/NAD-200401384937.jpg
+    alt:
+      en: "A bracero stoops over with a short-handled hoe in a pepper field, with other workers scattered across the rows under a hazy sky and distant hills."
+      es: "Un bracero se inclina con un azadón de mango corto en un campo de chiles, mientras otros trabajadores se dispersan entre los surcos bajo un cielo brumoso y colinas distantes."
 geo:
 id: 2814
 item_type: Still Image

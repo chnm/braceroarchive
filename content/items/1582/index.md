@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.10.36.jpg
     thumb: /files/thumbnails/NAD-200401381036.jpg
     url: /files/original/NAD-200401381036.jpg
+    alt:
+      en: "A man wearing a wide-brimmed hat crouches beneath a tree beside a creek, washing clothes in the water, with sparse orchard trees and distant buildings in the background."
+      es: "Un hombre con sombrero de ala ancha se agacha bajo un árbol junto a un arroyo, lavando ropa en el agua, con árboles frutales dispersos y edificios lejanos al fondo."
 geo:
 id: 1582
 item_type: Still Image

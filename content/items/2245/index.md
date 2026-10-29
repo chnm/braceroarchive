@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.33.01.jpg
     thumb: /files/thumbnails/NAD-200401383301.jpg
     url: /files/original/NAD-200401383301.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing straw hats bent over picking lettuce in a field, with a \"Toro\" lettuce box visible among the rows, Salinas Valley, California."
+      es: "Fotografía en blanco y negro de braceros con sombreros de paja agachados cosechando lechuga en un campo, con una caja de lechuga \"Toro\" visible entre las hileras, Valle de Salinas, California."
 geo:
 id: 2245
 item_type: Still Image

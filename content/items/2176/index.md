@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.36.jpg
     thumb: /files/thumbnails/NAD-200401383136.jpg
     url: /files/original/NAD-200401383136.jpg
+    alt:
+      en: "Black-and-white photo of an overhead metal sign reading \"CASTROVILLE / THE ARTICHOKE CENTER OF THE WORLD,\" mounted on a steel gantry above the roadway with utility poles and wires in the background."
+      es: "Foto en blanco y negro de un letrero metálico elevado que dice \"CASTROVILLE / THE ARTICHOKE CENTER OF THE WORLD\", montado sobre una estructura de acero con postes y cables eléctricos al fondo."
 geo:
 id: 2176
 item_type: Still Image

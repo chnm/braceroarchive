@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.10.jpg
     thumb: /files/thumbnails/NAD-200401382110.jpg
     url: /files/original/NAD-200401382110.jpg
+    alt:
+      en: "Two braceros play cards on a bed in a sparse camp living quarter, with a shelf of personal items and a small stove visible in the room."
+      es: "Dos braceros juegan cartas sobre una cama en un cuarto sencillo del campamento, con un estante de objetos personales y una pequeña estufa visibles en la habitación."
 geo:
 id: 1876
 item_type: Still Image

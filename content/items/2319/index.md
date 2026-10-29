@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.35.35.jpg
     thumb: /files/thumbnails/NAD-200401383535.jpg
     url: /files/original/NAD-200401383535.jpg
+    alt:
+      en: "A bracero reclines on a bed between two other cots in a sparse dormitory room, with a shirt hanging from an overhead cabinet and clothes piled on a nearby bunk."
+      es: "Un bracero descansa recostado en una cama entre otros dos catres en un dormitorio austero, con una camisa colgada de un gabinete superior y ropa amontonada sobre una litera cercana."
 geo:
 id: 2319
 item_type: Still Image

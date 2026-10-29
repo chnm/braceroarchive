@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.02.jpg
     thumb: /files/thumbnails/NAD-200401384702.jpg
     url: /files/original/NAD-200401384702.jpg
+    alt:
+      en: "A nurse in uniform and cap examines a seated man's face in a medical office, with a lamp, shelves of supplies, and a telephone visible in the background."
+      es: "Una enfermera con uniforme y cofia examina el rostro de un hombre sentado en un consultorio médico, con una lámpara, estantes con suministros y un teléfono visibles al fondo."
 geo:
 id: 2731
 item_type: Still Image

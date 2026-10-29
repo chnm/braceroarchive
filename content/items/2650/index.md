@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.17.jpg
     thumb: /files/thumbnails/NAD-200401384417.jpg
     url: /files/original/NAD-200401384417.jpg
+    alt:
+      en: "Black-and-white photo of a line of men standing outside an office in California, some holding papers, as an official distributes paychecks near the doorway."
+      es: "Fotografía en blanco y negro de una fila de hombres parados afuera de una oficina en California, algunos sosteniendo papeles, mientras un funcionario reparte cheques de pago cerca de la puerta."
 geo:
 id: 2650
 item_type: Still Image

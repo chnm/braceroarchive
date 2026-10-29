@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.03.jpg
     thumb: /files/thumbnails/NAD-200401380803.jpg
     url: /files/original/NAD-200401380803.jpg
+    alt:
+      en: "Black-and-white photo of a woman standing in an archway handing clothing to children, inside a home with calendars and posters hanging on the walls."
+      es: "Foto en blanco y negro de una mujer de pie en un arco entregando ropa a unos niños, dentro de una casa con calendarios y carteles colgados en las paredes."
 geo:
 id: 1490
 item_type: Still Image

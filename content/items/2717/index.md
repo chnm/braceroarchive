@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.24.jpg
     thumb: /files/thumbnails/NAD-200401384624.jpg
     url: /files/original/NAD-200401384624.jpg
+    alt:
+      en: "Interior of a dimly lit barracks with rows of bunk beds, clothing hanging from overhead lines, and a bare bulb casting light near a doorway."
+      es: "Interior de un barracón poco iluminado con filas de literas, ropa colgada en líneas sobre ellas y una bombilla desnuda que ilumina cerca de una puerta."
 geo:
 id: 2717
 item_type: Still Image

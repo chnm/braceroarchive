@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.12.jpg
     thumb: /files/thumbnails/NAD-200401385212.jpg
     url: /files/original/NAD-200401385212.jpg
+    alt:
+      en: "Stacked crates labeled \"california strawberries\" sit in a dirt field, with rows of strawberry plants stretching toward workers bending in the distance under a wide sky."
+      es: "Cajas apiladas con la etiqueta \"california strawberries\" en un campo de tierra, con hileras de fresas que se extienden hacia trabajadores agachados a lo lejos bajo un cielo amplio."
 geo:
 id: 2878
 item_type: Still Image

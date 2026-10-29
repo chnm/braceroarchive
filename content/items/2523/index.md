@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.12.jpg
     thumb: /files/thumbnails/NAD-200401384012.jpg
     url: /files/original/NAD-200401384012.jpg
+    alt:
+      en: "Black-and-white photo of a lettuce field with workers near a truck loaded with crates, another truck visible in the distance, and mountains on the horizon."
+      es: "Foto en blanco y negro de un campo de lechugas con trabajadores cerca de un camión cargado de cajas, otro camión a lo lejos y montañas en el horizonte."
 geo:
 id: 2523
 item_type: Still Image

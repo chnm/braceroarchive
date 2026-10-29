@@ -44,6 +44,9 @@ files:
     original_filename: NAD-2004.0138.10.34.jpg
     thumb: /files/thumbnails/NAD-200401381034.jpg
     url: /files/original/NAD-200401381034.jpg
+    alt:
+      en: "A group of men walks along a dirt road beside a barbed-wire fence, passing a makeshift grave marked with a cross and a mound of stones, a water tower visible in the distance."
+      es: "Un grupo de hombres camina por un camino de tierra junto a una cerca de alambre de púas, pasando una tumba improvisada marcada con una cruz y un montículo de piedras, con una torre de agua visible a lo lejos."
 geo:
 id: 1580
 item_type: Still Image

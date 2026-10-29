@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.13.jpg
     thumb: /files/thumbnails/NAD-200401385213.jpg
     url: /files/original/NAD-200401385213.jpg
+    alt:
+      en: "A worker stacks wooden crates labeled \"Red Giant\" filled with strawberries along a dirt path beside a field, with more crates and a truck visible in the background."
+      es: "Un trabajador apila cajas de madera etiquetadas \"Red Giant\" llenas de fresas junto a un camino de tierra al borde de un campo, con más cajas y un camión al fondo."
 geo:
 id: 2879
 item_type: Still Image

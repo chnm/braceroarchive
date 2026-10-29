@@ -44,6 +44,9 @@ files:
     original_filename: misctomlin.jpg
     thumb: /files/thumbnails/misctomlin_16deee16b8.jpg
     url: /files/original/misctomlin_16deee16b8.jpg
+    alt:
+      en: "Photo album page with six rotated snapshots: a man's portrait, two field scenes with workers, men leaning against a car, and a man seated on a wall, all in faded vintage color and black-and-white tones."
+      es: "Página de álbum con seis fotografías giradas: el retrato de un hombre, dos escenas de campo con trabajadores, hombres recostados junto a un auto y un hombre sentado en un muro, en tonos color desgastado y blanco y negro."
 geo:
 id: 575
 item_type: Still Image

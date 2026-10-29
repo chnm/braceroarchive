@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.51.02.jpg
     thumb: /files/thumbnails/NAD-200401385102.jpg
     url: /files/original/NAD-200401385102.jpg
+    alt:
+      en: "Rows of metal cots line a dormitory room where braceros rest, with clothing hung along the walls and above the beds in this California labor camp."
+      es: "Filas de catres metálicos ocupan una habitación del dormitorio donde descansan los braceros, con ropa colgada en las paredes y sobre las camas en este campamento laboral de California."
 geo:
 id: 2844
 item_type: Still Image

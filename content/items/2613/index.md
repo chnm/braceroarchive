@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.05.jpg
     thumb: /files/thumbnails/NAD-200401384305.jpg
     url: /files/original/NAD-200401384305.jpg
+    alt:
+      en: "Black-and-white photo of a vast lettuce field in California's Salinas Valley, with distant figures performing stoop labor; a large tree frames the right foreground under an overcast sky."
+      es: "Fotografía en blanco y negro de un extenso campo de lechuga en el Valle de Salinas, California, con figuras distantes realizando trabajo agachado; un gran árbol enmarca el primer plano derecho bajo un cielo nublado."
 geo:
 id: 2613
 item_type: Still Image

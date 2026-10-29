@@ -41,6 +41,9 @@ files:
     original_filename: GonzalezLorenzoImperial.jpg
     thumb: /files/thumbnails/gonzalezlorenzoimperial_535c9c1334.jpg
     url: /files/original/gonzalezlorenzoimperial_535c9c1334.jpg
+    alt:
+      en: "Black-and-white photo of a vintage car parked on open, dusty ground, with a man leaning out the driver's window waving, set against a plain sky and distant horizon."
+      es: "Fotografía en blanco y negro de un auto antiguo estacionado sobre terreno polvoriento y abierto, con un hombre asomado por la ventana del conductor saludando, bajo un cielo despejado y horizonte distante."
 geo:
 id: 983
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.03.07.jpg
     thumb: /files/thumbnails/NAD-200401380307.jpg
     url: /files/original/NAD-200401380307.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat hands a document to a seated official at a table, with other men waiting in line inside the Monterrey Processing Center."
+      es: "Un bracero con sombrero de ala ancha entrega un documento a un oficial sentado en una mesa, mientras otros hombres esperan en fila dentro del Centro de Contratación de Monterrey."
 geo:
 id: 1327
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: belen on bike.jpg
     thumb: /files/thumbnails/belen-on-bike_55b0d11953.jpg
     url: /files/original/belen-on-bike_55b0d11953.jpg
+    alt:
+      en: "Black-and-white photo of Belen Soto Moreno standing with a bicycle on a paved lot, wearing a pleated skirt and sweater, with palm trees and a chain-link fence in the background."
+      es: "Fotografía en blanco y negro de Belen Soto Moreno de pie junto a una bicicleta en un terreno pavimentado, con falda plisada y suéter, palmeras y una reja de malla metálica al fondo."
 geo:
 id: 3048
 item_type: Still Image

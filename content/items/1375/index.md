@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.03.jpg
     thumb: /files/thumbnails/NAD-200401380403.jpg
     url: /files/original/NAD-200401380403.jpg
+    alt:
+      en: "Large outdoor crowd of men in hats gathered near fenced enclosures and tables at the Monterrey Processing Center, with hills and distant buildings visible in the background."
+      es: "Gran multitud de hombres con sombreros reunidos cerca de cercados y mesas en el Centro de Procesamiento de Monterrey, con colinas y edificios distantes al fondo."
 geo:
 id: 1375
 item_type: Still Image

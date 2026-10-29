@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.02.jpg
     thumb: /files/thumbnails/NAD-200401385202.jpg
     url: /files/original/NAD-200401385202.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers wearing wide-brimmed hats stacking wooden crates of strawberries at a field's edge, with rows of crops and hills in the background."
+      es: "Foto en blanco y negro de trabajadores agrícolas con sombreros de ala ancha apilando cajas de madera con fresas al borde de un campo, con surcos de cultivos y colinas al fondo."
 geo:
 id: 2868
 item_type: Still Image

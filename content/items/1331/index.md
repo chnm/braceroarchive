@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.03.43.jpg
     thumb: /files/thumbnails/NAD-200401380343.jpg
     url: /files/original/NAD-200401380343.jpg
+    alt:
+      en: "Long lines of braceros wait in an open dirt yard near a low building, with a small cart in the foreground as people queue in the sun."
+      es: "Largas filas de braceros esperan en un patio de tierra cerca de un edificio bajo, con un pequeño carrito en primer plano mientras la gente hace fila bajo el sol."
 geo:
 id: 1331
 item_type: Still Image

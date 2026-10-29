@@ -46,6 +46,9 @@ files:
     original_filename: cobarruvias, isaura- father mica card2.jpg
     thumb: /files/thumbnails/cobarruvias,-isaura--father-mica-card2_b8a6745cdd.jpg
     url: /files/original/cobarruvias,-isaura--father-mica-card2_b8a6745cdd.jpg
+    alt:
+      en: "Alien laborer's identification card for Cobarruvias Valdez, Leonardo, born 4-12-17 in Toltiche, Jal., issued in El Paso, Texas on 9-19-56, numbered L-2542770, marked MICA."
+      es: "Tarjeta de identificación de trabajador extranjero a nombre de Cobarruvias Valdez, Leonardo, nacido el 4-12-17 en Toltiche, Jal., emitida en El Paso, Texas el 9-19-56, con el número L-2542770, marcada MICA."
 geo:
 id: 918
 item_type: Document

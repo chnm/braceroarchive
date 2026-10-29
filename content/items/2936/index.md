@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.09.jpg
     thumb: /files/thumbnails/NAD-200401385509.jpg
     url: /files/original/NAD-200401385509.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat stands in a lettuce field, holding a box-closing tool beside a “TORO” carton, with other workers and hills visible in the background."
+      es: "Un bracero con sombrero de ala ancha está de pie en un campo de lechugas, sosteniendo una herramienta para cerrar cajas junto a una caja \"TORO\", con otros trabajadores y colinas al fondo."
 geo:
 id: 2936
 item_type: Still Image

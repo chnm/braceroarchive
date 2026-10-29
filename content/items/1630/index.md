@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.13.02.jpg
     thumb: /files/thumbnails/NAD-200401381302.jpg
     url: /files/original/NAD-200401381302.jpg
+    alt:
+      en: "Black-and-white photo of a rural courtyard with several pigs foraging near cornstalks, while people stand by a stone house and wooden fence, hills visible in the background."
+      es: "Foto en blanco y negro de un patio rural con varios cerdos buscando comida junto a mazorcas de maíz, mientras personas están junto a una casa de piedra y una cerca de madera, con cerros al fondo."
 geo:
 id: 1630
 item_type: Still Image

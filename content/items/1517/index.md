@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.30.jpg
     thumb: /files/thumbnails/NAD-200401380830.jpg
     url: /files/original/NAD-200401380830.jpg
+    alt:
+      en: "Black-and-white photo of an office in Mexico City where an official at a cluttered desk interviews two standing braceros, one holding a hat, while another man reviews documents nearby."
+      es: "Foto en blanco y negro de una oficina en la Ciudad de México donde un funcionario en un escritorio lleno de papeles entrevista a dos braceros de pie, uno con un sombrero, mientras otro hombre revisa documentos cerca."
 geo:
 id: 1517
 item_type: Still Image

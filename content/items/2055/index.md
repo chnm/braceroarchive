@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.32.jpg
     thumb: /files/thumbnails/NAD-200401382632.jpg
     url: /files/original/NAD-200401382632.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat stands amid rows of pepper plants, with several other workers bent over tending crops in the background field."
+      es: "Un bracero con sombrero de ala ancha está de pie entre hileras de plantas de chile, mientras varios trabajadores se inclinan atendiendo los cultivos al fondo del campo."
 geo:
 id: 2055
 item_type: Still Image

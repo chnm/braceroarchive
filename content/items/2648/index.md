@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.15.jpg
     thumb: /files/thumbnails/NAD-200401384415.jpg
     url: /files/original/NAD-200401384415.jpg
+    alt:
+      en: "A man reclines on a bed in a wood-paneled room, reading a book, with clothes hanging on hooks on the wall behind him."
+      es: "Un hombre reclinado en una cama lee un libro en una habitación con paredes de madera, con ropa colgada en ganchos sobre la pared detrás de él."
 geo:
 id: 2648
 item_type: Still Image

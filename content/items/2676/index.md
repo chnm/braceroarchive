@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.09.jpg
     thumb: /files/thumbnails/NAD-200401384509.jpg
     url: /files/original/NAD-200401384509.jpg
+    alt:
+      en: "Black-and-white photo of an official in sunglasses and a white shirt addressing a group of hatted braceros gathered at a field's edge, with a truck parked nearby in California."
+      es: "Foto en blanco y negro de un oficial con lentes de sol y camisa blanca hablando con un grupo de braceros con sombreros reunidos al borde de un campo, con un camión cercano en California."
 geo:
 id: 2676
 item_type: Still Image

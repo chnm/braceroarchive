@@ -44,6 +44,9 @@ files:
     original_filename: MR. DELGADO-RIO VISTA NOV2006-002.JPG
     thumb: /files/thumbnails/mr-delgado-rio-vista-nov2006-002_96e04c5127.jpg
     url: /files/original/mr-delgado-rio-vista-nov2006-002_96e04c5127.jpg
+    alt:
+      en: "Older man in a white cowboy hat and shirt holding a binder, standing before weathered buildings with a tiled roof at Rio Vista."
+      es: "Hombre mayor con sombrero vaquero blanco y camisa blanca, sosteniendo una carpeta, de pie frente a edificios desgastados con techo de tejas en Rio Vista."
 geo:
 id: 951
 item_type: Still Image

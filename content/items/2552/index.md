@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.04.jpg
     thumb: /files/thumbnails/NAD-200401384104.jpg
     url: /files/original/NAD-200401384104.jpg
+    alt:
+      en: "Three braceros sit on folding chairs playing cards in a sparse living quarter, with clothing hanging on the wall and shoes set on the floor nearby."
+      es: "Tres braceros sentados en sillas plegables juegan cartas en un dormitorio austero, con ropa colgada en la pared y zapatos en el suelo cerca de ellos."
 geo:
 id: 2552
 item_type: Still Image

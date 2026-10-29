@@ -44,6 +44,9 @@ files:
     original_filename: Lopez Leon, Asterio3A.jpg
     thumb: /files/thumbnails/lopez-leon,-asterio3a_a409f6fe87.jpg
     url: /files/original/lopez-leon,-asterio3a_a409f6fe87.jpg
+    alt:
+      en: "Baptismal certificate titled \"Parroquia de San Antonio de Padua, Fe de Bautismo\" for Jose Asterio Leon Lopez, with filled-in handwritten details and an official purple parish stamp at the bottom."
+      es: "Certificado de bautismo titulado \"Parroquia de San Antonio de Padua, Fe de Bautismo\" de José Asterio León López, con datos manuscritos y un sello morado de la parroquia al final."
 geo:
 id: 1249
 item_type: Document

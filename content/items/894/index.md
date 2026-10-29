@@ -46,6 +46,9 @@ files:
     original_filename: Recibos Envio dinero Western Union 1957.jpg
     thumb: /files/thumbnails/recibos-envio-dinero-western-union-1957_cfaffe642a.jpg
     url: /files/original/recibos-envio-dinero-western-union-1957_cfaffe642a.jpg
+    alt:
+      en: "Two Western Union Telegraph Company receipts from Liborio Santiago, Calipatria, Cal., dated 9/16/1957 ($28.57) and 10/24/1957 ($64.17), sent to Sra. Victoria Diaz, Independencia #18, Etla Oax Mex."
+      es: "Dos recibos de The Western Union Telegraph Company de Liborio Santiago, Calipatria, Cal., fechados 9/16/1957 ($28.57) y 10/24/1957 ($64.17), enviados a Sra. Victoria Díaz, Independencia #18, Etla Oax Méx."
 geo:
 id: 894
 item_type: Document

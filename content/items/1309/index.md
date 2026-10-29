@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.26.jpg
     thumb: /files/thumbnails/NAD-200401380226.jpg
     url: /files/original/NAD-200401380226.jpg
+    alt:
+      en: "Black-and-white photo of men standing in line under a wooden pavilion roof at the Hidalgo Processing Center, Texas, viewed from behind as a grower's agent inspects braceros."
+      es: "Foto en blanco y negro de hombres formados en fila bajo el techo de un cobertizo de madera en el Centro de Procesamiento de Hidalgo, Texas, vistos de espaldas mientras un agente de contratación inspecciona a los braceros."
 geo:
 id: 1309
 item_type: Still Image

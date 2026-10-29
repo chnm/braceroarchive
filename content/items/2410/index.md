@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.02.jpg
     thumb: /files/thumbnails/NAD-200401383702.jpg
     url: /files/original/NAD-200401383702.jpg
+    alt:
+      en: "Black-and-white photo of a man standing on a flatbed truck operating a box-assembly machine, while workers in a lettuce field fill crates labeled \"TORO,\" with more laborers visible across the open field."
+      es: "Foto en blanco y negro de un hombre parado en un camión operando una máquina ensambladora de cajas, mientras trabajadores en un campo de lechuga llenan cajas marcadas \"TORO\", con más jornaleros visibles en el campo abierto."
 geo:
 id: 2410
 item_type: Still Image

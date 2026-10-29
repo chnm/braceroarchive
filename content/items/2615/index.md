@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.07.jpg
     thumb: /files/thumbnails/NAD-200401384307.jpg
     url: /files/original/NAD-200401384307.jpg
+    alt:
+      en: "Black-and-white photo of workers wearing hats bent over long rows of lettuce in a field, with farm buildings, trees, and power lines visible in the background."
+      es: "Fotografía en blanco y negro de trabajadores con sombreros inclinados sobre largas hileras de lechuga en un campo, con edificios de granja, árboles y líneas eléctricas al fondo."
 geo:
 id: 2615
 item_type: Still Image

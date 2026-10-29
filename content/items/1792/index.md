@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.18.39.jpg
     thumb: /files/thumbnails/NAD-200401381839.jpg
     url: /files/original/NAD-200401381839.jpg
+    alt:
+      en: "Black-and-white photo of men in a cotton field near a tripod scale, one hoisting a large cotton sack, with workers picking cotton in the background near McAllen, Texas."
+      es: "Foto en blanco y negro de hombres en un campo de algodón junto a una báscula de trípode, uno de ellos levantando un gran costal de algodón, con trabajadores cosechando al fondo cerca de McAllen, Texas."
 geo:
 id: 1792
 item_type: Still Image

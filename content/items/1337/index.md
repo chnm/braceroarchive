@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.03.37.jpg
     thumb: /files/thumbnails/NAD-200401380337.jpg
     url: /files/original/NAD-200401380337.jpg
+    alt:
+      en: "Rows of men wearing wide-brimmed hats sit closely together at long tables eating from plates in a large dining hall with tall windows and concrete pillars."
+      es: "Filas de hombres con sombreros de ala ancha sentados juntos en mesas largas comiendo de platos en un amplio comedor con ventanales altos y columnas de concreto."
 geo:
 id: 1337
 item_type: Still Image

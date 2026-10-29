@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.27.jpg
     thumb: /files/thumbnails/NAD-200401381927.jpg
     url: /files/original/NAD-200401381927.jpg
+    alt:
+      en: "Aerial black-and-white photo of a winding river bordered by trees, with a patchwork of cultivated farm fields and a tractor visible in the distance, California."
+      es: "Foto aérea en blanco y negro de un río sinuoso bordeado de árboles, con un mosaico de campos de cultivo y un tractor visible a lo lejos, California."
 geo:
 id: 1804
 item_type: Still Image

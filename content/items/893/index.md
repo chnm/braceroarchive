@@ -44,6 +44,9 @@ files:
     original_filename: Foto La Villa, Ciudad Mexico 1951 (regreso de EU).jpg
     thumb: /files/thumbnails/foto-la-villa,-ciudad-mexico-1951-(regreso-de-eu)_8ae7b98fa3.jpg
     url: /files/original/foto-la-villa,-ciudad-mexico-1951-(regreso-de-eu)_8ae7b98fa3.jpg
+    alt:
+      en: "Sepia-toned photograph of a man in a pinstriped suit standing before a painted mural depicting a church, religious figure, and landscape, with \"Recuerdo de la Villa\" lettered at the top."
+      es: "Fotografía en tono sepia de un hombre con traje de rayas de pie frente a un mural pintado que muestra una iglesia, una figura religiosa y un paisaje, con la leyenda \"Recuerdo de la Villa\" en la parte superior."
 geo:
 id: 893
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.06.34.jpg
     thumb: /files/thumbnails/NAD-200401380634.jpg
     url: /files/original/NAD-200401380634.jpg
+    alt:
+      en: "Large crowd of men in hats lined up along a wooden fence at an outdoor processing area, with several men walking along a dirt path carrying bags."
+      es: "Gran multitud de hombres con sombreros formados a lo largo de una cerca de madera en un área de procesamiento al aire libre, mientras varios hombres caminan por un sendero de tierra cargando bolsas."
 geo:
 id: 1444
 item_type: Still Image

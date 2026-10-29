@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.11.jpg
     thumb: /files/thumbnails/NAD-200401385511.jpg
     url: /files/original/NAD-200401385511.jpg
+    alt:
+      en: "Three men sit on a bench facing a street lined with parked cars, with the \"National Dollar Stores\" storefront and other shops visible in the background."
+      es: "Tres hombres sentados en una banca frente a una calle con autos estacionados, con la fachada de \"National Dollar Stores\" y otros comercios al fondo."
 geo:
 id: 2938
 item_type: Still Image

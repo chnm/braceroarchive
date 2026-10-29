@@ -35,6 +35,9 @@ files:
     original_filename: Garcia Roberto - (brother\'s mica 1).jpg
     thumb: /files/thumbnails/garcia-roberto---(brothers-mica-1)_572ba8c5e3.jpg
     url: /files/original/garcia-roberto---(brothers-mica-1)_572ba8c5e3.jpg
+    alt:
+      en: "Back of a MICA card for Garcia-Sanchez, B. Baudelio, born 5-14-27 in Mexticacan, Jal., listing home address Rcho Cocuelos; issued at Calexico, Calif. on 8-17-56, number L-2450351."
+      es: "Reverso de una tarjeta MICA de Garcia-Sánchez, B. Baudelio, nacido el 5-14-27 en Mexticacan, Jal., con domicilio en Rcho Cocuelos; emitida en Calexico, Calif. el 8-17-56, número L-2450351."
 geo:
 id: 786
 item_type: Document

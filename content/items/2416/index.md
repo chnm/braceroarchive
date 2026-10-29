@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.16.jpg
     thumb: /files/thumbnails/NAD-200401383716.jpg
     url: /files/original/NAD-200401383716.jpg
+    alt:
+      en: "Black-and-white photo of a vast lettuce field with rows of crops in the foreground, while a group of braceros gathers at the field's edge near parked vehicles and utility poles in the distance."
+      es: "Fotografía en blanco y negro de un extenso campo de lechugas con hileras de cultivos en primer plano, mientras un grupo de braceros se reúne al borde del campo cerca de vehículos y postes de luz al fondo."
 geo:
 id: 2416
 item_type: Still Image

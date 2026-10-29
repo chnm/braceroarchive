@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.21.jpg
     thumb: /files/thumbnails/NAD-200401382821.jpg
     url: /files/original/NAD-200401382821.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated at tables in a dining hall, eating plated meals and drinking bottled beverages, with more diners visible in the background."
+      es: "Foto en blanco y negro de braceros sentados a la mesa en un comedor, comiendo platillos servidos y bebiendo de botellas, con más comensales visibles al fondo."
 geo:
 id: 2111
 item_type: Still Image

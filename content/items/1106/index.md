@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 16.jpg
     thumb: /files/thumbnails/velasco-patino-16_cb7b2171b3.jpg
     url: /files/original/velasco-patino-16_cb7b2171b3.jpg
+    alt:
+      en: "Pink Coachella Valley Farmers Association travel pass addressed to immigration officers, granting Nepomuceno Gonzalez a 48-hour pass to visit Mexicali, dated 2/6/1955 and signed by the manager."
+      es: "Pase de viaje rosa de la Asociación de Agricultores del Valle de Coachella dirigido a oficiales de inmigración, otorgando a Nepomuceno Gonzalez un pase de 48 horas para visitar Mexicali, fechado 2/6/1955 y firmado por el gerente."
 geo:
 id: 1106
 item_type: Document

@@ -46,6 +46,9 @@ files:
     original_filename: SantosNuñez-04.jpg
     thumb: /files/thumbnails/santosnuñez-04_60bdf24b0d.jpg
     url: /files/original/santosnuñez-04_60bdf24b0d.jpg
+    alt:
+      en: "Permit card from the Gobierno del Estado de Durango, Departamento de Trabajo, stamped \"VISTO BUENO\" and signed by Lic. Roberto Moreno Quintana, dated 10 SET. 1958, noting travel from Durango to Chihuahua."
+      es: "Tarjeta de permiso del Gobierno del Estado de Durango, Departamento de Trabajo, con sello \"VISTO BUENO\" firmado por el Lic. Roberto Moreno Quintana, fechada 10 SET. 1958, indicando viaje de Durango a Chihuahua."
 geo:
 id: 519
 item_type: Document

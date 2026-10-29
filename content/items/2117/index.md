@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.27.jpg
     thumb: /files/thumbnails/NAD-200401382827.jpg
     url: /files/original/NAD-200401382827.jpg
+    alt:
+      en: "Black-and-white photo of braceros in a dining hall serving beans from a large pot into their plates, with a kitchen and stove visible in the background."
+      es: "Foto en blanco y negro de braceros en un comedor sirviendo frijoles de una gran olla en sus platos, con una cocina y estufa visibles al fondo."
 geo:
 id: 2117
 item_type: Still Image

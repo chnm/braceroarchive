@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.33.jpg
     thumb: /files/thumbnails/NAD-200401380833.jpg
     url: /files/original/NAD-200401380833.jpg
+    alt:
+      en: "A man in a suit collects documents from a line of men wearing hats, each holding papers and identification cards, in an outdoor setting in Mexico City."
+      es: "Un hombre de traje recolecta documentos de una fila de hombres con sombreros, cada uno sosteniendo papeles y tarjetas de identificación, en un espacio al aire libre en la Ciudad de México."
 geo:
 id: 1520
 item_type: Still Image

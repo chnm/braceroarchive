@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.15.jpg
     thumb: /files/thumbnails/NAD-200401382715.jpg
     url: /files/original/NAD-200401382715.jpg
+    alt:
+      en: "Black-and-white photo of two men walking along a dirt road toward Gondo Labor Camp as a box truck passes, with farm fields, buildings, and rolling hills in the background."
+      es: "Foto en blanco y negro de dos hombres caminando por un camino de tierra hacia el Campo Laboral Gondo mientras un camión de carga pasa, con campos agrícolas, edificios y colinas al fondo."
 geo:
 id: 2074
 item_type: Still Image

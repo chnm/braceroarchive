@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.53.08.jpg
     thumb: /files/thumbnails/NAD-200401385308.jpg
     url: /files/original/NAD-200401385308.jpg
+    alt:
+      en: "Black-and-white photo of men in a dining hall cafeteria line, holding partitioned trays as food is served from large metal pans filled with noodles and other dishes on a long counter."
+      es: "Fotografía en blanco y negro de hombres en una fila de cafetería, sosteniendo bandejas con compartimentos mientras se sirve comida desde grandes charolas metálicas con fideos y otros platillos sobre un mostrador largo."
 geo:
 id: 2899
 item_type: Still Image

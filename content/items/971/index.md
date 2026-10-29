@@ -43,6 +43,9 @@ files:
     original_filename: Garcia Roberto - passport1.jpg
     thumb: /files/thumbnails/garcia-roberto---passport1_c4ad1b4fd9.jpg
     url: /files/original/garcia-roberto---passport1_c4ad1b4fd9.jpg
+    alt:
+      en: "Mexican passport page with printed Spanish text on identification card rules, featuring stamped military reserve sections (\"PRIMERA,\" \"SEGUNDA,\" \"TERCERA RESERVA\") and a blue \"11 DIC. 1966\" stamp with matrícula number 1341980."
+      es: "Página del pasaporte mexicano con texto impreso sobre normas de la Cartilla de Identificación, secciones selladas de reserva militar (\"PRIMERA\", \"SEGUNDA\", \"TERCERA RESERVA\") y un sello azul \"11 DIC. 1966\" con matrícula número 1341980."
 geo:
 id: 971
 item_type: Document

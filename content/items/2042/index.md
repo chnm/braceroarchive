@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.19.jpg
     thumb: /files/thumbnails/NAD-200401382619.jpg
     url: /files/original/NAD-200401382619.jpg
+    alt:
+      en: "Workers gather and walk along a dirt road beside a large cultivated field, with power lines and distant hills visible under an open sky in Salinas Valley, California."
+      es: "Trabajadores se reúnen y caminan por un camino de tierra junto a un gran campo cultivado, con líneas eléctricas y colinas lejanas bajo un cielo despejado en el Valle de Salinas, California."
 geo:
 id: 2042
 item_type: Still Image

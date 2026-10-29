@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.24.jpg
     thumb: /files/thumbnails/NAD-200401384324.jpg
     url: /files/original/NAD-200401384324.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing cowboy hats and jackets boarding a bus in the Salinas Valley, California, with one man smiling at the camera."
+      es: "Fotografía en blanco y negro de braceros con sombreros vaqueros y chaquetas subiendo a un autobús en el Valle de Salinas, California, con un hombre sonriendo a la cámara."
 geo:
 id: 2631
 item_type: Still Image

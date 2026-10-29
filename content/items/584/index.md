@@ -46,6 +46,9 @@ files:
     original_filename: Instructivo p.1.jpg
     thumb: /files/thumbnails/instructivo-p1_8d681e4365.jpg
     url: /files/original/instructivo-p1_8d681e4365.jpg
+    alt:
+      en: "Weathered booklet cover with teal inside flap, titled \"Instructivo para los Trabajadores Agrícolas Mexicanos (Braceros)\" issued by Secretaria de Relaciones Exteriores, Mexico, D.F., 1960."
+      es: "Portada de folleto desgastado con solapa interior color verde azulado, titulado \"Instructivo para los Trabajadores Agrícolas Mexicanos (Braceros)\", emitido por la Secretaría de Relaciones Exteriores, México, D.F., 1960."
 geo:
 id: 584
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: Contrato Junio 5, 1946 (atras, inferior).jpg
     thumb: /files/thumbnails/contrato-junio-5,-1946-(atras,-inferior)_5fa7a2e78e.jpg
     url: /files/original/contrato-junio-5,-1946-(atras,-inferior)_5fa7a2e78e.jpg
+    alt:
+      en: "Bilingual (Spanish/English) printed bracero work contract continuation page with numbered clauses, signed by Rodolfo Cruz Figueroa on June 5, 1946, bearing a circular \"Irapuato, Gto.\" stamp and contracting agent signature."
+      es: "Página de continuación de contrato de trabajo bracero, bilingüe (español/inglés), con cláusulas numeradas, firmada por Rodolfo Cruz Figueroa el 5 de junio de 1946, con sello circular \"Irapuato, Gto.\" y firma del agente contratante."
 geo:
 id: 842
 item_type: Document

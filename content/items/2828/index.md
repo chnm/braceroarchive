@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.13.jpg
     thumb: /files/thumbnails/NAD-200401385013.jpg
     url: /files/original/NAD-200401385013.jpg
+    alt:
+      en: "Black-and-white photo of men riding in the bed of a pickup truck outside the \"Cafe Horseshoe Club,\" flanked by Coca-Cola signs, with onlookers seated nearby."
+      es: "Fotografía en blanco y negro de hombres viajando en la caja de una camioneta frente al \"Cafe Horseshoe Club\", flanqueado por carteles de Coca-Cola, con espectadores sentados cerca."
 geo:
 id: 2828
 item_type: Still Image

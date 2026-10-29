@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.42.jpg
     thumb: /files/thumbnails/NAD-200401382042.jpg
     url: /files/original/NAD-200401382042.jpg
+    alt:
+      en: "Men on a flatbed truck assemble \"Cookie\" brand lettuce boxes using a machine, while rows of braceros harvest lettuce in a vast Salinas Valley field in the background."
+      es: "Hombres en un camión plano arman cajas de lechuga marca \"Cookie\" con una máquina, mientras hileras de braceros cosechan lechuga en un extenso campo del Valle de Salinas al fondo."
 geo:
 id: 1835
 item_type: Still Image

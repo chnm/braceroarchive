@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.25.01.jpg
     thumb: /files/thumbnails/NAD-200401382501.jpg
     url: /files/original/NAD-200401382501.jpg
+    alt:
+      en: "Black-and-white photo of a building entrance with a sign reading \"Pan-American Underwriters, Medical Service, Oficina de Doctor,\" as a man exits through the open doorway."
+      es: "Fotografía en blanco y negro de la entrada de un edificio con un letrero que dice \"Pan-American Underwriters, Medical Service, Oficina de Doctor\", mientras un hombre sale por la puerta abierta."
 geo:
 id: 2000
 item_type: Still Image

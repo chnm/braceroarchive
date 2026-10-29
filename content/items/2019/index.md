@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.25.20.jpg
     thumb: /files/thumbnails/NAD-200401382520.jpg
     url: /files/original/NAD-200401382520.jpg
+    alt:
+      en: "Rows of metal-frame beds with folded blankets line a wooden-walled bracero dormitory, with clothing hanging on the wall and sunlight streaming through two windows."
+      es: "Filas de camas de metal con mantas dobladas en un dormitorio de madera para braceros, con ropa colgada en la pared y luz solar entrando por dos ventanas."
 geo:
 id: 2019
 item_type: Still Image

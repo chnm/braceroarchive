@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.17.jpg
     thumb: /files/thumbnails/NAD-200401382117.jpg
     url: /files/original/NAD-200401382117.jpg
+    alt:
+      en: "Four braceros sit on a bed in a camp bunkhouse, gathered around a wooden crate of strawberries and an old radio, talking as clothes hang on lines behind them."
+      es: "Cuatro braceros sentados en una cama en un dormitorio del campamento, reunidos alrededor de una caja de madera con fresas y un radio antiguo, conversando mientras ropa cuelga de cuerdas detrás de ellos."
 geo:
 id: 1883
 item_type: Still Image

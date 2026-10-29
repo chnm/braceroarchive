@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.53.10.jpg
     thumb: /files/thumbnails/NAD-200401385310.jpg
     url: /files/original/NAD-200401385310.jpg
+    alt:
+      en: "Black-and-white photo of a line of men waiting beside a wall-mounted mail/document box outside a barracks building, with a vintage car parked nearby at the Gondo labor camp."
+      es: "Foto en blanco y negro de una fila de hombres esperando junto a una caja de correo/documentos montada en la pared fuera de un edificio tipo barracón, con un auto antiguo estacionado cerca en el campamento laboral Gondo."
 geo:
 id: 2901
 item_type: Still Image

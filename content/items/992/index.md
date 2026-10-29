@@ -44,6 +44,9 @@ files:
     original_filename: Calles, Jesus M - bracero picture2 1960.jpg
     thumb: /files/thumbnails/calles,-jesus-m---bracero-picture2-1960_64beb1ad26.jpg
     url: /files/original/calles,-jesus-m---bracero-picture2-1960_64beb1ad26.jpg
+    alt:
+      en: "Four men in wide-brimmed hats and work clothes stand in a row in a dirt field, with wooden crates and distant figures behind them; handwritten margin notes read \"1960 Ramon Calles\" and \"El Dicho Sinaloense.\""
+      es: "Cuatro hombres con sombreros de ala ancha y ropa de trabajo posan en fila sobre un campo de tierra, con cajas de madera y figuras distantes detrás; notas manuscritas al margen dicen \"1960 Ramon Calles\" y \"El Dicho Sinaloense.\""
 geo:
 id: 992
 item_type: Still Image

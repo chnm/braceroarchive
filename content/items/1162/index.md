@@ -46,6 +46,9 @@ files:
     original_filename: RiveraPedroPassport1.jpg
     thumb: /files/thumbnails/riverapedropassport1_bbc31414f9.jpg
     url: /files/original/riverapedropassport1_bbc31414f9.jpg
+    alt:
+      en: "Interior pages of a Mexican passport numbered 1717, with the Executive Power of the United Mexican States seal, issued to Pedro Duran, stamped No. 219801, and fields for address and emergency contact information."
+      es: "Páginas interiores de un pasaporte mexicano número 1717, con el sello del Poder Ejecutivo de los Estados Unidos Mexicanos, expedido a favor de Pedro Duran, sellado con el No. 219801, y campos para dirección y contacto de emergencia."
 geo:
 id: 1162
 item_type: Document

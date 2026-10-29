@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.06.jpg
     thumb: /files/thumbnails/NAD-200401383606.jpg
     url: /files/original/NAD-200401383606.jpg
+    alt:
+      en: "Multiple railroad tracks run parallel in the foreground, leading toward a row of small wooden bracero camp buildings with utility poles and distant hills in the background."
+      es: "Varias vías de ferrocarril corren en paralelo en primer plano hacia una fila de pequeñas cabañas de madera de un campamento de braceros, con postes de servicio y colinas lejanas al fondo."
 geo:
 id: 2362
 item_type: Still Image

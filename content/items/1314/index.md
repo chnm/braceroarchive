@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.31.jpg
     thumb: /files/thumbnails/NAD-200401380231.jpg
     url: /files/original/NAD-200401380231.jpg
+    alt:
+      en: "Black-and-white photo of a line of men, many wearing hats and carrying bags, walking across a suspension bridge's pedestrian walkway, with support cables and towers visible overhead."
+      es: "Foto en blanco y negro de una fila de hombres, muchos con sombreros y cargando bolsas, caminando por el andador peatonal de un puente colgante, con cables y torres de soporte visibles en lo alto."
 geo:
 id: 1314
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: Moreno Sandoval, Cipreano, 1956, id5.jpg
     thumb: /files/thumbnails/moreno-sandoval,-cipreano,-1956,-id5_d2788ec279.jpg
     url: /files/original/moreno-sandoval,-cipreano,-1956,-id5_d2788ec279.jpg
+    alt:
+      en: "Worn military ID document for \"Soldado Cipriano Moreno Sandoval,\" 26/a Div. de Inf. S.M.N., listing conduct as \"Buena\" and bearing two handwritten signatures; the facing page is blank kraft paper."
+      es: "Documento de identificación militar desgastado de \"Soldado Cipriano Moreno Sandoval,\" 26/a Div. de Inf. S.M.N., con conducta \"Buena\" y dos firmas manuscritas; la página opuesta es de papel kraft en blanco."
 geo:
 id: 1050
 item_type: Document

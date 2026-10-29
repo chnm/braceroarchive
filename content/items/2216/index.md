@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.11.jpg
     thumb: /files/thumbnails/NAD-200401383211.jpg
     url: /files/original/NAD-200401383211.jpg
+    alt:
+      en: "Aerial view of a bracero camp with long barracks-style buildings, a group of men gathered outside, parked vehicles, and open farmland stretching to the horizon."
+      es: "Vista aérea de un campamento de braceros con edificios tipo barracón, un grupo de hombres reunidos afuera, vehículos estacionados y campos de cultivo que se extienden hasta el horizonte."
 geo:
 id: 2216
 item_type: Still Image

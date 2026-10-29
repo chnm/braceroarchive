@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.19.jpg
     thumb: /files/thumbnails/NAD-200401381519.jpg
     url: /files/original/NAD-200401381519.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit and glasses seated at a desk, smoking a cigarette, with two telephones on a side table behind him and an ashtray on the desk."
+      es: "Fotografía en blanco y negro de un hombre con traje y gafas sentado a un escritorio, fumando un cigarrillo, con dos teléfonos sobre una mesa detrás de él y un cenicero sobre el escritorio."
 geo:
 id: 1705
 item_type: Still Image

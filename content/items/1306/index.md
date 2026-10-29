@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.02.23.jpg
     thumb: /files/thumbnails/NAD-200401380223.jpg
     url: /files/original/NAD-200401380223.jpg
+    alt:
+      en: "Men in wide-brimmed hats unpack cloth bundles and a sack labeled \"Fernando\" on a wooden table during a contraband inspection at the Hidalgo Processing Center, Texas."
+      es: "Hombres con sombreros de ala ancha desempacan bultos de tela y un costal con la etiqueta \"Fernando\" sobre una mesa de madera durante una inspección de contrabando en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1306
 item_type: Still Image

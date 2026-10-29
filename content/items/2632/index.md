@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.25.jpg
     thumb: /files/thumbnails/NAD-200401384325.jpg
     url: /files/original/NAD-200401384325.jpg
+    alt:
+      en: "A bracero in a cap and button-up shirt leans against a doorway outside wooden living quarters, with a row of barracks and other men visible along the dirt path behind him."
+      es: "Un bracero con gorra y camisa abotonada se recarga en el marco de una puerta junto a viviendas de madera, con una hilera de barracones y otros hombres visibles a lo largo del camino de tierra detrás de él."
 geo:
 id: 2632
 item_type: Still Image

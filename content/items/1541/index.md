@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.10.jpg
     thumb: /files/thumbnails/NAD-200401380910.jpg
     url: /files/original/NAD-200401380910.jpg
+    alt:
+      en: "Large crowd of men, many wearing hats, gathered outdoors near a vehicle and tents at the Monterrey Processing Center, with buildings and mountains visible in the background."
+      es: "Gran multitud de hombres, muchos con sombrero, reunidos al aire libre cerca de un vehículo y carpas en el Centro de Procesamiento de Monterrey, con edificios y montañas al fondo."
 geo:
 id: 1541
 item_type: Still Image

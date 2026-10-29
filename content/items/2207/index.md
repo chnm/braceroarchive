@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.02.jpg
     thumb: /files/thumbnails/NAD-200401383202.jpg
     url: /files/original/NAD-200401383202.jpg
+    alt:
+      en: "Elevated view of a long row of barracks with sloped roofs at a bracero camp, with trucks parked alongside, utility poles, and open farmland stretching into the distance."
+      es: "Vista elevada de una larga hilera de barracones con techos inclinados en un campamento de braceros, con camiones estacionados al lado, postes de servicios y campos de cultivo abiertos extendiéndose hacia el horizonte."
 geo:
 id: 2207
 item_type: Still Image

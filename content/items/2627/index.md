@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.20.jpg
     thumb: /files/thumbnails/NAD-200401384320.jpg
     url: /files/original/NAD-200401384320.jpg
+    alt:
+      en: "Black-and-white photo of a large lettuce field with workers and a flatbed truck loaded with crates; utility poles, trees, and a building line the horizon."
+      es: "Fotografía en blanco y negro de un extenso campo de lechugas con trabajadores y un camión de plataforma cargado de cajas; postes de luz, árboles y un edificio bordean el horizonte."
 geo:
 id: 2627
 item_type: Still Image

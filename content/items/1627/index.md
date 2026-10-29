@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.12.11.jpg
     thumb: /files/thumbnails/NAD-200401381211.jpg
     url: /files/original/NAD-200401381211.jpg
+    alt:
+      en: "Rows of men in cowboy hats stand under a wooden open-air shelter, unpacking bundles and belongings on long tables at the Hidalgo Processing Center, Texas."
+      es: "Filas de hombres con sombreros vaqueros están de pie bajo un cobertizo de madera al aire libre, desempacando bultos y pertenencias sobre mesas largas en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1627
 item_type: Still Image

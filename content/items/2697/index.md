@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.02.jpg
     thumb: /files/thumbnails/NAD-200401384602.jpg
     url: /files/original/NAD-200401384602.jpg
+    alt:
+      en: "Large group of braceros kneeling outdoors in prayer during a religious service, with some hands raised, in front of a wooden barracks building at a California labor camp."
+      es: "Gran grupo de braceros arrodillados al aire libre en oración durante un servicio religioso, algunos con las manos levantadas, frente a una barraca de madera en un campamento laboral de California."
 geo:
 id: 2697
 item_type: Still Image

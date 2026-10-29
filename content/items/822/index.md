@@ -44,6 +44,9 @@ files:
     original_filename: Pizca algodon Arkansas (back row, 2dn front to back -no hat-).jpg
     thumb: /files/thumbnails/pizca-algodon-arkansas-(back-row,-2dn-front-to-back--no-hat-)_546d2604b1.jpg
     url: /files/original/pizca-algodon-arkansas-(back-row,-2dn-front-to-back--no-hat-)_546d2604b1.jpg
+    alt:
+      en: "Black-and-white photo of a group of men, most wearing wide-brimmed hats, standing and bending among cotton plants in a field, with trees lining the horizon."
+      es: "Fotografía en blanco y negro de un grupo de hombres, la mayoría con sombreros de ala ancha, de pie e inclinados entre plantas de algodón en un campo, con árboles en el horizonte."
 geo:
 id: 822
 item_type: Still Image

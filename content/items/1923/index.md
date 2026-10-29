@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.23.jpg
     thumb: /files/thumbnails/NAD-200401382223.jpg
     url: /files/original/NAD-200401382223.jpg
+    alt:
+      en: "Three small wooden huts line a dirt path, with scattered garbage and boxes nearby, a chicken in the foreground, and power lines stretching across an open field."
+      es: "Tres pequeñas cabañas de madera bordean un camino de tierra, con basura y cajas dispersas cerca, una gallina en primer plano y líneas eléctricas que cruzan un campo abierto."
 geo:
 id: 1923
 item_type: Still Image

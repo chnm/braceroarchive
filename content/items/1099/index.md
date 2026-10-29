@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 1.jpg
     thumb: /files/thumbnails/velasco-patino-1_34b586611f.jpg
     url: /files/original/velasco-patino-1_34b586611f.jpg
+    alt:
+      en: "Mexican military enlistment form titled \"Ejercito Nacional, XV Zona Militar\" for Salvador Velasco Patiño, dated December 26, 1942, with two attached photographs and signatures."
+      es: "Formulario de alistamiento militar mexicano titulado \"Ejercito Nacional, XV Zona Militar\" a nombre de Salvador Velasco Patiño, fechado el 26 de diciembre de 1942, con dos fotografías y firmas."
 geo:
 id: 1099
 item_type: Document

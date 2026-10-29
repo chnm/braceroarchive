@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.02.jpg
     thumb: /files/thumbnails/NAD-200401381102.jpg
     url: /files/original/NAD-200401381102.jpg
+    alt:
+      en: "A long line of men, many wearing hats, walks across an open dirt field toward the camera at the Monterrey Processing Center, with utility poles and buildings visible in the background."
+      es: "Una larga fila de hombres, muchos con sombrero, camina por un campo de tierra hacia la cámara en el Centro de Procesamiento de Monterrey, con postes de luz y edificios al fondo."
 geo:
 id: 1588
 item_type: Still Image

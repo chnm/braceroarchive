@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.06.jpg
     thumb: /files/thumbnails/NAD-200401382106.jpg
     url: /files/original/NAD-200401382106.jpg
+    alt:
+      en: "A man reclines on a bunk bed with hands behind his head, smiling toward a window; clothing hangs above him on a wooden-paneled wall."
+      es: "Un hombre reclinado en una litera con las manos detrás de la cabeza, sonriendo hacia una ventana; ropa cuelga sobre él en una pared de madera."
 geo:
 id: 1872
 item_type: Still Image

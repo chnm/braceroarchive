@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.22.jpg
     thumb: /files/thumbnails/NAD-200401381622.jpg
     url: /files/original/NAD-200401381622.jpg
+    alt:
+      en: "Black-and-white photo of braceros gathered in a large dining hall with tall windows and support columns, standing and eating lunch at the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de braceros reunidos en un amplio comedor con ventanas altas y columnas de soporte, de pie y almorzando en el Centro de Contratación de Monterrey, México."
 geo:
 id: 1741
 item_type: Still Image

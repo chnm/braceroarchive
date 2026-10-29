@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.06.jpg
     thumb: /files/thumbnails/NAD-200401384206.jpg
     url: /files/original/NAD-200401384206.jpg
+    alt:
+      en: "Dimly lit, worn shower stall with a metal door frame and grimy walls, illustrating substandard sanitation facilities at a bracero labor camp in California."
+      es: "Cabina de ducha deteriorada y poco iluminada, con marco de puerta metálico y paredes sucias, que muestra las instalaciones sanitarias precarias de un campamento de braceros en California."
 geo:
 id: 2587
 item_type: Still Image

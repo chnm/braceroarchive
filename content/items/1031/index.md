@@ -46,6 +46,9 @@ files:
     original_filename: Bautista, Agustin1.jpg
     thumb: /files/thumbnails/bautista,-agustin1_14cebece44.jpg
     url: /files/original/bautista,-agustin1_14cebece44.jpg
+    alt:
+      en: "Interior pages of a Mexican passport with a photo of a man, fingerprint, and red seal on the left, and printed identification details for Agustin Bautista, including birthdate, occupation, and validity dates, on the right."
+      es: "Páginas interiores de un pasaporte mexicano con foto de un hombre, huella digital y sello rojo a la izquierda, y datos de identificación impresos de Agustín Bautista, incluyendo fecha de nacimiento, ocupación y vigencia, a la derecha."
 geo:
 id: 1031
 item_type: Document

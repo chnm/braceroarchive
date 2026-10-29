@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.14.jpg
     thumb: /files/thumbnails/NAD-200401380214.jpg
     url: /files/original/NAD-200401380214.jpg
+    alt:
+      en: "Two men stand side by side against a plain backdrop for identification photographs at the Hidalgo Processing Center, Texas, framed by wooden studio equipment."
+      es: "Dos hombres de pie uno junto al otro frente a un fondo liso para fotografías de identificación en el Centro de Procesamiento de Hidalgo, Texas, enmarcados por equipo de estudio de madera."
 geo:
 id: 1291
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.35.jpg
     thumb: /files/thumbnails/NAD-200401383135.jpg
     url: /files/original/NAD-200401383135.jpg
+    alt:
+      en: "Black-and-white street scene with an overhead sign reading \"CASTROVILLE - THE ARTICHOKE CENTER OF THE WORLD,\" spanning the road above vintage cars, storefronts, and utility poles."
+      es: "Escena callejera en blanco y negro con un letrero elevado que dice \"CASTROVILLE - THE ARTICHOKE CENTER OF THE WORLD\", sobre autos antiguos, fachadas de tiendas y postes de servicios públicos."
 geo:
 id: 2193
 item_type: Still Image

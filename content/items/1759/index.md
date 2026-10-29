@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.10.jpg
     thumb: /files/thumbnails/NAD-200401381710.jpg
     url: /files/original/NAD-200401381710.jpg
+    alt:
+      en: "Two rows of shirtless men stand with backs to the wall, arms extended forward, as an official in white inspects them in a tiled hallway lined with hanging bulbs at the Monterrey Processing Center."
+      es: "Dos filas de hombres sin camisa están de pie con la espalda contra la pared, brazos extendidos hacia adelante, mientras un funcionario vestido de blanco los inspecciona en un pasillo con focos colgantes en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1759
 item_type: Still Image

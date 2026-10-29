@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.21.jpg
     thumb: /files/thumbnails/NAD-200401381521.jpg
     url: /files/original/NAD-200401381521.jpg
+    alt:
+      en: "Black-and-white photo of a man in a suit standing behind a desk, cigarette in hand, mid-conversation, with an ashtray, papers, and telephones visible nearby."
+      es: "Fotografía en blanco y negro de un hombre con traje de pie tras un escritorio, cigarrillo en mano, en plena conversación, con un cenicero, papeles y teléfonos cerca."
 geo:
 id: 1707
 item_type: Still Image

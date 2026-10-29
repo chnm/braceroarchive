@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.19.jpg
     thumb: /files/thumbnails/NAD-200401385619.jpg
     url: /files/original/NAD-200401385619.jpg
+    alt:
+      en: "A man wearing a cap and long-sleeved shirt bends over to cut lettuce in a field, with crates and another worker visible in the background."
+      es: "Un hombre con gorra y camisa de manga larga se agacha para cortar lechuga en un campo, con cajas y otro trabajador visibles al fondo."
 geo:
 id: 2979
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: NAD-2004.0138.08.12.jpg
     thumb: /files/thumbnails/NAD-200401380812.jpg
     url: /files/original/NAD-200401380812.jpg
+    alt:
+      en: "Black-and-white interior view of an adobe home with an arched doorway, showing a woman, man, and child seated together while another woman stands nearby amid shelves, baskets, and household goods."
+      es: "Vista interior en blanco y negro de una casa de adobe con una puerta en arco, donde se ve a una mujer, un hombre y un niño sentados juntos, mientras otra mujer permanece de pie cerca de estantes, canastas y enseres domésticos."
 geo:
 id: 1499
 item_type: Still Image

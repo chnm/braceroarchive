@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.54.10.jpg
     thumb: /files/thumbnails/NAD-200401385410.jpg
     url: /files/original/NAD-200401385410.jpg
+    alt:
+      en: "A priest in dark clothing stands before a group of kneeling braceros, hands clasped in blessing, while others look on inside a corrugated metal building with a small altar nearby."
+      es: "Un sacerdote de ropa oscura se para frente a un grupo de braceros arrodillados, con las manos juntas en bendición, mientras otros observan dentro de un edificio de metal corrugado con un pequeño altar cerca."
 geo:
 id: 2925
 item_type: Still Image

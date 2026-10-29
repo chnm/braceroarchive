@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.01.jpg
     thumb: /files/thumbnails/NAD-200401380201.jpg
     url: /files/original/NAD-200401380201.jpg
+    alt:
+      en: "A silhouetted man adjusts camera equipment while a bracero stands for an identification photo against a lit backdrop, as other men wait in line nearby."
+      es: "Un hombre en silueta ajusta el equipo de cámara mientras un bracero posa para una foto de identificación frente a un fondo iluminado, con otros hombres esperando en fila cerca."
 geo:
 id: 1285
 item_type: Still Image

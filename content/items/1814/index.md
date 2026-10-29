@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.25.jpg
     thumb: /files/thumbnails/NAD-200401381925.jpg
     url: /files/original/NAD-200401381925.jpg
+    alt:
+      en: "A bracero walks on bare ground beside a long wooden barracks-style living quarters in Stockton, California, with a dirt field and utility poles in the background."
+      es: "Un bracero camina sobre suelo descubierto junto a un largo edificio de madera tipo barracón en Stockton, California, con un campo de tierra y postes de servicio al fondo."
 geo:
 id: 1814
 item_type: Still Image

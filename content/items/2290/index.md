@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.17.jpg
     thumb: /files/thumbnails/NAD-200401383417.jpg
     url: /files/original/NAD-200401383417.jpg
+    alt:
+      en: "Black-and-white photo of workers harvesting lettuce in a large field, with cardboard boxes labeled \"TORO\" in the foreground and a tractor parked in the background."
+      es: "Fotografía en blanco y negro de trabajadores cosechando lechuga en un amplio campo, con cajas de cartón etiquetadas \"TORO\" en primer plano y un tractor estacionado al fondo."
 geo:
 id: 2290
 item_type: Still Image

@@ -49,6 +49,9 @@ files:
     original_filename: Jul27_18.JPG
     thumb: /files/thumbnails/jul27_18_1311c91418.jpg
     url: /files/original/jul27_18_1311c91418.jpg
+    alt:
+      en: "Handwritten letter in Spanish in blue ink on lined paper, signed \"Roberto,\" with a return address reading \"Pico Court, San Fernando, Calif.\" at the bottom."
+      es: "Carta manuscrita en español con tinta azul sobre papel rayado, firmada \"Roberto\", con una dirección de remitente que dice \"Pico Court, San Fernando, Calif.\" al final de la hoja."
 geo:
 id: 646
 item_type: Still Image

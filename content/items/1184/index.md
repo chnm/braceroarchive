@@ -46,6 +46,9 @@ files:
     original_filename: Sosa, Luz Maria - Alien Laborer\'s ID 59 back copy.jpg
     thumb: /files/thumbnails/sosa,-luz-maria---alien-laborers-id-59-back-copy_c9557417b8.jpg
     url: /files/original/sosa,-luz-maria---alien-laborers-id-59-back-copy_c9557417b8.jpg
+    alt:
+      en: "Back of an alien laborer's identification card for Manuel Arredondo-Labrada, listing birth year 1913, place of birth Tosala, Sin., issued at Calexico, Calif. on 5-1-59, with card number L-3188367 and \"MICA\" printed below."
+      es: "Reverso de una tarjeta de identificación de trabajador extranjero (MICA) de Manuel Arredondo-Labrada, nacido en 1913 en Tosala, Sin., emitida en Calexico, Calif. el 5-1-59, con número L-3188367."
 geo:
 id: 1184
 item_type: Document

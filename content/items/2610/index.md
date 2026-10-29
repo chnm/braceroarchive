@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.43.02.jpg
     thumb: /files/thumbnails/NAD-200401384302.jpg
     url: /files/original/NAD-200401384302.jpg
+    alt:
+      en: "Black-and-white photo of workers loading stacked \"Lettuce\" boxes onto a conveyor machine beside a vast lettuce field in the Salinas Valley, California."
+      es: "Fotografía en blanco y negro de trabajadores cargando cajas apiladas de \"Lettuce\" en una máquina transportadora junto a un extenso campo de lechuga en el Valle de Salinas, California."
 geo:
 id: 2610
 item_type: Still Image

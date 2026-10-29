@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.16.jpg
     thumb: /files/thumbnails/NAD-200401383916.jpg
     url: /files/original/NAD-200401383916.jpg
+    alt:
+      en: "Black-and-white photo of braceros wearing wide-brimmed hats gathered around the open back of a truck filled with clothing and goods, with luggage and boxes stacked nearby at a Stockton bus stop."
+      es: "Fotografía en blanco y negro de braceros con sombreros de ala ancha reunidos alrededor de la parte trasera abierta de un camión lleno de ropa y mercancías, con maletas y cajas apiladas cerca en una parada de autobús en Stockton."
 geo:
 id: 2494
 item_type: Still Image

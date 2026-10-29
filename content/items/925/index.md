@@ -46,6 +46,9 @@ files:
     original_filename: espino-7copy.jpg
     thumb: /files/thumbnails/espino-7copy_92faeddfd8.jpg
     url: /files/original/espino-7copy_92faeddfd8.jpg
+    alt:
+      en: "U.S. Department of Justice Immigration and Naturalization Service \"U.S. Citizen Identification Card\" (Form I-197), with a redacted name, signed by District Director A.H. Giugni, dated APR 25 1983, El Paso, Texas."
+      es: "Tarjeta de identificación de ciudadano de EE. UU. (Formulario I-197) del Departamento de Justicia, con nombre censurado, firmada por el Director Distrital A.H. Giugni, fechada 25 de abril de 1983, El Paso, Texas."
 geo:
 id: 925
 item_type: Document

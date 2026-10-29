@@ -47,6 +47,9 @@ files:
     original_filename: Jul27_14.JPG
     thumb: /files/thumbnails/jul27_14_6ab1d9b7e7.jpg
     url: /files/original/jul27_14_6ab1d9b7e7.jpg
+    alt:
+      en: "Handwritten letter in Spanish, dated \"Abril 16-57\" from Pasadena, Calif., beginning \"Dear Cleo\" and continuing with cursive script filling the page."
+      es: "Carta manuscrita en español, fechada \"Abril 16-57\" desde Pasadena, Calif., que comienza con \"Dear Cleo\" y continúa con escritura cursiva llenando toda la página."
 geo:
 id: 642
 item_type: Still Image

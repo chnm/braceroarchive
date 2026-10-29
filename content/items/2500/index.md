@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.22.jpg
     thumb: /files/thumbnails/NAD-200401383922.jpg
     url: /files/original/NAD-200401383922.jpg
+    alt:
+      en: "Black-and-white photo of three men in hats conversing outdoors, one gesturing with his hand, near a building with a Coca-Cola sign; two more men stand in the background."
+      es: "Fotografía en blanco y negro de tres hombres con sombrero conversando al aire libre, uno de ellos gesticulando con la mano, cerca de un edificio con un letrero de Coca-Cola; dos hombres más al fondo."
 geo:
 id: 2500
 item_type: Still Image

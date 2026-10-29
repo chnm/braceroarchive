@@ -44,6 +44,9 @@ files:
     original_filename: belen soto moreno4.jpg
     thumb: /files/thumbnails/belen-soto-moreno4_dfedc25ecf.jpg
     url: /files/original/belen-soto-moreno4_dfedc25ecf.jpg
+    alt:
+      en: "Black-and-white studio portrait of a man in a hat, two women, and a young boy in suspenders, standing before a painted backdrop resembling bookshelves."
+      es: "Retrato de estudio en blanco y negro de un hombre con sombrero, dos mujeres y un niño con tirantes, de pie frente a un fondo pintado que simula estanterías de libros."
 geo:
 id: 3052
 item_type: Still Image

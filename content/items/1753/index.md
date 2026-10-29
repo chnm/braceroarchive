@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.04.jpg
     thumb: /files/thumbnails/NAD-200401381704.jpg
     url: /files/original/NAD-200401381704.jpg
+    alt:
+      en: "Rows of men in straw hats stand in line inside a large hall at the Monterrey Processing Center, while seated clerks type at desks to process their documents."
+      es: "Filas de hombres con sombreros de paja esperan en un gran salón del Centro de Procesamiento de Monterrey, mientras empleados sentados escriben a máquina para procesar sus documentos."
 geo:
 id: 1753
 item_type: Still Image

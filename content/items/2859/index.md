@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.51.18.jpg
     thumb: /files/thumbnails/NAD-200401385118.jpg
     url: /files/original/NAD-200401385118.jpg
+    alt:
+      en: "Dr. Stanley Savoy examines the mouth of a seated bracero under a floor lamp in a clinical office, with medical supplies and furnishings visible in the background."
+      es: "El Dr. Stanley Savoy examina la boca de un bracero sentado bajo una lámpara de pie en un consultorio clínico, con suministros médicos y mobiliario visibles al fondo."
 geo:
 id: 2859
 item_type: Still Image

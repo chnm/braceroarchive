@@ -46,6 +46,9 @@ files:
     original_filename: Hernandez Arreola, Raul - Alien Laborers ID Card1.jpg
     thumb: /files/thumbnails/hernandez-arreola,-raul---alien-laborers-id-card1_0890daf00d.jpg
     url: /files/original/hernandez-arreola,-raul---alien-laborers-id-card1_0890daf00d.jpg
+    alt:
+      en: "Back of an Alien laborer's identification card for Raul Hernandez-Arreola, listing home address Amayuca, Candetelco, Mor., birth year 1939, admission at Calexico, California on 8/16/62, with ID number ML 058889."
+      es: "Reverso de una tarjeta de identificación de trabajador extranjero de Raúl Hernández-Arreola, con domicilio en Amayuca, Candetelco, Mor., nacido en 1939, admitido en Calexico, California el 8/16/62, número ML 058889."
 geo:
 id: 1097
 item_type: Document

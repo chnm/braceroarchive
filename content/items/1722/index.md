@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.39.jpg
     thumb: /files/thumbnails/NAD-200401381639.jpg
     url: /files/original/NAD-200401381639.jpg
+    alt:
+      en: "Black-and-white photo of a crowd of men wearing hats, with one in the foreground holding papers while others sit at a table and an official gestures nearby at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de una multitud de hombres con sombreros; uno en primer plano sostiene papeles mientras otros están sentados a una mesa y un funcionario hace gestos cerca, en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1722
 item_type: Still Image

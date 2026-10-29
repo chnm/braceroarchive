@@ -46,6 +46,9 @@ files:
     original_filename: Velez de Cervantes, Estela1.jpg
     thumb: /files/thumbnails/velez-de-cervantes,-estela1_048cb6cac8.jpg
     url: /files/original/velez-de-cervantes,-estela1_048cb6cac8.jpg
+    alt:
+      en: "Two vintage portrait photos side by side: a black-and-white image of a young man in a jacket labeled \"Jesus Cervantes,\" and a color photo of a woman with glasses in a purple top."
+      es: "Dos retratos antiguos uno junto al otro: una foto en blanco y negro de un joven con chaqueta, etiquetada \"Jesus Cervantes,\" y una foto a color de una mujer con gafas y blusa morada."
 geo:
 id: 1215
 item_type: Still Image

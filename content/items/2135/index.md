@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.27.jpg
     thumb: /files/thumbnails/NAD-200401382927.jpg
     url: /files/original/NAD-200401382927.jpg
+    alt:
+      en: "Black-and-white photo of two men walking along a sidewalk past storefronts in Watsonville, California, with parked cars, a street lamp, and parking meters lining the curb."
+      es: "Fotografía en blanco y negro de dos hombres caminando por una acera frente a tiendas en Watsonville, California, con autos estacionados, un farol y parquímetros junto a la acera."
 geo:
 id: 2135
 item_type: Still Image

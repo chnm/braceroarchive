@@ -46,6 +46,9 @@ files:
     original_filename: oficio acompanado carta queja a consul (mala comida).jpg
     thumb: /files/thumbnails/oficio-acompanado-carta-queja-a-consul-(mala-comida)_5404a96dea.jpg
     url: /files/original/oficio-acompanado-carta-queja-a-consul-(mala-comida)_5404a96dea.jpg
+    alt:
+      en: "Typed letter dated August 4, 1961, from the Centro de Recepción in El Centro, California, to the Mexican Consul General in Los Angeles, regarding Guadalupe Cano Q., with official seal and signature."
+      es: "Carta mecanografiada con fecha 4 de agosto de 1961, del Centro de Recepción en El Centro, California, al Cónsul General de México en Los Ángeles, referente a Guadalupe Cano Q., con sello oficial y firma."
 geo:
 id: 813
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.18.jpg
     thumb: /files/thumbnails/NAD-200401383618.jpg
     url: /files/original/NAD-200401383618.jpg
+    alt:
+      en: "Rows of wooden barracks line a dirt pathway in a labor camp, with several men leaning against the buildings' exterior walls in the sunlight."
+      es: "Filas de barracones de madera bordean un camino de tierra en un campo de trabajo, con varios hombres recostados contra las paredes exteriores de los edificios bajo el sol."
 geo:
 id: 2350
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.20.jpg
     thumb: /files/thumbnails/NAD-200401382620.jpg
     url: /files/original/NAD-200401382620.jpg
+    alt:
+      en: "Braceros sit along a dirt roadside eating lunch from plates, with a long row of workers bent over picking crops in a field stretching toward distant mountains."
+      es: "Braceros sentados al borde de un camino de tierra comiendo de platos, mientras una larga fila de trabajadores agachados recoge cultivos en un campo que se extiende hacia montañas distantes."
 geo:
 id: 2043
 item_type: Still Image

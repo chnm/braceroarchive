@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.34.jpg
     thumb: /files/thumbnails/NAD-200401382034.jpg
     url: /files/original/NAD-200401382034.jpg
+    alt:
+      en: "Black-and-white aerial view of a vast lettuce field with workers scattered across the rows and a flatbed truck parked at right, under a hazy sky."
+      es: "Vista aérea en blanco y negro de un extenso campo de lechuga con trabajadores dispersos entre los surcos y un camión de plataforma estacionado a la derecha, bajo un cielo brumoso."
 geo:
 id: 1844
 item_type: Still Image

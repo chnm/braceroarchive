@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.29.jpg
     thumb: /files/thumbnails/NAD-200401382029.jpg
     url: /files/original/NAD-200401382029.jpg
+    alt:
+      en: "A flatbed truck stacked with wooden lettuce crates stands beside a field, as workers load boxes and tend rows of lettuce in the Salinas Valley, California."
+      es: "Un camión de plataforma cargado con cajas de madera de lechuga junto a un campo, mientras trabajadores cargan cajas y atienden las hileras de lechuga en el Valle de Salinas, California."
 geo:
 id: 1851
 item_type: Still Image

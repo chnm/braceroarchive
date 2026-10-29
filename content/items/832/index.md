@@ -44,6 +44,9 @@ files:
     original_filename: CeciliaConcha.jpg
     thumb: /files/thumbnails/ceciliaconcha_2acdcc337c.jpg
     url: /files/original/ceciliaconcha_2acdcc337c.jpg
+    alt:
+      en: "Sepia-toned portrait of a young girl in a white First Communion dress and veil, hands clasped in prayer, kneeling before a statue of Jesus."
+      es: "Retrato en tono sepia de una niña con vestido blanco de Primera Comunión y velo, con las manos juntas en oración, arrodillada frente a una estatua de Jesús."
 geo:
 id: 832
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.25.19.jpg
     thumb: /files/thumbnails/NAD-200401382519.jpg
     url: /files/original/NAD-200401382519.jpg
+    alt:
+      en: "Black-and-white photo of a vintage bus labeled \"Gilhooey Boat Co.\" parked beside long, single-story barracks-style buildings in a dirt-lot camp, with trees in the background."
+      es: "Foto en blanco y negro de un autobús antiguo con el letrero \"Gilhooey Boat Co.\" estacionado junto a edificios tipo barracón de un piso en un campamento de tierra, con árboles al fondo."
 geo:
 id: 2018
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: joseramirez12.jpg
     thumb: /files/thumbnails/joseramirez12_dc595c4765.jpg
     url: /files/original/joseramirez12_dc595c4765.jpg
+    alt:
+      en: "Typed Spanish letter titled \"Confirmacion de Empleo Como Bracero,\" dated Diciembre 2004, signed by Ines Hernandez with a handwritten signature, phone number, and address beneath the printed text."
+      es: "Carta mecanografiada en español titulada \"Confirmacion de Empleo Como Bracero\", fechada en Diciembre de 2004, firmada por Ines Hernandez con firma manuscrita, número de teléfono y dirección debajo del texto impreso."
 geo:
 id: 958
 item_type: Document

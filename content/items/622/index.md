@@ -47,6 +47,9 @@ files:
     original_filename: FLORES03.jpg
     thumb: /files/thumbnails/flores03_7fea2aae28.jpg
     url: /files/original/flores03_7fea2aae28.jpg
+    alt:
+      en: "Front and back of a registered airmail envelope from Timoteo Flores in Tracy, Calif. to Faustina Flores Soto in Tapalpa, Jal., Mexico, with postage stamps, postmarks, and handwritten notes."
+      es: "Anverso y reverso de un sobre de correo aéreo certificado de Timoteo Flores en Tracy, Calif. a Faustina Flores Soto en Tapalpa, Jal., México, con estampillas, matasellos y notas manuscritas."
 geo:
 id: 622
 item_type: Still Image

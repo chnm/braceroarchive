@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.08.jpg
     thumb: /files/thumbnails/NAD-200401383608.jpg
     url: /files/original/NAD-200401383608.jpg
+    alt:
+      en: "Rows of lettuce stretch across a cultivated field, leading toward a cluster of low barracks-style buildings and utility poles, with hills faintly visible on the horizon."
+      es: "Hileras de lechuga se extienden por un campo cultivado, llevando hacia un grupo de edificios bajos tipo barracas y postes de servicio, con colinas apenas visibles en el horizonte."
 geo:
 id: 2364
 item_type: Still Image

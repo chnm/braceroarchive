@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.14.jpg
     thumb: /files/thumbnails/NAD-200401383214.jpg
     url: /files/original/NAD-200401383214.jpg
+    alt:
+      en: "A man stands at a wash basin in a dimly lit room, scrubbing clothes by hand, with two buckets placed on the floor beneath the sink."
+      es: "Un hombre está de pie frente a un lavabo en una habitación poco iluminada, frotando ropa con las manos, con dos cubetas colocadas en el suelo debajo del fregadero."
 geo:
 id: 2219
 item_type: Still Image

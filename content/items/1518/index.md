@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.31.jpg
     thumb: /files/thumbnails/NAD-200401380831.jpg
     url: /files/original/NAD-200401380831.jpg
+    alt:
+      en: "Black-and-white photo of a crowd of hatted braceros in Mexico City lined up as a suited official collects their documents, one worker holding papers forward."
+      es: "Foto en blanco y negro de una multitud de braceros con sombrero en la Ciudad de México, formados en fila mientras un funcionario de traje recoge sus documentos, uno sosteniendo papeles hacia adelante."
 geo:
 id: 1518
 item_type: Still Image

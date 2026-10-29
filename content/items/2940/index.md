@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.13.jpg
     thumb: /files/thumbnails/NAD-200401385513.jpg
     url: /files/original/NAD-200401385513.jpg
+    alt:
+      en: "Black-and-white street scene with men seated on park benches in the foreground, facing storefronts including \"National Dollar Stores\" and \"Alexander's Men's Wear,\" with parked cars and pedestrians along the sidewalk."
+      es: "Escena callejera en blanco y negro con hombres sentados en bancas de parque en primer plano, frente a tiendas como \"National Dollar Stores\" y \"Alexander's Men's Wear\", con autos estacionados y peatones en la acera."
 geo:
 id: 2940
 item_type: Still Image

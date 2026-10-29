@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.07.jpg
     thumb: /files/thumbnails/NAD-200401382307.jpg
     url: /files/original/NAD-200401382307.jpg
+    alt:
+      en: "A man bends over an outdoor wooden washing trough near canvas tents, with scattered tools and debris on the dirt ground and trees lining a field in the background."
+      es: "Un hombre se inclina sobre un artesón de madera para lavar al aire libre cerca de tiendas de lona, con herramientas y basura dispersas en el suelo de tierra y árboles junto a un campo al fondo."
 geo:
 id: 1936
 item_type: Still Image

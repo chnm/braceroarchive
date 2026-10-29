@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.03.38.jpg
     thumb: /files/thumbnails/NAD-200401380338.jpg
     url: /files/original/NAD-200401380338.jpg
+    alt:
+      en: "Aerial view of a long line of men, many wearing hats and carrying bundles, winding across a dirt lot toward parked buses at the Monterrey Processing Center."
+      es: "Vista aérea de una larga fila de hombres, muchos con sombrero y cargando bultos, que serpentea por un terreno de tierra hacia autobuses estacionados en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1338
 item_type: Still Image

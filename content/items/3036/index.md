@@ -44,6 +44,9 @@ files:
     original_filename: IMG_3442.JPG
     thumb: /files/thumbnails/img_3442_ce3e0f36fc.jpg
     url: /files/original/img_3442_ce3e0f36fc.jpg
+    alt:
+      en: "Man wearing a wide-brimmed straw hat and white pinstriped shirt sits at a table in a restaurant, with a sign reading \"LA LAGUNA\" visible on the wall behind him."
+      es: "Hombre con sombrero de ala ancha de paja y camisa blanca de rayas sentado a una mesa en un restaurante, con un letrero que dice \"LA LAGUNA\" visible en la pared detrás de él."
 geo:
 id: 3036
 item_type: Still Image

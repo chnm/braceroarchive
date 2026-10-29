@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.38.25.jpg
     thumb: /files/thumbnails/NAD-200401383825.jpg
     url: /files/original/NAD-200401383825.jpg
+    alt:
+      en: "Black-and-white photo of a bracero lying on a bunk bed, exhaling smoke, with a radio, patterned blanket, and hat hanging nearby; another man sits in the background."
+      es: "Fotografía en blanco y negro de un bracero acostado en una litera, exhalando humo, con una radio, una cobija estampada y un sombrero colgado cerca; otro hombre sentado al fondo."
 geo:
 id: 2469
 item_type: Still Image

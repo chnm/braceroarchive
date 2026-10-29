@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.27.11.jpg
     thumb: /files/thumbnails/NAD-200401382711.jpg
     url: /files/original/NAD-200401382711.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with parked vintage cars and trucks lining the road beside wooden buildings, including a two-story structure with balconies and a storefront labeled \"Los Gatitos.\""
+      es: "Escena callejera en blanco y negro en Watsonville, California, con autos y camionetas antiguos estacionados junto a edificios de madera, incluido uno de dos pisos con balcones y un local llamado \"Los Gatitos\"."
 geo:
 id: 2082
 item_type: Still Image

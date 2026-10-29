@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.13.30.jpg
     thumb: /files/thumbnails/NAD-200401381330.jpg
     url: /files/original/NAD-200401381330.jpg
+    alt:
+      en: "Black-and-white photo of men in hats lined up at tables, with an official examining a worker's hands for calluses while others wait behind at the Monterrey Processing Center."
+      es: "Fotografía en blanco y negro de hombres con sombrero formados frente a mesas, mientras un funcionario examina las manos de un trabajador en busca de callos y otros esperan detrás en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1658
 item_type: Still Image

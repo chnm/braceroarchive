@@ -46,6 +46,9 @@ files:
     original_filename: NavarroFedericobirth1.jpg
     thumb: /files/thumbnails/navarrofedericobirth1_15d6dae6b7.jpg
     url: /files/original/navarrofedericobirth1_15d6dae6b7.jpg
+    alt:
+      en: "Official Mexican birth certificate from the Gobierno del Estado de Guanajuato for Federico Navarro Duran, born March 2, 1929, listing parents, grandparents, and witnesses, with green printed text and an embossed seal."
+      es: "Acta de nacimiento oficial del Gobierno del Estado de Guanajuato de Federico Navarro Duran, nacido el 2 de marzo de 1929, con datos de padres, abuelos y testigos, en texto impreso verde y sello en relieve."
 geo:
 id: 1129
 item_type: Document

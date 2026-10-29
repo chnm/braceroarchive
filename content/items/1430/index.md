@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.06.44.jpg
     thumb: /files/thumbnails/NAD-200401380644.jpg
     url: /files/original/NAD-200401380644.jpg
+    alt:
+      en: "Black-and-white photo of a long line of men in hats waiting outdoors, with a large crowd gathered nearby and mountains in the background, at the Monterrey Processing Center, Mexico."
+      es: "Fotografía en blanco y negro de una larga fila de hombres con sombreros esperando al aire libre, con una gran multitud reunida cerca y montañas al fondo, en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1430
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.20.jpg
     thumb: /files/thumbnails/NAD-200401383620.jpg
     url: /files/original/NAD-200401383620.jpg
+    alt:
+      en: "Rows of wooden barracks with peaked roofs line a dirt path in a labor camp, with several men standing between the buildings and hills visible in the distance."
+      es: "Filas de barracones de madera con techos a dos aguas bordean un camino de tierra en un campamento laboral, con varios hombres de pie entre los edificios y colinas visibles al fondo."
 geo:
 id: 2352
 item_type: Still Image

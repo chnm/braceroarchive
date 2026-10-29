@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.34.jpg
     thumb: /files/thumbnails/NAD-200401382834.jpg
     url: /files/original/NAD-200401382834.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated at long wooden tables eating dinner in a camp dining hall, with large windows along the wall and an empty table in the foreground."
+      es: "Fotografía en blanco y negro de braceros sentados en largas mesas de madera cenando en el comedor de un campamento, con amplias ventanas en la pared y una mesa vacía en primer plano."
 geo:
 id: 2394
 item_type: Still Image

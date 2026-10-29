@@ -46,6 +46,9 @@ files:
     original_filename: Alvarez, Agustin, 1962, alien laborer\'s id1.jpg
     thumb: /files/thumbnails/alvarez,-agustin,-1962,-alien-laborers-id1_b9c81f940f.jpg
     url: /files/original/alvarez,-agustin,-1962,-alien-laborers-id1_b9c81f940f.jpg
+    alt:
+      en: "An aged \"Alien Laborer's Identification Card\" from the U.S. Department of Justice, Immigration and Naturalization Service, featuring a black-and-white photo of a young man with an empty space beside it."
+      es: "Una envejecida \"Tarjeta de Identificación de Trabajador Extranjero\" del Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización, con una foto en blanco y negro de un hombre joven y un espacio vacío al lado."
 geo:
 id: 1027
 item_type: Document

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.07.jpg
     thumb: /files/thumbnails/NAD-200401384707.jpg
     url: /files/original/NAD-200401384707.jpg
+    alt:
+      en: "A nurse at a desk files paperwork for a bracero standing before her, while several other braceros wait seated along the walls of a sparsely furnished waiting room."
+      es: "Una enfermera sentada a un escritorio archiva papeles de un bracero de pie frente a ella, mientras otros braceros esperan sentados a lo largo de las paredes de una sala de espera sencilla."
 geo:
 id: 2735
 item_type: Still Image

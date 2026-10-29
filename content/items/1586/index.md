@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.44.jpg
     thumb: /files/thumbnails/NAD-200401381144.jpg
     url: /files/original/NAD-200401381144.jpg
+    alt:
+      en: "Black-and-white photo of braceros, many wearing wide-brimmed hats, sitting and standing along the arcaded facade of the Monterrey, Mexico railroad station as they wait."
+      es: "Fotografía en blanco y negro de braceros, muchos con sombreros de ala ancha, sentados y de pie bajo los arcos de la fachada de la estación de ferrocarril de Monterrey, México, mientras esperan."
 geo:
 id: 1586
 item_type: Still Image

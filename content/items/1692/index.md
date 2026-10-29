@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.15.06.jpg
     thumb: /files/thumbnails/NAD-200401381506.jpg
     url: /files/original/NAD-200401381506.jpg
+    alt:
+      en: "Black-and-white photo of a large crowd of men in hats lined up along a sidewalk outside an ornate stone building, with streetcar tracks running down the street in front."
+      es: "Foto en blanco y negro de una gran multitud de hombres con sombreros formados en fila junto a una acera frente a un edificio de piedra ornamentado, con vías de tranvía en la calle."
 geo:
 id: 1692
 item_type: Still Image

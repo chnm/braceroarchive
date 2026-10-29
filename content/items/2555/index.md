@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.07.jpg
     thumb: /files/thumbnails/NAD-200401384107.jpg
     url: /files/original/NAD-200401384107.jpg
+    alt:
+      en: "Black-and-white photo of two braceros resting on a bed in a sparse camp room, clothes hanging on a line above them, viewed through a doorway."
+      es: "Fotografía en blanco y negro de dos braceros descansando en una cama dentro de una habitación sencilla del campamento, con ropa colgada en una cuerda encima de ellos, vista a través de una puerta."
 geo:
 id: 2555
 item_type: Still Image

@@ -44,6 +44,9 @@ files:
     original_filename: MR.DELGADO-RIOVISTA-NOV2005.JPG
     thumb: /files/thumbnails/mrdelgado-riovista-nov2005_7f516d1514.jpg
     url: /files/original/mrdelgado-riovista-nov2005_7f516d1514.jpg
+    alt:
+      en: "Elderly man in a white cowboy hat and shirt holding papers, standing on a paved area in front of a long white and red building with a sloped roof."
+      es: "Hombre mayor con sombrero vaquero blanco y camisa blanca sostiene papeles, de pie sobre una superficie pavimentada frente a un edificio alargado blanco y rojo de techo inclinado."
 geo:
 id: 952
 item_type: Still Image

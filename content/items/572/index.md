@@ -44,6 +44,9 @@ files:
     original_filename: galbum.jpg
     thumb: /files/thumbnails/galbum_03ef5e74e0.jpg
     url: /files/original/galbum_03ef5e74e0.jpg
+    alt:
+      en: "Four vintage photographs on an album page: two men leaning against a wall, a man with a gun tucked in his waistband, two men posed by a car, and a man sitting on a low wall near a building."
+      es: "Cuatro fotografías antiguas en una página de álbum: dos hombres recostados en una pared, un hombre con un arma en la cintura, dos hombres posando junto a un automóvil, y un hombre sentado en un muro cerca de un edificio."
 geo:
 id: 572
 item_type: Still Image

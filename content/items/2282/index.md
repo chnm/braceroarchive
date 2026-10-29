@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.21.jpg
     thumb: /files/thumbnails/NAD-200401383421.jpg
     url: /files/original/NAD-200401383421.jpg
+    alt:
+      en: "Rows of \"Toro\" lettuce boxes stretch across a harvested field, with distant workers and hills visible under a bright sky in the Salinas Valley."
+      es: "Hileras de cajas de lechuga \"Toro\" se extienden por un campo cosechado, con trabajadores y colinas visibles a lo lejos bajo un cielo despejado en el Valle de Salinas."
 geo:
 id: 2282
 item_type: Still Image

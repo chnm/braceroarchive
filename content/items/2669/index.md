@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.02.jpg
     thumb: /files/thumbnails/NAD-200401384502.jpg
     url: /files/original/NAD-200401384502.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers resting along the edge of a cultivated field, with a loaded truck and body of water visible in the background under an open sky."
+      es: "Fotografía en blanco y negro de braceros descansando al borde de un campo cultivado, con un camión cargado y un cuerpo de agua visibles al fondo bajo un cielo despejado."
 geo:
 id: 2669
 item_type: Still Image

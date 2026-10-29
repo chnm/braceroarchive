@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.12.jpg
     thumb: /files/thumbnails/NAD-200401383412.jpg
     url: /files/original/NAD-200401383412.jpg
+    alt:
+      en: "A bracero bends over a \"TORO\" lettuce box, closing it with a tool, as rows of workers harvest lettuce across the expansive Salinas Valley field behind him."
+      es: "Un bracero se inclina sobre una caja de lechuga \"TORO\", cerrándola con una herramienta, mientras filas de trabajadores cosechan lechuga en el extenso campo del Valle de Salinas detrás de él."
 geo:
 id: 2297
 item_type: Still Image

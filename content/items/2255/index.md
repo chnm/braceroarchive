@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.33.27.jpg
     thumb: /files/thumbnails/NAD-200401383327.jpg
     url: /files/original/NAD-200401383327.jpg
+    alt:
+      en: "A bracero wearing a plaid cap bends over to hoe a row of soil with a short-handled hoe, surrounded by leafy pepper plants in a field."
+      es: "Un bracero con gorra a cuadros se inclina para azadonar un surco de tierra con un azadón de mango corto, rodeado de plantas frondosas de chile en un campo."
 geo:
 id: 2255
 item_type: Still Image

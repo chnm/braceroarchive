@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.55.06.jpg
     thumb: /files/thumbnails/NAD-200401385506.jpg
     url: /files/original/NAD-200401385506.jpg
+    alt:
+      en: "A man in a straw hat and plaid jacket smokes a cigarette while trimming outer leaves from a head of lettuce in a California field, another worker visible in the background."
+      es: "Un hombre con sombrero de paja y chaqueta a cuadros fuma un cigarrillo mientras recorta las hojas exteriores de una lechuga en un campo de California, con otro trabajador visible al fondo."
 geo:
 id: 2933
 item_type: Still Image

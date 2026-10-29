@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.34.jpg
     thumb: /files/thumbnails/NAD-200401380834.jpg
     url: /files/original/NAD-200401380834.jpg
+    alt:
+      en: "A line of men in wide-brimmed hats hold papers as an official in a suit collects documents from them in an outdoor courtyard, a multistory building visible behind."
+      es: "Una fila de hombres con sombreros de ala ancha sostiene documentos mientras un oficial de traje los recoge en un patio al aire libre, con un edificio de varios pisos al fondo."
 geo:
 id: 1521
 item_type: Still Image

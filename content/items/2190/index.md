@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.32.jpg
     thumb: /files/thumbnails/NAD-200401383132.jpg
     url: /files/original/NAD-200401383132.jpg
+    alt:
+      en: "A solid black, nearly featureless frame with a few faint specks of dust or scratches scattered across the surface."
+      es: "Fotograma completamente negro y prácticamente sin rasgos visibles, con algunas motas tenues de polvo o rayones dispersos en la superficie."
 geo:
 id: 2190
 item_type: Still Image

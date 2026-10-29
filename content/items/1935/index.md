@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.06.jpg
     thumb: /files/thumbnails/NAD-200401382306.jpg
     url: /files/original/NAD-200401382306.jpg
+    alt:
+      en: "A bracero lies on a bed in the foreground gazing toward a window, while other men rest and sit on cots in the long barracks-style room behind him."
+      es: "Un bracero yace sobre una cama en primer plano mirando hacia una ventana, mientras otros hombres descansan y se sientan en catres en la sala larga tipo barracón detrás de él."
 geo:
 id: 1935
 item_type: Still Image

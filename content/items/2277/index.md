@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.28.jpg
     thumb: /files/thumbnails/NAD-200401383428.jpg
     url: /files/original/NAD-200401383428.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over rows in a vast lettuce field, picking and boxing produce, viewed from an elevated platform with wooden crates in foreground."
+      es: "Fotografía en blanco y negro de braceros inclinados sobre hileras en un extenso campo de lechuga, cosechando y empacando el producto, vista desde una plataforma elevada con cajones de madera en primer plano."
 geo:
 id: 2277
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.25.jpg
     thumb: /files/thumbnails/NAD-200401384425.jpg
     url: /files/original/NAD-200401384425.jpg
+    alt:
+      en: "Black-and-white photo of three braceros sitting on a bed playing cards in a crowded camp dormitory, with men resting on nearby cots in the background."
+      es: "Fotografía en blanco y negro de tres braceros sentados sobre una cama jugando cartas en un dormitorio abarrotado del campamento, con hombres descansando en catres cercanos al fondo."
 geo:
 id: 2657
 item_type: Still Image

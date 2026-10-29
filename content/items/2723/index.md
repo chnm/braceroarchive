@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.46.30.jpg
     thumb: /files/thumbnails/NAD-200401384630.jpg
     url: /files/original/NAD-200401384630.jpg
+    alt:
+      en: "A bracero kneels on a wooden platform washing clothes at an outdoor water spigot, with muddy ground, a parked car, and camp buildings visible in the background."
+      es: "Un bracero se arrodilla sobre una plataforma de madera lavando ropa en un grifo de agua al aire libre, con terreno embarrado, un auto estacionado y edificios del campamento al fondo."
 geo:
 id: 2723
 item_type: Still Image

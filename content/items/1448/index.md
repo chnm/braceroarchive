@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.06.26.jpg
     thumb: /files/thumbnails/NAD-200401380626.jpg
     url: /files/original/NAD-200401380626.jpg
+    alt:
+      en: "A large crowd of men, many wearing straw hats, gathers in an open dirt lot near low buildings and trucks, waiting in lines at the Monterrey Processing Center, Mexico."
+      es: "Una gran multitud de hombres, muchos con sombreros de paja, se reúne en un terreno descampado cerca de edificios bajos y camiones, haciendo fila en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1448
 item_type: Still Image

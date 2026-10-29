@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.01.07.jpg
     thumb: /files/thumbnails/NAD-200401380107.jpg
     url: /files/original/NAD-200401380107.jpg
+    alt:
+      en: "An official at a wooden counter reviews documents with a microphone nearby, while a line of men in hats and collared shirts wait outside the shed at the Monterrey Processing Center."
+      es: "Un funcionario revisa documentos en un mostrador de madera con un micrófono cerca, mientras una fila de hombres con sombreros y camisas esperan afuera del cobertizo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1271
 item_type: Still Image

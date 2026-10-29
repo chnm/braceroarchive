@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.12.jpg
     thumb: /files/thumbnails/NAD-200401382612.jpg
     url: /files/original/NAD-200401382612.jpg
+    alt:
+      en: "Braceros in wide-brimmed hats line up along a dirt road beside a field, serving themselves food from pots and trays, with crates of Pepsi-Cola bottles stacked nearby and a truck and hills in the background."
+      es: "Braceros con sombreros de ala ancha hacen fila junto a un camino de tierra al borde de un campo, sirviéndose comida de ollas y bandejas, con cajas de botellas de Pepsi-Cola cerca y un camión y colinas al fondo."
 geo:
 id: 2035
 item_type: Still Image

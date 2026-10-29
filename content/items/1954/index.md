@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.25.jpg
     thumb: /files/thumbnails/NAD-200401382325.jpg
     url: /files/original/NAD-200401382325.jpg
+    alt:
+      en: "Elderly bracero sits on a metal-frame bed inside a canvas tent, with clothes hanging above a small shelf holding bottles and jars, a hat resting on the bedding beside him."
+      es: "Bracero de edad avanzada sentado en una cama de estructura metálica dentro de una tienda de lona, con ropa colgada sobre un pequeño estante con botellas y frascos, y un sombrero junto a él sobre la cama."
 geo:
 id: 1954
 item_type: Still Image

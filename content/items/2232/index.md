@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.27.jpg
     thumb: /files/thumbnails/NAD-200401383227.jpg
     url: /files/original/NAD-200401383227.jpg
+    alt:
+      en: "Black-and-white photo of men resting on bunk beds in a dormitory room, some smoking, with a straw hat on one bed and clothes hanging on a wall hook in the background."
+      es: "Fotografía en blanco y negro de hombres descansando en literas dentro de un dormitorio, algunos fumando, con un sombrero de paja sobre una cama y ropa colgada en un gancho de pared al fondo."
 geo:
 id: 2232
 item_type: Still Image

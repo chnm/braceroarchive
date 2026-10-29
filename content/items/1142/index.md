@@ -44,6 +44,9 @@ files:
     original_filename: velasco patino 22.2.jpg
     thumb: /files/thumbnails/velasco-patino-222_c165107cf5.jpg
     url: /files/original/velasco-patino-222_c165107cf5.jpg
+    alt:
+      en: "Newspaper clipping dated Monday, February 27, 1989, with headline \"...sometimes a candidate,\" discussing Brown's strategy to boost Democratic turnout among Hispanic and Asian voters."
+      es: "Recorte de periódico fechado el lunes 27 de febrero de 1989, con el titular \"...sometimes a candidate\", sobre la estrategia de Brown para aumentar la participación demócrata entre votantes hispanos y asiáticos."
 geo:
 id: 1142
 item_type: Document

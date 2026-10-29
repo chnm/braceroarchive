@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.09.07.jpg
     thumb: /files/thumbnails/NAD-200401380907.jpg
     url: /files/original/NAD-200401380907.jpg
+    alt:
+      en: "A long line of braceros in hats walks across a dusty, hazy field near the Monterrey Processing Center, passing a small group of women and children standing off to the side."
+      es: "Una larga fila de braceros con sombreros camina por un campo polvoriento y brumoso cerca del Centro de Procesamiento de Monterrey, pasando junto a un pequeño grupo de mujeres y niños a un lado."
 geo:
 id: 1550
 item_type: Still Image

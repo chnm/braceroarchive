@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.25.jpg
     thumb: /files/thumbnails/NAD-200401381725.jpg
     url: /files/original/NAD-200401381725.jpg
+    alt:
+      en: "Shirtless men line up in a large hall as nurses in uniform administer vaccinations at a table, with a sign reading \"VACCINATION\" visible on a pillar in the background."
+      es: "Hombres sin camisa hacen fila en un salón amplio mientras enfermeras uniformadas aplican vacunas en una mesa, con un letrero que dice \"VACCINATION\" visible en una columna al fondo."
 geo:
 id: 1774
 item_type: Still Image

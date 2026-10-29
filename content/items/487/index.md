@@ -49,6 +49,9 @@ files:
     original_filename: IsmaelChavira-01.jpg
     thumb: /files/thumbnails/ismaelchavira-01_61993a857c.jpg
     url: /files/original/ismaelchavira-01_61993a857c.jpg
+    alt:
+      en: "Alien Laborer's Identification Card bearing a man's photograph, headed \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55).\""
+      es: "Tarjeta de Identificación de Trabajador Extranjero con la fotografía de un hombre, encabezada \"United States Department of Justice, Immigration and Naturalization Service - I-100D (12-7-55)\"."
 geo:
 id: 487
 item_type: Document

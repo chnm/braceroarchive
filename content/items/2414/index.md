@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.06.jpg
     thumb: /files/thumbnails/NAD-200401383706.jpg
     url: /files/original/NAD-200401383706.jpg
+    alt:
+      en: "Black-and-white photo of a man on a truck assembling \"Toro Lettuce\" boxes with a machine, while rows of workers harvest lettuce in a vast field under distant hills."
+      es: "Fotografía en blanco y negro de un hombre sobre un camión armando cajas de \"Toro Lettuce\" con una máquina, mientras filas de trabajadores cosechan lechuga en un extenso campo bajo colinas lejanas."
 geo:
 id: 2414
 item_type: Still Image

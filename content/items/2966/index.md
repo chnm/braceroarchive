@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.56.05.jpg
     thumb: /files/thumbnails/NAD-200401385605.jpg
     url: /files/original/NAD-200401385605.jpg
+    alt:
+      en: "Black-and-white portrait of two braceros wearing wide-brimmed hats and button-up shirts, standing against a plain sky background, looking toward the camera."
+      es: "Retrato en blanco y negro de dos braceros con sombreros de ala ancha y camisas con botones, de pie frente a un cielo despejado, mirando hacia la cámara."
 geo:
 id: 2966
 item_type: Still Image

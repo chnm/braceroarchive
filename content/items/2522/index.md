@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.11.jpg
     thumb: /files/thumbnails/NAD-200401384011.jpg
     url: /files/original/NAD-200401384011.jpg
+    alt:
+      en: "Black-and-white photo of a lettuce field with a worker loading wooden crates onto a flatbed truck, another truck and workers visible in the distance."
+      es: "Foto en blanco y negro de un campo de lechugas con un trabajador cargando cajas de madera en un camión plano, mientras otro camión y trabajadores se ven a lo lejos."
 geo:
 id: 2522
 item_type: Still Image

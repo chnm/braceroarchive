@@ -46,6 +46,9 @@ files:
     original_filename: Mar17_17.JPG
     thumb: /files/thumbnails/mar17_17_d8034dc5da.jpg
     url: /files/original/mar17_17_d8034dc5da.jpg
+    alt:
+      en: "Typed letter on letterhead from Alberto Lemus González, Administrador de Correos \"3\", Mexico, D.F., dated August 12, 1944, addressed to Catarino Casillas in Wauseon, Ohio, with a handwritten signature at the bottom."
+      es: "Carta mecanografiada con membrete de Alberto Lemus González, Administrador de Correos \"3\", México, D.F., fechada el 12 de agosto de 1944, dirigida a Catarino Casillas en Wauseon, Ohio, con firma manuscrita al final."
 geo:
 id: 530
 item_type: Document

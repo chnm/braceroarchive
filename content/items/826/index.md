@@ -46,6 +46,9 @@ files:
     original_filename: __hr_SamuelChavira-Contract 2nd Part.jpg
     thumb: /files/thumbnails/__hr_samuelchavira-contract-2nd-part_6dcd6e0ac8.jpg
     url: /files/original/__hr_samuelchavira-contract-2nd-part_6dcd6e0ac8.jpg
+    alt:
+      en: "Back of a 1954 bracero work contract showing the $1.25 daily subsistence payment, signatures of worker Samuel Chavira Medrano and employer, El Paso, Texas date line, and an official red \"Servicio Exterior Mexicano\" consulate stamp."
+      es: "Reverso de un contrato de trabajo bracero de 1954 con el pago de subsistencia diaria de $1.25, firmas del trabajador Samuel Chavira Medrano y del empleador, línea de fecha en El Paso, Texas, y sello rojo del Servicio Exterior Mexicano."
 geo:
 id: 826
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: espino2copy.jpg
     thumb: /files/thumbnails/espino2copy_cfc514752b.jpg
     url: /files/original/espino2copy_cfc514752b.jpg
+    alt:
+      en: "Back side of a bilingual individual work agreement document with numbered clauses in English and Spanish, bearing signatures, a date stamp \"28 DIC 1943,\" and official seals at the bottom."
+      es: "Reverso de un contrato de trabajo individual bilingüe con cláusulas numeradas en inglés y español, firmas, un sello con fecha \"28 DIC 1943\" y sellos oficiales en la parte inferior."
 geo:
 id: 923
 item_type: Document

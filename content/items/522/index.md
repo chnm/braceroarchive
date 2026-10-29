@@ -46,6 +46,9 @@ files:
     original_filename: RosalesRios-02.jpg
     thumb: /files/thumbnails/rosalesrios-02_bd603b8f21.jpg
     url: /files/original/rosalesrios-02_bd603b8f21.jpg
+    alt:
+      en: "Alien Laborer's Permit identification card for Jesus Rosales Rios, with photo, personal details, admission date of March 24, 1960, and employer listed as Yuma Producers Coop Association in Cochise County."
+      es: "Tarjeta de identificación \"Alien Laborer's Permit\" de Jesús Rosales Rios, con fotografía, datos personales, fecha de admisión 24 de marzo de 1960, y empleador Yuma Producers Coop Association en el condado de Cochise."
 geo:
 id: 522
 item_type: Document

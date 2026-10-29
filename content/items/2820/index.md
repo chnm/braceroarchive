@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.50.05.jpg
     thumb: /files/thumbnails/NAD-200401385005.jpg
     url: /files/original/NAD-200401385005.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on bare ground at a field's edge in California, one man in a straw hat lying on a blanket, another worker's legs visible nearby."
+      es: "Fotografía en blanco y negro de braceros descansando en el suelo al borde de un campo en California, un hombre con sombrero de paja recostado sobre una manta, y las piernas de otro trabajador visibles cerca."
 geo:
 id: 2820
 item_type: Still Image

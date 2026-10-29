@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.33.jpg
     thumb: /files/thumbnails/NAD-200401382033.jpg
     url: /files/original/NAD-200401382033.jpg
+    alt:
+      en: "A bracero in a cap and jacket stands atop stacked \"Cookie\" lettuce boxes on a truck, overlooking a large field where other workers harvest lettuce in rows."
+      es: "Un bracero con gorra y chamarra está de pie sobre cajas de lechuga \"Cookie\" apiladas en un camión, mirando hacia un amplio campo donde otros trabajadores cosechan lechuga en hileras."
 geo:
 id: 1855
 item_type: Still Image

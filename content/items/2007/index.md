@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.25.08.jpg
     thumb: /files/thumbnails/NAD-200401382508.jpg
     url: /files/original/NAD-200401382508.jpg
+    alt:
+      en: "Black-and-white photo of a nurse standing beside a seated doctor examining a document, while a bracero sits nearby in a cluttered clinical office with shelves of papers and supplies."
+      es: "Foto en blanco y negro de una enfermera de pie junto a un doctor sentado que examina un documento, mientras un bracero está sentado cerca en una oficina clínica con estantes de papeles y suministros."
 geo:
 id: 2007
 item_type: Still Image

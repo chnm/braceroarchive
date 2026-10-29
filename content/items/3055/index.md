@@ -44,6 +44,9 @@ files:
     original_filename: belen soto moreno 6 (dup).jpg
     thumb: /files/thumbnails/belen-soto-moreno-6-(dup)_d1cdcd928e.jpg
     url: /files/original/belen-soto-moreno-6-(dup)_d1cdcd928e.jpg
+    alt:
+      en: "Black-and-white photo of four children standing together outside a wooden building, with a young boy in glasses holding a small box in front."
+      es: "Foto en blanco y negro de cuatro niños de pie juntos afuera de un edificio de madera, con un niño con anteojos sosteniendo una pequeña caja al frente."
 geo:
 id: 3055
 item_type: Still Image

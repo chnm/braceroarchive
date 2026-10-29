@@ -44,6 +44,9 @@ files:
     original_filename: NAD-2004.0138.46.18.jpg
     thumb: /files/thumbnails/NAD-200401384618.jpg
     url: /files/original/NAD-200401384618.jpg
+    alt:
+      en: "Two men sit on the ground playing checkers with bottle caps outside a quonset hut, while several other men sit on a bench nearby watching."
+      es: "Dos hombres sentados en el suelo juegan damas con corcholatas frente a una barraca metálica, mientras otros hombres los observan sentados en una banca cercana."
 geo:
 id: 2376
 item_type: Still Image

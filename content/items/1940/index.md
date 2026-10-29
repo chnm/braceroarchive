@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.11.jpg
     thumb: /files/thumbnails/NAD-200401382311.jpg
     url: /files/original/NAD-200401382311.jpg
+    alt:
+      en: "Black-and-white photo of a long wooden barracks building with several people seated on the ground outside doorways, a metal barrel and parked trucks nearby in a dirt yard."
+      es: "Foto en blanco y negro de un largo barracón de madera con varias personas sentadas en el suelo frente a las puertas, un barril metálico y camiones estacionados en un patio de tierra."
 geo:
 id: 1940
 item_type: Still Image

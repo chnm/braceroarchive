@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.49.17.jpg
     thumb: /files/thumbnails/NAD-200401384917.jpg
     url: /files/original/NAD-200401384917.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in long rows of a pepper field, performing stoop labor, with more workers and hills visible in the background."
+      es: "Foto en blanco y negro de braceros agachados en largas hileras de un campo de pimientos, realizando trabajo agrícola, con más trabajadores y colinas visibles al fondo."
 geo:
 id: 2796
 item_type: Still Image

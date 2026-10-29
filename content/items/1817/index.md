@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.16.jpg
     thumb: /files/thumbnails/NAD-200401381916.jpg
     url: /files/original/NAD-200401381916.jpg
+    alt:
+      en: "Black-and-white photo of a crowded bus interior filled with men wearing hats and collared shirts, some seated and others standing in the aisle, luggage stacked on overhead racks."
+      es: "Foto en blanco y negro del interior abarrotado de un autobús con hombres que llevan sombreros y camisas de cuello, algunos sentados y otros de pie en el pasillo, con equipaje apilado en los portaequipajes superiores."
 geo:
 id: 1817
 item_type: Still Image

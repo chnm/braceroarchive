@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.03.11.jpg
     thumb: /files/thumbnails/NAD-200401380311.jpg
     url: /files/original/NAD-200401380311.jpg
+    alt:
+      en: "A seated official interviews a bracero wearing a wide-brimmed hat at a desk, while a line of other men in hats wait behind him inside the Monterrey Processing Center."
+      es: "Un funcionario sentado entrevista a un bracero con sombrero de ala ancha en un escritorio, mientras una fila de otros hombres con sombrero espera detrás de él en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1319
 item_type: Still Image

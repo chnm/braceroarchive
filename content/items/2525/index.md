@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.14.jpg
     thumb: /files/thumbnails/NAD-200401384014.jpg
     url: /files/original/NAD-200401384014.jpg
+    alt:
+      en: "Stacks of \"Toro Lettuce\" boxes fill the bed of a truck, with a worker wearing a hat visible behind them, overlooking a vast lettuce field stretching toward distant hills."
+      es: "Pilas de cajas de \"Toro Lettuce\" llenan la plataforma de un camión, con un trabajador de sombrero visible detrás, frente a un extenso campo de lechuga que se extiende hacia las colinas lejanas."
 geo:
 id: 2525
 item_type: Still Image

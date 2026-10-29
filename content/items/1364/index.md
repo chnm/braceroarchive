@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.04.jpg
     thumb: /files/thumbnails/NAD-200401380404.jpg
     url: /files/original/NAD-200401380404.jpg
+    alt:
+      en: "A large crowd of men wearing straw hats gathers closely together in an open yard, with buildings and vehicles visible in the background at the Monterrey Processing Center."
+      es: "Una gran multitud de hombres con sombreros de paja se reúne en un patio abierto, con edificios y vehículos visibles al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1364
 item_type: Still Image

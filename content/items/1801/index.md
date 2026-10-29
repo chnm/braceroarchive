@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.19.35.jpg
     thumb: /files/thumbnails/NAD-200401381935.jpg
     url: /files/original/NAD-200401381935.jpg
+    alt:
+      en: "Aerial, grainy black-and-white photograph of cultivated farmland with long parallel furrows running diagonally across the frame, with small dark specks of workers scattered in the fields."
+      es: "Fotografía aérea en blanco y negro granulada de un campo cultivado con surcos paralelos diagonales, con pequeños puntos oscuros de trabajadores dispersos en el terreno."
 geo:
 id: 1801
 item_type: Still Image

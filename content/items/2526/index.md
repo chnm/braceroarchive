@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.15.jpg
     thumb: /files/thumbnails/NAD-200401384015.jpg
     url: /files/original/NAD-200401384015.jpg
+    alt:
+      en: "A worker carries a \"Toro\" lettuce box across a field toward a stack of empty cartons on a truck bed, with rows of lettuce stretching toward distant hills."
+      es: "Un trabajador carga una caja de lechuga \"Toro\" a través del campo hacia una pila de cartones vacíos sobre un camión, con hileras de lechuga que se extienden hacia las colinas distantes."
 geo:
 id: 2526
 item_type: Still Image

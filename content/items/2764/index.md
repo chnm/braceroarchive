@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.48.05.jpg
     thumb: /files/thumbnails/NAD-200401384805.jpg
     url: /files/original/NAD-200401384805.jpg
+    alt:
+      en: "A bracero rests on a simple metal-frame cot in a dimly lit wooden barracks, sunlight streaming through a gap in the wall, with other cots and a hanging towel nearby."
+      es: "Un bracero descansa en un catre de metal en un barracón de madera poco iluminado, con luz solar entrando por una rendija en la pared y otras camas y una toalla colgada cerca."
 geo:
 id: 2764
 item_type: Still Image

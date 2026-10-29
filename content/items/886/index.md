@@ -46,6 +46,9 @@ files:
     original_filename: Carton conteo cajas pizca tomate, Stockton California, 1960.jpg
     thumb: /files/thumbnails/carton-conteo-cajas-pizca-tomate,-stockton-california,-1960_4092a057e3.jpg
     url: /files/original/carton-conteo-cajas-pizca-tomate,-stockton-california,-1960_4092a057e3.jpg
+    alt:
+      en: "Punch card No. 174 from Stockton Growers Group, Inc., dated 9-8-60, rate 12¢, total 100, with numbered rows 2–99 for tracking picked cartons; card No. 0926 printed at right."
+      es: "Tarjeta perforada No. 174 de Stockton Growers Group, Inc., fechada 9-8-60, tarifa 12¢, total 100, con filas numeradas del 2 al 99 para contar cartones recolectados; tarjeta No. 0926 impresa a la derecha."
 geo:
 id: 886
 item_type: Document

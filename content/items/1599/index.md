@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.11.33.jpg
     thumb: /files/thumbnails/NAD-200401381133.jpg
     url: /files/original/NAD-200401381133.jpg
+    alt:
+      en: "An official seated at a table examines a bracero's outstretched hands while a line of men in wide-brimmed hats wait behind him at the Monterrey Processing Center."
+      es: "Un funcionario sentado a una mesa examina las manos extendidas de un bracero, mientras una fila de hombres con sombreros de ala ancha espera detrás de él en el Centro de Contratación de Monterrey."
 geo:
 id: 1599
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.15.jpg
     thumb: /files/thumbnails/NAD-200401382115.jpg
     url: /files/original/NAD-200401382115.jpg
+    alt:
+      en: "Group of braceros gather on beds in a camp living quarter, talking and smoking, with jackets and hats hung on the wall above and a radio on a small table nearby."
+      es: "Grupo de braceros reunidos en camas dentro de una vivienda del campamento, hablando y fumando, con chaquetas y sombreros colgados en la pared y una radio sobre una pequeña mesa cercana."
 geo:
 id: 1881
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.11.34.jpg
     thumb: /files/thumbnails/NAD-200401381134.jpg
     url: /files/original/NAD-200401381134.jpg
+    alt:
+      en: "An official seated at a table reviews a document held up by a man wearing a straw hat, while a line of other men wait nearby in a large hall with tall windows."
+      es: "Un funcionario sentado a una mesa revisa un documento sostenido por un hombre con sombrero de paja, mientras una fila de otros hombres espera cerca en un salón amplio con ventanas altas."
 geo:
 id: 1600
 item_type: Still Image

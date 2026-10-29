@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.17.jpg
     thumb: /files/thumbnails/NAD-200401381717.jpg
     url: /files/original/NAD-200401381717.jpg
+    alt:
+      en: "An official uses a flashlight to examine a shirtless man's mouth and teeth as rows of other men, many shirtless, line up along the walls at the Monterrey Processing Center."
+      es: "Un funcionario usa una linterna para examinar la boca y los dientes de un hombre sin camisa, mientras filas de otros hombres, muchos sin camisa, se alinean junto a las paredes en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1766
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: Instructivo p.24-25.jpg
     thumb: /files/thumbnails/instructivo-p24-25_f13fdb11e7.jpg
     url: /files/original/instructivo-p24-25_f13fdb11e7.jpg
+    alt:
+      en: "Pages 24-25 of a bracero instruction book, printed in Spanish, with a section header \"Accidentes y Enfermedades por Causas Ajenas al Trabajo\" discussing workplace insurance, accident claims, and medical rights."
+      es: "Páginas 24-25 de un folleto de instrucciones para braceros, impreso en español, con el encabezado \"Accidentes y Enfermedades por Causas Ajenas al Trabajo\" sobre seguros laborales, reclamaciones por accidentes y derechos médicos."
 geo:
 id: 596
 item_type: Still Image

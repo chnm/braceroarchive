@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.02.jpg
     thumb: /files/thumbnails/NAD-200401380202.jpg
     url: /files/original/NAD-200401380202.jpg
+    alt:
+      en: "A group of men examine rows of small identification photographs laid out on boards, while a long line of other men waits behind them at the Hidalgo Processing Center."
+      es: "Un grupo de hombres examina hileras de pequeñas fotografías de identificación colocadas sobre tablas, mientras una larga fila de hombres espera detrás de ellos en el Centro de Procesamiento de Hidalgo."
 geo:
 id: 1286
 item_type: Still Image

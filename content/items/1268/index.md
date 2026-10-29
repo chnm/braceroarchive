@@ -44,6 +44,9 @@ files:
     original_filename: NAD-2004.0138.01.04.jpg
     thumb: /files/thumbnails/NAD-200401380104.jpg
     url: /files/original/NAD-200401380104.jpg
+    alt:
+      en: "Behind a barbed-wire fence, men in hats walk across a dusty yard as a large crowd gathers near a building, with a wooden post framing the foreground."
+      es: "Detrás de una cerca de alambre de púas, hombres con sombreros cruzan un patio polvoriento mientras una multitud se reúne cerca de un edificio, con un poste de madera en primer plano."
 geo:
 id: 1268
 item_type: Still Image

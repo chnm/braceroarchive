@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.03.12.jpg
     thumb: /files/thumbnails/NAD-200401380312.jpg
     url: /files/original/NAD-200401380312.jpg
+    alt:
+      en: "Black-and-white photo of an official seated at a desk interviewing a bracero in a brimmed hat, with a long line of other hatted men waiting behind him near large windows."
+      es: "Foto en blanco y negro de un funcionario sentado en un escritorio entrevistando a un bracero con sombrero de ala ancha, mientras una larga fila de hombres con sombrero espera detrás, cerca de grandes ventanales."
 geo:
 id: 1320
 item_type: Still Image

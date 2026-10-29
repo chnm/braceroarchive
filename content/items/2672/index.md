@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.45.05.jpg
     thumb: /files/thumbnails/NAD-200401384505.jpg
     url: /files/original/NAD-200401384505.jpg
+    alt:
+      en: "Black-and-white photo of a group of braceros resting along the edge of a dirt road bordering a cultivated field, with one man standing and others seated nearby, trees lining the horizon."
+      es: "Fotografía en blanco y negro de un grupo de braceros descansando al borde de un camino de tierra junto a un campo cultivado, con un hombre de pie y otros sentados cerca, y árboles en el horizonte."
 geo:
 id: 2672
 item_type: Still Image

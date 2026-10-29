@@ -46,6 +46,9 @@ files:
     original_filename: contrato Julio-Agosto 1962 Fresno, California (front).jpg
     thumb: /files/thumbnails/contrato-julio-agosto-1962-fresno,-california-(front)_ab7fdf5708.jpg
     url: /files/original/contrato-julio-agosto-1962-fresno,-california-(front)_ab7fdf5708.jpg
+    alt:
+      en: "Typed and stamped continuation of a standard work contract form for Homero Lopez Ortiz, dated July 3, 1962, with employer and labor representative signatures and official seals."
+      es: "Formulario de continuación de contrato de trabajo estándar, mecanografiado y sellado, a nombre de Homero López Ortiz, fechado el 3 de julio de 1962, con firmas de empleador y representantes laborales y sellos oficiales."
 geo:
 id: 871
 item_type: Document

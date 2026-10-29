@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.53.26.jpg
     thumb: /files/thumbnails/NAD-200401385326.jpg
     url: /files/original/NAD-200401385326.jpg
+    alt:
+      en: "Black-and-white photo of laundry hanging on a chain-link fence beside a dirt path and a building, with trees in the background at Gondo labor camp near Watsonville, California."
+      es: "Foto en blanco y negro de ropa tendida en una cerca de alambre junto a un camino de tierra y un edificio, con árboles al fondo en el campamento laboral Gondo cerca de Watsonville, California."
 geo:
 id: 2916
 item_type: Still Image

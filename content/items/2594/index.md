@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.23.jpg
     thumb: /files/thumbnails/NAD-200401384223.jpg
     url: /files/original/NAD-200401384223.jpg
+    alt:
+      en: "Black-and-white photo of a curving railroad track beside a small trackside building and rail maintenance cart, viewed past two roadside mailboxes in the foreground."
+      es: "Fotografía en blanco y negro de una vía férrea curva junto a una pequeña edificación y un carro de mantenimiento ferroviario, vista más allá de dos buzones al borde del camino en primer plano."
 geo:
 id: 2594
 item_type: Still Image

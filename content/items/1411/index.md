@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.05.30.jpg
     thumb: /files/thumbnails/NAD-200401380530.jpg
     url: /files/original/NAD-200401380530.jpg
+    alt:
+      en: "Four men wearing wide-brimmed hats gather around a table preparing food in a bare, cinder-block barracks, with pots, pans, and a long bench visible nearby."
+      es: "Cuatro hombres con sombreros de ala ancha se reúnen alrededor de una mesa preparando comida en un barracón de bloques de cemento, con ollas, sartenes y una larga banca cerca."
 geo:
 id: 1411
 item_type: Still Image

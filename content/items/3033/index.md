@@ -44,6 +44,9 @@ files:
     original_filename: IMG_3384.JPG
     thumb: /files/thumbnails/img_3384_eea090cec9.jpg
     url: /files/original/img_3384_eea090cec9.jpg
+    alt:
+      en: "Man with gray hair wearing a white T-shirt and dark jeans stands on a grassy hillside overlooking a lush, tree-covered valley, with a small stone structure visible in the distance."
+      es: "Hombre de cabello gris con camiseta blanca y jeans oscuros de pie en una colina de pasto con vista a un valle cubierto de árboles, con una pequeña estructura de piedra visible a la distancia."
 geo:
 id: 3033
 item_type: Still Image

@@ -46,6 +46,9 @@ files:
     original_filename: USD of Labor front.jpg
     thumb: /files/thumbnails/usd-of-labor-front_82aad8f887.jpg
     url: /files/original/usd-of-labor-front_82aad8f887.jpg
+    alt:
+      en: "Worn bifold card titled \"Secretaría del Trabajo de los E.E.U.U.\" with Spanish printed text, a fingerprint, handwritten name and date, and an official signature at the bottom."
+      es: "Tarjeta plegable desgastada titulada \"Secretaría del Trabajo de los E.E.U.U.\" con texto impreso en español, una huella dactilar, nombre y fecha manuscritos, y una firma oficial al final."
 geo:
 id: 492
 item_type: Document

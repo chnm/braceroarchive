@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.02.jpg
     thumb: /files/thumbnails/NAD-200401380402.jpg
     url: /files/original/NAD-200401380402.jpg
+    alt:
+      en: "Large crowd of men in straw hats gathers at the Monterrey Processing Center, with railroad tracks and a mountain visible in the background."
+      es: "Gran multitud de hombres con sombreros de paja se reúne en el Centro de Procesamiento de Monterrey, con vías de ferrocarril y una montaña visibles al fondo."
 geo:
 id: 1374
 item_type: Still Image

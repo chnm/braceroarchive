@@ -23,6 +23,9 @@ files:
     original_filename: Rochin Carrillo C. Hilton ~ 1952.jpg
     thumb: /files/thumbnails/rochin-carrillo-c-hilton-~-1952_69e254e30c.jpg
     url: /files/original/rochin-carrillo-c-hilton-~-1952_69e254e30c.jpg
+    alt:
+      en: "Black-and-white photo of six men seated around a white-clothed table set with cups and condiments, smiling for the camera; identified left to right as unknown, unknown, Leo Carillo, Conrad Hilton, Refugio Rochin, and unknown."
+      es: "Foto en blanco y negro de seis hombres sentados alrededor de una mesa con mantel blanco, tazas y condimentos, sonriendo a la cámara; identificados de izquierda a derecha como desconocido, desconocido, Leo Carillo, Conrad Hilton, Refugio Rochin y desconocido."
 geo:
 id: 3198
 item_type: Still Image

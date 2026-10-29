@@ -44,6 +44,9 @@ files:
     original_filename: FigueroaEncinasLuis testamentletter3.jpg
     thumb: /files/thumbnails/figueroaencinasluis-testamentletter3_dcbc1e377d.jpg
     url: /files/original/figueroaencinasluis-testamentletter3_dcbc1e377d.jpg
+    alt:
+      en: "Typed testimony letter dated Mexicali, Baja California, September 10, 2003, with handwritten signatures of two witnesses affirming Luis Figueroa Encinas worked in the U.S. from 1952 to 1961."
+      es: "Carta de testimonio mecanografiada fechada en Mexicali, Baja California, 10 de septiembre de 2003, con firmas manuscritas de dos testigos que afirman que Luis Figueroa Encinas trabajó en EE.UU. de 1952 a 1961."
 geo:
 id: 1029
 item_type: Document

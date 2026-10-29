@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.48.14.jpg
     thumb: /files/thumbnails/NAD-200401384814.jpg
     url: /files/original/NAD-200401384814.jpg
+    alt:
+      en: "A man lies on a bed in a sparse camp room, smoking a cigarette, with a \"Fab\" detergent box nearby and a calendar reading \"Hoffman\" hanging on the wall above open cabinets."
+      es: "Un hombre yace en una cama en una habitación austera del campamento, fumando un cigarrillo, con una caja de detergente \"Fab\" cerca y un calendario \"Hoffman\" sobre gabinetes abiertos."
 geo:
 id: 2772
 item_type: Still Image

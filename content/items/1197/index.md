@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 38.jpg
     thumb: /files/thumbnails/velasco-patino-38_c7f11d17f5.jpg
     url: /files/original/velasco-patino-38_c7f11d17f5.jpg
+    alt:
+      en: "Three \"Purchaser's Receipt of Bank Money Order\" forms from The First National Bank in Coachella, California, dated June 12, 1950, Nov. 28, 1949, and Sept. 26, 1949, listing amounts of $25.00, $40.00, and $7.00 to Francisca Rodriguez."
+      es: "Tres formularios \"Purchaser's Receipt of Bank Money Order\" del First National Bank en Coachella, California, fechados el 12 de junio de 1950, el 28 de noviembre de 1949 y el 26 de septiembre de 1949, por $25.00, $40.00 y $7.00 a Francisca Rodríguez."
 geo:
 id: 1197
 item_type: Document

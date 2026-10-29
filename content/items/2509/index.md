@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.39.31.jpg
     thumb: /files/thumbnails/NAD-200401383931.jpg
     url: /files/original/NAD-200401383931.jpg
+    alt:
+      en: "Black-and-white photo of men in hats and work clothes standing beside stacked luggage, a cardboard box, and bundled bags near a doorway in Stockton, California."
+      es: "Foto en blanco y negro de hombres con sombreros y ropa de trabajo junto a maletas apiladas, una caja de cartón y bultos atados cerca de una puerta en Stockton, California."
 geo:
 id: 2509
 item_type: Still Image

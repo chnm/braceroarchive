@@ -46,6 +46,9 @@ files:
     original_filename: Martinez, Faustino - Passport 5.jpg
     thumb: /files/thumbnails/martinez,-faustino---passport-5_7e02d5367f.jpg
     url: /files/original/martinez,-faustino---passport-5_7e02d5367f.jpg
+    alt:
+      en: "Passport pages headed \"Refrendos\" and \"Visas,\" with a handwritten note confirming the holder's birth date of August 13, 1926, signed by Amadeo Ruiz Guillen and stamped by the Consulado de México in Calexico, Calif."
+      es: "Páginas de pasaporte tituladas \"Refrendos\" y \"Visas\", con una nota manuscrita que confirma la fecha de nacimiento del titular, 13 de agosto de 1926, firmada por Amadeo Ruiz Guillén y sellada por el Consulado de México en Calexico, Calif."
 geo:
 id: 1115
 item_type: Document

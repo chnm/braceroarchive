@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.35.04.jpg
     thumb: /files/thumbnails/NAD-200401383504.jpg
     url: /files/original/NAD-200401383504.jpg
+    alt:
+      en: "A bracero reclines on a bunk bed reading a comic book, with shirts hanging from a rack and a cabinet mounted above in a camp dormitory room."
+      es: "Un bracero recostado en una litera lee una historieta, con camisas colgadas en un perchero y un gabinete montado arriba en un dormitorio del campamento."
 geo:
 id: 2406
 item_type: Still Image

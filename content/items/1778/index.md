@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.17.29.jpg
     thumb: /files/thumbnails/NAD-200401381729.jpg
     url: /files/original/NAD-200401381729.jpg
+    alt:
+      en: "A seated official reviews documents at a table while a group of men in wide-brimmed hats gather around him, with more workers and officials visible in the background hall."
+      es: "Un funcionario sentado revisa documentos en una mesa mientras un grupo de hombres con sombreros de ala ancha se reúne a su alrededor, con más trabajadores y funcionarios visibles al fondo del salón."
 geo:
 id: 1778
 item_type: Still Image

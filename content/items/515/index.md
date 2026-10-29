@@ -46,6 +46,9 @@ files:
     original_filename: CastañedaAaron-07 copy.jpg
     thumb: /files/thumbnails/castañedaaaron-07-copy_3f9089fd82.jpg
     url: /files/original/castañedaaaron-07-copy_3f9089fd82.jpg
+    alt:
+      en: "1944 Pennsylvania Railroad Company Form 1099 showing gross wages of $961.75 for A. Castaneda Gamez, Carrillo Puerto 87, Canitas Zac Mexico, with service months credit chart and employer details."
+      es: "Formulario 1099 de 1944 de Pennsylvania Railroad Company mostrando salario bruto de $961.75 para A. Castañeda Gamez, Carrillo Puerto 87, Canitas Zac México, con cuadro de meses de servicio y datos del empleador."
 geo:
 id: 515
 item_type: Document

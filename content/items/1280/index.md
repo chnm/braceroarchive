@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.01.37.jpg
     thumb: /files/thumbnails/NAD-200401380137.jpg
     url: /files/original/NAD-200401380137.jpg
+    alt:
+      en: "A long line of hatted braceros queues near stacked cardboard boxes beside buses labeled \"Transportes Monterrey Saltillo S.A. de C.V.\" at the Monterrey Processing Center."
+      es: "Una larga fila de braceros con sombrero espera junto a cajas de cartón apiladas frente a autobuses rotulados \"Transportes Monterrey Saltillo S.A. de C.V.\" en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1280
 item_type: Still Image

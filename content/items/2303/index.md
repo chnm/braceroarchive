@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.34.07.jpg
     thumb: /files/thumbnails/NAD-200401383407.jpg
     url: /files/original/NAD-200401383407.jpg
+    alt:
+      en: "A bracero carries stacked crates labeled \"C\" on his head as other workers bend to pick lettuce across a vast field in the Salinas Valley, California."
+      es: "Un bracero carga cajas apiladas con la letra \"C\" sobre su cabeza mientras otros trabajadores se inclinan para cosechar lechuga en un amplio campo del Valle de Salinas, California."
 geo:
 id: 2303
 item_type: Still Image

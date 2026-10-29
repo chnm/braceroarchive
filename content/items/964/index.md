@@ -46,6 +46,9 @@ files:
     original_filename: ayonmaria frontID.jpg
     thumb: /files/thumbnails/ayonmaria-frontid_6ed1abffbc.jpg
     url: /files/original/ayonmaria-frontid_6ed1abffbc.jpg
+    alt:
+      en: "Worn \"Alien Laborer's Identification Card\" from the U.S. Department of Justice, Immigration and Naturalization Service (I-100D, 12-7-55), featuring a cracked photograph of a man with curly hair."
+      es: "Tarjeta desgastada de \"Identificación de Trabajador Extranjero\" del Departamento de Justicia de EE. UU., Servicio de Inmigración y Naturalización (I-100D, 12-7-55), con una fotografía agrietada de un hombre de cabello rizado."
 geo:
 id: 964
 item_type: Document

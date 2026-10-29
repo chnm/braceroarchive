@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.06.jpg
     thumb: /files/thumbnails/NAD-200401382806.jpg
     url: /files/original/NAD-200401382806.jpg
+    alt:
+      en: "Black-and-white photo framed through an open doorway shows a man leaning against a doorframe in a row of wooden barracks-style buildings at a labor camp."
+      es: "Fotografía en blanco y negro enmarcada por una puerta abierta, donde se ve a un hombre apoyado en el marco frente a una fila de barracones de madera en un campamento de trabajo."
 geo:
 id: 2096
 item_type: Still Image

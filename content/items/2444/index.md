@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.44.jpg
     thumb: /files/thumbnails/NAD-200401383744.jpg
     url: /files/original/NAD-200401383744.jpg
+    alt:
+      en: "A bracero wearing a wide-brimmed hat stands in a lettuce field, trimming outer leaves from a harvested lettuce head, with other workers and a truck visible in the background."
+      es: "Un bracero con sombrero de ala ancha está de pie en un campo de lechugas, quitando las hojas exteriores de una lechuga cosechada, con otros trabajadores y un camión visibles al fondo."
 geo:
 id: 2444
 item_type: Still Image

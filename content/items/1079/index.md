@@ -44,6 +44,9 @@ files:
     original_filename: rafael hernandez pic2.jpg
     thumb: /files/thumbnails/rafael-hernandez-pic2_da1f7edd06.jpg
     url: /files/original/rafael-hernandez-pic2_da1f7edd06.jpg
+    alt:
+      en: "Black-and-white photo of a man in a short-sleeved shirt standing beside farm machinery, one hand resting on a steering wheel, with a cloudy sky in the background."
+      es: "Foto en blanco y negro de un hombre con camisa de manga corta junto a maquinaria agrícola, con una mano sobre el volante, y un cielo nublado de fondo."
 geo:
 id: 1079
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.15.jpg
     thumb: /files/thumbnails/NAD-200401380815.jpg
     url: /files/original/NAD-200401380815.jpg
+    alt:
+      en: "Black-and-white photo of two men on horseback riding down a stone-walled dirt road in San Mateo, Mexico, with a loaded pack animal walking ahead of them."
+      es: "Fotografía en blanco y negro de dos hombres a caballo recorriendo un camino de tierra bordeado de muros de piedra en San Mateo, México, con un animal de carga caminando delante de ellos."
 geo:
 id: 1502
 item_type: Still Image

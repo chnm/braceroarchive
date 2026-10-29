@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.21.jpg
     thumb: /files/thumbnails/NAD-200401385221.jpg
     url: /files/original/NAD-200401385221.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over in stoop labor, using short-handled hoes across long furrowed rows in a Salinas Valley field, with hills and parked vehicles in the background."
+      es: "Foto en blanco y negro de braceros agachados en labor de deshierbe, usando azadones de mango corto en largos surcos de un campo del Valle de Salinas, con colinas y vehículos estacionados al fondo."
 geo:
 id: 2886
 item_type: Still Image

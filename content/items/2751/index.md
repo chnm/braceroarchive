@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.47.23.jpg
     thumb: /files/thumbnails/NAD-200401384723.jpg
     url: /files/original/NAD-200401384723.jpg
+    alt:
+      en: "Black-and-white photo of men lined up at a serving counter in a dining hall, holding plates as a worker in an apron serves food from trays, with dining tables visible in the background."
+      es: "Foto en blanco y negro de hombres formados en un mostrador de un comedor, sosteniendo platos mientras un trabajador con delantal sirve comida desde bandejas, con mesas de comedor al fondo."
 geo:
 id: 2751
 item_type: Still Image

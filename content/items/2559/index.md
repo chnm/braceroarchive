@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.11.jpg
     thumb: /files/thumbnails/NAD-200401384111.jpg
     url: /files/original/NAD-200401384111.jpg
+    alt:
+      en: "Black-and-white photo of a bracero standing in a dim living quarter while another sits on a bed, viewed through a doorway with hanging laundry in the foreground."
+      es: "Fotografía en blanco y negro de un bracero de pie en un cuarto en penumbra mientras otro está sentado en una cama, vistos a través de una puerta con ropa colgada en primer plano."
 geo:
 id: 2559
 item_type: Still Image

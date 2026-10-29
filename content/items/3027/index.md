@@ -44,6 +44,9 @@ files:
     original_filename: Dionisio Hernandez 7.JPG
     thumb: /files/thumbnails/dionisio-hernandez-7_c9f815103e.jpg
     url: /files/original/dionisio-hernandez-7_c9f815103e.jpg
+    alt:
+      en: "Reverse side of a bank draft with mirrored printed text visible through the paper, featuring instructions to purchasers of foreign drafts regarding registered mail and refund policies."
+      es: "Reverso de un giro bancario con texto impreso invertido visible a través del papel, con instrucciones para compradores de giros extranjeros sobre correo certificado y políticas de reembolso."
 geo:
 id: 3027
 item_type: Document

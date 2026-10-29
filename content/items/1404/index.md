@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.05.23.jpg
     thumb: /files/thumbnails/NAD-200401380523.jpg
     url: /files/original/NAD-200401380523.jpg
+    alt:
+      en: "Abstract, blurred black-and-white photograph with diagonal streaks of light against a dark background, suggesting motion; no discernible figures or text."
+      es: "Fotografía abstracta en blanco y negro, borrosa, con franjas diagonales de luz sobre un fondo oscuro que sugieren movimiento; no se distinguen figuras ni texto."
 geo:
 id: 1404
 item_type: Still Image

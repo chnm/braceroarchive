@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.54.12.jpg
     thumb: /files/thumbnails/NAD-200401385412.jpg
     url: /files/original/NAD-200401385412.jpg
+    alt:
+      en: "Black-and-white photo of braceros lining up and leaning against the wooden wall of a living quarter in California, many with arms crossed, attending a camp service."
+      es: "Foto en blanco y negro de braceros alineados y apoyados contra la pared de madera de una vivienda en California, muchos con los brazos cruzados, asistiendo a un servicio de campamento."
 geo:
 id: 2927
 item_type: Still Image

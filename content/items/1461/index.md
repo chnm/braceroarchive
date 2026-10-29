@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.07.25.jpg
     thumb: /files/thumbnails/NAD-200401380725.jpg
     url: /files/original/NAD-200401380725.jpg
+    alt:
+      en: "A guard directs a long line of men in hats walking past a wooden fence at the Monterrey Processing Center, with a crowd gathered in the background under a hazy sky."
+      es: "Un guardia dirige una larga fila de hombres con sombrero que camina junto a una cerca de madera en el Centro de Procesamiento de Monterrey, con una multitud al fondo bajo un cielo brumoso."
 geo:
 id: 1461
 item_type: Still Image

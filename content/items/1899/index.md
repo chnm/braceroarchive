@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.33.jpg
     thumb: /files/thumbnails/NAD-200401382133.jpg
     url: /files/original/NAD-200401382133.jpg
+    alt:
+      en: "Black-and-white photo of a narrow space between two beds in a camp living quarter, with a wall-mounted mirror, hanging towel and jacket, a straw hat, wooden crates used as shelves, and a cluttered wood-plank floor."
+      es: "Fotografía en blanco y negro de un espacio estrecho entre dos camas en un alojamiento de campamento, con un espejo colgado en la pared, una toalla y una chaqueta colgando, un sombrero de paja, cajones de madera usados como estantes y un piso de tablones con objetos dispersos."
 geo:
 id: 1899
 item_type: Still Image

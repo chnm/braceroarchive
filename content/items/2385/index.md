@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.54.05.jpg
     thumb: /files/thumbnails/NAD-200401385405.jpg
     url: /files/original/NAD-200401385405.jpg
+    alt:
+      en: "Silhouetted figures walk single file across an open field at dusk, with power lines and poles crossing the glowing twilight sky above them."
+      es: "Figuras en silueta caminan en fila a través de un campo abierto al atardecer, con postes y cables de energía cruzando el cielo crepuscular iluminado detrás de ellas."
 geo:
 id: 2385
 item_type: Still Image

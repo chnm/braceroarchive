@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.37.42.jpg
     thumb: /files/thumbnails/NAD-200401383742.jpg
     url: /files/original/NAD-200401383742.jpg
+    alt:
+      en: "Black-and-white photo of a bracero in a wide-brimmed hat bent over picking lettuce in a field, with other workers and a pickup truck visible in the background rows."
+      es: "Foto en blanco y negro de un bracero con sombrero de ala ancha, inclinado cosechando lechuga en un campo, con otros trabajadores y una camioneta al fondo entre los surcos."
 geo:
 id: 2442
 item_type: Still Image

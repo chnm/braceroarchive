@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.30.02.jpg
     thumb: /files/thumbnails/NAD-200401383002.jpg
     url: /files/original/NAD-200401383002.jpg
+    alt:
+      en: "Black-and-white photo of braceros working in long rows of crops in a large field near Salinas, California, with a dirt road and brush in the foreground."
+      es: "Fotografía en blanco y negro de braceros trabajando en largas hileras de cultivos en un amplio campo cerca de Salinas, California, con un camino de tierra y matorrales en primer plano."
 geo:
 id: 2172
 item_type: Still Image

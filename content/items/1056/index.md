@@ -44,6 +44,9 @@ files:
     original_filename: SanchezIsaias2.jpg
     thumb: /files/thumbnails/sanchezisaias2_e36813b486.jpg
     url: /files/original/sanchezisaias2_e36813b486.jpg
+    alt:
+      en: "A bracero in a white hard hat carries a box near a large wooden packing structure on wheels, with palm trees, parked cars, and a dirt road in the background."
+      es: "Un bracero con casco blanco carga una caja cerca de una gran estructura de empaque de madera sobre ruedas, con palmeras, autos estacionados y un camino de tierra al fondo."
 geo:
 id: 1056
 item_type: Still Image

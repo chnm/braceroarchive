@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.06.13.jpg
     thumb: /files/thumbnails/NAD-200401380613.jpg
     url: /files/original/NAD-200401380613.jpg
+    alt:
+      en: "Black-and-white photo of a woman serving food and drinks to a group of men in hats at an outdoor stand, with a bicycle and barbed-wire fence nearby, mountains in the background."
+      es: "Fotografía en blanco y negro de una mujer sirviendo comida y bebidas a un grupo de hombres con sombrero en un puesto al aire libre, con una bicicleta y una cerca de alambre de púas cerca, montañas al fondo."
 geo:
 id: 1419
 item_type: Still Image

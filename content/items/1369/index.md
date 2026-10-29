@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.04.09.jpg
     thumb: /files/thumbnails/NAD-200401380409.jpg
     url: /files/original/NAD-200401380409.jpg
+    alt:
+      en: "A long line of men wearing hats waits outdoors near a small shelter, with an official standing at its entrance, at the Monterrey Processing Center, Mexico."
+      es: "Una larga fila de hombres con sombrero espera al aire libre cerca de un pequeño refugio, con un oficial de pie en la entrada, en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1369
 item_type: Still Image

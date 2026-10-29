@@ -46,6 +46,9 @@ files:
     original_filename: velasco patino 28.jpg
     thumb: /files/thumbnails/velasco-patino-28_919abc0e67.jpg
     url: /files/original/velasco-patino-28_919abc0e67.jpg
+    alt:
+      en: "Three pale blue \"Purchaser's Receipt of Bank Money Order\" slips from The First National Bank, Coachella, California, issued to M. Gonsales in 1947–1949, payable to Rosario Ramirez and Francisca Rodriguez."
+      es: "Tres recibos azul pálido de \"Purchaser's Receipt of Bank Money Order\" del First National Bank, Coachella, California, emitidos a M. Gonsales entre 1947 y 1949, pagaderos a Rosario Ramirez y Francisca Rodriguez."
 geo:
 id: 1147
 item_type: Document

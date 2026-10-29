@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.16.15.jpg
     thumb: /files/thumbnails/NAD-200401381615.jpg
     url: /files/original/NAD-200401381615.jpg
+    alt:
+      en: "Shirtless men in hats line up as a nurse administers vaccinations at a long table, with a \"VACCINATION\" sign hanging overhead in the hall."
+      es: "Hombres sin camisa y con sombrero hacen fila mientras una enfermera aplica vacunas en una mesa larga, con un letrero de \"VACCINATION\" colgando en el pasillo."
 geo:
 id: 1746
 item_type: Still Image

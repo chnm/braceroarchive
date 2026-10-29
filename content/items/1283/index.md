@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.01.40.jpg
     thumb: /files/thumbnails/NAD-200401380140.jpg
     url: /files/original/NAD-200401380140.jpg
+    alt:
+      en: "Black-and-white photo framed by a bus door shows a long line of braceros carrying packed lunches and bags as they wait to board, with a building visible in the background."
+      es: "Foto en blanco y negro enmarcada por la puerta de un autobús muestra una larga fila de braceros con almuerzos empacados y bolsas esperando para abordar, con un edificio visible al fondo."
 geo:
 id: 1283
 item_type: Still Image

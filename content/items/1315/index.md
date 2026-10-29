@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.02.32.jpg
     thumb: /files/thumbnails/NAD-200401380232.jpg
     url: /files/original/NAD-200401380232.jpg
+    alt:
+      en: "A long line of men wearing hats and work clothes stands under an open-sided wooden shelter, waiting in queue at the Hidalgo Processing Center, Texas."
+      es: "Una larga fila de hombres con sombreros y ropa de trabajo espera en cola bajo un cobertizo de madera abierto por los lados, en el Centro de Procesamiento de Hidalgo, Texas."
 geo:
 id: 1315
 item_type: Still Image

@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.51.10.jpg
     thumb: /files/thumbnails/NAD-200401385110.jpg
     url: /files/original/NAD-200401385110.jpg
+    alt:
+      en: "Black-and-white photo of a bracero resting on a narrow bed in a sparse bunkhouse room, viewed through an open door, with another man seated near a shelf of toiletries in the background."
+      es: "Fotografía en blanco y negro de un bracero descansando en una cama estrecha en un cuarto sencillo de un campamento, visto a través de una puerta abierta, con otro hombre sentado junto a un estante de artículos de aseo al fondo."
 geo:
 id: 2851
 item_type: Still Image

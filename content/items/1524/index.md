@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.09.28.jpg
     thumb: /files/thumbnails/NAD-200401380928.jpg
     url: /files/original/NAD-200401380928.jpg
+    alt:
+      en: "A large crowd of men wearing hats stands in long lines in an outdoor dirt lot, with single-story buildings and trees visible in the background at the Monterrey Processing Center."
+      es: "Una gran multitud de hombres con sombrero forma largas filas en un terreno de tierra al aire libre, con edificios de un piso y árboles al fondo en el Centro de Procesamiento de Monterrey."
 geo:
 id: 1524
 item_type: Still Image

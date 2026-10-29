@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.31.40.jpg
     thumb: /files/thumbnails/NAD-200401383140.jpg
     url: /files/original/NAD-200401383140.jpg
+    alt:
+      en: "Black-and-white portrait of a man in a sweatshirt holding up a printed paycheck from J.J. Crossetti Co., with a mustache and tousled hair, standing against a plain wall."
+      es: "Retrato en blanco y negro de un hombre con sudadera, bigote y cabello despeinado, sosteniendo un cheque de pago impreso de J.J. Crossetti Co., de pie frente a una pared lisa."
 geo:
 id: 2183
 item_type: Still Image

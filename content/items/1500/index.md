@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.08.13.jpg
     thumb: /files/thumbnails/NAD-200401380813.jpg
     url: /files/original/NAD-200401380813.jpg
+    alt:
+      en: "Black-and-white photo of two men riding a horse and donkey down a dirt road lined with stone walls and trees, with two dogs walking ahead in San Mateo, Mexico."
+      es: "Fotografía en blanco y negro de dos hombres montando a caballo y burro por un camino de tierra bordeado de muros de piedra y árboles, con dos perros caminando adelante en San Mateo, México."
 geo:
 id: 1500
 item_type: Still Image

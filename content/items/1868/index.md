@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.21.01.jpg
     thumb: /files/thumbnails/NAD-200401382101.jpg
     url: /files/original/NAD-200401382101.jpg
+    alt:
+      en: "Two men sit on a bed playing cards in a bunkhouse, surrounded by metal-frame beds, hanging laundry, and wood-paneled walls."
+      es: "Dos hombres sentados en una cama jugando cartas en un dormitorio, rodeados de camas con armazón metálico, ropa colgada y paredes de madera."
 geo:
 id: 1868
 item_type: Still Image

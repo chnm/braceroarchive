@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.20.15.jpg
     thumb: /files/thumbnails/NAD-200401382015.jpg
     url: /files/original/NAD-200401382015.jpg
+    alt:
+      en: "Black-and-white photo of braceros bent over harvesting lettuce in long furrowed rows, with a supervisor standing nearby and trucks and buildings visible in the background."
+      es: "Foto en blanco y negro de braceros agachados cosechando lechuga en largos surcos, con un supervisor cerca y camiones y edificios visibles al fondo."
 geo:
 id: 1843
 item_type: Still Image

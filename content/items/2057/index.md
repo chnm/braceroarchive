@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.34.jpg
     thumb: /files/thumbnails/NAD-200401382634.jpg
     url: /files/original/NAD-200401382634.jpg
+    alt:
+      en: "A bracero in a wide-brimmed hat walks along a furrow in a pepper field, with other workers bent over crops in the rows behind him, Salinas Valley, California."
+      es: "Un bracero con sombrero de ala ancha camina por un surco en un campo de chiles, mientras otros trabajadores se agachan sobre los cultivos en las hileras detrás de él, Valle de Salinas, California."
 geo:
 id: 2057
 item_type: Still Image

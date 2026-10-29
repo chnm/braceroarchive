@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.36.22.jpg
     thumb: /files/thumbnails/NAD-200401383622.jpg
     url: /files/original/NAD-200401383622.jpg
+    alt:
+      en: "A man in a cap stands in the doorway of a wooden barrack numbered \"17\" at a labor camp, with another man and laundry hanging visible between buildings in the background."
+      es: "Un hombre con gorra está de pie en la puerta de un barracón de madera numerado \"17\" en un campamento laboral, con otro hombre y ropa tendida visibles entre los edificios al fondo."
 geo:
 id: 2342
 item_type: Still Image

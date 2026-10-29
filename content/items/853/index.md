@@ -46,6 +46,9 @@ files:
     original_filename: Contrato California mayo-junio 1957 (front).jpg
     thumb: /files/thumbnails/contrato-california-mayo-junio-1957-(front)_f961241dc5.jpg
     url: /files/original/contrato-california-mayo-junio-1957-(front)_f961241dc5.jpg
+    alt:
+      en: "Printed bilingual \"Continuation of Standard Work Contract\" form for Delgado Soto, Francisco, dated May 14, 1957, with San Joaquin Farm Production Ass'n, bearing stamps, handwritten entries, and a signature."
+      es: "Formulario bilingüe impreso \"Continuación del Contrato Tipo de Trabajo\" de Delgado Soto, Francisco, fechado el 14 de mayo de 1957, con San Joaquin Farm Production Ass'n, con sellos, anotaciones manuscritas y una firma."
 geo:
 id: 853
 item_type: Document

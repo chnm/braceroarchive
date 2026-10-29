@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.26.14.jpg
     thumb: /files/thumbnails/NAD-200401382614.jpg
     url: /files/original/NAD-200401382614.jpg
+    alt:
+      en: "A long line of braceros wearing hats sit and stand along a field edge eating lunch from plates, with a wooden Pepsi-Cola crate in the foreground."
+      es: "Una larga fila de braceros con sombrero, sentados y de pie al borde de un campo, almuerzan en platos; en primer plano hay una caja de madera de Pepsi-Cola."
 geo:
 id: 2037
 item_type: Still Image

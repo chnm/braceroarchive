@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.01.42.jpg
     thumb: /files/thumbnails/NAD-200401380142.jpg
     url: /files/original/NAD-200401380142.jpg
+    alt:
+      en: "Black-and-white photo of braceros in hats walking in a line toward buses parked on dirt ground, with boxed lunches stacked nearby and a building visible in the background."
+      es: "Foto en blanco y negro de braceros con sombreros caminando en fila hacia autobuses estacionados en terreno de tierra, con cajas de almuerzos apiladas cerca y un edificio visible al fondo."
 geo:
 id: 1273
 item_type: Still Image

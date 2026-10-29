@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.38.jpg
     thumb: /files/thumbnails/NAD-200401382938.jpg
     url: /files/original/NAD-200401382938.jpg
+    alt:
+      en: "Black-and-white street scene with a \"Lucky's Cafe\" sign above a sidewalk where two men walk away from the camera, with parked cars, a parking meter, and storefronts lining the street."
+      es: "Escena callejera en blanco y negro con un letrero de \"Lucky's Cafe\" sobre una acera donde dos hombres caminan de espaldas a la cámara, junto a autos estacionados, un parquímetro y fachadas de tiendas."
 geo:
 id: 2158
 item_type: Still Image

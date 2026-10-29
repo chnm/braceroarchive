@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.10.jpg
     thumb: /files/thumbnails/NAD-200401382310.jpg
     url: /files/original/NAD-200401382310.jpg
+    alt:
+      en: "A man in a cowboy hat stands at an outdoor wooden washing trough doing laundry, with tents and sparse farmland visible in the background."
+      es: "Un hombre con sombrero de vaquero está de pie junto a un lavadero de madera al aire libre lavando ropa, con tiendas de campaña y un terreno agrícola disperso al fondo."
 geo:
 id: 1939
 item_type: Still Image

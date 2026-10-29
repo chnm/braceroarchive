@@ -44,6 +44,9 @@ files:
     original_filename: 1936 fiesta from litchfield.jpg
     thumb: /files/thumbnails/1936-fiesta-from-litchfield_a41a002fb5.jpg
     url: /files/original/1936-fiesta-from-litchfield_a41a002fb5.jpg
+    alt:
+      en: "Black-and-white 1936 photo of a decorated truck packed with people holding American flags, parked beside a vintage car on a dirt road; handwritten \"1936\" and \"September\" appear on the print."
+      es: "Fotografía en blanco y negro de 1936 de un camión decorado y repleto de personas con banderas estadounidenses, estacionado junto a un auto antiguo en un camino de tierra; se lee \"1936\" y \"September\" escritos a mano."
 geo:
 id: 3043
 item_type: Still Image

@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.15.jpg
     thumb: /files/thumbnails/NAD-200401383215.jpg
     url: /files/original/NAD-200401383215.jpg
+    alt:
+      en: "A man bends over a wash basin doing laundry in a worn, puddled room with doors, a window, and large tubs in the foreground."
+      es: "Un hombre se inclina sobre un lavabo lavando ropa en una habitación desgastada y con charcos de agua, con puertas, una ventana y grandes tinas en primer plano."
 geo:
 id: 2220
 item_type: Still Image

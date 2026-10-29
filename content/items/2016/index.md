@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.25.17.jpg
     thumb: /files/thumbnails/NAD-200401382517.jpg
     url: /files/original/NAD-200401382517.jpg
+    alt:
+      en: "Black-and-white photo of rumpled beds in a bracero dormitory, facing a row of metal lockers with a \"California Lemons\" box on top; clothing hangs from lines near the windows."
+      es: "Foto en blanco y negro de camas revueltas en un dormitorio bracero, frente a una fila de casilleros metálicos con una caja de \"California Lemons\" encima; hay ropa colgada en cordeles cerca de las ventanas."
 geo:
 id: 2016
 item_type: Still Image

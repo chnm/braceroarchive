@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.06.03.jpg
     thumb: /files/thumbnails/NAD-200401380603.jpg
     url: /files/original/NAD-200401380603.jpg
+    alt:
+      en: "A crowd of braceros gathers in an open yard near a bus labeled \"Transportes Monterrey,\" with a vintage car, long buildings, and mountains in the background."
+      es: "Una multitud de braceros se reúne en un patio abierto cerca de un autobús con el letrero \"Transportes Monterrey\", con un auto antiguo, edificios alargados y montañas al fondo."
 geo:
 id: 1433
 item_type: Still Image

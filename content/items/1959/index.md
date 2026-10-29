@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.23.30.jpg
     thumb: /files/thumbnails/NAD-200401382330.jpg
     url: /files/original/NAD-200401382330.jpg
+    alt:
+      en: "Black-and-white photo of a dilapidated wooden outhouse interior with two stained porcelain toilets, a rusty bucket, and debris scattered across the worn floorboards."
+      es: "Fotografía en blanco y negro del interior deteriorado de una letrina de madera con dos inodoros de porcelana manchados, un balde oxidado y escombros sobre el piso de tablones desgastado."
 geo:
 id: 1959
 item_type: Still Image

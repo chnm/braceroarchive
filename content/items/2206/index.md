@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.01.jpg
     thumb: /files/thumbnails/NAD-200401383201.jpg
     url: /files/original/NAD-200401383201.jpg
+    alt:
+      en: "Elevated view of a long row of barracks-style buildings at a bracero labor camp, with trucks parked alongside and workers walking between structures, surrounded by farmland."
+      es: "Vista elevada de una larga hilera de edificios tipo barracas en un campamento de braceros, con camiones estacionados y trabajadores caminando entre las estructuras, rodeados de tierras de cultivo."
 geo:
 id: 2206
 item_type: Still Image

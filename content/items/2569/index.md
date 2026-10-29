@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.21.jpg
     thumb: /files/thumbnails/NAD-200401384121.jpg
     url: /files/original/NAD-200401384121.jpg
+    alt:
+      en: "Black-and-white photo framed through a doorway showing four braceros seated on beds in a dimly lit California camp living quarter, with jackets hanging on wall hooks behind them."
+      es: "Fotografía en blanco y negro enmarcada por una puerta que muestra a cuatro braceros sentados en camas en una habitación poco iluminada de un campamento en California, con chaquetas colgadas en la pared detrás de ellos."
 geo:
 id: 2569
 item_type: Still Image

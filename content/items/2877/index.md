@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.52.11.jpg
     thumb: /files/thumbnails/NAD-200401385211.jpg
     url: /files/original/NAD-200401385211.jpg
+    alt:
+      en: "A bracero stands beside stacked crates of strawberries at the edge of a field, with rows of strawberry plants in the foreground and distant workers and hills visible beyond."
+      es: "Un bracero de pie junto a cajas apiladas de fresas al borde de un campo, con hileras de plantas de fresa en primer plano y trabajadores y colinas a lo lejos."
 geo:
 id: 2877
 item_type: Still Image

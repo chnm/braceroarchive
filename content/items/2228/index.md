@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.23.jpg
     thumb: /files/thumbnails/NAD-200401383223.jpg
     url: /files/original/NAD-200401383223.jpg
+    alt:
+      en: "A wooden chair holds a hat and folded clothing beside a small desk cluttered with jars and a clock, with a bed visible in a sparse camp room."
+      es: "Una silla de madera sostiene un sombrero y ropa doblada junto a un pequeño escritorio con frascos y un reloj, con una cama visible en un cuarto sencillo de campamento."
 geo:
 id: 2228
 item_type: Still Image

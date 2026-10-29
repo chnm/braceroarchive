@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.40.13.jpg
     thumb: /files/thumbnails/NAD-200401384013.jpg
     url: /files/original/NAD-200401384013.jpg
+    alt:
+      en: "Black-and-white photo of workers carrying crates across a lettuce field toward a truck stacked with wooden produce boxes, Salinas Valley, California."
+      es: "Fotografía en blanco y negro de trabajadores cargando cajas a través de un campo de lechugas hacia un camión apilado con cajones de madera para productos, Valle de Salinas, California."
 geo:
 id: 2524
 item_type: Still Image

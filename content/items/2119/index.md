@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.28.29.jpg
     thumb: /files/thumbnails/NAD-200401382829.jpg
     url: /files/original/NAD-200401382829.jpg
+    alt:
+      en: "Black-and-white photo of a bracero standing at a long industrial sink with multiple faucets, washing his hands in a worn work shirt and trousers inside a wood-paneled camp building."
+      es: "Fotografía en blanco y negro de un bracero de pie ante un largo fregadero industrial con varios grifos, lavándose las manos, vestido con camisa y pantalón de trabajo gastados, dentro de un edificio de campamento con paredes de madera."
 geo:
 id: 2119
 item_type: Still Image

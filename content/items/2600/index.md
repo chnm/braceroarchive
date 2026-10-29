@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.42.29.jpg
     thumb: /files/thumbnails/NAD-200401384229.jpg
     url: /files/original/NAD-200401384229.jpg
+    alt:
+      en: "Black-and-white photo of braceros at an outdoor washing station near a large tent, with workers standing at a wooden table and one bending over a basin, camp buildings and trees in the background."
+      es: "Foto en blanco y negro de braceros en una estación de lavado al aire libre junto a una gran carpa, con trabajadores de pie ante una mesa de madera y uno inclinado sobre un recipiente, con edificios y árboles al fondo."
 geo:
 id: 2600
 item_type: Still Image

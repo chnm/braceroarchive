@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.22.25.jpg
     thumb: /files/thumbnails/NAD-200401382225.jpg
     url: /files/original/NAD-200401382225.jpg
+    alt:
+      en: "Rows of cots with blankets and belongings fill a dim bunkhouse, clothing hanging on lines overhead, as two men stand near the doorway in the background."
+      es: "Filas de catres con mantas y pertenencias llenan un dormitorio en penumbra, con ropa colgada en cuerdas sobre ellos, mientras dos hombres están junto a la puerta al fondo."
 geo:
 id: 1925
 item_type: Still Image

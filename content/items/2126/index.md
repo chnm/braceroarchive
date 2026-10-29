@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.29.03.jpg
     thumb: /files/thumbnails/NAD-200401382903.jpg
     url: /files/original/NAD-200401382903.jpg
+    alt:
+      en: "Black-and-white photo of a car and mobile home parked on grass beside a lake at sunset, with another vehicle visible in the distance, California."
+      es: "Fotografía en blanco y negro de un automóvil y una casa rodante estacionados sobre el pasto junto a un lago al atardecer, con otro vehículo visible a lo lejos, California."
 geo:
 id: 2126
 item_type: Still Image

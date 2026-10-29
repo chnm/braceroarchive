@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.44.03.jpg
     thumb: /files/thumbnails/NAD-200401384403.jpg
     url: /files/original/NAD-200401384403.jpg
+    alt:
+      en: "A man bends over a wash basin doing laundry on a wooden platform outside a living quarter, surrounded by scattered crates and boards in a bracero camp."
+      es: "Un hombre se inclina sobre una palangana lavando ropa en una plataforma de madera afuera de una vivienda, rodeado de cajones y tablas dispersas en un campamento de braceros."
 geo:
 id: 2636
 item_type: Still Image

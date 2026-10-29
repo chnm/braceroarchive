@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.13.03.jpg
     thumb: /files/thumbnails/NAD-200401381303.jpg
     url: /files/original/NAD-200401381303.jpg
+    alt:
+      en: "Black-and-white photo of a woman washing clothes in a large basin while a child stands nearby in a dirt courtyard, surrounded by barrels, firewood, and a corrugated metal shelter."
+      es: "Foto en blanco y negro de una mujer lavando ropa en un gran recipiente mientras una niña permanece cerca en un patio de tierra, rodeado de barriles, leña y un refugio de lámina."
 geo:
 id: 1631
 item_type: Still Image

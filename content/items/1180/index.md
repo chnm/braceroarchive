@@ -46,6 +46,9 @@ files:
     original_filename: ArredondoAlexandroFeb26 1981RegistroCivil1.jpg
     thumb: /files/thumbnails/arredondoalexandrofeb26-1981registrocivil1_96e4000c82.jpg
     url: /files/original/arredondoalexandrofeb26-1981registrocivil1_96e4000c82.jpg
+    alt:
+      en: "Official birth certificate from Estado de Durango, Registro Civil, with Mexican national emblem, two circular seals, and signatures, recording Alejandro Arredondo Salas's birth on April 24, 1935."
+      es: "Certificado de nacimiento oficial del Estado de Durango, Registro Civil, con el escudo nacional mexicano, dos sellos circulares y firmas, que registra el nacimiento de Alejandro Arredondo Salas el 24 de abril de 1935."
 geo:
 id: 1180
 item_type: Document

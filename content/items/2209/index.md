@@ -41,6 +41,9 @@ files:
     original_filename: NAD-2004.0138.32.04.jpg
     thumb: /files/thumbnails/NAD-200401383204.jpg
     url: /files/original/NAD-200401383204.jpg
+    alt:
+      en: "Elevated view of a wooden bracero camp building with a person standing in the doorway, concrete steps leading up, and open farmland and hills in the background."
+      es: "Vista elevada de un edificio de madera en un campamento de braceros, con una persona de pie en la puerta, escalones de concreto y campos abiertos con colinas al fondo."
 geo:
 id: 2209
 item_type: Still Image

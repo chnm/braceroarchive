@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.06.25.jpg
     thumb: /files/thumbnails/NAD-200401380625.jpg
     url: /files/original/NAD-200401380625.jpg
+    alt:
+      en: "A large crowd of men in hats gathers in an open dirt lot near a bus and small buildings, waiting to be processed at the Monterrey Processing Center, Mexico."
+      es: "Una gran multitud de hombres con sombreros se reúne en un terreno descubierto de tierra cerca de un autobús y edificios pequeños, esperando ser procesados en el Centro de Procesamiento de Monterrey, México."
 geo:
 id: 1447
 item_type: Still Image

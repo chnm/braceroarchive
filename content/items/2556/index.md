@@ -38,6 +38,9 @@ files:
     original_filename: NAD-2004.0138.41.08.jpg
     thumb: /files/thumbnails/NAD-200401384108.jpg
     url: /files/original/NAD-200401384108.jpg
+    alt:
+      en: "Black-and-white photo of two braceros resting on a bunk bed in a wood-paneled camp room, one lighting a cigarette, while a third man stands nearby watching."
+      es: "Foto en blanco y negro de dos braceros descansando en una litera dentro de un cuarto de campamento con paredes de madera, uno encendiendo un cigarrillo, mientras un tercer hombre observa de pie cerca de ellos."
 geo:
 id: 2556
 item_type: Still Image

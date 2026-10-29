@@ -46,6 +46,9 @@ files:
     original_filename: Porter1.jpg
     thumb: /files/thumbnails/porter1_9bbd7407e5.jpg
     url: /files/original/porter1_9bbd7407e5.jpg
+    alt:
+      en: "Postcard-style mailer featuring crossed Mexican and American flags, advertising a bilingual guide titled \"Spanish for Farmers and Homemakers\" and \"Inglés para los Braceros y Empleadas Domésticas,\" with blank \"From\" and \"To\" fields and a stamp box."
+      es: "Tarjeta postal con banderas de México y Estados Unidos cruzadas, anunciando una guía bilingüe \"Spanish for Farmers and Homemakers\" e \"Inglés para los Braceros y Empleadas Domésticas\", con campos en blanco \"From\" y \"To\" y un recuadro para estampilla."
 geo:
 id: 553
 item_type: Document
