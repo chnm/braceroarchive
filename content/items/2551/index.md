@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2551
+  - /items/show/2551.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.41.03; Negative #: NAD-2004.0138.41.03; Roll #: 41'
+  Title:
+    - html: false
+      text: A bracero lies on his bed in a living quarter in a Californian camp and reads a magazine while the other sits next to him.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384103.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.41.03.jpg
+    thumb: /files/thumbnails/NAD-200401384103.jpg
+    url: /files/original/NAD-200401384103.jpg
+    alt:
+      en: "Viewed through a doorway, a bracero reclines on a bed reading a magazine while another man sits beside him; a third figure crouches nearby and clothing hangs drying on a line."
+      es: "Visto a través de una puerta, un bracero recostado en una cama lee una revista mientras otro hombre está sentado a su lado; una tercera figura se agacha cerca y hay ropa secándose en un tendedero."
+geo:
+id: 2551
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2551'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero lies on his bed in a living quarter in a Californian camp and reads a magazine while the other sits next to him.
+type: items
+---

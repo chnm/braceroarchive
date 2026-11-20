@@ -1,0 +1,77 @@
+---
+aliases:
+  - /items/show/1316
+  - /items/show/1316.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Description:
+    - html: false
+      text: An agent from the Texas growers association examines the muscles of braceros in the Hidalgo Processing Center, Texas and selects some for distribution among his association members in Hidalgo. They preferred braceros who have already worked as farnworkers and therefore have well-trained muscles.
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 7.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.02.33; Negative #: NAD-2004.0138.02.33; Roll #: 2'
+  Title:
+    - html: false
+      text: A Texas growers association agent examines the musculature of a bracero at the Hidalgo Processing Center, Texas, as a uniformed official looks on.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401380233.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.02.33.jpg
+    thumb: /files/thumbnails/NAD-200401380233.jpg
+    url: /files/original/NAD-200401380233.jpg
+    alt:
+      en: "Rows of men in hats line up under an open-sided shelter at the Hidalgo Processing Center, while a uniformed official stands watch as an agent examines them."
+      es: "Filas de hombres con sombrero se alinean bajo un cobertizo abierto en el Centro de Procesamiento de Hidalgo, mientras un oficial uniformado vigila y un agente los examina."
+geo:
+id: 1316
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Hidalgo Processing Center, Texas
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1316'
+sortdate: '9999-99-99'
+tags: []
+title: A Texas growers association agent examines the musculature of a bracero at the Hidalgo Processing Center, Texas, as a uniformed official looks on.
+type: items
+---
+
+{{< raw >}}
+An agent from the Texas growers association examines the muscles of braceros in the Hidalgo Processing Center, Texas and selects some for distribution among his association members in Hidalgo. They preferred braceros who have already worked as farnworkers and therefore have well-trained muscles.
+{{< /raw >}}

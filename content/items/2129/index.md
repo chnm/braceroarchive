@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2129
+  - /items/show/2129.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 10.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.29.39; Negative #: NAD-2004.0138.29.39; Roll #: 29'
+  Title:
+    - html: false
+      text: Braceros have a look at the movie theater on the other side of the street in the town of Watsonville, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382939.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.29.39.jpg
+    thumb: /files/thumbnails/NAD-200401382939.jpg
+    url: /files/original/NAD-200401382939.jpg
+    alt:
+      en: "Black-and-white photo of five men standing by parked cars, viewed from behind, facing the State Theater marquee advertising a \"Spanish Program Every Friday, Saturday and Sunday,\" flanked by Insurance and Real Estate storefronts."
+      es: "Fotografía en blanco y negro de cinco hombres de espaldas junto a autos estacionados, frente a la marquesina del Teatro State que anuncia \"Spanish Program Every Friday, Saturday and Sunday\", entre locales de seguros y bienes raíces."
+geo:
+id: 2129
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Watsonville, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2129'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros have a look at the movie theater on the other side of the street in the town of Watsonville, California.
+type: items
+---

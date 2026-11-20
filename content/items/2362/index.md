@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2362
+  - /items/show/2362.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 22.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.36.06; Negative #: NAD-2004.0138.36.06; Roll #: 36'
+  Title:
+    - html: false
+      text: Railroad tracks pass by the living quarters of a bracero camp in Gonzales, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383606.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.36.06.jpg
+    thumb: /files/thumbnails/NAD-200401383606.jpg
+    url: /files/original/NAD-200401383606.jpg
+    alt:
+      en: "Multiple railroad tracks run parallel in the foreground, leading toward a row of small wooden bracero camp buildings with utility poles and distant hills in the background."
+      es: "Varias vías de ferrocarril corren en paralelo en primer plano hacia una fila de pequeñas cabañas de madera de un campamento de braceros, con postes de servicio y colinas lejanas al fondo."
+geo:
+id: 2362
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Gonzales, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2362'
+sortdate: '9999-99-99'
+tags: []
+title: Railroad tracks pass by the living quarters of a bracero camp in Gonzales, California.
+type: items
+---

@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2647
+  - /items/show/2647.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.44.14; Negative #: NAD-2004.0138.44.14; Roll #: 44'
+  Title:
+    - html: false
+      text: A bracero lies in his bed and reads an English grammar book in a living quarter in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384414.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.44.14.jpg
+    thumb: /files/thumbnails/NAD-200401384414.jpg
+    url: /files/original/NAD-200401384414.jpg
+    alt:
+      en: "A man reclines on a bunk bed in a wood-paneled room, reading a book with American and Mexican flags on its cover; clothing hangs on hooks above him and a shelf holds toiletries."
+      es: "Un hombre está recostado en una litera en una habitación con paneles de madera, leyendo un libro con las banderas de Estados Unidos y México en la portada; ropa cuelga de ganchos sobre él y una repisa sostiene artículos de aseo."
+geo:
+id: 2647
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2647'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero lies in his bed and reads an English grammar book in a living quarter in California.
+type: items
+---

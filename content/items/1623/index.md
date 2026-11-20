@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1623
+  - /items/show/1623.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 7.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.12.18; Negative #: NAD-2004.0138.12.18; Roll #: 12'
+  Title:
+    - html: false
+      text: The belongings of braceros litter the ground at the Hidalgo Processing Center, Texas.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401381218.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.12.18.jpg
+    thumb: /files/thumbnails/NAD-200401381218.jpg
+    url: /files/original/NAD-200401381218.jpg
+    alt:
+      en: "Bundles and duffel bags belonging to braceros lie scattered across the open ground at the Hidalgo Processing Center, Texas, with groups of men and buildings visible in the background."
+      es: "Bultos y maletas de braceros dispersos en el suelo del Centro de Procesamiento de Hidalgo, Texas, con grupos de hombres y edificios al fondo."
+geo:
+id: 1623
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Hidalgo Processing Center, Texas
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1623'
+sortdate: '9999-99-99'
+tags: []
+title: The belongings of braceros litter the ground at the Hidalgo Processing Center, Texas.
+type: items
+---

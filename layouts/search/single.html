@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{- /* Static search over the pagefind index built in the container image.
+       The header search form GETs ?q= here; results render as browse cards. */ -}}
+<div id="primary">
+	<h1>{{ i18n "search_title" }}</h1>
+	{{ partial "items-nav.html" "" }}
+	<div id="search-page">
+		<form id="search-page-form" role="search">
+			<input type="text" id="search-input" name="q" title="{{ i18n "search_placeholder" }}" placeholder="{{ i18n "search_placeholder" }}">
+			<button type="submit">{{ i18n "search_button" }}</button>
+		</form>
+		<p id="search-status" aria-live="polite"></p>
+		<div id="items-primary" class="browse search-results"></div>
+		<div id="search-more"></div>
+	</div>
+</div>
+{{ with resources.Get "js/search.js" }}
+<script type="module" src="{{ .RelPermalink }}" data-strings='{{ dict "searching" (i18n "search_searching") "results" (i18n "search_results") "noresults" (i18n "search_noresults") "showmore" (i18n "search_showmore") "unavailable" (i18n "search_unavailable") | jsonify }}'></script>
+{{ end }}
+{{ end }}

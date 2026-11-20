@@ -1,0 +1,20 @@
+{{- /* Language switcher. For each configured language, link to the current
+       page's translation when one exists, else that language's home. The active
+       language renders as plain text. Uses only stable APIs (hugo.Sites,
+       .Language.Lang, .Home) to avoid deprecated language accessors. */ -}}
+{{- $names := dict "en" "English" "es" "Español" -}}
+{{- $cur := .Site.Language.Lang -}}
+<div id="lang-switch" class="lang-switch">
+	{{- range hugo.Sites -}}
+		{{- $s := . -}}
+		{{- $lang := $s.Language.Lang -}}
+		{{- $name := index $names $lang | default $lang -}}
+		{{- if eq $lang $cur -}}
+			<span class="lang current" lang="{{ $lang }}">{{ $name }}</span>
+		{{- else -}}
+			{{- $target := $s.Home.RelPermalink -}}
+			{{- range $.AllTranslations -}}{{- if eq .Site.Language.Lang $lang -}}{{- $target = .RelPermalink -}}{{- end -}}{{- end -}}
+			<a class="lang" lang="{{ $lang }}" href="{{ $target }}">{{ $name }}</a>
+		{{- end -}}
+	{{- end -}}
+</div>

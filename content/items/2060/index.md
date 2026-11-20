@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2060
+  - /items/show/2060.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: N/A
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.27.35; Negative #: NAD-2004.0138.27.35; Roll #: 27'
+  Title:
+    - html: false
+      text: no image
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382735.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.27.35.jpg
+    thumb: /files/thumbnails/NAD-200401382735.jpg
+    url: /files/original/NAD-200401382735.jpg
+    alt:
+      en: "Predominantly black, underexposed frame with faint scattered specks and scratches, offering no discernible subject matter; a thin dark band runs across the bottom edge."
+      es: "Fotograma predominantemente negro y subexpuesto, con leves motas y rayones dispersos, sin ningún motivo discernible; una franja oscura delgada cruza el borde inferior."
+geo:
+id: 2060
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: N/A
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2060'
+sortdate: '9999-99-99'
+tags: []
+title: no image
+type: items
+---

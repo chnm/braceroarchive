@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1817
+  - /items/show/1817.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 18.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.19.16; Negative #: NAD-2004.0138.19.16; Roll #: 19'
+  Title:
+    - html: false
+      text: Braceros riding a bus from Stockton, California to their labor camps.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401381916.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.19.16.jpg
+    thumb: /files/thumbnails/NAD-200401381916.jpg
+    url: /files/original/NAD-200401381916.jpg
+    alt:
+      en: "Black-and-white photo of a crowded bus interior filled with men wearing hats and collared shirts, some seated and others standing in the aisle, luggage stacked on overhead racks."
+      es: "Foto en blanco y negro del interior abarrotado de un autobús con hombres que llevan sombreros y camisas de cuello, algunos sentados y otros de pie en el pasillo, con equipaje apilado en los portaequipajes superiores."
+geo:
+id: 1817
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Stockton, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1817'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros riding a bus from Stockton, California to their labor camps.
+type: items
+---

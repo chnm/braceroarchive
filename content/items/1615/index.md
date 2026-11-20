@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1615
+  - /items/show/1615.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 7.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.12.22; Negative #: NAD-2004.0138.12.22; Roll #: 12'
+  Title:
+    - html: false
+      text: Braceros wait in a line to be processed at the Hidalgo Processing Center, Texas.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401381222.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.12.22.jpg
+    thumb: /files/thumbnails/NAD-200401381222.jpg
+    url: /files/original/NAD-200401381222.jpg
+    alt:
+      en: "Black-and-white photo of a long open-sided shed at the Hidalgo Processing Center, Texas, with a large crowd of braceros lined up beneath its roof on a dirt lot under a cloudy sky."
+      es: "Fotografía en blanco y negro de un largo cobertizo abierto en el Centro de Procesamiento de Hidalgo, Texas, con una gran multitud de braceros formados bajo el techo sobre un terreno de tierra bajo un cielo nublado."
+geo:
+id: 1615
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Hidalgo Processing Center, Texas
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1615'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros wait in a line to be processed at the Hidalgo Processing Center, Texas.
+type: items
+---

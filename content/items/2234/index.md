@@ -1,0 +1,77 @@
+---
+aliases:
+  - /items/show/2234
+  - /items/show/2234.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Description:
+    - html: false
+      text: Chualar?
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.32.29; Negative #: NAD-2004.0138.32.29; Roll #: 32'
+  Title:
+    - html: false
+      text: Two braceros relax on their beds and smoke at a camp in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383229.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.32.29.jpg
+    thumb: /files/thumbnails/NAD-200401383229.jpg
+    url: /files/original/NAD-200401383229.jpg
+    alt:
+      en: "Two braceros recline on metal-frame beds in a dormitory room, one wearing a wide-brimmed hat, with clothing hanging on hooks and a folded blanket at the foot of the bed."
+      es: "Dos braceros descansan reclinados en camas de armazón metálico en un dormitorio, uno con sombrero de ala ancha, con ropa colgada en ganchos y una manta doblada a los pies de la cama."
+geo:
+id: 2234
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2234'
+sortdate: '9999-99-99'
+tags: []
+title: Two braceros relax on their beds and smoke at a camp in California.
+type: items
+---
+
+{{< raw >}}
+Chualar?
+{{< /raw >}}

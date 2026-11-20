@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1786
+  - /items/show/1786.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 9.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.18.44; Negative #: NAD-2004.0138.18.44; Roll #: 18'
+  Title:
+    - html: false
+      text: A bracero picks up a load of cotton to unload it onto the truck near McAllen, Texas.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401381844.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.18.44.jpg
+    thumb: /files/thumbnails/NAD-200401381844.jpg
+    url: /files/original/NAD-200401381844.jpg
+    alt:
+      en: "Black-and-white photo of a cotton-laden truck bed beside a field, with a bracero lifting a large cotton sack near a tripod scale along a rural road near McAllen, Texas."
+      es: "Foto en blanco y negro de un camión cargado de algodón junto a un campo, con un bracero levantando un gran costal de algodón cerca de una báscula de trípode en un camino rural cerca de McAllen, Texas."
+geo:
+id: 1786
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Near McAllen, Texas
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1786'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero picks up a load of cotton to unload it onto the truck near McAllen, Texas.
+type: items
+---

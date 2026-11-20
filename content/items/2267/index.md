@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2267
+  - /items/show/2267.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 16.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.33.03; Negative #: NAD-2004.0138.33.03; Roll #: 33'
+  Title:
+    - html: false
+      text: A bracero load Toro lettuce boxes on a truck in the Salinas Valley, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383303.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.33.03.jpg
+    thumb: /files/thumbnails/NAD-200401383303.jpg
+    url: /files/original/NAD-200401383303.jpg
+    alt:
+      en: "A man wearing a cowboy hat and vest stacks \"Toro Lettuce\" boxes onto a truck bed already loaded with similar crates, in black and white."
+      es: "Un hombre con sombrero vaquero y chaleco apila cajas de \"Toro Lettuce\" en la plataforma de un camión ya cargado con cajas similares, en blanco y negro."
+geo:
+id: 2267
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Salinas Valley, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2267'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero load Toro lettuce boxes on a truck in the Salinas Valley, California.
+type: items
+---

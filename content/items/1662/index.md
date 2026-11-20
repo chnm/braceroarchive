@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1662
+  - /items/show/1662.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: Nadel Footnotes, 7.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.14.09; Negative #: NAD-2004.0138.14.09; Roll #: 14'
+  Title:
+    - html: false
+      text: Braceros have lunch at the Hidalgo Processing Center, Texas.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401381409.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.14.09.jpg
+    thumb: /files/thumbnails/NAD-200401381409.jpg
+    url: /files/original/NAD-200401381409.jpg
+    alt:
+      en: "Black-and-white photo of a long dining hall with braceros seated along both sides of an extended table, eating plates of food under a covered walkway with large windows."
+      es: "Foto en blanco y negro de un comedor alargado con braceros sentados a ambos lados de una mesa extendida, comiendo platos de comida bajo un pasillo cubierto con amplios ventanales."
+geo:
+id: 1662
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Hidalgo Processing Center, Texas
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1662'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros have lunch at the Hidalgo Processing Center, Texas.
+type: items
+---

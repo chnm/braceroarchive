@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2036
+  - /items/show/2036.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: Print NAD-2004.0138.57.40. See Nadel Footnotes, 16.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.26.13; Negative #: NAD-2004.0138.26.13; Roll #: 26'
+  Title:
+    - html: false
+      text: Braceros have lunch on the edge of a pepper field in the Salinas Valley, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382613.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.26.13.jpg
+    thumb: /files/thumbnails/NAD-200401382613.jpg
+    url: /files/original/NAD-200401382613.jpg
+    alt:
+      en: "Black-and-white photo of braceros in hats gathered along a dirt road beside a field, reaching into wooden crates of bottled drinks, including a Pepsi-Cola case, during a lunch break."
+      es: "Foto en blanco y negro de braceros con sombrero reunidos junto a un camino de tierra al borde de un campo, tomando botellas de cajas de madera, incluida una caja de Pepsi-Cola, durante un descanso para almorzar."
+geo:
+id: 2036
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Salinas Valley, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2036'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros have lunch on the edge of a pepper field in the Salinas Valley, California.
+type: items
+---

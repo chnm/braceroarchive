@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1906
+  - /items/show/1906.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.22.06; Negative #: NAD-2004.0138.22.06; Roll #: 22'
+  Title:
+    - html: false
+      text: View over a Californian bracero camp of tents with a wooden barn on the right .
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382206.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.22.06.jpg
+    thumb: /files/thumbnails/NAD-200401382206.jpg
+    url: /files/original/NAD-200401382206.jpg
+    alt:
+      en: "Row of conical tents enclosed by fencing in a bracero camp, with a large wooden barn and parked car visible in the background, trees lining the dirt yard."
+      es: "Hilera de tiendas cónicas cercadas con malla en un campamento de braceros, con un gran granero de madera y un auto estacionado al fondo, entre árboles que bordean el patio de tierra."
+geo:
+id: 1906
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1906'
+sortdate: '9999-99-99'
+tags: []
+title: View over a Californian bracero camp of tents with a wooden barn on the right .
+type: items
+---

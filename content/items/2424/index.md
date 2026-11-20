@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2424
+  - /items/show/2424.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 16.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.37.24; Negative #: NAD-2004.0138.37.24; Roll #: 37'
+  Title:
+    - html: false
+      text: Braceros have lunch on the edge of a field in the Salinas Valley, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383724.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.37.24.jpg
+    thumb: /files/thumbnails/NAD-200401383724.jpg
+    url: /files/original/NAD-200401383724.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated on bare earth at a field's edge in Salinas Valley, eating lunch from plates and containers, with rows of crops and farm workers in the background."
+      es: "Foto en blanco y negro de braceros sentados en la tierra al borde de un campo en Salinas Valley, almorzando con platos y recipientes, con hileras de cultivos y trabajadores al fondo."
+geo:
+id: 2424
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Salinas Valley, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2424'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros have lunch on the edge of a field in the Salinas Valley, California.
+type: items
+---

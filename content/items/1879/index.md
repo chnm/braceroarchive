@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1879
+  - /items/show/1879.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.21.13; Negative #: NAD-2004.0138.21.13; Roll #: 21'
+  Title:
+    - html: false
+      text: Braceros sit on beds in a living quarter of a Californian camp, talk, smoke, listen to a radio program and eat strawberries while another stands with the back on the wall and looks at this scene.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382113.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.21.13.jpg
+    thumb: /files/thumbnails/NAD-200401382113.jpg
+    url: /files/original/NAD-200401382113.jpg
+    alt:
+      en: "Black-and-white photo of braceros in a dormitory: a man leans against the wall while others sit on cots talking, smoking, and eating, with jackets and hats hung above the beds."
+      es: "Foto en blanco y negro de braceros en un dormitorio: un hombre se apoya en la pared mientras otros se sientan en catres hablando, fumando y comiendo, con chaquetas y sombreros colgados sobre las camas."
+geo:
+id: 1879
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1879'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros sit on beds in a living quarter of a Californian camp, talk, smoke, listen to a radio program and eat strawberries while another stands with the back on the wall and looks at this scene.
+type: items
+---

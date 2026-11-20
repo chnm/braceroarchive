@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1936
+  - /items/show/1936.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.23.07; Negative #: NAD-2004.0138.23.07; Roll #: 23'
+  Title:
+    - html: false
+      text: A bracero uses an outside washing facility in a camp of tents to do his laundry in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382307.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.23.07.jpg
+    thumb: /files/thumbnails/NAD-200401382307.jpg
+    url: /files/original/NAD-200401382307.jpg
+    alt:
+      en: "A man bends over an outdoor wooden washing trough near canvas tents, with scattered tools and debris on the dirt ground and trees lining a field in the background."
+      es: "Un hombre se inclina sobre un artesón de madera para lavar al aire libre cerca de tiendas de lona, con herramientas y basura dispersas en el suelo de tierra y árboles junto a un campo al fondo."
+geo:
+id: 1936
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1936'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero uses an outside washing facility in a camp of tents to do his laundry in California.
+type: items
+---

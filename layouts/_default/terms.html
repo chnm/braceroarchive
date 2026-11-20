@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div id="primary">
+	<h1>{{ i18n "browse_by_tag" }}</h1>
+	{{ partial "items-nav.html" "tags" }}
+	{{- $max := 1 }}
+	{{- range .Data.Terms }}{{ if gt .Count $max }}{{ $max = .Count }}{{ end }}{{ end }}
+	{{- $cls := slice "" "v-popular" "vv-popular" "vvv-popular" "vvvv-popular" "vvvvv-popular" "vvvvvv-popular" "vvvvvvv-popular" "vvvvvvvv-popular" "vvvvvvvvv-popular" }}
+	<ul class="tag-cloud popularity">
+		{{- range .Data.Terms.Alphabetical }}
+			{{- $lvl := int (math.Floor (mul (div (float .Count) $max) 9)) }}
+			{{- if gt $lvl 9 }}{{ $lvl = 9 }}{{ end }}
+			<li class="{{ index $cls $lvl }}"><a href="{{ .Page.RelPermalink }}" rel="tag">{{ .Page.Title }}</a> <span class="count">({{ .Count }})</span></li>
+		{{- end }}
+	</ul>
+</div>
+{{ end }}

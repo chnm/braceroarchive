@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2699
+  - /items/show/2699.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.46.04; Negative #: NAD-2004.0138.46.04; Roll #: 46'
+  Title:
+    - html: false
+      text: Braceros knee on the ground and pray while attending divine service between living quarters in a camp in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384604.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.46.04.jpg
+    thumb: /files/thumbnails/NAD-200401384604.jpg
+    url: /files/original/NAD-200401384604.jpg
+    alt:
+      en: "A large group of braceros kneel in rows on the dirt path between barracks buildings, heads bowed in prayer during an outdoor religious service."
+      es: "Un gran grupo de braceros se arrodilla en filas sobre el camino de tierra entre los barracones, con las cabezas inclinadas en oración durante un servicio religioso al aire libre."
+geo:
+id: 2699
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2699'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros knee on the ground and pray while attending divine service between living quarters in a camp in California.
+type: items
+---

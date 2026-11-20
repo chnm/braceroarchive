@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2350
+  - /items/show/2350.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 22.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.36.18; Negative #: NAD-2004.0138.36.18; Roll #: 36'
+  Title:
+    - html: false
+      text: Braceros lean on the outside walls of their living quarters in a camp in Gonzales, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383618.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.36.18.jpg
+    thumb: /files/thumbnails/NAD-200401383618.jpg
+    url: /files/original/NAD-200401383618.jpg
+    alt:
+      en: "Rows of wooden barracks line a dirt pathway in a labor camp, with several men leaning against the buildings' exterior walls in the sunlight."
+      es: "Filas de barracones de madera bordean un camino de tierra en un campo de trabajo, con varios hombres recostados contra las paredes exteriores de los edificios bajo el sol."
+geo:
+id: 2350
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Gonzales, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2350'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros lean on the outside walls of their living quarters in a camp in Gonzales, California.
+type: items
+---

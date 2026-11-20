@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2109
+  - /items/show/2109.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.28.19; Negative #: NAD-2004.0138.28.19; Roll #: 28'
+  Title:
+    - html: false
+      text: Braceros have dinner in a dining hall of a Californian camp.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382819.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.28.19.jpg
+    thumb: /files/thumbnails/NAD-200401382819.jpg
+    url: /files/original/NAD-200401382819.jpg
+    alt:
+      en: "Black-and-white photo of braceros seated at long tables in a crowded dining hall, eating from plates with bottles and condiments set along the tables, light streaming through windows behind them."
+      es: "Fotografía en blanco y negro de braceros sentados en mesas largas en un comedor lleno de gente, comiendo de sus platos con botellas y condimentos sobre las mesas, con luz entrando por las ventanas al fondo."
+geo:
+id: 2109
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2109'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros have dinner in a dining hall of a Californian camp.
+type: items
+---

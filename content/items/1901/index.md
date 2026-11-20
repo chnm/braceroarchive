@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1901
+  - /items/show/1901.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.22.01; Negative #: NAD-2004.0138.22.01; Roll #: 22'
+  Title:
+    - html: false
+      text: Braceros sit on beds and get ready in a camp in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382201.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.22.01.jpg
+    thumb: /files/thumbnails/NAD-200401382201.jpg
+    url: /files/original/NAD-200401382201.jpg
+    alt:
+      en: "Black-and-white photo of a dim barracks room with rows of metal-frame beds, rumpled blankets, and clothing hung on a brick wall; two men sit hunched on beds near the back."
+      es: "Fotografía en blanco y negro de un barracón en penumbra con filas de camas de metal, mantas arrugadas y ropa colgada en una pared de ladrillo; dos hombres sentados encorvados en las camas al fondo."
+geo:
+id: 1901
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1901'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros sit on beds and get ready in a camp in California.
+type: items
+---

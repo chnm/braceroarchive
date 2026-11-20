@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2154
+  - /items/show/2154.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 10.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.29.34; Negative #: NAD-2004.0138.29.34; Roll #: 29'
+  Title:
+    - html: false
+      text: Braceros walk the streets of Watsonville, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382934.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.29.34.jpg
+    thumb: /files/thumbnails/NAD-200401382934.jpg
+    url: /files/original/NAD-200401382934.jpg
+    alt:
+      en: "Black-and-white photo of men in hats walking along a sidewalk past storefronts, with a \"No U Turn\" traffic sign and parked cars visible in the foreground."
+      es: "Foto en blanco y negro de hombres con sombrero caminando por una acera frente a tiendas, con una señal de \"No U Turn\" y autos estacionados en primer plano."
+geo:
+id: 2154
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Watsonville, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2154'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros walk the streets of Watsonville, California.
+type: items
+---

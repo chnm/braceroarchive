@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} &middot; {{ site.Title }}{{ end }}</title>
+{{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+
+{{/* Language alternates for translated pages. */}}
+{{ range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+
+{{/* FontAwesome icon font used by the original santa-fe/bracero theme. */}}
+<link rel="stylesheet" href="{{ "application/views/scripts/css/iconfonts.css" | relURL }}" media="all" type="text/css">
+{{/* Original Omeka "bracero-1.0" theme stylesheet, vendored verbatim; served
+     from the theme's own path so its ../images/* url() refs resolve. */}}
+<link rel="stylesheet" href="{{ "themes/bracero-1.0/css/style.css" | relURL }}" media="all" type="text/css">
+{{ with resources.Get "css/site.css" }}<link rel="stylesheet" href="{{ .RelPermalink }}">{{ end }}
+
+{{ partial "analytics.html" . }}

@@ -1,0 +1,177 @@
+/* Bracero History Archive — Hugo override sheet.
+   Loaded AFTER the vendored bracero-1.0 theme; only the deltas the static
+   rebuild needs live here (archive banner, language switcher, browse grid,
+   search, and small fixes). */
+
+/* --- archived-copy banner ------------------------------------------------ */
+.bha-archive-banner {
+  background: #4a3b2a;
+  color: #f4ece0;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.bha-archive-banner__inner {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 6px 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.bha-archive-banner__text a { color: #ffd79a; }
+
+/* --- language switcher ---------------------------------------------------- */
+#search-container .lang-switch {
+  margin-top: 6px;
+  font-size: 13px;
+  text-align: right;
+}
+.lang-switch .lang { margin-left: 8px; }
+.lang-switch .lang.current { font-weight: 700; text-decoration: none; }
+
+/* --- skip link ------------------------------------------------------------ */
+#skipnav {
+  position: absolute;
+  left: -9999px;
+}
+#skipnav:focus {
+  left: 8px;
+  top: 8px;
+  background: #fff;
+  padding: 6px 10px;
+  z-index: 1000;
+}
+
+/* --- browse list (single column of title rows, like the original) -------- */
+#items-primary.browse { display: block; }
+#items-primary.browse .item.record {
+  padding: 14px 0;
+  border-bottom: 1px solid #ddd;
+}
+#items-primary.browse .item.record h2 {
+  font-size: 18px;
+  margin: 0;
+  line-height: 1.3;
+}
+
+/* Sort-by row (right-aligned, above the list). */
+#sort-links { float: right; font-size: 12px; margin: 6px 0; }
+#sort-links .sort-label { color: #555; }
+#sort-links-list { list-style: none; display: inline; padding: 0; margin: 0; }
+#sort-links-list li { display: inline; margin-left: 10px; }
+#sort-links-list li.sorting a { font-weight: 700; }
+#items-heading, .items-nav { clear: both; }
+
+/* Page-input pager. */
+.pagination .page-input { display: inline-block; }
+.pagination .page-input form { display: inline; }
+.pagination .page-input input { width: 3em; text-align: center; }
+
+/* --- item detail ---------------------------------------------------------- */
+.item-files img.full { max-width: 100%; height: auto; }
+.item-file { margin-bottom: 16px; }
+#primary .element { margin-bottom: 12px; }
+#primary .element h3 { margin-bottom: 2px; }
+.item-pagination.navigation ul { list-style: none; display: flex; gap: 20px; padding: 0; }
+
+/* --- tag cloud ------------------------------------------------------------ */
+.tag-cloud { list-style: none; padding: 0; line-height: 2; }
+.tag-cloud li { display: inline; margin-right: 10px; }
+.tag-cloud .v-popular { font-size: 0.9em; }
+.tag-cloud .vvv-popular { font-size: 1.1em; }
+.tag-cloud .vvvvv-popular { font-size: 1.3em; }
+.tag-cloud .vvvvvvv-popular { font-size: 1.6em; }
+.tag-cloud .vvvvvvvvv-popular { font-size: 2em; }
+.tag-cloud .count { color: #888; font-size: 0.75em; }
+
+/* --- pagination ----------------------------------------------------------- */
+.pagination { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; }
+.pagination li { display: inline-block; }
+.pagination_current { font-weight: 700; }
+
+/* --- search --------------------------------------------------------------- */
+#search-page-form { margin-bottom: 16px; }
+#search-more button { margin-top: 16px; }
+
+/* ===========================================================================
+   Accessibility (WCAG 2.2 AA) overrides. Loaded after the vendored theme, so
+   these win. They deliberately depart from the original bracero-1.0 palette
+   (darker links, light footer/lang text, underlines) to meet AA.
+   =========================================================================== */
+
+/* 1.4.3 Contrast — darken the theme's orange link (#CC6600 = 3.84:1 on white)
+   to #B34700 (5.5:1) everywhere links sit on a light background. */
+#content a,
+#primary a,
+.download-file,
+#breadcrumbs a,
+.item.record a,
+.item.record .permalink,
+.tag-cloud a,
+#item-tags a,
+#item-citation a,
+.element-text a {
+  color: #b34700;
+}
+
+/* 1.4.1 Use of Color — underline in-text links so color isn't the only cue. */
+#content p a,
+#content li a,
+.element-text a,
+#breadcrumbs a,
+.bha-archive-banner__text a,
+#footer a {
+  text-decoration: underline;
+}
+
+/* Links on the dark home panels / header need a light color (a dark link there
+   fails harder). #FFD79A gives 9–11:1 on the #333/#292929 panels. */
+#primary.home a,
+.home a {
+  color: #ffd79a;
+  text-decoration: underline;
+}
+
+/* Language switcher sat dark-on-dark on the header (~1.25:1). */
+.lang-switch .lang { color: #f4ece0; }
+.lang-switch a.lang { color: #ffd79a; text-decoration: underline; }
+.lang-switch .lang.current { color: #f4ece0; font-weight: 700; text-decoration: none; }
+
+/* Footer text/links on the olive bar were #222 (2.89:1); go white (5.5:1). */
+#footer,
+#footer p,
+#custom-footer-text { color: #ffffff; }
+#footer a { color: #ffffff; text-decoration: underline; }
+
+/* 1.4.3 Contrast — search-page buttons were white on the theme olive #868D4A
+   (3.55:1); darken the background to #63682F (5.9:1). */
+#search-page button,
+#show-more {
+  background-color: #63682f;
+  color: #ffffff;
+}
+
+/* 2.5.8 Target Size (Minimum) — pagination controls at least 24×24 CSS px. */
+.pagination a,
+.pagination li.pagination_current {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  min-height: 24px;
+  padding: 2px 8px;
+  box-sizing: border-box;
+}
+
+/* --- about page institutional logos (after the Staff section) ------------- */
+.about-logos {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 36px;
+  margin: 28px 0 8px;
+  padding-top: 22px;
+  border-top: 1px solid #ddd;
+}
+.about-logos img { height: 58px; width: auto; max-width: 100%; }
+.about-logos a { display: inline-block; }

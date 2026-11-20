@@ -1,0 +1,17 @@
+# --- wget mirror kept as local reference only (~199 MB) — never committed ---
+/_reference/
+
+# --- Hugo build output ---
+/public/
+/public-deploy/
+/resources/
+.hugo_build.lock
+
+# --- Node / Pagefind (search index build) ---
+/node_modules/
+
+# --- Converter artifacts that are regenerated / large ---
+# The redirects (redirects.txt, redirects.caddy), conversion-manifest.json, and
+# the theme kit under omeka2hugo/ ARE committed; only the (large, machine-
+# generated) missing-assets log is ignored.
+/omeka2hugo/missing-assets.log

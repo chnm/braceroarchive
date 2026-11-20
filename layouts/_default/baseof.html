@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body class="{{ with .Params.bodyclass }}{{ . }}{{ else }}{{ .Type }}{{ end }}">
+	<a href="#content" id="skipnav">{{ i18n "skip_to_content" }}</a>
+	{{ partial "archive-banner.html" . }}
+	<div id="wrap">
+		{{ partial "header.html" . }}
+		<div id="content" class="center-div" role="main" tabindex="-1">
+			{{ block "main" . }}{{ end }}
+		</div><!-- end content -->
+		{{ partial "footer.html" . }}
+	</div><!-- end wrap -->
+</body>
+</html>

@@ -1,0 +1,68 @@
+baseURL = ""
+title = "Bracero History Archive"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disableKinds = ["RSS"]
+
+[params]
+  origin = "https://braceroarchive.org"
+  site_name = "bracero"
+  defaultLang = "en"
+  logo = "7861c90bdef1da981a7b5ef7876f9d2f.gif"
+  matomo_url = "https://stats.rrchnm.org/"
+  matomo_site_id = "37"
+
+[taxonomies]
+  tag = "tags"
+
+[pagination]
+  pagerSize = 25
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[languages]
+  [languages.en]
+    label = "English"
+    weight = 1
+  [languages.es]
+    label = "Español"
+    weight = 2
+
+# Per-item Dublin Core (DCMES) RDF/XML endpoint at /items/<id>/index.dcmesxml.xml,
+# preserving the machine-readable metadata Omeka exposed. Items opt in via the
+# front-matter `outputs` key (written by the converter's item emitter).
+[mediaTypes]
+  [mediaTypes."application/rdf+xml"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.dcmesxml]
+    mediaType = "application/rdf+xml"
+    baseName = "index.dcmesxml"
+    isHTML = false
+    isPlainText = false
+    rel = "alternate"
+    noUgly = true
+
+# One item file serves both languages: content/items is mounted into English and
+# Spanish, so each item is built at /items/<id>/ and /es/items/<id>/. The original
+# site's Spanish item pages carried the same English records. Translated pages live
+# in content/en and content/es.
+[module]
+  [[module.mounts]]
+    source = "content/en"
+    target = "content"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/es"
+    target = "content"
+    lang = "es"
+  [[module.mounts]]
+    source = "content/items"
+    target = "content/items"
+    lang = "en"
+  [[module.mounts]]
+    source = "content/items"
+    target = "content/items"
+    lang = "es"

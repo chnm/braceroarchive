@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2731
+  - /items/show/2731.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 16
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.47.02; Negative #: NAD-2004.0138.47.02; Roll #: 47'
+  Title:
+    - html: false
+      text: A bracero sits in a doctor's surgery while being examined by a nurse in the Salinas Valley, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384702.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.47.02.jpg
+    thumb: /files/thumbnails/NAD-200401384702.jpg
+    url: /files/original/NAD-200401384702.jpg
+    alt:
+      en: "A nurse in uniform and cap examines a seated man's face in a medical office, with a lamp, shelves of supplies, and a telephone visible in the background."
+      es: "Una enfermera con uniforme y cofia examina el rostro de un hombre sentado en un consultorio médico, con una lámpara, estantes con suministros y un teléfono visibles al fondo."
+geo:
+id: 2731
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Salinas Valley, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2731'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero sits in a doctor's surgery while being examined by a nurse in the Salinas Valley, California.
+type: items
+---

@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2084
+  - /items/show/2084.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 10.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.27.13; Negative #: NAD-2004.0138.27.13; Roll #: 27'
+  Title:
+    - html: false
+      text: View over a street to the "Los Gatitos" and a growers association office in Watsonville, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382713.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.27.13.jpg
+    thumb: /files/thumbnails/NAD-200401382713.jpg
+    url: /files/original/NAD-200401382713.jpg
+    alt:
+      en: "Black-and-white street scene in Watsonville, California, with parked vintage cars and trucks before a two-story building and the \"Los Gatitos\" storefront, a muddy, puddled road in the foreground."
+      es: "Escena callejera en blanco y negro en Watsonville, California, con autos y camionetas antiguos estacionados frente a un edificio de dos pisos y el local \"Los Gatitos\", con un camino embarrado y encharcado en primer plano."
+geo:
+id: 2084
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Watsonville, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2084'
+sortdate: '9999-99-99'
+tags: []
+title: View over a street to the "Los Gatitos" and a growers association office in Watsonville, California.
+type: items
+---

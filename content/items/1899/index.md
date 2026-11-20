@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1899
+  - /items/show/1899.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.21.33; Negative #: NAD-2004.0138.21.33; Roll #: 21'
+  Title:
+    - html: false
+      text: View of a space between two beds in a living quarter of a Californian camp.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382133.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.21.33.jpg
+    thumb: /files/thumbnails/NAD-200401382133.jpg
+    url: /files/original/NAD-200401382133.jpg
+    alt:
+      en: "Black-and-white photo of a narrow space between two beds in a camp living quarter, with a wall-mounted mirror, hanging towel and jacket, a straw hat, wooden crates used as shelves, and a cluttered wood-plank floor."
+      es: "Fotografía en blanco y negro de un espacio estrecho entre dos camas en un alojamiento de campamento, con un espejo colgado en la pared, una toalla y una chaqueta colgando, un sombrero de paja, cajones de madera usados como estantes y un piso de tablones con objetos dispersos."
+geo:
+id: 1899
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1899'
+sortdate: '9999-99-99'
+tags: []
+title: View of a space between two beds in a living quarter of a Californian camp.
+type: items
+---

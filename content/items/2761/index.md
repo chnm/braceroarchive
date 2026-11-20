@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2761
+  - /items/show/2761.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.48.01; Negative #: NAD-2004.0138.48.01; Roll #: 48'
+  Title:
+    - html: false
+      text: A bracero stands in a living quarter of a Californian camp.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384801.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.48.01.jpg
+    thumb: /files/thumbnails/NAD-200401384801.jpg
+    url: /files/original/NAD-200401384801.jpg
+    alt:
+      en: "A man in a collared shirt stands smoking in a wooden living quarter, with a hat and clothing hanging on the wall and a table holding various objects nearby."
+      es: "Un hombre con camisa de cuello fumando en una vivienda de madera, con un sombrero y ropa colgados en la pared y una mesa con varios objetos cerca."
+geo:
+id: 2761
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2761'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero stands in a living quarter of a Californian camp.
+type: items
+---

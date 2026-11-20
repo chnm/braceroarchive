@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2604
+  - /items/show/2604.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.42.03; Negative #: NAD-2004.0138.42.03; Roll #: 42'
+  Title:
+    - html: false
+      text: View into a substandard showering facility at a bracero camp in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384203.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.42.03.jpg
+    thumb: /files/thumbnails/NAD-200401384203.jpg
+    url: /files/original/NAD-200401384203.jpg
+    alt:
+      en: "Black-and-white photo of a dilapidated shower stall with exposed, corroded piping along a wood-paneled ceiling and torn, stained sheets of material hanging on the walls below."
+      es: "Fotografía en blanco y negro de una ducha deteriorada con tuberías oxidadas y expuestas a lo largo de un techo de paneles de madera, y láminas rasgadas y manchadas que cuelgan de las paredes."
+geo:
+id: 2604
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2604'
+sortdate: '9999-99-99'
+tags: []
+title: View into a substandard showering facility at a bracero camp in California.
+type: items
+---

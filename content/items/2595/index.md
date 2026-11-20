@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2595
+  - /items/show/2595.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.42.24; Negative #: NAD-2004.0138.42.24; Roll #: 42'
+  Title:
+    - html: false
+      text: View from a mailbox over a railroad track in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384224.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.42.24.jpg
+    thumb: /files/thumbnails/NAD-200401384224.jpg
+    url: /files/original/NAD-200401384224.jpg
+    alt:
+      en: "Black-and-white photo of a mailbox on a wooden post in the foreground, with railroad tracks, a small rail cart, and distant buildings and hills beyond a dirt field."
+      es: "Foto en blanco y negro de un buzón sobre un poste de madera en primer plano, con vías férreas, un pequeño vagón de carril y edificios y colinas distantes más allá de un campo de tierra."
+geo:
+id: 2595
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2595'
+sortdate: '9999-99-99'
+tags: []
+title: View from a mailbox over a railroad track in California.
+type: items
+---

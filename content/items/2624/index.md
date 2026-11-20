@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2624
+  - /items/show/2624.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes 16
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.43.16; Negative #: NAD-2004.0138.43.16; Roll #: 43'
+  Title:
+    - html: false
+      text: Braceros perform stoop labor in a field in the Salinas Valley, California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401384316.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.43.16.jpg
+    thumb: /files/thumbnails/NAD-200401384316.jpg
+    url: /files/original/NAD-200401384316.jpg
+    alt:
+      en: "Black-and-white photo of farmworkers bent over performing stoop labor across rows of a large field, with a truck and tree branches framing the scene under an overcast sky."
+      es: "Fotografía en blanco y negro de trabajadores agrícolas agachados realizando labor de pizca en hileras de un extenso campo, con un camión y ramas de árbol enmarcando la escena bajo un cielo nublado."
+geo:
+id: 2624
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: Salinas Valley, California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2624'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros perform stoop labor in a field in the Salinas Valley, California.
+type: items
+---

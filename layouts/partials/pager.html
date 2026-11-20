@@ -1,0 +1,23 @@
+{{- /* Windowed pager using the legacy theme's .pagination classes.
+       Context (.) is a *Pager (the .Paginator). */ -}}
+{{- $p := . -}}
+{{- if gt $p.TotalPages 1 -}}
+<nav class="pagination-nav" aria-label="Pagination">
+	<ul class="pagination">
+		{{- if $p.HasPrev }}<li class="pagination_previous"><a rel="prev" href="{{ $p.Prev.URL }}">{{ i18n "prev_page" }}</a></li>{{ end }}
+		{{- $cur := $p.PageNumber -}}
+		{{- $last := $p.TotalPages -}}
+		{{- $lo := sub $cur 3 -}}{{- if lt $lo 1 }}{{ $lo = 1 }}{{ end -}}
+		{{- $hi := add $cur 3 -}}{{- if gt $hi $last }}{{ $hi = $last }}{{ end -}}
+		{{- if gt $lo 1 }}<li><a href="{{ (index $p.Pagers 0).URL }}">1</a></li>{{ if gt $lo 2 }}<li class="pagination_ellipsis">&hellip;</li>{{ end }}{{ end -}}
+		{{- range $p.Pagers -}}
+			{{- $n := .PageNumber -}}
+			{{- if and (ge $n $lo) (le $n $hi) -}}
+				{{- if eq $n $cur }}<li class="pagination_current">{{ $n }}</li>{{ else }}<li><a href="{{ .URL }}">{{ $n }}</a></li>{{ end -}}
+			{{- end -}}
+		{{- end -}}
+		{{- if lt $hi $last }}{{ if lt $hi (sub $last 1) }}<li class="pagination_ellipsis">&hellip;</li>{{ end }}<li><a href="{{ (index $p.Pagers (sub $last 1)).URL }}">{{ $last }}</a></li>{{ end -}}
+		{{- if $p.HasNext }}<li class="pagination_next"><a rel="next" href="{{ $p.Next.URL }}">{{ i18n "next_page" }}</a></li>{{ end }}
+	</ul>
+</nav>
+{{- end -}}

@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2462
+  - /items/show/2462.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.38.18; Negative #: NAD-2004.0138.38.18; Roll #: 38'
+  Title:
+    - html: false
+      text: Braceros relax on their bed and have a rest in a living quarter at a Californian camp.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383818.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.38.18.jpg
+    thumb: /files/thumbnails/NAD-200401383818.jpg
+    url: /files/original/NAD-200401383818.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on beds in a dormitory-style living quarter, with clothing hanging from lines above and bunks lining the room."
+      es: "Fotografía en blanco y negro de braceros descansando en camas dentro de una vivienda tipo dormitorio, con ropa colgada en tendederos sobre ellos y literas a lo largo de la sala."
+geo:
+id: 2462
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2462'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros relax on their bed and have a rest in a living quarter at a Californian camp.
+type: items
+---

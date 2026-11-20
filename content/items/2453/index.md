@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2453
+  - /items/show/2453.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.38.09; Negative #: NAD-2004.0138.38.09; Roll #: 38'
+  Title:
+    - html: false
+      text: Braceros wash up at the bathroom of a Californian camp.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383809.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.38.09.jpg
+    thumb: /files/thumbnails/NAD-200401383809.jpg
+    url: /files/original/NAD-200401383809.jpg
+    alt:
+      en: "Black-and-white photo of braceros washing their hands at a row of long metal sinks in a camp bathroom, with a sign posted on the wall above."
+      es: "Fotografía en blanco y negro de braceros lavándose las manos en una fila de largos lavabos metálicos en el baño de un campamento, con un letrero colocado en la pared superior."
+geo:
+id: 2453
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2453'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros wash up at the bathroom of a Californian camp.
+type: items
+---

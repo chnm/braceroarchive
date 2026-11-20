@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/2962
+  - /items/show/2962.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.56.01; Negative #: NAD-2004.0138.56.01; Roll #: 56'
+  Title:
+    - html: false
+      text: A bracero has lunch while sitting on the edge of a field in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401385601.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.56.01.jpg
+    thumb: /files/thumbnails/NAD-200401385601.jpg
+    url: /files/original/NAD-200401385601.jpg
+    alt:
+      en: "A man crouches on bare dirt at the edge of a field, eating from a plate of food with his hand, a bottle and can placed beside him on the ground."
+      es: "Un hombre se agacha sobre tierra desnuda al borde de un campo, comiendo con la mano de un plato de comida, con una botella y una lata colocadas junto a él en el suelo."
+geo:
+id: 2962
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2962'
+sortdate: '9999-99-99'
+tags: []
+title: A bracero has lunch while sitting on the edge of a field in California.
+type: items
+---

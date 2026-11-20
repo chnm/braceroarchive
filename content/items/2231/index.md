@@ -1,0 +1,77 @@
+---
+aliases:
+  - /items/show/2231
+  - /items/show/2231.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Description:
+    - html: false
+      text: Chualar?
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.32.26; Negative #: NAD-2004.0138.32.26; Roll #: 32'
+  Title:
+    - html: false
+      text: Braceros relax on their beds and smoke at a camp in California.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401383226.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.32.26.jpg
+    thumb: /files/thumbnails/NAD-200401383226.jpg
+    url: /files/original/NAD-200401383226.jpg
+    alt:
+      en: "Black-and-white photo of braceros resting on bunk beds in a dormitory room, several lying down and two seated at a table in the background, with a hat and jacket visible nearby."
+      es: "Fotografía en blanco y negro de braceros descansando en literas dentro de un dormitorio, varios acostados y dos sentados a una mesa al fondo, con un sombrero y una chaqueta cerca."
+geo:
+id: 2231
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '2231'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros relax on their beds and smoke at a camp in California.
+type: items
+---
+
+{{< raw >}}
+Chualar?
+{{< /raw >}}

@@ -1,0 +1,70 @@
+---
+aliases:
+  - /items/show/1921
+  - /items/show/1921.html
+collections: []
+date: ''
+draft: false
+dublin_core:
+  Contributor:
+    - html: false
+      text: National Museum of American History, Division of Work and Industry
+  Creator:
+    - html: false
+      text: Leonard Nadel
+  Date:
+    - html: false
+      text: '1956-00-00'
+  Publisher:
+    - html: false
+      text: National Museum of American History
+  Relation:
+    - html: false
+      text: See Nadel Footnotes, 24.
+  Rights:
+    - html: false
+      text: 'Restricted: no; Contact: NMAH Rights & Reproductions by email before distribution - rightsreproductions@si.edu'
+  Source:
+    - html: false
+      text: 'The Leonard Nadel Collection, NMAH. Catalogue #: 2004.0138.22.21; Negative #: NAD-2004.0138.22.21; Roll #: 22'
+  Title:
+    - html: false
+      text: Braceros sit on their beds in a wooden living quarter in a Californian camp.
+featured: false
+files:
+  - fullsize: /files/fullsize/NAD-200401382221.jpg
+    id: 0
+    mime: image/jpeg
+    original_filename: NAD-2004.0138.22.21.jpg
+    thumb: /files/thumbnails/NAD-200401382221.jpg
+    url: /files/original/NAD-200401382221.jpg
+    alt:
+      en: "Rows of cots line a long wooden barracks, with a man sitting on his bed near a footlocker and clothing hanging on the wall, while others rest further down the room."
+      es: "Filas de catres se alinean en un largo barracón de madera, con un hombre sentado en su cama junto a un baúl y ropa colgada en la pared, mientras otros descansan al fondo del salón."
+geo:
+id: 1921
+item_type: Still Image
+item_type_metadata: {}
+lastmod: ''
+layout: single
+outputs:
+  - html
+  - dcmesxml
+plugin_metadata:
+  - field: Spatial Coverage
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: California
+  - field: Rights Holder
+    set: Additional Item Metadata
+    values:
+      - html: false
+        text: National Museum of American History
+related_items: []
+slug: '1921'
+sortdate: '9999-99-99'
+tags: []
+title: Braceros sit on their beds in a wooden living quarter in a Californian camp.
+type: items
+---
